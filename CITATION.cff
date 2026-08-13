@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use Mpache in your research, please cite the ASP-DAC 2025 paper."
+title: "Mpache"
+authors:
+  - family-names: Xi
+    given-names: Mengyue
+  - family-names: Guo
+    given-names: Tianyu
+  - family-names: Huang
+    given-names: Xuanteng
+  - family-names: Lin
+    given-names: Zejia
+  - family-names: Zhang
+    given-names: Xianwei
+url: "https://dl.acm.org/doi/10.1145/3658617.3697568"
+preferred-citation:
+  type: conference-paper
+  title: "Mpache: Interaction Aware Multi-level Cache Bypassing on GPUs"
+  authors:
+    - family-names: Xi
+      given-names: Mengyue
+    - family-names: Guo
+      given-names: Tianyu
+    - family-names: Huang
+      given-names: Xuanteng
+    - family-names: Lin
+      given-names: Zejia
+    - family-names: Zhang
+      given-names: Xianwei
+  collection-title: "Proceedings of the 30th Asia and South Pacific Design Automation Conference"
+  start: 1209
+  end: 1215
+  year: 2025
+  doi: 10.1145/3658617.3697568

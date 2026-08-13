@@ -1,12 +1,14 @@
-#! /usr/bin/python3
+#!/usr/bin/env bash
+set -euo pipefail
+
 if [ $# -ne 1 ]
 then
-  echo "ERROR : Please pass the name of benchmark"
-  return
+  echo "ERROR: Please pass the name of benchmark" >&2
+  exit 1
 elif [ ! -e src/$1.hip ]
 then
-  echo "ERROR : $1 not exists"
-  return
+  echo "ERROR: src/$1.hip does not exist" >&2
+  exit 1
 fi
 
 echo "rebuilding $1" 

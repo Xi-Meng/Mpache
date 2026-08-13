@@ -1,0 +1,36 @@
+# Build outputs
+/build/
+/bin/
+/lib/
+/tmp/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# ROCm/HIP and profiling artifacts
+*.hsaco
+*.hipfb
+*.out
+*.log
+omniperf-*-output/
+omnitrace-*-output/
+
+# Generated analysis outputs
+/tmp/IR/
+/tmp/CFG/
+/tmp/DFG/
+/tmp/ISA/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local editor and OS files
+.DS_Store
+.vscode/
+.idea/
+
