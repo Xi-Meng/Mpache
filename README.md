@@ -9,13 +9,34 @@ and uses an LLVM/HIP compiler pass to inject cache-bypass decisions for AMD GPUs
 
 Paper: https://dl.acm.org/doi/10.1145/3658617.3697568
 
-## Repository Status
+If you use Mpache in your research, please cite:
+```bibtex
+@inproceedings{xi2025mpache,
+title = {Mpache: Interaction Aware Multi-level Cache Bypassing on GPUs},
+author = {Xi, Mengyue and Guo, Tianyu and Huang, Xuanteng and Lin, Zejia and Zhang, Xianwei},
+year = {2025},
+isbn = {9798400706356},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3658617.3697568},
+doi = {10.1145/3658617.3697568},
+booktitle = {Proceedings of the 30th Asia and South Pacific Design Automation Conference},
+pages = {1209–1215},
+numpages = {7},
+keywords = {GPUs, cache bypassing, multi-level caches, compiler, load interaction},
+location = {Tokyo, Japan},
+series = {ASPDAC '25}
+}
+```
+
+
+<!-- ## Repository Status
 
 This is an artifact-style research codebase. It is useful for reproducing and
 extending the Mpache prototype, but it is not yet a polished production library.
 Before making the repository public, please review
 [docs/OPEN_SOURCE_CHECKLIST.md](docs/OPEN_SOURCE_CHECKLIST.md), especially the
-license and third-party benchmark attribution items.
+license and third-party benchmark attribution items. -->
 
 ## What Is Included
 
@@ -159,22 +180,8 @@ These files are ignored by `.gitignore` going forward. Existing checked-in
 experiment outputs are kept as reference artifacts until the authors decide
 whether to move them to a release archive or remove them from the public branch.
 
-## Citation
 
-If you use Mpache in your research, please cite:
-
-```bibtex
-@inproceedings{xi2025mpache,
-  title     = {Mpache: Interaction Aware Multi-level Cache Bypassing on GPUs},
-  author    = {Xi, Mengyue and Guo, Tianyu and Huang, Xuanteng and Lin, Zejia and Zhang, Xianwei},
-  booktitle = {Proceedings of the 30th Asia and South Pacific Design Automation Conference},
-  pages     = {1209--1215},
-  year      = {2025},
-  doi       = {10.1145/3658617.3697568}
-}
-```
-
-## License
+<!-- ## License
 
 No open-source license has been selected yet. Until a license is added, the
 default copyright restrictions apply and external users do not have explicit
@@ -182,4 +189,4 @@ permission to reuse, modify, or redistribute the code.
 
 Recommended next step before publishing: choose a license, add `LICENSE`, and
 verify that all bundled third-party benchmark code is compatible with that
-license or has clear attribution.
+license or has clear attribution. -->
