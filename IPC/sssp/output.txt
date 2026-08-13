@@ -1,0 +1,347 @@
+nohup: ignoring input
+RPL: on '240305_082643' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_000000000"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082643_2674255'
+RPL: result dir '/tmp/rpl_data_240305_082643_2674255/input0_results_240305_082643'
+ROCProfiler: input from "/tmp/rpl_data_240305_082643_2674255/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.870683 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082643_2674255/input0_results_240305_082643
+File './IPC/tmp/sssp_000000000.csv' is generating
+RPL: on '240305_082643' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_000000000"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082643_2674342'
+RPL: result dir '/tmp/rpl_data_240305_082643_2674342/input0_results_240305_082643'
+ROCProfiler: input from "/tmp/rpl_data_240305_082643_2674342/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.861456 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082643_2674342/input0_results_240305_082643
+File './IPC/tmp/sssp_000000000.csv' is generating
+RPL: on '240305_082644' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_000000000"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082644_2674429'
+RPL: result dir '/tmp/rpl_data_240305_082644_2674429/input0_results_240305_082644'
+ROCProfiler: input from "/tmp/rpl_data_240305_082644_2674429/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.860743 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082644_2674429/input0_results_240305_082644
+File './IPC/tmp/sssp_000000000.csv' is generating
+RPL: on '240305_082644' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_000000000"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082644_2674516'
+RPL: result dir '/tmp/rpl_data_240305_082644_2674516/input0_results_240305_082644'
+ROCProfiler: input from "/tmp/rpl_data_240305_082644_2674516/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.916689 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082644_2674516/input0_results_240305_082644
+File './IPC/tmp/sssp_000000000.csv' is generating
+RPL: on '240305_082645' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_000000000"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082645_2674603'
+RPL: result dir '/tmp/rpl_data_240305_082645_2674603/input0_results_240305_082645'
+ROCProfiler: input from "/tmp/rpl_data_240305_082645_2674603/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.908724 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082645_2674603/input0_results_240305_082645
+File './IPC/tmp/sssp_000000000.csv' is generating
+RPL: on '240305_082645' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_000000000"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082645_2674690'
+RPL: result dir '/tmp/rpl_data_240305_082645_2674690/input0_results_240305_082645'
+ROCProfiler: input from "/tmp/rpl_data_240305_082645_2674690/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.860273 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082645_2674690/input0_results_240305_082645
+File './IPC/tmp/sssp_000000000.csv' is generating
+RPL: on '240305_082646' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_000000000"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082646_2674777'
+RPL: result dir '/tmp/rpl_data_240305_082646_2674777/input0_results_240305_082646'
+ROCProfiler: input from "/tmp/rpl_data_240305_082646_2674777/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.918471 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082646_2674777/input0_results_240305_082646
+File './IPC/tmp/sssp_000000000.csv' is generating
+RPL: on '240305_082646' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_000000000"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082646_2674864'
+RPL: result dir '/tmp/rpl_data_240305_082646_2674864/input0_results_240305_082646'
+ROCProfiler: input from "/tmp/rpl_data_240305_082646_2674864/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.876734 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082646_2674864/input0_results_240305_082646
+File './IPC/tmp/sssp_000000000.csv' is generating
+RPL: on '240305_082647' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_000000000"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082647_2674951'
+RPL: result dir '/tmp/rpl_data_240305_082647_2674951/input0_results_240305_082647'
+ROCProfiler: input from "/tmp/rpl_data_240305_082647_2674951/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.875752 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082647_2674951/input0_results_240305_082647
+File './IPC/tmp/sssp_000000000.csv' is generating
+RPL: on '240305_082647' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_000000000"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082647_2675038'
+RPL: result dir '/tmp/rpl_data_240305_082647_2675038/input0_results_240305_082647'
+ROCProfiler: input from "/tmp/rpl_data_240305_082647_2675038/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.914014 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082647_2675038/input0_results_240305_082647
+File './IPC/tmp/sssp_000000000.csv' is generating
+RPL: on '240305_082648' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_010200001"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082648_2675125'
+RPL: result dir '/tmp/rpl_data_240305_082648_2675125/input0_results_240305_082648'
+ROCProfiler: input from "/tmp/rpl_data_240305_082648_2675125/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.879199 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082648_2675125/input0_results_240305_082648
+File './IPC/tmp/sssp_010200001.csv' is generating
+RPL: on '240305_082648' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_010200001"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082648_2675212'
+RPL: result dir '/tmp/rpl_data_240305_082648_2675212/input0_results_240305_082648'
+ROCProfiler: input from "/tmp/rpl_data_240305_082648_2675212/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.878998 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082648_2675212/input0_results_240305_082648
+File './IPC/tmp/sssp_010200001.csv' is generating
+RPL: on '240305_082649' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_010200001"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082649_2675299'
+RPL: result dir '/tmp/rpl_data_240305_082649_2675299/input0_results_240305_082649'
+ROCProfiler: input from "/tmp/rpl_data_240305_082649_2675299/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.883427 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082649_2675299/input0_results_240305_082649
+File './IPC/tmp/sssp_010200001.csv' is generating
+RPL: on '240305_082649' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_010200001"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082649_2675386'
+RPL: result dir '/tmp/rpl_data_240305_082649_2675386/input0_results_240305_082649'
+ROCProfiler: input from "/tmp/rpl_data_240305_082649_2675386/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.892934 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082649_2675386/input0_results_240305_082649
+File './IPC/tmp/sssp_010200001.csv' is generating
+RPL: on '240305_082650' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_010200001"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082650_2675473'
+RPL: result dir '/tmp/rpl_data_240305_082650_2675473/input0_results_240305_082650'
+ROCProfiler: input from "/tmp/rpl_data_240305_082650_2675473/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.858560 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082650_2675473/input0_results_240305_082650
+File './IPC/tmp/sssp_010200001.csv' is generating
+RPL: on '240305_082650' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_010200001"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082650_2675560'
+RPL: result dir '/tmp/rpl_data_240305_082650_2675560/input0_results_240305_082650'
+ROCProfiler: input from "/tmp/rpl_data_240305_082650_2675560/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.926338 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082650_2675560/input0_results_240305_082650
+File './IPC/tmp/sssp_010200001.csv' is generating
+RPL: on '240305_082651' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_010200001"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082651_2675647'
+RPL: result dir '/tmp/rpl_data_240305_082651_2675647/input0_results_240305_082651'
+ROCProfiler: input from "/tmp/rpl_data_240305_082651_2675647/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.929223 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082651_2675647/input0_results_240305_082651
+File './IPC/tmp/sssp_010200001.csv' is generating
+RPL: on '240305_082651' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_010200001"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082651_2675734'
+RPL: result dir '/tmp/rpl_data_240305_082651_2675734/input0_results_240305_082651'
+ROCProfiler: input from "/tmp/rpl_data_240305_082651_2675734/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.893805 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082651_2675734/input0_results_240305_082651
+File './IPC/tmp/sssp_010200001.csv' is generating
+RPL: on '240305_082652' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_010200001"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082652_2675821'
+RPL: result dir '/tmp/rpl_data_240305_082652_2675821/input0_results_240305_082652'
+ROCProfiler: input from "/tmp/rpl_data_240305_082652_2675821/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.933850 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082652_2675821/input0_results_240305_082652
+File './IPC/tmp/sssp_010200001.csv' is generating
+RPL: on '240305_082652' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/sssp/sssp_010200001"'
+RPL: input file './IPC/metrics_memory.txt'
+RPL: output dir '/tmp/rpl_data_240305_082652_2675908'
+RPL: result dir '/tmp/rpl_data_240305_082652_2675908/input0_results_240305_082652'
+ROCProfiler: input from "/tmp/rpl_data_240305_082652_2675908/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  7 metrics
+    GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy
+0.893205 ms
+
+ROCPRofiler: 4 contexts collected, output directory /tmp/rpl_data_240305_082652_2675908/input0_results_240305_082652
+File './IPC/tmp/sssp_010200001.csv' is generating
+rocprof -i ./IPC/metrics_memory.txt -o ./IPC/tmp/sssp_000000000.csv ./bin/sssp/sssp_000000000
+0 : sssp_000000000
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_memory.txt -o ./IPC/tmp/sssp_010200001.csv ./bin/sssp/sssp_010200001
+1 : sssp_010200001
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+

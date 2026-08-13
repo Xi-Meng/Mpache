@@ -1,0 +1,83 @@
+
+
+------------------------------ kernel_name: _Z8spmv_jdsPfPKfPKiS3_S1_S3_i ------------------------------
+baseline_profiling #####
+baseline_time: 4.330400
+read_input: ./system/group/spmv_my/_Z8spmv_jdsPfPKfPKiS3_S1_S3_i.txt
+offline_profiling -----------
+%31, mode: 0, baseline: 4.330400, time: 4.381000, offp: -1.168483, speedup: 0.988450
+%31, mode: 1, baseline: 4.330400, time: 4.387000, offp: -1.307039, speedup: 0.987098
+%28, mode: 0, baseline: 4.330400, time: 4.268000, offp: 1.440975, speedup: 1.014620
+%28, mode: 1, baseline: 4.330400, time: 4.463000, offp: -3.062073, speedup: 0.970289
+%26, mode: 0, baseline: 4.330400, time: 4.386000, offp: -1.283946, speedup: 0.987323
+%26, mode: 1, baseline: 4.330400, time: 4.303000, offp: 0.632736, speedup: 1.006368
+%38, mode: 0, baseline: 4.330400, time: 4.439000, offp: -2.507851, speedup: 0.975535
+%38, mode: 1, baseline: 4.330400, time: 4.282000, offp: 1.117680, speedup: 1.011303
+%50, mode: 0, baseline: 4.330400, time: 4.222000, offp: 2.503233, speedup: 1.025675
+%50, mode: 1, baseline: 4.330400, time: 4.510000, offp: -4.147423, speedup: 0.960177
+%47, mode: 0, baseline: 4.330400, time: 4.257000, offp: 1.694994, speedup: 1.017242
+%47, mode: 1, baseline: 4.330400, time: 4.433000, offp: -2.369296, speedup: 0.976855
+%74, mode: 0, baseline: 4.330400, time: 3.254000, offp: 24.856826, speedup: 1.330793
+%74, mode: 1, baseline: 4.330400, time: 4.578000, offp: -5.717717, speedup: 0.945915
+%66, mode: 0, baseline: 4.330400, time: 5.747000, offp: -32.712913, speedup: 0.753506
+%66, mode: 1, baseline: 4.330400, time: 6.941000, offp: -60.285424, speedup: 0.623887
+%61, mode: 0, baseline: 4.330400, time: 3.207000, offp: 25.942176, speedup: 1.350296
+%61, mode: 1, baseline: 4.330400, time: 6.218000, offp: -43.589507, speedup: 0.696430
+%84, mode: 0, baseline: 4.330400, time: 4.275000, offp: 1.279328, speedup: 1.012959
+%84, mode: 1, baseline: 4.330400, time: 4.478000, offp: -3.408461, speedup: 0.967039
+algorithm2 -----------
+%31, mode: 0, combi_g: 0.000000
+%31, mode: 1, combi_g: 0.000000
+score of %31, mode is 0: -1.168483
+score of %31, mode is 1: -1.307039
+%28, mode: 0, combi_g: 0.000000
+%28, mode: 1, combi_g: 0.000000
+score of %28, mode is 0: 1.440975
+%28, mode: 0, score: 1.440975 is chose----
+score of %28, mode is 1: -3.062073
+%26, mode: 0, combi_g: 0.000000
+%26, mode: 1, combi_g: 0.000000
+score of %26, mode is 0: -1.283946
+score of %26, mode is 1: 0.632736
+%38, mode: 0, combi_g: 0.000000
+%38, mode: 1, combi_g: 0.000000
+score of %38, mode is 0: -2.507851
+score of %38, mode is 1: 1.117680
+%38, mode: 1, score: 1.117680 is chose----
+%50, mode: 0, combi_g: 0.000000
+%50, mode: 1, combi_g: 0.000000
+score of %50, mode is 0: 2.503233
+%50, mode: 0, score: 2.503233 is chose----
+score of %50, mode is 1: -4.147423
+%47, mode: 0, combi_g: 0.000000
+%47, mode: 1, combi_g: 0.000000
+score of %47, mode is 0: 1.694994
+%47, mode: 0, score: 1.694994 is chose----
+score of %47, mode is 1: -2.369296
+%74, mode: 0, combi_g: 0.000000
+%74, mode: 1, combi_g: 0.000000
+score of %74, mode is 0: 24.856826
+%74, mode: 0, score: 24.856826 is chose----
+score of %74, mode is 1: -5.717717
+%66, mode: 0, combi_g(groups_profiling): -32.712913 is too low
+%66, mode: 1, combi_g(groups_profiling): -60.285424 is too low
+score of %66, mode is 0: -32.712913
+score of %66, mode is 1: -60.285424
+%61, mode: 0, combi_g: 0.000000
+%61, mode: 1, combi_g(groups_profiling): -43.589507 is too low
+score of %61, mode is 0: 25.942176
+%61, mode: 0, score: 25.942176 is chose----
+score of %61, mode is 1: -43.589507
+%84, mode: 0, combi_g: 0.000000
+%84, mode: 1, combi_g: 0.000000
+score of %84, mode is 0: 1.279328
+%84, mode: 0, score: 1.279328 is chose----
+score of %84, mode is 1: -3.408461
+store bypass policy -----------
+store_group, mode: 0, baseline_time:4.330400, store_time:4.454000, offp: -2.854240, speedup: 0.972250
+store_group, mode: 1, baseline_time:4.330400, store_time:4.469000, offp: -3.200628, speedup: 0.968986
+storebypass: false, storemode: 0
+------
+28_38_50_47_74_61_84, mode: 0_1_0_0_0_0_0,
+ baseline_time:4.330400, design_time:3.224000, offp: 25.549603, speedup: 1.343176
+------

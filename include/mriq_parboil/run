@@ -1,0 +1,5 @@
+./bin/mriq_parboil/mriq_parboil_cache -i /workspace/Inst-level-cache-management/include/mriq_parboil/data/small/input/32_32_32_dataset.bin
+./bin/mriq_parboil/mriq_parboil_bypass -i /workspace/Inst-level-cache-management/include/mriq_parboil/data/small/input/32_32_32_dataset.bin
+
+./bin/mriq_parboil/mriq_parboil_cache -i /workspace/Inst-level-cache-management/include/mriq_parboil/data/large/input/64_64_64_dataset.bin
+./bin/mriq_parboil/mriq_parboil_bypass -i /workspace/Inst-level-cache-management/include/mriq_parboil/data/large/input/64_64_64_dataset.bin

@@ -190,9 +190,9 @@ float pgain( long x, Points *points, float z, long int *numcenters,
     /* Determine the number of thread blocks in the x- and y-dimension */
     size_t smSize = dim;
 
-#ifdef PROFILE_TMP
-    double t9 = gettime();
-#endif
+// #ifdef PROFILE_TMP
+//     double t9 = gettime();
+// #endif
 
     HIP_CHECK(hipMemsetAsync(switch_membership_d, 0, num * sizeof(char), 0));
 
@@ -202,6 +202,10 @@ float pgain( long x, Points *points, float z, long int *numcenters,
     int work_items = num;
     if(work_items%work_group_size != 0)  //process situations that work_items cannot be divided by work_group_size
       work_items = work_items + (work_group_size-(work_items%work_group_size));
+
+#ifdef PROFILE_TMP
+    double t9 = gettime();
+#endif
 
     compute_cost<<<work_items/work_group_size, work_group_size, smSize*sizeof(float)>>>(
       p_d, coord_d, work_mem_d, center_table_d, switch_membership_d,

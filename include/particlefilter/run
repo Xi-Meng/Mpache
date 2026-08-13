@@ -1,0 +1,7 @@
+./particlefilter_naive -x 128 -y 128 -z 10 -np 1000
+./particlefilter_float -x 128 -y 128 -z 10 -np 1000
+
+./bin/particlefilter_float/particlefilter_float_cache -x 1024 -y 1024 -z 10 -np 6000 && ./bin/particlefilter_float/particlefilter_float_bypass -x 1024 -y 1024 -z 10 -np 6000
+
+ ./bin/particlefilter_float/particlefilter_float_cache -x 128 -y 128 -z 100 -np 6000 && ./bin/particlefilter_float/particlefilter_float_bypass -x 128 -y 128 -z 100 -np 6000
+ 

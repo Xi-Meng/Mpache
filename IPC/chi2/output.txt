@@ -1,0 +1,1931 @@
+nohup: ignoring input
+RPL: on '240228_031822' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031822_1582005'
+RPL: result dir '/tmp/rpl_data_240228_031822_1582005/input0_results_240228_031822'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031822_1582005/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002411 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031822_1582005/input0_results_240228_031822
+File './IPC/tmp/chi2_0.csv' is generating
+RPL: on '240228_031822' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031822_1582092'
+RPL: result dir '/tmp/rpl_data_240228_031822_1582092/input0_results_240228_031822'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031822_1582092/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002419 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031822_1582092/input0_results_240228_031822
+File './IPC/tmp/chi2_0.csv' is generating
+RPL: on '240228_031823' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031823_1582179'
+RPL: result dir '/tmp/rpl_data_240228_031823_1582179/input0_results_240228_031823'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031823_1582179/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002416 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031823_1582179/input0_results_240228_031823
+File './IPC/tmp/chi2_0.csv' is generating
+RPL: on '240228_031823' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031823_1582266'
+RPL: result dir '/tmp/rpl_data_240228_031823_1582266/input0_results_240228_031823'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031823_1582266/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002378 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031823_1582266/input0_results_240228_031823
+File './IPC/tmp/chi2_0.csv' is generating
+RPL: on '240228_031824' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031824_1582353'
+RPL: result dir '/tmp/rpl_data_240228_031824_1582353/input0_results_240228_031824'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031824_1582353/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002440 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031824_1582353/input0_results_240228_031824
+File './IPC/tmp/chi2_0.csv' is generating
+RPL: on '240228_031824' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031824_1582440'
+RPL: result dir '/tmp/rpl_data_240228_031824_1582440/input0_results_240228_031824'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031824_1582440/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002401 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031824_1582440/input0_results_240228_031824
+File './IPC/tmp/chi2_0.csv' is generating
+RPL: on '240228_031825' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031825_1582527'
+RPL: result dir '/tmp/rpl_data_240228_031825_1582527/input0_results_240228_031825'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031825_1582527/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002430 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031825_1582527/input0_results_240228_031825
+File './IPC/tmp/chi2_0.csv' is generating
+RPL: on '240228_031826' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031826_1582614'
+RPL: result dir '/tmp/rpl_data_240228_031826_1582614/input0_results_240228_031826'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031826_1582614/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002440 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031826_1582614/input0_results_240228_031826
+File './IPC/tmp/chi2_0.csv' is generating
+RPL: on '240228_031826' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031826_1582701'
+RPL: result dir '/tmp/rpl_data_240228_031826_1582701/input0_results_240228_031826'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031826_1582701/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002428 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031826_1582701/input0_results_240228_031826
+File './IPC/tmp/chi2_0.csv' is generating
+RPL: on '240228_031827' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031827_1582788'
+RPL: result dir '/tmp/rpl_data_240228_031827_1582788/input0_results_240228_031827'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031827_1582788/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002497 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031827_1582788/input0_results_240228_031827
+File './IPC/tmp/chi2_0.csv' is generating
+RPL: on '240228_031827' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031827_1582875'
+RPL: result dir '/tmp/rpl_data_240228_031827_1582875/input0_results_240228_031827'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031827_1582875/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002383 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031827_1582875/input0_results_240228_031827
+File './IPC/tmp/chi2_1.csv' is generating
+RPL: on '240228_031828' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031828_1582962'
+RPL: result dir '/tmp/rpl_data_240228_031828_1582962/input0_results_240228_031828'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031828_1582962/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002430 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031828_1582962/input0_results_240228_031828
+File './IPC/tmp/chi2_1.csv' is generating
+RPL: on '240228_031828' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031828_1583049'
+RPL: result dir '/tmp/rpl_data_240228_031828_1583049/input0_results_240228_031828'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031828_1583049/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002382 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031828_1583049/input0_results_240228_031828
+File './IPC/tmp/chi2_1.csv' is generating
+RPL: on '240228_031829' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031829_1583136'
+RPL: result dir '/tmp/rpl_data_240228_031829_1583136/input0_results_240228_031829'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031829_1583136/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002438 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031829_1583136/input0_results_240228_031829
+File './IPC/tmp/chi2_1.csv' is generating
+RPL: on '240228_031829' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031829_1583223'
+RPL: result dir '/tmp/rpl_data_240228_031829_1583223/input0_results_240228_031829'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031829_1583223/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002490 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031829_1583223/input0_results_240228_031829
+File './IPC/tmp/chi2_1.csv' is generating
+RPL: on '240228_031830' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031830_1583310'
+RPL: result dir '/tmp/rpl_data_240228_031830_1583310/input0_results_240228_031830'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031830_1583310/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002398 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031830_1583310/input0_results_240228_031830
+File './IPC/tmp/chi2_1.csv' is generating
+RPL: on '240228_031831' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031831_1583397'
+RPL: result dir '/tmp/rpl_data_240228_031831_1583397/input0_results_240228_031831'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031831_1583397/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002546 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031831_1583397/input0_results_240228_031831
+File './IPC/tmp/chi2_1.csv' is generating
+RPL: on '240228_031831' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031831_1583484'
+RPL: result dir '/tmp/rpl_data_240228_031831_1583484/input0_results_240228_031831'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031831_1583484/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002431 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031831_1583484/input0_results_240228_031831
+File './IPC/tmp/chi2_1.csv' is generating
+RPL: on '240228_031832' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031832_1583571'
+RPL: result dir '/tmp/rpl_data_240228_031832_1583571/input0_results_240228_031832'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031832_1583571/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002391 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031832_1583571/input0_results_240228_031832
+File './IPC/tmp/chi2_1.csv' is generating
+RPL: on '240228_031832' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031832_1583658'
+RPL: result dir '/tmp/rpl_data_240228_031832_1583658/input0_results_240228_031832'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031832_1583658/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002433 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031832_1583658/input0_results_240228_031832
+File './IPC/tmp/chi2_1.csv' is generating
+RPL: on '240228_031833' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031833_1583745'
+RPL: result dir '/tmp/rpl_data_240228_031833_1583745/input0_results_240228_031833'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031833_1583745/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002446 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031833_1583745/input0_results_240228_031833
+File './IPC/tmp/chi2_2.csv' is generating
+RPL: on '240228_031833' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031833_1583832'
+RPL: result dir '/tmp/rpl_data_240228_031833_1583832/input0_results_240228_031833'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031833_1583832/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002442 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031833_1583832/input0_results_240228_031833
+File './IPC/tmp/chi2_2.csv' is generating
+RPL: on '240228_031834' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031834_1583919'
+RPL: result dir '/tmp/rpl_data_240228_031834_1583919/input0_results_240228_031834'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031834_1583919/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002453 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031834_1583919/input0_results_240228_031834
+File './IPC/tmp/chi2_2.csv' is generating
+RPL: on '240228_031835' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031835_1584006'
+RPL: result dir '/tmp/rpl_data_240228_031835_1584006/input0_results_240228_031835'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031835_1584006/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002392 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031835_1584006/input0_results_240228_031835
+File './IPC/tmp/chi2_2.csv' is generating
+RPL: on '240228_031835' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031835_1584093'
+RPL: result dir '/tmp/rpl_data_240228_031835_1584093/input0_results_240228_031835'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031835_1584093/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002483 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031835_1584093/input0_results_240228_031835
+File './IPC/tmp/chi2_2.csv' is generating
+RPL: on '240228_031836' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031836_1584180'
+RPL: result dir '/tmp/rpl_data_240228_031836_1584180/input0_results_240228_031836'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031836_1584180/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002480 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031836_1584180/input0_results_240228_031836
+File './IPC/tmp/chi2_2.csv' is generating
+RPL: on '240228_031836' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031836_1584267'
+RPL: result dir '/tmp/rpl_data_240228_031836_1584267/input0_results_240228_031836'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031836_1584267/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002403 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031836_1584267/input0_results_240228_031836
+File './IPC/tmp/chi2_2.csv' is generating
+RPL: on '240228_031837' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031837_1584354'
+RPL: result dir '/tmp/rpl_data_240228_031837_1584354/input0_results_240228_031837'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031837_1584354/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002455 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031837_1584354/input0_results_240228_031837
+File './IPC/tmp/chi2_2.csv' is generating
+RPL: on '240228_031837' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031837_1584441'
+RPL: result dir '/tmp/rpl_data_240228_031837_1584441/input0_results_240228_031837'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031837_1584441/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002387 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031837_1584441/input0_results_240228_031837
+File './IPC/tmp/chi2_2.csv' is generating
+RPL: on '240228_031838' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031838_1584528'
+RPL: result dir '/tmp/rpl_data_240228_031838_1584528/input0_results_240228_031838'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031838_1584528/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002451 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031838_1584528/input0_results_240228_031838
+File './IPC/tmp/chi2_2.csv' is generating
+RPL: on '240228_031838' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031838_1584615'
+RPL: result dir '/tmp/rpl_data_240228_031838_1584615/input0_results_240228_031838'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031838_1584615/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002449 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031838_1584615/input0_results_240228_031838
+File './IPC/tmp/chi2_3.csv' is generating
+RPL: on '240228_031839' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031839_1584702'
+RPL: result dir '/tmp/rpl_data_240228_031839_1584702/input0_results_240228_031839'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031839_1584702/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002411 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031839_1584702/input0_results_240228_031839
+File './IPC/tmp/chi2_3.csv' is generating
+RPL: on '240228_031840' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031840_1584789'
+RPL: result dir '/tmp/rpl_data_240228_031840_1584789/input0_results_240228_031840'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031840_1584789/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002523 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031840_1584789/input0_results_240228_031840
+File './IPC/tmp/chi2_3.csv' is generating
+RPL: on '240228_031840' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031840_1584876'
+RPL: result dir '/tmp/rpl_data_240228_031840_1584876/input0_results_240228_031840'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031840_1584876/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002402 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031840_1584876/input0_results_240228_031840
+File './IPC/tmp/chi2_3.csv' is generating
+RPL: on '240228_031841' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031841_1584963'
+RPL: result dir '/tmp/rpl_data_240228_031841_1584963/input0_results_240228_031841'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031841_1584963/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002422 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031841_1584963/input0_results_240228_031841
+File './IPC/tmp/chi2_3.csv' is generating
+RPL: on '240228_031841' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031841_1585050'
+RPL: result dir '/tmp/rpl_data_240228_031841_1585050/input0_results_240228_031841'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031841_1585050/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002452 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031841_1585050/input0_results_240228_031841
+File './IPC/tmp/chi2_3.csv' is generating
+RPL: on '240228_031842' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031842_1585137'
+RPL: result dir '/tmp/rpl_data_240228_031842_1585137/input0_results_240228_031842'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031842_1585137/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002451 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031842_1585137/input0_results_240228_031842
+File './IPC/tmp/chi2_3.csv' is generating
+RPL: on '240228_031842' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031842_1585224'
+RPL: result dir '/tmp/rpl_data_240228_031842_1585224/input0_results_240228_031842'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031842_1585224/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002461 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031842_1585224/input0_results_240228_031842
+File './IPC/tmp/chi2_3.csv' is generating
+RPL: on '240228_031843' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031843_1585311'
+RPL: result dir '/tmp/rpl_data_240228_031843_1585311/input0_results_240228_031843'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031843_1585311/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002424 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031843_1585311/input0_results_240228_031843
+File './IPC/tmp/chi2_3.csv' is generating
+RPL: on '240228_031843' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031843_1585398'
+RPL: result dir '/tmp/rpl_data_240228_031843_1585398/input0_results_240228_031843'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031843_1585398/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002443 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031843_1585398/input0_results_240228_031843
+File './IPC/tmp/chi2_3.csv' is generating
+RPL: on '240228_031844' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031844_1585485'
+RPL: result dir '/tmp/rpl_data_240228_031844_1585485/input0_results_240228_031844'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031844_1585485/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002409 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031844_1585485/input0_results_240228_031844
+File './IPC/tmp/chi2_4.csv' is generating
+RPL: on '240228_031845' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031845_1585572'
+RPL: result dir '/tmp/rpl_data_240228_031845_1585572/input0_results_240228_031845'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031845_1585572/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002414 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031845_1585572/input0_results_240228_031845
+File './IPC/tmp/chi2_4.csv' is generating
+RPL: on '240228_031845' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031845_1585659'
+RPL: result dir '/tmp/rpl_data_240228_031845_1585659/input0_results_240228_031845'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031845_1585659/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002404 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031845_1585659/input0_results_240228_031845
+File './IPC/tmp/chi2_4.csv' is generating
+RPL: on '240228_031846' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031846_1585746'
+RPL: result dir '/tmp/rpl_data_240228_031846_1585746/input0_results_240228_031846'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031846_1585746/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002455 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031846_1585746/input0_results_240228_031846
+File './IPC/tmp/chi2_4.csv' is generating
+RPL: on '240228_031846' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031846_1585833'
+RPL: result dir '/tmp/rpl_data_240228_031846_1585833/input0_results_240228_031846'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031846_1585833/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002398 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031846_1585833/input0_results_240228_031846
+File './IPC/tmp/chi2_4.csv' is generating
+RPL: on '240228_031847' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031847_1585920'
+RPL: result dir '/tmp/rpl_data_240228_031847_1585920/input0_results_240228_031847'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031847_1585920/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002439 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031847_1585920/input0_results_240228_031847
+File './IPC/tmp/chi2_4.csv' is generating
+RPL: on '240228_031847' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031847_1586007'
+RPL: result dir '/tmp/rpl_data_240228_031847_1586007/input0_results_240228_031847'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031847_1586007/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002472 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031847_1586007/input0_results_240228_031847
+File './IPC/tmp/chi2_4.csv' is generating
+RPL: on '240228_031848' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031848_1586094'
+RPL: result dir '/tmp/rpl_data_240228_031848_1586094/input0_results_240228_031848'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031848_1586094/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002444 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031848_1586094/input0_results_240228_031848
+File './IPC/tmp/chi2_4.csv' is generating
+RPL: on '240228_031848' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031848_1586181'
+RPL: result dir '/tmp/rpl_data_240228_031848_1586181/input0_results_240228_031848'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031848_1586181/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002450 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031848_1586181/input0_results_240228_031848
+File './IPC/tmp/chi2_4.csv' is generating
+RPL: on '240228_031849' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031849_1586268'
+RPL: result dir '/tmp/rpl_data_240228_031849_1586268/input0_results_240228_031849'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031849_1586268/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002449 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031849_1586268/input0_results_240228_031849
+File './IPC/tmp/chi2_4.csv' is generating
+RPL: on '240228_031849' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031849_1586355'
+RPL: result dir '/tmp/rpl_data_240228_031849_1586355/input0_results_240228_031849'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031849_1586355/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002448 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031849_1586355/input0_results_240228_031849
+File './IPC/tmp/chi2_5.csv' is generating
+RPL: on '240228_031850' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031850_1586442'
+RPL: result dir '/tmp/rpl_data_240228_031850_1586442/input0_results_240228_031850'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031850_1586442/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002456 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031850_1586442/input0_results_240228_031850
+File './IPC/tmp/chi2_5.csv' is generating
+RPL: on '240228_031851' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031851_1586529'
+RPL: result dir '/tmp/rpl_data_240228_031851_1586529/input0_results_240228_031851'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031851_1586529/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002456 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031851_1586529/input0_results_240228_031851
+File './IPC/tmp/chi2_5.csv' is generating
+RPL: on '240228_031851' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031851_1586616'
+RPL: result dir '/tmp/rpl_data_240228_031851_1586616/input0_results_240228_031851'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031851_1586616/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002422 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031851_1586616/input0_results_240228_031851
+File './IPC/tmp/chi2_5.csv' is generating
+RPL: on '240228_031852' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031852_1586703'
+RPL: result dir '/tmp/rpl_data_240228_031852_1586703/input0_results_240228_031852'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031852_1586703/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002434 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031852_1586703/input0_results_240228_031852
+File './IPC/tmp/chi2_5.csv' is generating
+RPL: on '240228_031852' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031852_1586790'
+RPL: result dir '/tmp/rpl_data_240228_031852_1586790/input0_results_240228_031852'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031852_1586790/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002452 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031852_1586790/input0_results_240228_031852
+File './IPC/tmp/chi2_5.csv' is generating
+RPL: on '240228_031853' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031853_1586877'
+RPL: result dir '/tmp/rpl_data_240228_031853_1586877/input0_results_240228_031853'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031853_1586877/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002440 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031853_1586877/input0_results_240228_031853
+File './IPC/tmp/chi2_5.csv' is generating
+RPL: on '240228_031853' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031853_1586964'
+RPL: result dir '/tmp/rpl_data_240228_031853_1586964/input0_results_240228_031853'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031853_1586964/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002451 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031853_1586964/input0_results_240228_031853
+File './IPC/tmp/chi2_5.csv' is generating
+RPL: on '240228_031854' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031854_1587051'
+RPL: result dir '/tmp/rpl_data_240228_031854_1587051/input0_results_240228_031854'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031854_1587051/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002402 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031854_1587051/input0_results_240228_031854
+File './IPC/tmp/chi2_5.csv' is generating
+RPL: on '240228_031854' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031854_1587138'
+RPL: result dir '/tmp/rpl_data_240228_031854_1587138/input0_results_240228_031854'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031854_1587138/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002378 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031854_1587138/input0_results_240228_031854
+File './IPC/tmp/chi2_5.csv' is generating
+RPL: on '240228_031855' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031855_1587225'
+RPL: result dir '/tmp/rpl_data_240228_031855_1587225/input0_results_240228_031855'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031855_1587225/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002407 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031855_1587225/input0_results_240228_031855
+File './IPC/tmp/chi2_6.csv' is generating
+RPL: on '240228_031855' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031855_1587312'
+RPL: result dir '/tmp/rpl_data_240228_031855_1587312/input0_results_240228_031855'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031855_1587312/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002399 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031855_1587312/input0_results_240228_031855
+File './IPC/tmp/chi2_6.csv' is generating
+RPL: on '240228_031856' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031856_1587399'
+RPL: result dir '/tmp/rpl_data_240228_031856_1587399/input0_results_240228_031856'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031856_1587399/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002467 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031856_1587399/input0_results_240228_031856
+File './IPC/tmp/chi2_6.csv' is generating
+RPL: on '240228_031857' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031857_1587486'
+RPL: result dir '/tmp/rpl_data_240228_031857_1587486/input0_results_240228_031857'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031857_1587486/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002406 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031857_1587486/input0_results_240228_031857
+File './IPC/tmp/chi2_6.csv' is generating
+RPL: on '240228_031857' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031857_1587573'
+RPL: result dir '/tmp/rpl_data_240228_031857_1587573/input0_results_240228_031857'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031857_1587573/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002654 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031857_1587573/input0_results_240228_031857
+File './IPC/tmp/chi2_6.csv' is generating
+RPL: on '240228_031858' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031858_1587660'
+RPL: result dir '/tmp/rpl_data_240228_031858_1587660/input0_results_240228_031858'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031858_1587660/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002459 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031858_1587660/input0_results_240228_031858
+File './IPC/tmp/chi2_6.csv' is generating
+RPL: on '240228_031858' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031858_1587747'
+RPL: result dir '/tmp/rpl_data_240228_031858_1587747/input0_results_240228_031858'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031858_1587747/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002401 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031858_1587747/input0_results_240228_031858
+File './IPC/tmp/chi2_6.csv' is generating
+RPL: on '240228_031859' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031859_1587834'
+RPL: result dir '/tmp/rpl_data_240228_031859_1587834/input0_results_240228_031859'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031859_1587834/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002428 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031859_1587834/input0_results_240228_031859
+File './IPC/tmp/chi2_6.csv' is generating
+RPL: on '240228_031859' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031859_1587921'
+RPL: result dir '/tmp/rpl_data_240228_031859_1587921/input0_results_240228_031859'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031859_1587921/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002426 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031859_1587921/input0_results_240228_031859
+File './IPC/tmp/chi2_6.csv' is generating
+RPL: on '240228_031900' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031900_1588008'
+RPL: result dir '/tmp/rpl_data_240228_031900_1588008/input0_results_240228_031900'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031900_1588008/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002466 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031900_1588008/input0_results_240228_031900
+File './IPC/tmp/chi2_6.csv' is generating
+RPL: on '240228_031900' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031900_1588095'
+RPL: result dir '/tmp/rpl_data_240228_031900_1588095/input0_results_240228_031900'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031900_1588095/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002415 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031900_1588095/input0_results_240228_031900
+File './IPC/tmp/chi2_7.csv' is generating
+RPL: on '240228_031901' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031901_1588182'
+RPL: result dir '/tmp/rpl_data_240228_031901_1588182/input0_results_240228_031901'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031901_1588182/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002386 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031901_1588182/input0_results_240228_031901
+File './IPC/tmp/chi2_7.csv' is generating
+RPL: on '240228_031902' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031902_1588269'
+RPL: result dir '/tmp/rpl_data_240228_031902_1588269/input0_results_240228_031902'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031902_1588269/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002351 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031902_1588269/input0_results_240228_031902
+File './IPC/tmp/chi2_7.csv' is generating
+RPL: on '240228_031902' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031902_1588356'
+RPL: result dir '/tmp/rpl_data_240228_031902_1588356/input0_results_240228_031902'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031902_1588356/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002457 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031902_1588356/input0_results_240228_031902
+File './IPC/tmp/chi2_7.csv' is generating
+RPL: on '240228_031903' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031903_1588443'
+RPL: result dir '/tmp/rpl_data_240228_031903_1588443/input0_results_240228_031903'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031903_1588443/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002400 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031903_1588443/input0_results_240228_031903
+File './IPC/tmp/chi2_7.csv' is generating
+RPL: on '240228_031903' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031903_1588530'
+RPL: result dir '/tmp/rpl_data_240228_031903_1588530/input0_results_240228_031903'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031903_1588530/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002419 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031903_1588530/input0_results_240228_031903
+File './IPC/tmp/chi2_7.csv' is generating
+RPL: on '240228_031904' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031904_1588617'
+RPL: result dir '/tmp/rpl_data_240228_031904_1588617/input0_results_240228_031904'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031904_1588617/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002411 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031904_1588617/input0_results_240228_031904
+File './IPC/tmp/chi2_7.csv' is generating
+RPL: on '240228_031904' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031904_1588704'
+RPL: result dir '/tmp/rpl_data_240228_031904_1588704/input0_results_240228_031904'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031904_1588704/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002412 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031904_1588704/input0_results_240228_031904
+File './IPC/tmp/chi2_7.csv' is generating
+RPL: on '240228_031905' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031905_1588791'
+RPL: result dir '/tmp/rpl_data_240228_031905_1588791/input0_results_240228_031905'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031905_1588791/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002425 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031905_1588791/input0_results_240228_031905
+File './IPC/tmp/chi2_7.csv' is generating
+RPL: on '240228_031905' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031905_1588878'
+RPL: result dir '/tmp/rpl_data_240228_031905_1588878/input0_results_240228_031905'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031905_1588878/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002473 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031905_1588878/input0_results_240228_031905
+File './IPC/tmp/chi2_7.csv' is generating
+RPL: on '240228_031906' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031906_1588965'
+RPL: result dir '/tmp/rpl_data_240228_031906_1588965/input0_results_240228_031906'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031906_1588965/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002435 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031906_1588965/input0_results_240228_031906
+File './IPC/tmp/chi2_8.csv' is generating
+RPL: on '240228_031906' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031906_1589052'
+RPL: result dir '/tmp/rpl_data_240228_031906_1589052/input0_results_240228_031906'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031906_1589052/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002468 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031906_1589052/input0_results_240228_031906
+File './IPC/tmp/chi2_8.csv' is generating
+RPL: on '240228_031907' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031907_1589139'
+RPL: result dir '/tmp/rpl_data_240228_031907_1589139/input0_results_240228_031907'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031907_1589139/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002407 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031907_1589139/input0_results_240228_031907
+File './IPC/tmp/chi2_8.csv' is generating
+RPL: on '240228_031908' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031908_1589226'
+RPL: result dir '/tmp/rpl_data_240228_031908_1589226/input0_results_240228_031908'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031908_1589226/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002468 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031908_1589226/input0_results_240228_031908
+File './IPC/tmp/chi2_8.csv' is generating
+RPL: on '240228_031908' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031908_1589313'
+RPL: result dir '/tmp/rpl_data_240228_031908_1589313/input0_results_240228_031908'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031908_1589313/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002372 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031908_1589313/input0_results_240228_031908
+File './IPC/tmp/chi2_8.csv' is generating
+RPL: on '240228_031909' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031909_1589400'
+RPL: result dir '/tmp/rpl_data_240228_031909_1589400/input0_results_240228_031909'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031909_1589400/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002500 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031909_1589400/input0_results_240228_031909
+File './IPC/tmp/chi2_8.csv' is generating
+RPL: on '240228_031909' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031909_1589487'
+RPL: result dir '/tmp/rpl_data_240228_031909_1589487/input0_results_240228_031909'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031909_1589487/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002424 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031909_1589487/input0_results_240228_031909
+File './IPC/tmp/chi2_8.csv' is generating
+RPL: on '240228_031910' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031910_1589574'
+RPL: result dir '/tmp/rpl_data_240228_031910_1589574/input0_results_240228_031910'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031910_1589574/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002451 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031910_1589574/input0_results_240228_031910
+File './IPC/tmp/chi2_8.csv' is generating
+RPL: on '240228_031910' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031910_1589661'
+RPL: result dir '/tmp/rpl_data_240228_031910_1589661/input0_results_240228_031910'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031910_1589661/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002587 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031910_1589661/input0_results_240228_031910
+File './IPC/tmp/chi2_8.csv' is generating
+RPL: on '240228_031911' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031911_1589748'
+RPL: result dir '/tmp/rpl_data_240228_031911_1589748/input0_results_240228_031911'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031911_1589748/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002459 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031911_1589748/input0_results_240228_031911
+File './IPC/tmp/chi2_8.csv' is generating
+RPL: on '240228_031911' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031911_1589835'
+RPL: result dir '/tmp/rpl_data_240228_031911_1589835/input0_results_240228_031911'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031911_1589835/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002416 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031911_1589835/input0_results_240228_031911
+File './IPC/tmp/chi2_9.csv' is generating
+RPL: on '240228_031912' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031912_1589922'
+RPL: result dir '/tmp/rpl_data_240228_031912_1589922/input0_results_240228_031912'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031912_1589922/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002437 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031912_1589922/input0_results_240228_031912
+File './IPC/tmp/chi2_9.csv' is generating
+RPL: on '240228_031912' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031912_1590009'
+RPL: result dir '/tmp/rpl_data_240228_031912_1590009/input0_results_240228_031912'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031912_1590009/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002499 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031912_1590009/input0_results_240228_031912
+File './IPC/tmp/chi2_9.csv' is generating
+RPL: on '240228_031913' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031913_1590096'
+RPL: result dir '/tmp/rpl_data_240228_031913_1590096/input0_results_240228_031913'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031913_1590096/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002604 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031913_1590096/input0_results_240228_031913
+File './IPC/tmp/chi2_9.csv' is generating
+RPL: on '240228_031914' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031914_1590183'
+RPL: result dir '/tmp/rpl_data_240228_031914_1590183/input0_results_240228_031914'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031914_1590183/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002402 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031914_1590183/input0_results_240228_031914
+File './IPC/tmp/chi2_9.csv' is generating
+RPL: on '240228_031914' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031914_1590270'
+RPL: result dir '/tmp/rpl_data_240228_031914_1590270/input0_results_240228_031914'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031914_1590270/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002410 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031914_1590270/input0_results_240228_031914
+File './IPC/tmp/chi2_9.csv' is generating
+RPL: on '240228_031915' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031915_1590357'
+RPL: result dir '/tmp/rpl_data_240228_031915_1590357/input0_results_240228_031915'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031915_1590357/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002384 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031915_1590357/input0_results_240228_031915
+File './IPC/tmp/chi2_9.csv' is generating
+RPL: on '240228_031915' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031915_1590444'
+RPL: result dir '/tmp/rpl_data_240228_031915_1590444/input0_results_240228_031915'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031915_1590444/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002396 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031915_1590444/input0_results_240228_031915
+File './IPC/tmp/chi2_9.csv' is generating
+RPL: on '240228_031916' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031916_1590531'
+RPL: result dir '/tmp/rpl_data_240228_031916_1590531/input0_results_240228_031916'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031916_1590531/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002408 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031916_1590531/input0_results_240228_031916
+File './IPC/tmp/chi2_9.csv' is generating
+RPL: on '240228_031916' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/chi2/chi2_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240228_031916_1590618'
+RPL: result dir '/tmp/rpl_data_240228_031916_1590618/input0_results_240228_031916'
+Individuals=100 SNPs=5 cases=50 controls=50 nthreads=5
+Size of the data = 500
+ROCProfiler: input from "/tmp/rpl_data_240228_031916_1590618/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time = 0.002391 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240228_031916_1590618/input0_results_240228_031916
+File './IPC/tmp/chi2_9.csv' is generating
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/chi2_0.csv ./bin/chi2/chi2_02
+0 : chi2_02
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/chi2_1.csv ./bin/chi2/chi2_00
+1 : chi2_00
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/chi2_2.csv ./bin/chi2/chi2_10
+2 : chi2_10
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/chi2_3.csv ./bin/chi2/chi2_01
+3 : chi2_01
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/chi2_4.csv ./bin/chi2/chi2_test
+4 : chi2_test
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/chi2_5.csv ./bin/chi2/chi2_12
+5 : chi2_12
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/chi2_6.csv ./bin/chi2/chi2_21
+6 : chi2_21
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/chi2_7.csv ./bin/chi2/chi2_22
+7 : chi2_22
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/chi2_8.csv ./bin/chi2/chi2_20
+8 : chi2_20
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/chi2_9.csv ./bin/chi2/chi2_11
+9 : chi2_11
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+

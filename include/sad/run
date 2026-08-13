@@ -1,0 +1,5 @@
+texture注释之后报各种问题
+texture注释之前程序卡了
+
+./bin/sad/sad_cache -i /workspace/Inst-level-cache-management/include/sad/data/large/input/frame.bin,/workspac
+e/Inst-level-cache-management/include/sad/data/large/input/reference.bin 

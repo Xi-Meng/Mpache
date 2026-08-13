@@ -11,6 +11,9 @@ function(register_benchmark)
     cmake_path(ABSOLUTE_PATH target_sources OUTPUT_VARIABLE abs_path)
     get_target_property(target_include_path ${REGISTER_BENCHMARK_TARGET} INCLUDE_DIRECTORIES)
 
+    file(MAKE_DIRECTORY ${CMAKE_TMP_DIRECTORY})
+    file(MAKE_DIRECTORY ${CMAKE_TMP_DIRECTORY}/IR)
+    file(MAKE_DIRECTORY ${CMAKE_TMP_DIRECTORY}/ISA)
 
     #### IR TARGET ####
     add_custom_command(OUTPUT ${CMAKE_TMP_DIRECTORY}/IR/${REGISTER_BENCHMARK_TARGET}.ll
@@ -34,7 +37,7 @@ function(register_benchmark)
 
     if(${REGISTER_BENCHMARK_INJECT})
         add_executable(INJECT_${REGISTER_BENCHMARK_TARGET} ${REGISTER_BENCHMARK_SOURCES})
-        target_compile_options(INJECT_${REGISTER_BENCHMARK_TARGET} PUBLIC -fpass-plugin=${CMAKE_SOURCE_DIR}/lib/hipPass.so)
+        target_compile_options(INJECT_${REGISTER_BENCHMARK_TARGET} PUBLIC -fpass-plugin=${CMAKE_SOURCE_DIR}/lib/inject.so)
     endif()
     
 endfunction(register_benchmark)

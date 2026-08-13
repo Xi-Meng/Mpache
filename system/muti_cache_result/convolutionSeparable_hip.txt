@@ -1,0 +1,613 @@
+
+
+------------------------------ kernel_name: _Z9conv_rowsPfPKfS1_iii ------------------------------
+baseline_profiling #####
+baseline_time: 494.455200
+read_input: ./system/group/convolutionSeparable_hip/_Z9conv_rowsPfPKfS1_iii.txt
+offline_profiling -----------
+%21_%25_%29_%33_%37_%41_%45_%49, mode: 0, baseline: 494.455200, time: 513.000000, offp: -3.750552, speedup: 0.963850
+%21_%25_%29_%33_%37_%41_%45_%49, mode: 1, baseline: 494.455200, time: 517.932000, offp: -4.748014, speedup: 0.954672
+%54, mode: 0, baseline: 494.455200, time: 508.121000, offp: -2.763810, speedup: 0.973105
+%54, mode: 1, baseline: 494.455200, time: 495.110000, offp: -0.132429, speedup: 0.998677
+%62, mode: 0, baseline: 494.455200, time: 506.797000, offp: -2.496040, speedup: 0.975647
+%62, mode: 1, baseline: 494.455200, time: 488.759000, offp: 1.152015, speedup: 1.011654
+%69_%76_%83_%90_%97_%104_%111_%118_%125_%130_%137_%144_%151_%158_%165_%172_%178_%185_%191_%197_%203_%209_%215_%221_%227_%233_%237_%243_%249_%255_%261_%267_%273_%279_%286_%292_%298_%304_%310_%316_%322_%328_%334_%338_%344_%350_%356_%362_%368_%374_%380_%387_%393_%399_%405_%411_%417_%423_%429_%435_%439_%445_%451_%457_%463_%469_%475_%481_%488_%494_%500_%506_%512_%518_%524_%530_%536_%540_%546_%552_%558_%564_%570_%576_%582_%589_%595_%601_%607_%613_%619_%625_%631_%637_%641_%647_%653_%659_%665_%671_%677_%683_%690_%696_%702_%708_%714_%720_%726_%732_%738_%742_%748_%754_%760_%766_%772_%778_%784_%791_%797_%803_%809_%815_%821_%827_%833_%839_%843_%849_%855_%861_%867_%873_%879_%885, mode: 0, baseline: 494.455200, time: 494.871000, offp: -0.084093, speedup: 0.999160
+%69_%76_%83_%90_%97_%104_%111_%118_%125_%130_%137_%144_%151_%158_%165_%172_%178_%185_%191_%197_%203_%209_%215_%221_%227_%233_%237_%243_%249_%255_%261_%267_%273_%279_%286_%292_%298_%304_%310_%316_%322_%328_%334_%338_%344_%350_%356_%362_%368_%374_%380_%387_%393_%399_%405_%411_%417_%423_%429_%435_%439_%445_%451_%457_%463_%469_%475_%481_%488_%494_%500_%506_%512_%518_%524_%530_%536_%540_%546_%552_%558_%564_%570_%576_%582_%589_%595_%601_%607_%613_%619_%625_%631_%637_%641_%647_%653_%659_%665_%671_%677_%683_%690_%696_%702_%708_%714_%720_%726_%732_%738_%742_%748_%754_%760_%766_%772_%778_%784_%791_%797_%803_%809_%815_%821_%827_%833_%839_%843_%849_%855_%861_%867_%873_%879_%885, mode: 1, baseline: 494.455200, time: 5691.170000, offp: -1050.998109, speedup: 0.086881
+%21, mode: 0, baseline: 494.455200, time: 495.329000, offp: -0.176720, speedup: 0.998236
+%21, mode: 1, baseline: 494.455200, time: 497.440000, offp: -0.603654, speedup: 0.994000
+%25, mode: 0, baseline: 494.455200, time: 494.683000, offp: -0.046071, speedup: 0.999540
+%25, mode: 1, baseline: 494.455200, time: 499.846000, offp: -1.090250, speedup: 0.989215
+%29, mode: 0, baseline: 494.455200, time: 495.990000, offp: -0.310402, speedup: 0.996906
+%29, mode: 1, baseline: 494.455200, time: 510.072000, offp: -3.158385, speedup: 0.969383
+%33, mode: 0, baseline: 494.455200, time: 494.489000, offp: -0.006836, speedup: 0.999932
+%33, mode: 1, baseline: 494.455200, time: 500.229000, offp: -1.167709, speedup: 0.988458
+%37, mode: 0, baseline: 494.455200, time: 494.305000, offp: 0.030377, speedup: 1.000304
+%37, mode: 1, baseline: 494.455200, time: 497.160000, offp: -0.547026, speedup: 0.994559
+%41, mode: 0, baseline: 494.455200, time: 494.700000, offp: -0.049509, speedup: 0.999505
+%41, mode: 1, baseline: 494.455200, time: 497.582000, offp: -0.632373, speedup: 0.993716
+%45, mode: 0, baseline: 494.455200, time: 493.050000, offp: 0.284192, speedup: 1.002850
+%45, mode: 1, baseline: 494.455200, time: 497.244000, offp: -0.564015, speedup: 0.994391
+%49, mode: 0, baseline: 494.455200, time: 494.251000, offp: 0.041298, speedup: 1.000413
+%49, mode: 1, baseline: 494.455200, time: 495.717000, offp: -0.255190, speedup: 0.997455
+%69, mode: 0, baseline: 494.455200, time: 494.532000, offp: -0.015532, speedup: 0.999845
+%69, mode: 1, baseline: 494.455200, time: 488.089000, offp: 1.287518, speedup: 1.013043
+%76, mode: 0, baseline: 494.455200, time: 494.469000, offp: -0.002791, speedup: 0.999972
+%76, mode: 1, baseline: 494.455200, time: 489.763000, offp: 0.948964, speedup: 1.009581
+%83, mode: 0, baseline: 494.455200, time: 494.818000, offp: -0.073374, speedup: 0.999267
+%83, mode: 1, baseline: 494.455200, time: 489.835000, offp: 0.934402, speedup: 1.009432
+%90, mode: 0, baseline: 494.455200, time: 494.280000, offp: 0.035433, speedup: 1.000354
+%90, mode: 1, baseline: 494.455200, time: 490.017000, offp: 0.897594, speedup: 1.009057
+%97, mode: 0, baseline: 494.455200, time: 494.770000, offp: -0.063666, speedup: 0.999364
+%97, mode: 1, baseline: 494.455200, time: 490.260000, offp: 0.848449, speedup: 1.008557
+%104, mode: 0, baseline: 494.455200, time: 494.503000, offp: -0.009667, speedup: 0.999903
+%104, mode: 1, baseline: 494.455200, time: 489.673000, offp: 0.967165, speedup: 1.009766
+%111, mode: 0, baseline: 494.455200, time: 494.775000, offp: -0.064677, speedup: 0.999354
+%111, mode: 1, baseline: 494.455200, time: 489.594000, offp: 0.983143, speedup: 1.009929
+%118, mode: 0, baseline: 494.455200, time: 494.594000, offp: -0.028071, speedup: 0.999719
+%118, mode: 1, baseline: 494.455200, time: 489.924000, offp: 0.916403, speedup: 1.009249
+%125, mode: 0, baseline: 494.455200, time: 494.611000, offp: -0.031509, speedup: 0.999685
+%125, mode: 1, baseline: 494.455200, time: 490.300000, offp: 0.840359, speedup: 1.008475
+%130, mode: 0, baseline: 494.455200, time: 494.670000, offp: -0.043442, speedup: 0.999566
+%130, mode: 1, baseline: 494.455200, time: 489.599000, offp: 0.982131, speedup: 1.009919
+%137, mode: 0, baseline: 494.455200, time: 494.461000, offp: -0.001173, speedup: 0.999988
+%137, mode: 1, baseline: 494.455200, time: 489.889000, offp: 0.923481, speedup: 1.009321
+%144, mode: 0, baseline: 494.455200, time: 494.430000, offp: 0.005097, speedup: 1.000051
+%144, mode: 1, baseline: 494.455200, time: 489.675000, offp: 0.966761, speedup: 1.009762
+%151, mode: 0, baseline: 494.455200, time: 494.828000, offp: -0.075396, speedup: 0.999247
+%151, mode: 1, baseline: 494.455200, time: 489.961000, offp: 0.908920, speedup: 1.009173
+%158, mode: 0, baseline: 494.455200, time: 494.298000, offp: 0.031793, speedup: 1.000318
+%158, mode: 1, baseline: 494.455200, time: 489.433000, offp: 1.015704, speedup: 1.010261
+%165, mode: 0, baseline: 494.455200, time: 494.505000, offp: -0.010072, speedup: 0.999899
+%165, mode: 1, baseline: 494.455200, time: 489.527000, offp: 0.996693, speedup: 1.010067
+%172, mode: 0, baseline: 494.455200, time: 494.714000, offp: -0.052340, speedup: 0.999477
+%172, mode: 1, baseline: 494.455200, time: 489.395000, offp: 1.023389, speedup: 1.010340
+%178, mode: 0, baseline: 494.455200, time: 494.473000, offp: -0.003600, speedup: 0.999964
+%178, mode: 1, baseline: 494.455200, time: 489.082000, offp: 1.086691, speedup: 1.010986
+%185, mode: 0, baseline: 494.455200, time: 494.852000, offp: -0.080250, speedup: 0.999198
+%185, mode: 1, baseline: 494.455200, time: 492.374000, offp: 0.420908, speedup: 1.004227
+%191, mode: 0, baseline: 494.455200, time: 494.267000, offp: 0.038062, speedup: 1.000381
+%191, mode: 1, baseline: 494.455200, time: 492.576000, offp: 0.380055, speedup: 1.003815
+%197, mode: 0, baseline: 494.455200, time: 494.657000, offp: -0.040813, speedup: 0.999592
+%197, mode: 1, baseline: 494.455200, time: 493.133000, offp: 0.267405, speedup: 1.002681
+%203, mode: 0, baseline: 494.455200, time: 494.795000, offp: -0.068722, speedup: 0.999313
+%203, mode: 1, baseline: 494.455200, time: 493.173000, offp: 0.259316, speedup: 1.002600
+%209, mode: 0, baseline: 494.455200, time: 494.918000, offp: -0.093598, speedup: 0.999065
+%209, mode: 1, baseline: 494.455200, time: 492.697000, offp: 0.355583, speedup: 1.003569
+%215, mode: 0, baseline: 494.455200, time: 494.188000, offp: 0.054039, speedup: 1.000541
+%215, mode: 1, baseline: 494.455200, time: 493.382000, offp: 0.217047, speedup: 1.002175
+%221, mode: 0, baseline: 494.455200, time: 494.594000, offp: -0.028071, speedup: 0.999719
+%221, mode: 1, baseline: 494.455200, time: 493.400000, offp: 0.213407, speedup: 1.002139
+%227, mode: 0, baseline: 494.455200, time: 494.843000, offp: -0.078430, speedup: 0.999216
+%227, mode: 1, baseline: 494.455200, time: 493.183000, offp: 0.257293, speedup: 1.002580
+%233, mode: 0, baseline: 494.455200, time: 494.379000, offp: 0.015411, speedup: 1.000154
+%233, mode: 1, baseline: 494.455200, time: 493.338000, offp: 0.225946, speedup: 1.002265
+%237, mode: 0, baseline: 494.455200, time: 494.598000, offp: -0.028880, speedup: 0.999711
+%237, mode: 1, baseline: 494.455200, time: 493.199000, offp: 0.254057, speedup: 1.002547
+%243, mode: 0, baseline: 494.455200, time: 494.598000, offp: -0.028880, speedup: 0.999711
+%243, mode: 1, baseline: 494.455200, time: 493.209000, offp: 0.252035, speedup: 1.002527
+%249, mode: 0, baseline: 494.455200, time: 494.849000, offp: -0.079643, speedup: 0.999204
+%249, mode: 1, baseline: 494.455200, time: 493.472000, offp: 0.198845, speedup: 1.001992
+%255, mode: 0, baseline: 494.455200, time: 494.777000, offp: -0.065082, speedup: 0.999350
+%255, mode: 1, baseline: 494.455200, time: 493.379000, offp: 0.217654, speedup: 1.002181
+%261, mode: 0, baseline: 494.455200, time: 494.645000, offp: -0.038386, speedup: 0.999616
+%261, mode: 1, baseline: 494.455200, time: 493.215000, offp: 0.250822, speedup: 1.002515
+%267, mode: 0, baseline: 494.455200, time: 494.827000, offp: -0.075194, speedup: 0.999249
+%267, mode: 1, baseline: 494.455200, time: 493.143000, offp: 0.265383, speedup: 1.002661
+%273, mode: 0, baseline: 494.455200, time: 494.703000, offp: -0.050116, speedup: 0.999499
+%273, mode: 1, baseline: 494.455200, time: 493.035000, offp: 0.287225, speedup: 1.002881
+%279, mode: 0, baseline: 494.455200, time: 494.600000, offp: -0.029285, speedup: 0.999707
+%279, mode: 1, baseline: 494.455200, time: 493.073000, offp: 0.279540, speedup: 1.002803
+%286, mode: 0, baseline: 494.455200, time: 494.227000, offp: 0.046152, speedup: 1.000462
+%286, mode: 1, baseline: 494.455200, time: 492.447000, offp: 0.406144, speedup: 1.004078
+%292, mode: 0, baseline: 494.455200, time: 494.622000, offp: -0.033734, speedup: 0.999663
+%292, mode: 1, baseline: 494.455200, time: 492.531000, offp: 0.389156, speedup: 1.003907
+%298, mode: 0, baseline: 494.455200, time: 494.714000, offp: -0.052340, speedup: 0.999477
+%298, mode: 1, baseline: 494.455200, time: 492.318000, offp: 0.432233, speedup: 1.004341
+%304, mode: 0, baseline: 494.455200, time: 494.290000, offp: 0.033411, speedup: 1.000334
+%304, mode: 1, baseline: 494.455200, time: 492.627000, offp: 0.369740, speedup: 1.003711
+%310, mode: 0, baseline: 494.455200, time: 494.447000, offp: 0.001658, speedup: 1.000017
+%310, mode: 1, baseline: 494.455200, time: 492.696000, offp: 0.355786, speedup: 1.003571
+%316, mode: 0, baseline: 494.455200, time: 494.743000, offp: -0.058205, speedup: 0.999418
+%316, mode: 1, baseline: 494.455200, time: 492.639000, offp: 0.367313, speedup: 1.003687
+%322, mode: 0, baseline: 494.455200, time: 494.874000, offp: -0.084699, speedup: 0.999154
+%322, mode: 1, baseline: 494.455200, time: 492.570000, offp: 0.381268, speedup: 1.003827
+%328, mode: 0, baseline: 494.455200, time: 494.876000, offp: -0.085104, speedup: 0.999150
+%328, mode: 1, baseline: 494.455200, time: 492.298000, offp: 0.436278, speedup: 1.004382
+%334, mode: 0, baseline: 494.455200, time: 494.822000, offp: -0.074183, speedup: 0.999259
+%334, mode: 1, baseline: 494.455200, time: 492.493000, offp: 0.396841, speedup: 1.003984
+%338, mode: 0, baseline: 494.455200, time: 494.583000, offp: -0.025847, speedup: 0.999742
+%338, mode: 1, baseline: 494.455200, time: 492.746000, offp: 0.345673, speedup: 1.003469
+%344, mode: 0, baseline: 494.455200, time: 494.429000, offp: 0.005299, speedup: 1.000053
+%344, mode: 1, baseline: 494.455200, time: 492.436000, offp: 0.408369, speedup: 1.004100
+%350, mode: 0, baseline: 494.455200, time: 494.504000, offp: -0.009869, speedup: 0.999901
+%350, mode: 1, baseline: 494.455200, time: 492.604000, offp: 0.374392, speedup: 1.003758
+%356, mode: 0, baseline: 494.455200, time: 494.785000, offp: -0.066700, speedup: 0.999333
+%356, mode: 1, baseline: 494.455200, time: 492.763000, offp: 0.342235, speedup: 1.003434
+%362, mode: 0, baseline: 494.455200, time: 494.573000, offp: -0.023824, speedup: 0.999762
+%362, mode: 1, baseline: 494.455200, time: 492.378000, offp: 0.420099, speedup: 1.004219
+%368, mode: 0, baseline: 494.455200, time: 494.613000, offp: -0.031914, speedup: 0.999681
+%368, mode: 1, baseline: 494.455200, time: 492.697000, offp: 0.355583, speedup: 1.003569
+%374, mode: 0, baseline: 494.455200, time: 494.828000, offp: -0.075396, speedup: 0.999247
+%374, mode: 1, baseline: 494.455200, time: 492.531000, offp: 0.389156, speedup: 1.003907
+%380, mode: 0, baseline: 494.455200, time: 494.553000, offp: -0.019779, speedup: 0.999802
+%380, mode: 1, baseline: 494.455200, time: 492.533000, offp: 0.388751, speedup: 1.003903
+%387, mode: 0, baseline: 494.455200, time: 494.397000, offp: 0.011771, speedup: 1.000118
+%387, mode: 1, baseline: 494.455200, time: 492.289000, offp: 0.438098, speedup: 1.004400
+%393, mode: 0, baseline: 494.455200, time: 494.829000, offp: -0.075598, speedup: 0.999245
+%393, mode: 1, baseline: 494.455200, time: 492.052000, offp: 0.486030, speedup: 1.004884
+%399, mode: 0, baseline: 494.455200, time: 494.704000, offp: -0.050318, speedup: 0.999497
+%399, mode: 1, baseline: 494.455200, time: 491.958000, offp: 0.505041, speedup: 1.005076
+%405, mode: 0, baseline: 494.455200, time: 494.536000, offp: -0.016341, speedup: 0.999837
+%405, mode: 1, baseline: 494.455200, time: 492.077000, offp: 0.480974, speedup: 1.004833
+%411, mode: 0, baseline: 494.455200, time: 494.558000, offp: -0.020791, speedup: 0.999792
+%411, mode: 1, baseline: 494.455200, time: 492.276000, offp: 0.440727, speedup: 1.004427
+%417, mode: 0, baseline: 494.455200, time: 494.490000, offp: -0.007038, speedup: 0.999930
+%417, mode: 1, baseline: 494.455200, time: 492.119000, offp: 0.472480, speedup: 1.004747
+%423, mode: 0, baseline: 494.455200, time: 494.581000, offp: -0.025442, speedup: 0.999746
+%423, mode: 1, baseline: 494.455200, time: 492.228000, offp: 0.450435, speedup: 1.004525
+%429, mode: 0, baseline: 494.455200, time: 494.808000, offp: -0.071351, speedup: 0.999287
+%429, mode: 1, baseline: 494.455200, time: 492.131000, offp: 0.470053, speedup: 1.004723
+%435, mode: 0, baseline: 494.455200, time: 494.731000, offp: -0.055779, speedup: 0.999443
+%435, mode: 1, baseline: 494.455200, time: 491.849000, offp: 0.527085, speedup: 1.005299
+%439, mode: 0, baseline: 494.455200, time: 494.656000, offp: -0.040610, speedup: 0.999594
+%439, mode: 1, baseline: 494.455200, time: 492.057000, offp: 0.485019, speedup: 1.004874
+%445, mode: 0, baseline: 494.455200, time: 494.400000, offp: 0.011164, speedup: 1.000112
+%445, mode: 1, baseline: 494.455200, time: 491.950000, offp: 0.506659, speedup: 1.005092
+%451, mode: 0, baseline: 494.455200, time: 495.104000, offp: -0.131215, speedup: 0.998690
+%451, mode: 1, baseline: 494.455200, time: 492.080000, offp: 0.480367, speedup: 1.004827
+%457, mode: 0, baseline: 494.455200, time: 494.359000, offp: 0.019456, speedup: 1.000195
+%457, mode: 1, baseline: 494.455200, time: 492.007000, offp: 0.495131, speedup: 1.004976
+%463, mode: 0, baseline: 494.455200, time: 494.626000, offp: -0.034543, speedup: 0.999655
+%463, mode: 1, baseline: 494.455200, time: 492.420000, offp: 0.411605, speedup: 1.004133
+%469, mode: 0, baseline: 494.455200, time: 494.539000, offp: -0.016948, speedup: 0.999831
+%469, mode: 1, baseline: 494.455200, time: 492.604000, offp: 0.374392, speedup: 1.003758
+%475, mode: 0, baseline: 494.455200, time: 494.609000, offp: -0.031105, speedup: 0.999689
+%475, mode: 1, baseline: 494.455200, time: 492.467000, offp: 0.402099, speedup: 1.004037
+%481, mode: 0, baseline: 494.455200, time: 495.073000, offp: -0.124946, speedup: 0.998752
+%481, mode: 1, baseline: 494.455200, time: 492.194000, offp: 0.457311, speedup: 1.004594
+%488, mode: 0, baseline: 494.455200, time: 494.558000, offp: -0.020791, speedup: 0.999792
+%488, mode: 1, baseline: 494.455200, time: 486.182000, offp: 1.673195, speedup: 1.017017
+%494, mode: 0, baseline: 494.455200, time: 494.346000, offp: 0.022085, speedup: 1.000221
+%494, mode: 1, baseline: 494.455200, time: 486.111000, offp: 1.687554, speedup: 1.017165
+%500, mode: 0, baseline: 494.455200, time: 494.573000, offp: -0.023824, speedup: 0.999762
+%500, mode: 1, baseline: 494.455200, time: 486.067000, offp: 1.696453, speedup: 1.017257
+%506, mode: 0, baseline: 494.455200, time: 494.542000, offp: -0.017555, speedup: 0.999824
+%506, mode: 1, baseline: 494.455200, time: 486.226000, offp: 1.664296, speedup: 1.016925
+%512, mode: 0, baseline: 494.455200, time: 494.823000, offp: -0.074385, speedup: 0.999257
+%512, mode: 1, baseline: 494.455200, time: 486.087000, offp: 1.692408, speedup: 1.017215
+%518, mode: 0, baseline: 494.455200, time: 494.765000, offp: -0.062655, speedup: 0.999374
+%518, mode: 1, baseline: 494.455200, time: 486.135000, offp: 1.682700, speedup: 1.017115
+%524, mode: 0, baseline: 494.455200, time: 494.487000, offp: -0.006431, speedup: 0.999936
+%524, mode: 1, baseline: 494.455200, time: 485.901000, offp: 1.730025, speedup: 1.017605
+%530, mode: 0, baseline: 494.455200, time: 494.679000, offp: -0.045262, speedup: 0.999548
+%530, mode: 1, baseline: 494.455200, time: 486.042000, offp: 1.701509, speedup: 1.017310
+%536, mode: 0, baseline: 494.455200, time: 494.746000, offp: -0.058812, speedup: 0.999412
+%536, mode: 1, baseline: 494.455200, time: 486.252000, offp: 1.659038, speedup: 1.016870
+%540, mode: 0, baseline: 494.455200, time: 494.646000, offp: -0.038588, speedup: 0.999614
+%540, mode: 1, baseline: 494.455200, time: 485.752000, offp: 1.760159, speedup: 1.017917
+%546, mode: 0, baseline: 494.455200, time: 494.745000, offp: -0.058610, speedup: 0.999414
+%546, mode: 1, baseline: 494.455200, time: 485.982000, offp: 1.713644, speedup: 1.017435
+%552, mode: 0, baseline: 494.455200, time: 494.683000, offp: -0.046071, speedup: 0.999540
+%552, mode: 1, baseline: 494.455200, time: 486.163000, offp: 1.677038, speedup: 1.017056
+%558, mode: 0, baseline: 494.455200, time: 494.616000, offp: -0.032521, speedup: 0.999675
+%558, mode: 1, baseline: 494.455200, time: 485.918000, offp: 1.726587, speedup: 1.017569
+%564, mode: 0, baseline: 494.455200, time: 494.316000, offp: 0.028152, speedup: 1.000282
+%564, mode: 1, baseline: 494.455200, time: 485.681000, offp: 1.774519, speedup: 1.018066
+%570, mode: 0, baseline: 494.455200, time: 494.994000, offp: -0.108968, speedup: 0.998912
+%570, mode: 1, baseline: 494.455200, time: 486.092000, offp: 1.691397, speedup: 1.017205
+%576, mode: 0, baseline: 494.455200, time: 494.301000, offp: 0.031186, speedup: 1.000312
+%576, mode: 1, baseline: 494.455200, time: 485.914000, offp: 1.727396, speedup: 1.017578
+%582, mode: 0, baseline: 494.455200, time: 494.437000, offp: 0.003681, speedup: 1.000037
+%582, mode: 1, baseline: 494.455200, time: 485.932000, offp: 1.723756, speedup: 1.017540
+%589, mode: 0, baseline: 494.455200, time: 494.583000, offp: -0.025847, speedup: 0.999742
+%589, mode: 1, baseline: 494.455200, time: 489.607000, offp: 0.980514, speedup: 1.009902
+%595, mode: 0, baseline: 494.455200, time: 494.540000, offp: -0.017150, speedup: 0.999829
+%595, mode: 1, baseline: 494.455200, time: 489.460000, offp: 1.010243, speedup: 1.010206
+%601, mode: 0, baseline: 494.455200, time: 494.962000, offp: -0.102497, speedup: 0.998976
+%601, mode: 1, baseline: 494.455200, time: 489.432000, offp: 1.015906, speedup: 1.010263
+%607, mode: 0, baseline: 494.455200, time: 494.477000, offp: -0.004409, speedup: 0.999956
+%607, mode: 1, baseline: 494.455200, time: 489.502000, offp: 1.001749, speedup: 1.010119
+%613, mode: 0, baseline: 494.455200, time: 494.378000, offp: 0.015613, speedup: 1.000156
+%613, mode: 1, baseline: 494.455200, time: 489.406000, offp: 1.021164, speedup: 1.010317
+%619, mode: 0, baseline: 494.455200, time: 494.388000, offp: 0.013591, speedup: 1.000136
+%619, mode: 1, baseline: 494.455200, time: 489.535000, offp: 0.995075, speedup: 1.010051
+%625, mode: 0, baseline: 494.455200, time: 494.647000, offp: -0.038790, speedup: 0.999612
+%625, mode: 1, baseline: 494.455200, time: 489.370000, offp: 1.028445, speedup: 1.010391
+%631, mode: 0, baseline: 494.455200, time: 494.907000, offp: -0.091373, speedup: 0.999087
+%631, mode: 1, baseline: 494.455200, time: 489.423000, offp: 1.017726, speedup: 1.010282
+%637, mode: 0, baseline: 494.455200, time: 494.796000, offp: -0.068924, speedup: 0.999311
+%637, mode: 1, baseline: 494.455200, time: 489.498000, offp: 1.002558, speedup: 1.010127
+%641, mode: 0, baseline: 494.455200, time: 494.680000, offp: -0.045464, speedup: 0.999546
+%641, mode: 1, baseline: 494.455200, time: 489.656000, offp: 0.970604, speedup: 1.009801
+%647, mode: 0, baseline: 494.455200, time: 494.948000, offp: -0.099665, speedup: 0.999004
+%647, mode: 1, baseline: 494.455200, time: 489.535000, offp: 0.995075, speedup: 1.010051
+%653, mode: 0, baseline: 494.455200, time: 494.668000, offp: -0.043037, speedup: 0.999570
+%653, mode: 1, baseline: 494.455200, time: 489.582000, offp: 0.985570, speedup: 1.009954
+%659, mode: 0, baseline: 494.455200, time: 494.745000, offp: -0.058610, speedup: 0.999414
+%659, mode: 1, baseline: 494.455200, time: 489.491000, offp: 1.003974, speedup: 1.010142
+%665, mode: 0, baseline: 494.455200, time: 494.957000, offp: -0.101485, speedup: 0.998986
+%665, mode: 1, baseline: 494.455200, time: 489.722000, offp: 0.957256, speedup: 1.009665
+%671, mode: 0, baseline: 494.455200, time: 494.593000, offp: -0.027869, speedup: 0.999721
+%671, mode: 1, baseline: 494.455200, time: 489.501000, offp: 1.001951, speedup: 1.010121
+%677, mode: 0, baseline: 494.455200, time: 494.299000, offp: 0.031590, speedup: 1.000316
+%677, mode: 1, baseline: 494.455200, time: 489.497000, offp: 1.002760, speedup: 1.010129
+%683, mode: 0, baseline: 494.455200, time: 494.626000, offp: -0.034543, speedup: 0.999655
+%683, mode: 1, baseline: 494.455200, time: 489.736000, offp: 0.954424, speedup: 1.009636
+%690, mode: 0, baseline: 494.455200, time: 494.401000, offp: 0.010962, speedup: 1.000110
+%690, mode: 1, baseline: 494.455200, time: 492.187000, offp: 0.458727, speedup: 1.004608
+%696, mode: 0, baseline: 494.455200, time: 494.737000, offp: -0.056992, speedup: 0.999430
+%696, mode: 1, baseline: 494.455200, time: 492.273000, offp: 0.441334, speedup: 1.004433
+%702, mode: 0, baseline: 494.455200, time: 494.450000, offp: 0.001052, speedup: 1.000011
+%702, mode: 1, baseline: 494.455200, time: 492.046000, offp: 0.487243, speedup: 1.004896
+%708, mode: 0, baseline: 494.455200, time: 494.648000, offp: -0.038992, speedup: 0.999610
+%708, mode: 1, baseline: 494.455200, time: 492.119000, offp: 0.472480, speedup: 1.004747
+%714, mode: 0, baseline: 494.455200, time: 494.151000, offp: 0.061522, speedup: 1.000616
+%714, mode: 1, baseline: 494.455200, time: 492.178000, offp: 0.460547, speedup: 1.004627
+%720, mode: 0, baseline: 494.455200, time: 494.801000, offp: -0.069936, speedup: 0.999301
+%720, mode: 1, baseline: 494.455200, time: 492.120000, offp: 0.472277, speedup: 1.004745
+%726, mode: 0, baseline: 494.455200, time: 494.326000, offp: 0.026130, speedup: 1.000261
+%726, mode: 1, baseline: 494.455200, time: 492.321000, offp: 0.431627, speedup: 1.004335
+%732, mode: 0, baseline: 494.455200, time: 494.364000, offp: 0.018445, speedup: 1.000184
+%732, mode: 1, baseline: 494.455200, time: 492.259000, offp: 0.444166, speedup: 1.004461
+%738, mode: 0, baseline: 494.455200, time: 494.302000, offp: 0.030984, speedup: 1.000310
+%738, mode: 1, baseline: 494.455200, time: 492.195000, offp: 0.457109, speedup: 1.004592
+%742, mode: 0, baseline: 494.455200, time: 494.391000, offp: 0.012984, speedup: 1.000130
+%742, mode: 1, baseline: 494.455200, time: 492.217000, offp: 0.452660, speedup: 1.004547
+%748, mode: 0, baseline: 494.455200, time: 494.699000, offp: -0.049307, speedup: 0.999507
+%748, mode: 1, baseline: 494.455200, time: 492.268000, offp: 0.442345, speedup: 1.004443
+%754, mode: 0, baseline: 494.455200, time: 494.977000, offp: -0.105530, speedup: 0.998946
+%754, mode: 1, baseline: 494.455200, time: 492.300000, offp: 0.435874, speedup: 1.004378
+%760, mode: 0, baseline: 494.455200, time: 494.704000, offp: -0.050318, speedup: 0.999497
+%760, mode: 1, baseline: 494.455200, time: 492.275000, offp: 0.440930, speedup: 1.004429
+%766, mode: 0, baseline: 494.455200, time: 494.509000, offp: -0.010881, speedup: 0.999891
+%766, mode: 1, baseline: 494.455200, time: 492.148000, offp: 0.466615, speedup: 1.004688
+%772, mode: 0, baseline: 494.455200, time: 494.381000, offp: 0.015006, speedup: 1.000150
+%772, mode: 1, baseline: 494.455200, time: 492.312000, offp: 0.433447, speedup: 1.004353
+%778, mode: 0, baseline: 494.455200, time: 494.699000, offp: -0.049307, speedup: 0.999507
+%778, mode: 1, baseline: 494.455200, time: 492.100000, offp: 0.476322, speedup: 1.004786
+%784, mode: 0, baseline: 494.455200, time: 494.726000, offp: -0.054767, speedup: 0.999453
+%784, mode: 1, baseline: 494.455200, time: 492.291000, offp: 0.437694, speedup: 1.004396
+%791, mode: 0, baseline: 494.455200, time: 494.866000, offp: -0.083081, speedup: 0.999170
+%791, mode: 1, baseline: 494.455200, time: 491.355000, offp: 0.626993, speedup: 1.006309
+%797, mode: 0, baseline: 494.455200, time: 495.002000, offp: -0.110586, speedup: 0.998895
+%797, mode: 1, baseline: 494.455200, time: 491.395000, offp: 0.618903, speedup: 1.006228
+%803, mode: 0, baseline: 494.455200, time: 494.596000, offp: -0.028476, speedup: 0.999715
+%803, mode: 1, baseline: 494.455200, time: 491.511000, offp: 0.595443, speedup: 1.005990
+%809, mode: 0, baseline: 494.455200, time: 494.299000, offp: 0.031590, speedup: 1.000316
+%809, mode: 1, baseline: 494.455200, time: 491.520000, offp: 0.593623, speedup: 1.005972
+%815, mode: 0, baseline: 494.455200, time: 494.534000, offp: -0.015937, speedup: 0.999841
+%815, mode: 1, baseline: 494.455200, time: 491.664000, offp: 0.564500, speedup: 1.005677
+%821, mode: 0, baseline: 494.455200, time: 494.471000, offp: -0.003195, speedup: 0.999968
+%821, mode: 1, baseline: 494.455200, time: 491.495000, offp: 0.598679, speedup: 1.006023
+%827, mode: 0, baseline: 494.455200, time: 494.909000, offp: -0.091778, speedup: 0.999083
+%827, mode: 1, baseline: 494.455200, time: 491.504000, offp: 0.596859, speedup: 1.006004
+%833, mode: 0, baseline: 494.455200, time: 494.837000, offp: -0.077216, speedup: 0.999228
+%833, mode: 1, baseline: 494.455200, time: 491.315000, offp: 0.635083, speedup: 1.006391
+%839, mode: 0, baseline: 494.455200, time: 494.638000, offp: -0.036970, speedup: 0.999630
+%839, mode: 1, baseline: 494.455200, time: 491.555000, offp: 0.586545, speedup: 1.005900
+%843, mode: 0, baseline: 494.455200, time: 494.610000, offp: -0.031307, speedup: 0.999687
+%843, mode: 1, baseline: 494.455200, time: 491.610000, offp: 0.575421, speedup: 1.005788
+%849, mode: 0, baseline: 494.455200, time: 494.682000, offp: -0.045869, speedup: 0.999542
+%849, mode: 1, baseline: 494.455200, time: 491.608000, offp: 0.575826, speedup: 1.005792
+%855, mode: 0, baseline: 494.455200, time: 494.644000, offp: -0.038183, speedup: 0.999618
+%855, mode: 1, baseline: 494.455200, time: 491.589000, offp: 0.579668, speedup: 1.005830
+%861, mode: 0, baseline: 494.455200, time: 494.465000, offp: -0.001982, speedup: 0.999980
+%861, mode: 1, baseline: 494.455200, time: 491.659000, offp: 0.565511, speedup: 1.005687
+%867, mode: 0, baseline: 494.455200, time: 494.762000, offp: -0.062048, speedup: 0.999380
+%867, mode: 1, baseline: 494.455200, time: 491.538000, offp: 0.589983, speedup: 1.005935
+%873, mode: 0, baseline: 494.455200, time: 494.382000, offp: 0.014804, speedup: 1.000148
+%873, mode: 1, baseline: 494.455200, time: 491.697000, offp: 0.557826, speedup: 1.005610
+%879, mode: 0, baseline: 494.455200, time: 494.369000, offp: 0.017433, speedup: 1.000174
+%879, mode: 1, baseline: 494.455200, time: 491.621000, offp: 0.573197, speedup: 1.005765
+%885, mode: 0, baseline: 494.455200, time: 494.728000, offp: -0.055172, speedup: 0.999449
+%885, mode: 1, baseline: 494.455200, time: 491.779000, offp: 0.541242, speedup: 1.005442
+algorithm2 -----------
+%21_%25_%29_%33_%37_%41_%45_%49, mode: 0, combi_g: -3.516881
+%21_%25_%29_%33_%37_%41_%45_%49, mode: 1, combi_g: 3.270590
+score of %21, mode is 0: -0.528408
+score of %21, mode is 1: -0.603654
+score of %25, mode is 0: -0.397759
+score of %25, mode is 1: -1.090250
+score of %29, mode is 0: -0.662090
+score of %29, mode is 1: -3.158385
+score of %33, mode is 0: -0.358524
+score of %33, mode is 1: -1.167709
+score of %37, mode is 0: -0.321311
+score of %37, mode is 1: -0.547026
+score of %41, mode is 0: -0.401197
+score of %41, mode is 1: -0.632373
+score of %45, mode is 0: -0.067497
+score of %45, mode is 1: -0.564015
+score of %49, mode is 0: -0.310390
+score of %49, mode is 1: -0.255190
+%54, mode: 0, combi_g: 0.000000
+%54, mode: 1, combi_g: 0.000000
+score of %54, mode is 0: -2.763810
+score of %54, mode is 1: -0.132429
+%62, mode: 0, combi_g: 0.000000
+%62, mode: 1, combi_g: 0.000000
+score of %62, mode is 0: -2.496040
+score of %62, mode is 1: 1.152015
+%62, mode: 1, score: 1.152015 is chose----
+%69_%76_%83_%90_%97_%104_%111_%118_%125_%130_%137_%144_%151_%158_%165_%172_%178_%185_%191_%197_%203_%209_%215_%221_%227_%233_%237_%243_%249_%255_%261_%267_%273_%279_%286_%292_%298_%304_%310_%316_%322_%328_%334_%338_%344_%350_%356_%362_%368_%374_%380_%387_%393_%399_%405_%411_%417_%423_%429_%435_%439_%445_%451_%457_%463_%469_%475_%481_%488_%494_%500_%506_%512_%518_%524_%530_%536_%540_%546_%552_%558_%564_%570_%576_%582_%589_%595_%601_%607_%613_%619_%625_%631_%637_%641_%647_%653_%659_%665_%671_%677_%683_%690_%696_%702_%708_%714_%720_%726_%732_%738_%742_%748_%754_%760_%766_%772_%778_%784_%791_%797_%803_%809_%815_%821_%827_%833_%839_%843_%849_%855_%861_%867_%873_%879_%885, mode: 0, combi_g: 4.346602
+%69_%76_%83_%90_%97_%104_%111_%118_%125_%130_%137_%144_%151_%158_%165_%172_%178_%185_%191_%197_%203_%209_%215_%221_%227_%233_%237_%243_%249_%255_%261_%267_%273_%279_%286_%292_%298_%304_%310_%316_%322_%328_%334_%338_%344_%350_%356_%362_%368_%374_%380_%387_%393_%399_%405_%411_%417_%423_%429_%435_%439_%445_%451_%457_%463_%469_%475_%481_%488_%494_%500_%506_%512_%518_%524_%530_%536_%540_%546_%552_%558_%564_%570_%576_%582_%589_%595_%601_%607_%613_%619_%625_%631_%637_%641_%647_%653_%659_%665_%671_%677_%683_%690_%696_%702_%708_%714_%720_%726_%732_%738_%742_%748_%754_%760_%766_%772_%778_%784_%791_%797_%803_%809_%815_%821_%827_%833_%839_%843_%849_%855_%861_%867_%873_%879_%885, mode: 1, combi_g: -1150.184284
+score of %69, mode is 0: -0.015532
+score of %69, mode is 1: -113.730910
+score of %76, mode is 0: -0.002791
+score of %76, mode is 1: -114.069465
+score of %83, mode is 0: -0.073374
+score of %83, mode is 1: -114.084026
+score of %90, mode is 0: 0.035433
+score of %90, mode is 1: -114.120834
+score of %97, mode is 0: -0.063666
+score of %97, mode is 1: -114.169979
+score of %104, mode is 0: -0.009667
+score of %104, mode is 1: -114.051263
+score of %111, mode is 0: -0.064677
+score of %111, mode is 1: -114.035286
+score of %118, mode is 0: -0.028071
+score of %118, mode is 1: -114.102026
+score of %125, mode is 0: -0.031509
+score of %125, mode is 1: -114.178069
+score of %130, mode is 0: -0.043442
+score of %130, mode is 1: -114.036297
+score of %137, mode is 0: -0.001173
+score of %137, mode is 1: -114.094947
+score of %144, mode is 0: 0.005097
+score of %144, mode is 1: -114.051667
+score of %151, mode is 0: -0.075396
+score of %151, mode is 1: -114.109509
+score of %158, mode is 0: 0.031793
+score of %158, mode is 1: -114.002725
+score of %165, mode is 0: -0.010072
+score of %165, mode is 1: -114.021735
+score of %172, mode is 0: -0.052340
+score of %172, mode is 1: -113.995039
+score of %178, mode is 0: -0.003600
+score of %178, mode is 1: -113.931737
+score of %185, mode is 0: -0.080250
+score of %185, mode is 1: -114.597521
+score of %191, mode is 0: 0.038062
+score of %191, mode is 1: -114.638374
+score of %197, mode is 0: -0.040813
+score of %197, mode is 1: -114.751023
+score of %203, mode is 0: -0.068722
+score of %203, mode is 1: -114.759113
+score of %209, mode is 0: -0.093598
+score of %209, mode is 1: -114.662845
+score of %215, mode is 0: 0.054039
+score of %215, mode is 1: -114.801381
+score of %221, mode is 0: -0.028071
+score of %221, mode is 1: -114.805022
+score of %227, mode is 0: -0.078430
+score of %227, mode is 1: -114.761135
+score of %233, mode is 0: 0.015411
+score of %233, mode is 1: -114.792483
+score of %237, mode is 0: -0.028880
+score of %237, mode is 1: -114.764371
+score of %243, mode is 0: -0.028880
+score of %243, mode is 1: -114.766393
+score of %249, mode is 0: -0.079643
+score of %249, mode is 1: -114.819583
+score of %255, mode is 0: -0.065082
+score of %255, mode is 1: -114.800775
+score of %261, mode is 0: -0.038386
+score of %261, mode is 1: -114.767607
+score of %267, mode is 0: -0.075194
+score of %267, mode is 1: -114.753045
+score of %273, mode is 0: -0.050116
+score of %273, mode is 1: -114.731203
+score of %279, mode is 0: -0.029285
+score of %279, mode is 1: -114.738888
+score of %286, mode is 0: 0.046152
+score of %286, mode is 1: -114.612284
+score of %292, mode is 0: -0.033734
+score of %292, mode is 1: -114.629273
+score of %298, mode is 0: -0.052340
+score of %298, mode is 1: -114.586195
+score of %304, mode is 0: 0.033411
+score of %304, mode is 1: -114.648688
+score of %310, mode is 0: 0.001658
+score of %310, mode is 1: -114.662643
+score of %316, mode is 0: -0.058205
+score of %316, mode is 1: -114.651115
+score of %322, mode is 0: -0.084699
+score of %322, mode is 1: -114.637160
+score of %328, mode is 0: -0.085104
+score of %328, mode is 1: -114.582150
+score of %334, mode is 0: -0.074183
+score of %334, mode is 1: -114.621588
+score of %338, mode is 0: -0.025847
+score of %338, mode is 1: -114.672755
+score of %344, mode is 0: 0.005299
+score of %344, mode is 1: -114.610060
+score of %350, mode is 0: -0.009869
+score of %350, mode is 1: -114.644037
+score of %356, mode is 0: -0.066700
+score of %356, mode is 1: -114.676193
+score of %362, mode is 0: -0.023824
+score of %362, mode is 1: -114.598330
+score of %368, mode is 0: -0.031914
+score of %368, mode is 1: -114.662845
+score of %374, mode is 0: -0.075396
+score of %374, mode is 1: -114.629273
+score of %380, mode is 0: -0.019779
+score of %380, mode is 1: -114.629677
+score of %387, mode is 0: 0.011771
+score of %387, mode is 1: -114.580330
+score of %393, mode is 0: -0.075598
+score of %393, mode is 1: -114.532398
+score of %399, mode is 0: -0.050318
+score of %399, mode is 1: -114.513388
+score of %405, mode is 0: -0.016341
+score of %405, mode is 1: -114.537455
+score of %411, mode is 0: -0.020791
+score of %411, mode is 1: -114.577701
+score of %417, mode is 0: -0.007038
+score of %417, mode is 1: -114.545949
+score of %423, mode is 0: -0.025442
+score of %423, mode is 1: -114.567993
+score of %429, mode is 0: -0.071351
+score of %429, mode is 1: -114.548376
+score of %435, mode is 0: -0.055779
+score of %435, mode is 1: -114.491343
+score of %439, mode is 0: -0.040610
+score of %439, mode is 1: -114.533410
+score of %445, mode is 0: 0.011164
+score of %445, mode is 1: -114.511770
+score of %451, mode is 0: -0.131215
+score of %451, mode is 1: -114.538061
+score of %457, mode is 0: 0.019456
+score of %457, mode is 1: -114.523298
+score of %463, mode is 0: -0.034543
+score of %463, mode is 1: -114.606824
+score of %469, mode is 0: -0.016948
+score of %469, mode is 1: -114.644037
+score of %475, mode is 0: -0.031105
+score of %475, mode is 1: -114.616329
+score of %481, mode is 0: -0.124946
+score of %481, mode is 1: -114.561117
+score of %488, mode is 0: -0.020791
+score of %488, mode is 1: -113.345233
+score of %494, mode is 0: 0.022085
+score of %494, mode is 1: -113.330874
+score of %500, mode is 0: -0.023824
+score of %500, mode is 1: -113.321975
+score of %506, mode is 0: -0.017555
+score of %506, mode is 1: -113.354132
+score of %512, mode is 0: -0.074385
+score of %512, mode is 1: -113.326020
+score of %518, mode is 0: -0.062655
+score of %518, mode is 1: -113.335728
+score of %524, mode is 0: -0.006431
+score of %524, mode is 1: -113.288403
+score of %530, mode is 0: -0.045262
+score of %530, mode is 1: -113.316919
+score of %536, mode is 0: -0.058812
+score of %536, mode is 1: -113.359390
+score of %540, mode is 0: -0.038588
+score of %540, mode is 1: -113.258269
+score of %546, mode is 0: -0.058610
+score of %546, mode is 1: -113.304785
+score of %552, mode is 0: -0.046071
+score of %552, mode is 1: -113.341391
+score of %558, mode is 0: -0.032521
+score of %558, mode is 1: -113.291841
+score of %564, mode is 0: 0.028152
+score of %564, mode is 1: -113.243910
+score of %570, mode is 0: -0.108968
+score of %570, mode is 1: -113.327031
+score of %576, mode is 0: 0.031186
+score of %576, mode is 1: -113.291032
+score of %582, mode is 0: 0.003681
+score of %582, mode is 1: -113.294673
+score of %589, mode is 0: -0.025847
+score of %589, mode is 1: -114.037915
+score of %595, mode is 0: -0.017150
+score of %595, mode is 1: -114.008185
+score of %601, mode is 0: -0.102497
+score of %601, mode is 1: -114.002522
+score of %607, mode is 0: -0.004409
+score of %607, mode is 1: -114.016679
+score of %613, mode is 0: 0.015613
+score of %613, mode is 1: -113.997264
+score of %619, mode is 0: 0.013591
+score of %619, mode is 1: -114.023353
+score of %625, mode is 0: -0.038790
+score of %625, mode is 1: -113.989983
+score of %631, mode is 0: -0.091373
+score of %631, mode is 1: -114.000702
+score of %637, mode is 0: -0.068924
+score of %637, mode is 1: -114.015870
+score of %641, mode is 0: -0.045464
+score of %641, mode is 1: -114.047825
+score of %647, mode is 0: -0.099665
+score of %647, mode is 1: -114.023353
+score of %653, mode is 0: -0.043037
+score of %653, mode is 1: -114.032859
+score of %659, mode is 0: -0.058610
+score of %659, mode is 1: -114.014455
+score of %665, mode is 0: -0.101485
+score of %665, mode is 1: -114.061173
+score of %671, mode is 0: -0.027869
+score of %671, mode is 1: -114.016477
+score of %677, mode is 0: 0.031590
+score of %677, mode is 1: -114.015668
+score of %683, mode is 0: -0.034543
+score of %683, mode is 1: -114.064004
+score of %690, mode is 0: 0.010962
+score of %690, mode is 1: -114.559701
+score of %696, mode is 0: -0.056992
+score of %696, mode is 1: -114.577094
+score of %702, mode is 0: 0.001052
+score of %702, mode is 1: -114.531185
+score of %708, mode is 0: -0.038992
+score of %708, mode is 1: -114.545949
+score of %714, mode is 0: 0.061522
+score of %714, mode is 1: -114.557881
+score of %720, mode is 0: -0.069936
+score of %720, mode is 1: -114.546151
+score of %726, mode is 0: 0.026130
+score of %726, mode is 1: -114.586802
+score of %732, mode is 0: 0.018445
+score of %732, mode is 1: -114.574263
+score of %738, mode is 0: 0.030984
+score of %738, mode is 1: -114.561319
+score of %742, mode is 0: 0.012984
+score of %742, mode is 1: -114.565769
+score of %748, mode is 0: -0.049307
+score of %748, mode is 1: -114.576083
+score of %754, mode is 0: -0.105530
+score of %754, mode is 1: -114.582555
+score of %760, mode is 0: -0.050318
+score of %760, mode is 1: -114.577499
+score of %766, mode is 0: -0.010881
+score of %766, mode is 1: -114.551814
+score of %772, mode is 0: 0.015006
+score of %772, mode is 1: -114.584982
+score of %778, mode is 0: -0.049307
+score of %778, mode is 1: -114.542106
+score of %784, mode is 0: -0.054767
+score of %784, mode is 1: -114.580735
+score of %791, mode is 0: -0.083081
+score of %791, mode is 1: -114.391435
+score of %797, mode is 0: -0.110586
+score of %797, mode is 1: -114.399525
+score of %803, mode is 0: -0.028476
+score of %803, mode is 1: -114.422985
+score of %809, mode is 0: 0.031590
+score of %809, mode is 1: -114.424805
+score of %815, mode is 0: -0.015937
+score of %815, mode is 1: -114.453928
+score of %821, mode is 0: -0.003195
+score of %821, mode is 1: -114.419749
+score of %827, mode is 0: -0.091778
+score of %827, mode is 1: -114.421569
+score of %833, mode is 0: -0.077216
+score of %833, mode is 1: -114.383346
+score of %839, mode is 0: -0.036970
+score of %839, mode is 1: -114.431884
+score of %843, mode is 0: -0.031307
+score of %843, mode is 1: -114.443007
+score of %849, mode is 0: -0.045869
+score of %849, mode is 1: -114.442603
+score of %855, mode is 0: -0.038183
+score of %855, mode is 1: -114.438760
+score of %861, mode is 0: -0.001982
+score of %861, mode is 1: -114.452917
+score of %867, mode is 0: -0.062048
+score of %867, mode is 1: -114.428446
+score of %873, mode is 0: 0.014804
+score of %873, mode is 1: -114.460602
+score of %879, mode is 0: 0.017433
+score of %879, mode is 1: -114.445232
+score of %885, mode is 0: -0.055172
+score of %885, mode is 1: -114.477186
+store bypass policy -----------
+store_group, mode: 0, baseline_time:494.455200, store_time:516.949000, offp: -4.549209, speedup: 0.956487
+store_group, mode: 1, baseline_time:494.455200, store_time:485.137000, offp: 1.884539, speedup: 1.019207
+storebypass: true, storemode: 1
+------
+62, mode: 1,
+ baseline_time:494.455200, design_time:485.241000, offp: 1.863506, speedup: 1.018989
+------

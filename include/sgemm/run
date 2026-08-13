@@ -1,0 +1,2 @@
+./bin/sgemm/sgemm_cache -i /workspace/Inst-level-cache-management/include/sgemm/data/medium/input/matrix1.txt,/workspace/Inst-level-cache-management/include/sgemm/data/medium/input/matrix2t.txt,/workspace/Inst-level-cache-management/include/sgemm/data/medium/input/matrix2t.txt
+./bin/sgemm/sgemm_bypass -i /workspace/Inst-level-cache-management/include/sgemm/data/medium/input/matrix1.txt,/workspace/Inst-level-cache-management/include/sgemm/data/medium/input/matrix2t.txt,/workspace/Inst-level-cache-management/include/sgemm/data/medium/input/matrix2t.txt

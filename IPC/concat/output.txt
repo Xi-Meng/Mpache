@@ -1,0 +1,733 @@
+nohup: ignoring input
+RPL: on '240304_070416' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070416_1464461'
+RPL: result dir '/tmp/rpl_data_240304_070416_1464461/input0_results_240304_070416'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070416_1464461/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 277.201569 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070416_1464461/input0_results_240304_070416
+File './IPC/tmp/concat_0.csv' is generating
+RPL: on '240304_070417' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070417_1464548'
+RPL: result dir '/tmp/rpl_data_240304_070417_1464548/input0_results_240304_070417'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070417_1464548/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 277.217682 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070417_1464548/input0_results_240304_070417
+File './IPC/tmp/concat_0.csv' is generating
+RPL: on '240304_070417' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070417_1464635'
+RPL: result dir '/tmp/rpl_data_240304_070417_1464635/input0_results_240304_070417'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070417_1464635/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 277.595306 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070417_1464635/input0_results_240304_070417
+File './IPC/tmp/concat_0.csv' is generating
+RPL: on '240304_070418' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070418_1464722'
+RPL: result dir '/tmp/rpl_data_240304_070418_1464722/input0_results_240304_070418'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070418_1464722/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 277.221008 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070418_1464722/input0_results_240304_070418
+File './IPC/tmp/concat_0.csv' is generating
+RPL: on '240304_070419' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070419_1464809'
+RPL: result dir '/tmp/rpl_data_240304_070419_1464809/input0_results_240304_070419'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070419_1464809/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 277.330597 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070419_1464809/input0_results_240304_070419
+File './IPC/tmp/concat_0.csv' is generating
+RPL: on '240304_070420' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070420_1464896'
+RPL: result dir '/tmp/rpl_data_240304_070420_1464896/input0_results_240304_070420'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070420_1464896/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 277.811005 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070420_1464896/input0_results_240304_070420
+File './IPC/tmp/concat_0.csv' is generating
+RPL: on '240304_070420' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070420_1464983'
+RPL: result dir '/tmp/rpl_data_240304_070420_1464983/input0_results_240304_070420'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070420_1464983/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 277.112000 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070420_1464983/input0_results_240304_070420
+File './IPC/tmp/concat_0.csv' is generating
+RPL: on '240304_070421' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070421_1465070'
+RPL: result dir '/tmp/rpl_data_240304_070421_1465070/input0_results_240304_070421'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070421_1465070/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 277.337830 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070421_1465070/input0_results_240304_070421
+File './IPC/tmp/concat_0.csv' is generating
+RPL: on '240304_070422' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070422_1465157'
+RPL: result dir '/tmp/rpl_data_240304_070422_1465157/input0_results_240304_070422'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070422_1465157/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 277.650299 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070422_1465157/input0_results_240304_070422
+File './IPC/tmp/concat_0.csv' is generating
+RPL: on '240304_070423' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070423_1465244'
+RPL: result dir '/tmp/rpl_data_240304_070423_1465244/input0_results_240304_070423'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070423_1465244/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 277.502045 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070423_1465244/input0_results_240304_070423
+File './IPC/tmp/concat_0.csv' is generating
+RPL: on '240304_070423' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070423_1465331'
+RPL: result dir '/tmp/rpl_data_240304_070423_1465331/input0_results_240304_070423'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070423_1465331/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 281.036865 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070423_1465331/input0_results_240304_070423
+File './IPC/tmp/concat_1.csv' is generating
+RPL: on '240304_070424' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070424_1465418'
+RPL: result dir '/tmp/rpl_data_240304_070424_1465418/input0_results_240304_070424'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070424_1465418/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 280.754272 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070424_1465418/input0_results_240304_070424
+File './IPC/tmp/concat_1.csv' is generating
+RPL: on '240304_070425' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070425_1465505'
+RPL: result dir '/tmp/rpl_data_240304_070425_1465505/input0_results_240304_070425'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070425_1465505/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 280.790680 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070425_1465505/input0_results_240304_070425
+File './IPC/tmp/concat_1.csv' is generating
+RPL: on '240304_070425' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070425_1465592'
+RPL: result dir '/tmp/rpl_data_240304_070425_1465592/input0_results_240304_070425'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070425_1465592/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 282.659698 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070425_1465592/input0_results_240304_070425
+File './IPC/tmp/concat_1.csv' is generating
+RPL: on '240304_070426' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070426_1465679'
+RPL: result dir '/tmp/rpl_data_240304_070426_1465679/input0_results_240304_070426'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070426_1465679/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 281.207184 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070426_1465679/input0_results_240304_070426
+File './IPC/tmp/concat_1.csv' is generating
+RPL: on '240304_070427' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070427_1465766'
+RPL: result dir '/tmp/rpl_data_240304_070427_1465766/input0_results_240304_070427'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070427_1465766/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 281.101898 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070427_1465766/input0_results_240304_070427
+File './IPC/tmp/concat_1.csv' is generating
+RPL: on '240304_070428' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070428_1465853'
+RPL: result dir '/tmp/rpl_data_240304_070428_1465853/input0_results_240304_070428'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070428_1465853/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 280.710754 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070428_1465853/input0_results_240304_070428
+File './IPC/tmp/concat_1.csv' is generating
+RPL: on '240304_070428' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070428_1465940'
+RPL: result dir '/tmp/rpl_data_240304_070428_1465940/input0_results_240304_070428'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070428_1465940/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 281.088776 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070428_1465940/input0_results_240304_070428
+File './IPC/tmp/concat_1.csv' is generating
+RPL: on '240304_070429' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070429_1466027'
+RPL: result dir '/tmp/rpl_data_240304_070429_1466027/input0_results_240304_070429'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070429_1466027/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 285.333252 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070429_1466027/input0_results_240304_070429
+File './IPC/tmp/concat_1.csv' is generating
+RPL: on '240304_070430' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070430_1466114'
+RPL: result dir '/tmp/rpl_data_240304_070430_1466114/input0_results_240304_070430'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070430_1466114/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 280.837799 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070430_1466114/input0_results_240304_070430
+File './IPC/tmp/concat_1.csv' is generating
+RPL: on '240304_070431' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070431_1466201'
+RPL: result dir '/tmp/rpl_data_240304_070431_1466201/input0_results_240304_070431'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070431_1466201/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 285.948273 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070431_1466201/input0_results_240304_070431
+File './IPC/tmp/concat_2.csv' is generating
+RPL: on '240304_070431' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070431_1466288'
+RPL: result dir '/tmp/rpl_data_240304_070431_1466288/input0_results_240304_070431'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070431_1466288/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 284.867859 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070431_1466288/input0_results_240304_070431
+File './IPC/tmp/concat_2.csv' is generating
+RPL: on '240304_070432' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070432_1466375'
+RPL: result dir '/tmp/rpl_data_240304_070432_1466375/input0_results_240304_070432'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070432_1466375/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 285.571594 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070432_1466375/input0_results_240304_070432
+File './IPC/tmp/concat_2.csv' is generating
+RPL: on '240304_070433' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070433_1466462'
+RPL: result dir '/tmp/rpl_data_240304_070433_1466462/input0_results_240304_070433'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070433_1466462/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 285.680267 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070433_1466462/input0_results_240304_070433
+File './IPC/tmp/concat_2.csv' is generating
+RPL: on '240304_070434' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070434_1466549'
+RPL: result dir '/tmp/rpl_data_240304_070434_1466549/input0_results_240304_070434'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070434_1466549/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 285.035187 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070434_1466549/input0_results_240304_070434
+File './IPC/tmp/concat_2.csv' is generating
+RPL: on '240304_070434' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070434_1466636'
+RPL: result dir '/tmp/rpl_data_240304_070434_1466636/input0_results_240304_070434'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070434_1466636/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 285.934448 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070434_1466636/input0_results_240304_070434
+File './IPC/tmp/concat_2.csv' is generating
+RPL: on '240304_070435' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070435_1466723'
+RPL: result dir '/tmp/rpl_data_240304_070435_1466723/input0_results_240304_070435'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070435_1466723/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 287.385071 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070435_1466723/input0_results_240304_070435
+File './IPC/tmp/concat_2.csv' is generating
+RPL: on '240304_070436' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070436_1466810'
+RPL: result dir '/tmp/rpl_data_240304_070436_1466810/input0_results_240304_070436'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070436_1466810/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 286.222504 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070436_1466810/input0_results_240304_070436
+File './IPC/tmp/concat_2.csv' is generating
+RPL: on '240304_070436' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070436_1466897'
+RPL: result dir '/tmp/rpl_data_240304_070436_1466897/input0_results_240304_070436'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070436_1466897/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 285.800293 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070436_1466897/input0_results_240304_070436
+File './IPC/tmp/concat_2.csv' is generating
+RPL: on '240304_070437' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070437_1466984'
+RPL: result dir '/tmp/rpl_data_240304_070437_1466984/input0_results_240304_070437'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070437_1466984/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 285.803223 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070437_1466984/input0_results_240304_070437
+File './IPC/tmp/concat_2.csv' is generating
+RPL: on '240304_070438' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070438_1467071'
+RPL: result dir '/tmp/rpl_data_240304_070438_1467071/input0_results_240304_070438'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070438_1467071/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 280.905518 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070438_1467071/input0_results_240304_070438
+File './IPC/tmp/concat_3.csv' is generating
+RPL: on '240304_070439' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070439_1467158'
+RPL: result dir '/tmp/rpl_data_240304_070439_1467158/input0_results_240304_070439'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070439_1467158/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 280.695923 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070439_1467158/input0_results_240304_070439
+File './IPC/tmp/concat_3.csv' is generating
+RPL: on '240304_070439' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070439_1467245'
+RPL: result dir '/tmp/rpl_data_240304_070439_1467245/input0_results_240304_070439'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070439_1467245/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 283.599091 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070439_1467245/input0_results_240304_070439
+File './IPC/tmp/concat_3.csv' is generating
+RPL: on '240304_070440' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070440_1467332'
+RPL: result dir '/tmp/rpl_data_240304_070440_1467332/input0_results_240304_070440'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070440_1467332/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 280.414612 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070440_1467332/input0_results_240304_070440
+File './IPC/tmp/concat_3.csv' is generating
+RPL: on '240304_070441' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070441_1467419'
+RPL: result dir '/tmp/rpl_data_240304_070441_1467419/input0_results_240304_070441'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070441_1467419/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 280.422821 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070441_1467419/input0_results_240304_070441
+File './IPC/tmp/concat_3.csv' is generating
+RPL: on '240304_070442' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070442_1467506'
+RPL: result dir '/tmp/rpl_data_240304_070442_1467506/input0_results_240304_070442'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070442_1467506/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 280.805542 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070442_1467506/input0_results_240304_070442
+File './IPC/tmp/concat_3.csv' is generating
+RPL: on '240304_070442' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070442_1467593'
+RPL: result dir '/tmp/rpl_data_240304_070442_1467593/input0_results_240304_070442'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070442_1467593/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 283.557587 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070442_1467593/input0_results_240304_070442
+File './IPC/tmp/concat_3.csv' is generating
+RPL: on '240304_070443' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070443_1467680'
+RPL: result dir '/tmp/rpl_data_240304_070443_1467680/input0_results_240304_070443'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070443_1467680/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 280.241455 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070443_1467680/input0_results_240304_070443
+File './IPC/tmp/concat_3.csv' is generating
+RPL: on '240304_070444' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070444_1467767'
+RPL: result dir '/tmp/rpl_data_240304_070444_1467767/input0_results_240304_070444'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070444_1467767/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 280.297882 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070444_1467767/input0_results_240304_070444
+File './IPC/tmp/concat_3.csv' is generating
+RPL: on '240304_070444' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/concat/concat_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240304_070444_1467854'
+RPL: result dir '/tmp/rpl_data_240304_070444_1467854/input0_results_240304_070444'
+num_head = 12	seq_len = 209	batch size = 31	hidden dimension = 1104	beam size = 4
+ROCProfiler: input from "/tmp/rpl_data_240304_070444_1467854/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time: 281.457245 (us)
+
+ROCPRofiler: 101 contexts collected, output directory /tmp/rpl_data_240304_070444_1467854/input0_results_240304_070444
+File './IPC/tmp/concat_3.csv' is generating
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/concat_0.csv ./bin/concat/concat_test
+0 : concat_test
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/concat_1.csv ./bin/concat/concat_2
+1 : concat_2
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/concat_2.csv ./bin/concat/concat_1
+2 : concat_1
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/concat_3.csv ./bin/concat/concat_0
+3 : concat_0
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+

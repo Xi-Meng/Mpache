@@ -1,0 +1,5 @@
+nohup: ignoring input
+0 : spmv_my_cache
+
+1 : spmv_my_bypass
+

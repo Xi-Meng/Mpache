@@ -1,0 +1,5 @@
+./bin/lbm_main/lbm_main_cache -i /workspace/Inst-level-cache-management/include/lbm_main/data/long/input/120_120_150_ldc.of -o /workspace/Inst-level-cache-management/include/lbm_main/data/temp.txt -- 3000
+./bin/lbm_main/lbm_main_bypass -i /workspace/Inst-level-cache-management/include/lbm_main/data/long/input/120_120_150_ldc.of -o /workspace/Inst-level-cache-management/include/lbm_main/data/temp.txt -- 3000 
+
+./bin/lbm_main/lbm_main_cache -i /workspace/Inst-level-cache-management/include/lbm_main/data/short/input/120_120_150_ldc.of -o /workspace/Inst-level-cache-management/include/lbm_main/data/temp.txt -- 100
+./bin/lbm_main/lbm_main_bypass -i /workspace/Inst-level-cache-management/include/lbm_main/data/short/input/120_120_150_ldc.of -o /workspace/Inst-level-cache-management/include/lbm_main/data/temp.txt -- 100

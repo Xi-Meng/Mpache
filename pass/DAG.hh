@@ -65,7 +65,8 @@ struct DAG {
   void printDAG(llvm::Function& F) {
     std::error_code error;
     std::string path;
-    if (auto cm_proj_path = getenv("CM_PROJ_PATH")) {
+    // if (auto cm_proj_path = getenv("CM_PROJ_PATH")) {
+    if (auto cm_proj_path = "/workspace/Inst-level-cache-management") {
       if (onlyForLS) {
         path = (std::string(cm_proj_path) + "/tmp/" + path_prefix + "/" + F.getName() + "_LS.dot").str();
       } else {

@@ -1,0 +1,96 @@
+
+# 输入为BEST
+
+
+------------------------------ kernel_name: _Z13mergeSortPassPK15HIP_vector_typeIfLj4EEPS0_PKiiii ------------------------------
+baseline_profiling #####
+baseline_time: 15.858800
+read_input: ./system/group/hybridsort_hip/_Z13mergeSortPassPK15HIP_vector_typeIfLj4EEPS0_PKiiii.txt
+offline_profiling -----------
+%22_%32, mode: 0, baseline: 15.858800, time: 15.847000, offp: 0.074407, speedup: 1.000745
+%22_%32, mode: 1, baseline: 15.858800, time: 15.861000, offp: -0.013872, speedup: 0.999861
+%44, mode: 0, baseline: 15.858800, time: 15.952000, offp: -0.587686, speedup: 0.994157
+%44, mode: 1, baseline: 15.858800, time: 15.863000, offp: -0.026484, speedup: 0.999735
+%49_%52, mode: 0, baseline: 15.858800, time: 15.794000, offp: 0.408606, speedup: 1.004103
+%49_%52, mode: 1, baseline: 15.858800, time: 15.918000, offp: -0.373294, speedup: 0.996281
+%63_%65, mode: 0, baseline: 15.858800, time: 16.043000, offp: -1.161500, speedup: 0.988518
+%63_%65, mode: 1, baseline: 15.858800, time: 20.767000, offp: -30.949378, speedup: 0.763654
+%72, mode: 0, baseline: 15.858800, time: 16.317000, offp: -2.889248, speedup: 0.971919
+%72, mode: 1, baseline: 15.858800, time: 16.526000, offp: -4.207128, speedup: 0.959627
+%153, mode: 0, baseline: 15.858800, time: 15.256000, offp: 3.801044, speedup: 1.039512
+%153, mode: 1, baseline: 15.858800, time: 15.275000, offp: 3.681237, speedup: 1.038219
+%22, mode: 0, baseline: 15.858800, time: 15.825000, offp: 0.213131, speedup: 1.002136
+%22, mode: 1, baseline: 15.858800, time: 15.872000, offp: -0.083235, speedup: 0.999168
+%32, mode: 0, baseline: 15.858800, time: 15.959000, offp: -0.631826, speedup: 0.993721
+%32, mode: 1, baseline: 15.858800, time: 15.807000, offp: 0.326633, speedup: 1.003277
+%49, mode: 0, baseline: 15.858800, time: 15.878000, offp: -0.121068, speedup: 0.998791
+%49, mode: 1, baseline: 15.858800, time: 15.956000, offp: -0.612909, speedup: 0.993908
+%52, mode: 0, baseline: 15.858800, time: 15.908000, offp: -0.310238, speedup: 0.996907
+%52, mode: 1, baseline: 15.858800, time: 15.913000, offp: -0.341766, speedup: 0.996594
+%63, mode: 0, baseline: 15.858800, time: 16.006000, offp: -0.928191, speedup: 0.990803
+%63, mode: 1, baseline: 15.858800, time: 19.584000, offp: -23.489797, speedup: 0.809783
+%65, mode: 0, baseline: 15.858800, time: 15.807000, offp: 0.326633, speedup: 1.003277
+%65, mode: 1, baseline: 15.858800, time: 18.930000, offp: -19.365904, speedup: 0.837760
+algorithm2 -----------
+%22_%32, mode: 0, combi_g: 0.493102
+%22_%32, mode: 1, combi_g: -0.257270
+score of %22, mode is 0: 0.213131
+score of %22, mode is 1: -0.108962
+score of %32, mode is 0: -0.631826
+score of %32, mode is 1: 0.300905
+%44, mode: 0, combi_g: 0.000000
+%44, mode: 1, combi_g: 0.000000
+score of %44, mode is 0: -0.587686
+score of %44, mode is 1: -0.026484
+%49_%52, mode: 0, combi_g: 0.839912
+%49_%52, mode: 1, combi_g: 0.581381
+score of %49, mode is 0: -0.121068
+score of %49, mode is 1: -0.612909
+score of %52, mode is 0: -0.310238
+score of %52, mode is 1: -0.341766
+%63_%65, mode: 0, combi_g: -0.559941
+%63_%65, mode: 1, combi_g: 11.906323
+score of %63, mode is 0: -0.984185
+score of %63, mode is 1: -23.489797
+score of %65, mode is 0: 0.270638
+score of %65, mode is 1: -19.365904
+%72, mode: 0, combi_g: 0.000000
+%72, mode: 1, combi_g: 0.000000
+score of %72, mode is 0: -2.889248
+score of %72, mode is 1: -4.207128
+%153, mode: 0, combi_g: 0.000000
+%153, mode: 1, combi_g: 0.000000
+score of %153, mode is 0: 3.801044
+%153, mode: 0, score: 3.801044 is chose----
+score of %153, mode is 1: 3.681237
+store bypass policy -----------
+store_group, mode: 0, baseline_time:15.858800, store_time:16.381000, offp: -3.292809, speedup: 0.968122
+store_group, mode: 1, baseline_time:15.858800, store_time:17.092000, offp: -7.776124, speedup: 0.927849
+storebypass: false, storemode: 0
+------
+153, mode: 0,
+ baseline_time:15.858800, design_time:15.332000, offp: 3.321815, speedup: 1.034360
+------
+
+
+------------------------------ kernel_name: _Z12bucketprefixPjS_i ------------------------------
+baseline_profiling #####
+baseline_time: 1.763600
+read_input: ./system/group/hybridsort_hip/_Z12bucketprefixPjS_i.txt
+offline_profiling -----------
+%23, mode: 0, baseline: 1.763600, time: 1.756000, offp: 0.430937, speedup: 1.004328
+%23, mode: 1, baseline: 1.763600, time: 1.050000, offp: 40.462690, speedup: 1.679619
+algorithm2 -----------
+%23, mode: 0, combi_g: 0.000000
+%23, mode: 1, combi_g: 0.000000
+score of %23, mode is 0: 0.430937
+score of %23, mode is 1: 40.462690
+%23, mode: 1, score: 40.462690 is chose----
+store bypass policy -----------
+store_group, mode: 0, baseline_time:1.763600, store_time:1.722000, offp: 2.358812, speedup: 1.024158
+store_group, mode: 1, baseline_time:1.763600, store_time:1.766000, offp: -0.136085, speedup: 0.998641
+storebypass: true, storemode: 0
+------
+23, mode: 1,
+ baseline_time:1.763600, design_time:1.063000, offp: 39.725561, speedup: 1.659078
+------

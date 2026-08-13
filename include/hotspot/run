@@ -1,0 +1,3 @@
+./hotspot 512 2 2 ../../data/hotspot/temp_512 ../../data/hotspot/power_512 output.out
+
+./bin/hotspot/hotspot_cache 512 2 2 /workspace/Inst-level-cache-management/include/hotspot/data/temp_512 /workspace/Inst-level-cache-management/include/hotspot/data/power_512 /workspace/Inst-level-cache-management/include/hotspot/data/output.out

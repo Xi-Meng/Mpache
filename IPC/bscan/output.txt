@@ -1,0 +1,813 @@
+nohup: ignoring input
+RPL: on '240227_111254' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111254_1143040'
+RPL: result dir '/tmp/rpl_data_240227_111254_1143040/input0_results_240227_111254'
+ROCProfiler: input from "/tmp/rpl_data_240227_111254_1143040/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.498383, verify = PASS
+Average execution time: 565.917175 (us)
+Billion elements per second: 27.358917
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111254_1143040/input0_results_240227_111254
+File './IPC/tmp/bscan_0.csv' is generating
+RPL: on '240227_111256' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111256_1143127'
+RPL: result dir '/tmp/rpl_data_240227_111256_1143127/input0_results_240227_111256'
+ROCProfiler: input from "/tmp/rpl_data_240227_111256_1143127/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.497906, verify = PASS
+Average execution time: 359.729621 (us)
+Billion elements per second: 43.040328
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111256_1143127/input0_results_240227_111256
+File './IPC/tmp/bscan_0.csv' is generating
+RPL: on '240227_111257' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111257_1143214'
+RPL: result dir '/tmp/rpl_data_240227_111257_1143214/input0_results_240227_111257'
+ROCProfiler: input from "/tmp/rpl_data_240227_111257_1143214/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.496047, verify = PASS
+Average execution time: 357.336071 (us)
+Billion elements per second: 43.328625
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111257_1143214/input0_results_240227_111257
+File './IPC/tmp/bscan_0.csv' is generating
+RPL: on '240227_111258' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111258_1143301'
+RPL: result dir '/tmp/rpl_data_240227_111258_1143301/input0_results_240227_111258'
+ROCProfiler: input from "/tmp/rpl_data_240227_111258_1143301/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.496523, verify = PASS
+Average execution time: 358.781999 (us)
+Billion elements per second: 43.154007
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111258_1143301/input0_results_240227_111258
+File './IPC/tmp/bscan_0.csv' is generating
+RPL: on '240227_111259' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111259_1143388'
+RPL: result dir '/tmp/rpl_data_240227_111259_1143388/input0_results_240227_111259'
+ROCProfiler: input from "/tmp/rpl_data_240227_111259_1143388/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.494953, verify = PASS
+Average execution time: 350.397601 (us)
+Billion elements per second: 44.186606
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111259_1143388/input0_results_240227_111259
+File './IPC/tmp/bscan_0.csv' is generating
+RPL: on '240227_111259' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111259_1143475'
+RPL: result dir '/tmp/rpl_data_240227_111259_1143475/input0_results_240227_111259'
+ROCProfiler: input from "/tmp/rpl_data_240227_111259_1143475/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.495117, verify = PASS
+Average execution time: 363.167537 (us)
+Billion elements per second: 42.632887
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111259_1143475/input0_results_240227_111259
+File './IPC/tmp/bscan_0.csv' is generating
+RPL: on '240227_111300' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111300_1143562'
+RPL: result dir '/tmp/rpl_data_240227_111300_1143562/input0_results_240227_111300'
+ROCProfiler: input from "/tmp/rpl_data_240227_111300_1143562/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.497977, verify = PASS
+Average execution time: 354.049415 (us)
+Billion elements per second: 43.730847
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111300_1143562/input0_results_240227_111300
+File './IPC/tmp/bscan_0.csv' is generating
+RPL: on '240227_111301' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111301_1143649'
+RPL: result dir '/tmp/rpl_data_240227_111301_1143649/input0_results_240227_111301'
+ROCProfiler: input from "/tmp/rpl_data_240227_111301_1143649/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.497219, verify = PASS
+Average execution time: 357.538505 (us)
+Billion elements per second: 43.304093
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111301_1143649/input0_results_240227_111301
+File './IPC/tmp/bscan_0.csv' is generating
+RPL: on '240227_111301' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111301_1143736'
+RPL: result dir '/tmp/rpl_data_240227_111301_1143736/input0_results_240227_111301'
+ROCProfiler: input from "/tmp/rpl_data_240227_111301_1143736/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.494008, verify = PASS
+Average execution time: 355.872955 (us)
+Billion elements per second: 43.506764
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111301_1143736/input0_results_240227_111301
+File './IPC/tmp/bscan_0.csv' is generating
+RPL: on '240227_111302' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111302_1143823'
+RPL: result dir '/tmp/rpl_data_240227_111302_1143823/input0_results_240227_111302'
+ROCProfiler: input from "/tmp/rpl_data_240227_111302_1143823/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.495719, verify = PASS
+Average execution time: 359.063787 (us)
+Billion elements per second: 43.120140
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111302_1143823/input0_results_240227_111302
+File './IPC/tmp/bscan_0.csv' is generating
+RPL: on '240227_111303' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111303_1143910'
+RPL: result dir '/tmp/rpl_data_240227_111303_1143910/input0_results_240227_111303'
+ROCProfiler: input from "/tmp/rpl_data_240227_111303_1143910/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.495266, verify = PASS
+Average execution time: 353.353915 (us)
+Billion elements per second: 43.816921
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111303_1143910/input0_results_240227_111303
+File './IPC/tmp/bscan_1.csv' is generating
+RPL: on '240227_111304' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111304_1143997'
+RPL: result dir '/tmp/rpl_data_240227_111304_1143997/input0_results_240227_111304'
+ROCProfiler: input from "/tmp/rpl_data_240227_111304_1143997/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.496859, verify = PASS
+Average execution time: 360.748855 (us)
+Billion elements per second: 42.918725
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111304_1143997/input0_results_240227_111304
+File './IPC/tmp/bscan_1.csv' is generating
+RPL: on '240227_111304' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111304_1144084'
+RPL: result dir '/tmp/rpl_data_240227_111304_1144084/input0_results_240227_111304'
+ROCProfiler: input from "/tmp/rpl_data_240227_111304_1144084/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.496391, verify = PASS
+Average execution time: 360.716377 (us)
+Billion elements per second: 42.922589
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111304_1144084/input0_results_240227_111304
+File './IPC/tmp/bscan_1.csv' is generating
+RPL: on '240227_111305' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111305_1144171'
+RPL: result dir '/tmp/rpl_data_240227_111305_1144171/input0_results_240227_111305'
+ROCProfiler: input from "/tmp/rpl_data_240227_111305_1144171/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.493641, verify = PASS
+Average execution time: 355.749717 (us)
+Billion elements per second: 43.521836
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111305_1144171/input0_results_240227_111305
+File './IPC/tmp/bscan_1.csv' is generating
+RPL: on '240227_111306' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111306_1144258'
+RPL: result dir '/tmp/rpl_data_240227_111306_1144258/input0_results_240227_111306'
+ROCProfiler: input from "/tmp/rpl_data_240227_111306_1144258/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.496594, verify = PASS
+Average execution time: 350.866469 (us)
+Billion elements per second: 44.127559
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111306_1144258/input0_results_240227_111306
+File './IPC/tmp/bscan_1.csv' is generating
+RPL: on '240227_111307' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111307_1144345'
+RPL: result dir '/tmp/rpl_data_240227_111307_1144345/input0_results_240227_111307'
+ROCProfiler: input from "/tmp/rpl_data_240227_111307_1144345/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.494695, verify = PASS
+Average execution time: 362.030973 (us)
+Billion elements per second: 42.766730
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111307_1144345/input0_results_240227_111307
+File './IPC/tmp/bscan_1.csv' is generating
+RPL: on '240227_111307' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111307_1144432'
+RPL: result dir '/tmp/rpl_data_240227_111307_1144432/input0_results_240227_111307'
+ROCProfiler: input from "/tmp/rpl_data_240227_111307_1144432/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.497219, verify = PASS
+Average execution time: 350.278219 (us)
+Billion elements per second: 44.201666
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111307_1144432/input0_results_240227_111307
+File './IPC/tmp/bscan_1.csv' is generating
+RPL: on '240227_111308' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111308_1144519'
+RPL: result dir '/tmp/rpl_data_240227_111308_1144519/input0_results_240227_111308'
+ROCProfiler: input from "/tmp/rpl_data_240227_111308_1144519/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.495516, verify = PASS
+Average execution time: 359.390199 (us)
+Billion elements per second: 43.080977
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111308_1144519/input0_results_240227_111308
+File './IPC/tmp/bscan_1.csv' is generating
+RPL: on '240227_111309' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111309_1144606'
+RPL: result dir '/tmp/rpl_data_240227_111309_1144606/input0_results_240227_111309'
+ROCProfiler: input from "/tmp/rpl_data_240227_111309_1144606/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.494484, verify = PASS
+Average execution time: 360.884403 (us)
+Billion elements per second: 42.902604
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111309_1144606/input0_results_240227_111309
+File './IPC/tmp/bscan_1.csv' is generating
+RPL: on '240227_111310' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_2"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111310_1144693'
+RPL: result dir '/tmp/rpl_data_240227_111310_1144693/input0_results_240227_111310'
+ROCProfiler: input from "/tmp/rpl_data_240227_111310_1144693/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.497703, verify = PASS
+Average execution time: 362.515221 (us)
+Billion elements per second: 42.709602
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111310_1144693/input0_results_240227_111310
+File './IPC/tmp/bscan_1.csv' is generating
+RPL: on '240227_111310' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111310_1144780'
+RPL: result dir '/tmp/rpl_data_240227_111310_1144780/input0_results_240227_111310'
+ROCProfiler: input from "/tmp/rpl_data_240227_111310_1144780/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.496422, verify = PASS
+Average execution time: 360.293689 (us)
+Billion elements per second: 42.972945
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111310_1144780/input0_results_240227_111310
+File './IPC/tmp/bscan_2.csv' is generating
+RPL: on '240227_111311' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111311_1144867'
+RPL: result dir '/tmp/rpl_data_240227_111311_1144867/input0_results_240227_111311'
+ROCProfiler: input from "/tmp/rpl_data_240227_111311_1144867/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.496977, verify = PASS
+Average execution time: 355.260333 (us)
+Billion elements per second: 43.581789
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111311_1144867/input0_results_240227_111311
+File './IPC/tmp/bscan_2.csv' is generating
+RPL: on '240227_111312' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111312_1144954'
+RPL: result dir '/tmp/rpl_data_240227_111312_1144954/input0_results_240227_111312'
+ROCProfiler: input from "/tmp/rpl_data_240227_111312_1144954/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.495922, verify = PASS
+Average execution time: 358.259843 (us)
+Billion elements per second: 43.216903
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111312_1144954/input0_results_240227_111312
+File './IPC/tmp/bscan_2.csv' is generating
+RPL: on '240227_111313' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111313_1145041'
+RPL: result dir '/tmp/rpl_data_240227_111313_1145041/input0_results_240227_111313'
+ROCProfiler: input from "/tmp/rpl_data_240227_111313_1145041/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.497336, verify = PASS
+Average execution time: 353.268989 (us)
+Billion elements per second: 43.827455
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111313_1145041/input0_results_240227_111313
+File './IPC/tmp/bscan_2.csv' is generating
+RPL: on '240227_111313' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111313_1145128'
+RPL: result dir '/tmp/rpl_data_240227_111313_1145128/input0_results_240227_111313'
+ROCProfiler: input from "/tmp/rpl_data_240227_111313_1145128/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.497438, verify = PASS
+Average execution time: 356.354319 (us)
+Billion elements per second: 43.447995
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111313_1145128/input0_results_240227_111313
+File './IPC/tmp/bscan_2.csv' is generating
+RPL: on '240227_111314' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111314_1145215'
+RPL: result dir '/tmp/rpl_data_240227_111314_1145215/input0_results_240227_111314'
+ROCProfiler: input from "/tmp/rpl_data_240227_111314_1145215/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.494492, verify = PASS
+Average execution time: 351.385129 (us)
+Billion elements per second: 44.062425
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111314_1145215/input0_results_240227_111314
+File './IPC/tmp/bscan_2.csv' is generating
+RPL: on '240227_111315' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111315_1145302'
+RPL: result dir '/tmp/rpl_data_240227_111315_1145302/input0_results_240227_111315'
+ROCProfiler: input from "/tmp/rpl_data_240227_111315_1145302/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.499367, verify = PASS
+Average execution time: 352.640693 (us)
+Billion elements per second: 43.905542
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111315_1145302/input0_results_240227_111315
+File './IPC/tmp/bscan_2.csv' is generating
+RPL: on '240227_111315' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111315_1145389'
+RPL: result dir '/tmp/rpl_data_240227_111315_1145389/input0_results_240227_111315'
+ROCProfiler: input from "/tmp/rpl_data_240227_111315_1145389/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.499039, verify = PASS
+Average execution time: 347.674789 (us)
+Billion elements per second: 44.532653
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111315_1145389/input0_results_240227_111315
+File './IPC/tmp/bscan_2.csv' is generating
+RPL: on '240227_111316' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111316_1145476'
+RPL: result dir '/tmp/rpl_data_240227_111316_1145476/input0_results_240227_111316'
+ROCProfiler: input from "/tmp/rpl_data_240227_111316_1145476/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.494422, verify = PASS
+Average execution time: 354.469107 (us)
+Billion elements per second: 43.679069
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111316_1145476/input0_results_240227_111316
+File './IPC/tmp/bscan_2.csv' is generating
+RPL: on '240227_111317' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_1"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111317_1145563'
+RPL: result dir '/tmp/rpl_data_240227_111317_1145563/input0_results_240227_111317'
+ROCProfiler: input from "/tmp/rpl_data_240227_111317_1145563/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.498133, verify = PASS
+Average execution time: 359.216935 (us)
+Billion elements per second: 43.101756
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111317_1145563/input0_results_240227_111317
+File './IPC/tmp/bscan_2.csv' is generating
+RPL: on '240227_111318' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111318_1145650'
+RPL: result dir '/tmp/rpl_data_240227_111318_1145650/input0_results_240227_111318'
+ROCProfiler: input from "/tmp/rpl_data_240227_111318_1145650/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.496922, verify = PASS
+Average execution time: 357.195273 (us)
+Billion elements per second: 43.345704
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111318_1145650/input0_results_240227_111318
+File './IPC/tmp/bscan_3.csv' is generating
+RPL: on '240227_111318' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111318_1145737'
+RPL: result dir '/tmp/rpl_data_240227_111318_1145737/input0_results_240227_111318'
+ROCProfiler: input from "/tmp/rpl_data_240227_111318_1145737/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.495469, verify = PASS
+Average execution time: 352.791313 (us)
+Billion elements per second: 43.886797
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111318_1145737/input0_results_240227_111318
+File './IPC/tmp/bscan_3.csv' is generating
+RPL: on '240227_111319' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111319_1145824'
+RPL: result dir '/tmp/rpl_data_240227_111319_1145824/input0_results_240227_111319'
+ROCProfiler: input from "/tmp/rpl_data_240227_111319_1145824/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.495930, verify = PASS
+Average execution time: 355.209697 (us)
+Billion elements per second: 43.588001
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111319_1145824/input0_results_240227_111319
+File './IPC/tmp/bscan_3.csv' is generating
+RPL: on '240227_111320' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111320_1145911'
+RPL: result dir '/tmp/rpl_data_240227_111320_1145911/input0_results_240227_111320'
+ROCProfiler: input from "/tmp/rpl_data_240227_111320_1145911/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.493336, verify = PASS
+Average execution time: 354.038231 (us)
+Billion elements per second: 43.732228
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111320_1145911/input0_results_240227_111320
+File './IPC/tmp/bscan_3.csv' is generating
+RPL: on '240227_111321' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111321_1145998'
+RPL: result dir '/tmp/rpl_data_240227_111321_1145998/input0_results_240227_111321'
+ROCProfiler: input from "/tmp/rpl_data_240227_111321_1145998/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.494805, verify = PASS
+Average execution time: 356.351863 (us)
+Billion elements per second: 43.448295
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111321_1145998/input0_results_240227_111321
+File './IPC/tmp/bscan_3.csv' is generating
+RPL: on '240227_111321' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111321_1146085'
+RPL: result dir '/tmp/rpl_data_240227_111321_1146085/input0_results_240227_111321'
+ROCProfiler: input from "/tmp/rpl_data_240227_111321_1146085/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.497672, verify = PASS
+Average execution time: 359.501839 (us)
+Billion elements per second: 43.067598
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111321_1146085/input0_results_240227_111321
+File './IPC/tmp/bscan_3.csv' is generating
+RPL: on '240227_111322' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111322_1146172'
+RPL: result dir '/tmp/rpl_data_240227_111322_1146172/input0_results_240227_111322'
+ROCProfiler: input from "/tmp/rpl_data_240227_111322_1146172/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.494680, verify = PASS
+Average execution time: 354.615213 (us)
+Billion elements per second: 43.661073
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111322_1146172/input0_results_240227_111322
+File './IPC/tmp/bscan_3.csv' is generating
+RPL: on '240227_111323' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111323_1146259'
+RPL: result dir '/tmp/rpl_data_240227_111323_1146259/input0_results_240227_111323'
+ROCProfiler: input from "/tmp/rpl_data_240227_111323_1146259/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.496430, verify = PASS
+Average execution time: 358.914247 (us)
+Billion elements per second: 43.138106
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111323_1146259/input0_results_240227_111323
+File './IPC/tmp/bscan_3.csv' is generating
+RPL: on '240227_111324' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111324_1146346'
+RPL: result dir '/tmp/rpl_data_240227_111324_1146346/input0_results_240227_111324'
+ROCProfiler: input from "/tmp/rpl_data_240227_111324_1146346/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.495508, verify = PASS
+Average execution time: 355.891603 (us)
+Billion elements per second: 43.504485
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111324_1146346/input0_results_240227_111324
+File './IPC/tmp/bscan_3.csv' is generating
+RPL: on '240227_111324' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bscan/bscan_0"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_111324_1146433'
+RPL: result dir '/tmp/rpl_data_240227_111324_1146433/input0_results_240227_111324'
+ROCProfiler: input from "/tmp/rpl_data_240227_111324_1146433/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Block size = 256, ratio of valid elements = 0.493781, verify = PASS
+Average execution time: 358.068237 (us)
+Billion elements per second: 43.240028
+
+
+ROCPRofiler: 500 contexts collected, output directory /tmp/rpl_data_240227_111324_1146433/input0_results_240227_111324
+File './IPC/tmp/bscan_3.csv' is generating
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bscan_0.csv ./bin/bscan/bscan_test
+0 : bscan_test
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bscan_1.csv ./bin/bscan/bscan_2
+1 : bscan_2
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bscan_2.csv ./bin/bscan/bscan_1
+2 : bscan_1
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bscan_3.csv ./bin/bscan/bscan_0
+3 : bscan_0
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+

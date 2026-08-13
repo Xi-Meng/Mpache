@@ -1,0 +1,37 @@
+
+
+------------------------------ kernel_name: _Z24normalize_weights_kernelPdiS_S_S_Pi ------------------------------
+read_input: ./system/group/particlefilter_float/_Z24normalize_weights_kernelPdiS_S_S_Pi.txt
+baseline_profiling #####
+baseline_time: 23.994000
+------------------- mode: VOLATILE ------------------
+offline_profiling #######
+%17: 8.510461
+%23: 1.337834
+%29: -0.012503
+%39: -186.784196
+%35: -235.713095
+%47: 0.000000
+%57: 0.000000
+algorithm2 #####
+combi_g of %17: 0.000000
+score of %17: 8.510461
+combi_g of %23: 0.000000
+score of %23: 1.337834
+combi_g of %29: 0.000000
+score of %29: -0.012503
+combi_g of %39: 0.000000
+score of %39: -186.784196
+combi_g of %35: 0.000000
+score of %35: -235.713095
+combi_g of %47: 0.000000
+score of %47: 0.000000
+combi_g of %57: 0.000000
+score of %57: 0.000000
+mode is VOLATILE
+policy is %17_%23, total score is 9.848295
+------------------- mode: VOLATILE ------------------
+------------------- answer------------------
+ VOLATILE 
+%17_%23, store_bypass is 0:
+ baseline_time:23.994000 , time:21.951000, real improve:8.514629, speedup: 1.093071 

@@ -4,7 +4,7 @@
 #include <cstdlib>
 #include <chrono>
 #include <hip/hip_runtime.h>
-#include <example_utils.hpp>
+#include "../include/example_utils.hpp"
 
 __host__ __device__
 inline float hd (const float2 ap, const float2 bp)

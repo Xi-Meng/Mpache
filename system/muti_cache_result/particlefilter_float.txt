@@ -1,0 +1,60 @@
+
+
+------------------------------ kernel_name: _Z24normalize_weights_kernelPdiS_S_S_Pi ------------------------------
+baseline_profiling #####
+baseline_time: 23.953600
+read_input: ./system/group/particlefilter_float/_Z24normalize_weights_kernelPdiS_S_S_Pi.txt
+offline_profiling -----------
+%17, mode: 0, baseline: 23.953600, time: 23.955000, offp: -0.005845, speedup: 0.999942
+%17, mode: 1, baseline: 23.953600, time: 21.918000, offp: 8.498096, speedup: 1.092873
+%23, mode: 0, baseline: 23.953600, time: 23.954000, offp: -0.001670, speedup: 0.999983
+%23, mode: 1, baseline: 23.953600, time: 23.633000, offp: 1.338421, speedup: 1.013566
+%29, mode: 0, baseline: 23.953600, time: 23.956000, offp: -0.010019, speedup: 0.999900
+%29, mode: 1, baseline: 23.953600, time: 23.954000, offp: -0.001670, speedup: 0.999983
+%39, mode: 0, baseline: 23.953600, time: 23.958000, offp: -0.018369, speedup: 0.999816
+%39, mode: 1, baseline: 23.953600, time: 68.695000, offp: -186.783615, speedup: 0.348695
+%35, mode: 0, baseline: 23.953600, time: 44.240000, offp: -84.690401, speedup: 0.541447
+%35, mode: 1, baseline: 23.953600, time: 80.416000, offp: -235.715717, speedup: 0.297871
+%47, mode: 0, baseline: 23.953600, time: 23.954000, offp: -0.001670, speedup: 0.999983
+%47, mode: 1, baseline: 23.953600, time: 23.957000, offp: -0.014194, speedup: 0.999858
+%57, mode: 0, baseline: 23.953600, time: 23.957000, offp: -0.014194, speedup: 0.999858
+%57, mode: 1, baseline: 23.953600, time: 23.955000, offp: -0.005845, speedup: 0.999942
+algorithm2 -----------
+%17, mode: 0, combi_g: 0.000000
+%17, mode: 1, combi_g: 0.000000
+score of %17, mode is 0: -0.005845
+score of %17, mode is 1: 8.498096
+%17, mode: 1, score: 8.498096 is chose----
+%23, mode: 0, combi_g: 0.000000
+%23, mode: 1, combi_g: 0.000000
+score of %23, mode is 0: -0.001670
+score of %23, mode is 1: 1.338421
+%23, mode: 1, score: 1.338421 is chose----
+%29, mode: 0, combi_g: 0.000000
+%29, mode: 1, combi_g: 0.000000
+score of %29, mode is 0: -0.010019
+score of %29, mode is 1: -0.001670
+%39, mode: 0, combi_g: 0.000000
+%39, mode: 1, combi_g: 0.000000
+score of %39, mode is 0: -0.018369
+score of %39, mode is 1: -186.783615
+%35, mode: 0, combi_g: 0.000000
+%35, mode: 1, combi_g: 0.000000
+score of %35, mode is 0: -84.690401
+score of %35, mode is 1: -235.715717
+%47, mode: 0, combi_g: 0.000000
+%47, mode: 1, combi_g: 0.000000
+score of %47, mode is 0: -0.001670
+score of %47, mode is 1: -0.014194
+%57, mode: 0, combi_g: 0.000000
+%57, mode: 1, combi_g: 0.000000
+score of %57, mode is 0: -0.014194
+score of %57, mode is 1: -0.005845
+store bypass policy -----------
+store_group, mode: 0, baseline_time:23.953600, store_time:23.956000, offp: -0.010019, speedup: 0.999900
+store_group, mode: 1, baseline_time:23.953600, store_time:85.300000, offp: -256.105137, speedup: 0.280816
+storebypass: false, storemode: 0
+------
+17_23, mode: 1_1,
+ baseline_time:23.953600, design_time:21.915000, offp: 8.510621, speedup: 1.093023
+------

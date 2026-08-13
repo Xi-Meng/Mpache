@@ -1,0 +1,1931 @@
+nohup: ignoring input
+RPL: on '240227_141253' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141253_1191151'
+RPL: result dir '/tmp/rpl_data_240227_141253_1191151/input0_results_240227_141253'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141253_1191151/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 267208562
+Execution efficiency = 0.091512
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141253_1191151/input0_results_240227_141253
+File './IPC/tmp/clock_0.csv' is generating
+RPL: on '240227_141253' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141253_1191238'
+RPL: result dir '/tmp/rpl_data_240227_141253_1191238/input0_results_240227_141253'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141253_1191238/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031155
+Execution efficiency = 0.139814
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141253_1191238/input0_results_240227_141253
+File './IPC/tmp/clock_0.csv' is generating
+RPL: on '240227_141254' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141254_1191325'
+RPL: result dir '/tmp/rpl_data_240227_141254_1191325/input0_results_240227_141254'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141254_1191325/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22595766
+Execution efficiency = 1.293163
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141254_1191325/input0_results_240227_141254
+File './IPC/tmp/clock_0.csv' is generating
+RPL: on '240227_141254' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141254_1191412'
+RPL: result dir '/tmp/rpl_data_240227_141254_1191412/input0_results_240227_141254'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141254_1191412/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192495927
+Execution efficiency = 0.143729
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141254_1191412/input0_results_240227_141254
+File './IPC/tmp/clock_0.csv' is generating
+RPL: on '240227_141255' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141255_1191499'
+RPL: result dir '/tmp/rpl_data_240227_141255_1191499/input0_results_240227_141255'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141255_1191499/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 267209302
+Execution efficiency = 0.098510
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141255_1191499/input0_results_240227_141255
+File './IPC/tmp/clock_0.csv' is generating
+RPL: on '240227_141255' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141255_1191586'
+RPL: result dir '/tmp/rpl_data_240227_141255_1191586/input0_results_240227_141255'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141255_1191586/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031505
+Execution efficiency = 0.144185
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141255_1191586/input0_results_240227_141255
+File './IPC/tmp/clock_0.csv' is generating
+RPL: on '240227_141256' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141256_1191673'
+RPL: result dir '/tmp/rpl_data_240227_141256_1191673/input0_results_240227_141256'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141256_1191673/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22595056
+Execution efficiency = 1.165936
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141256_1191673/input0_results_240227_141256
+File './IPC/tmp/clock_0.csv' is generating
+RPL: on '240227_141257' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141257_1191760'
+RPL: result dir '/tmp/rpl_data_240227_141257_1191760/input0_results_240227_141257'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141257_1191760/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192495652
+Execution efficiency = 0.135112
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141257_1191760/input0_results_240227_141257
+File './IPC/tmp/clock_0.csv' is generating
+RPL: on '240227_141257' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141257_1191847'
+RPL: result dir '/tmp/rpl_data_240227_141257_1191847/input0_results_240227_141257'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141257_1191847/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031973
+Execution efficiency = 0.154553
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141257_1191847/input0_results_240227_141257
+File './IPC/tmp/clock_0.csv' is generating
+RPL: on '240227_141258' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141258_1191934'
+RPL: result dir '/tmp/rpl_data_240227_141258_1191934/input0_results_240227_141258'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141258_1191934/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 112242513
+Execution efficiency = 0.239075
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141258_1191934/input0_results_240227_141258
+File './IPC/tmp/clock_0.csv' is generating
+RPL: on '240227_141258' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141258_1192021'
+RPL: result dir '/tmp/rpl_data_240227_141258_1192021/input0_results_240227_141258'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141258_1192021/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22651516
+Execution efficiency = 1.116058
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141258_1192021/input0_results_240227_141258
+File './IPC/tmp/clock_1.csv' is generating
+RPL: on '240227_141259' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141259_1192108'
+RPL: result dir '/tmp/rpl_data_240227_141259_1192108/input0_results_240227_141259'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141259_1192108/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192495402
+Execution efficiency = 0.128766
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141259_1192108/input0_results_240227_141259
+File './IPC/tmp/clock_1.csv' is generating
+RPL: on '240227_141259' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141259_1192195'
+RPL: result dir '/tmp/rpl_data_240227_141259_1192195/input0_results_240227_141259'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141259_1192195/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187030677
+Execution efficiency = 0.132554
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141259_1192195/input0_results_240227_141259
+File './IPC/tmp/clock_1.csv' is generating
+RPL: on '240227_141300' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141300_1192282'
+RPL: result dir '/tmp/rpl_data_240227_141300_1192282/input0_results_240227_141300'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141300_1192282/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22575957
+Execution efficiency = 1.038716
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141300_1192282/input0_results_240227_141300
+File './IPC/tmp/clock_1.csv' is generating
+RPL: on '240227_141300' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141300_1192369'
+RPL: result dir '/tmp/rpl_data_240227_141300_1192369/input0_results_240227_141300'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141300_1192369/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 24418993
+Execution efficiency = 0.982530
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141300_1192369/input0_results_240227_141300
+File './IPC/tmp/clock_1.csv' is generating
+RPL: on '240227_141301' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141301_1192456'
+RPL: result dir '/tmp/rpl_data_240227_141301_1192456/input0_results_240227_141301'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141301_1192456/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 267209636
+Execution efficiency = 0.096012
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141301_1192456/input0_results_240227_141301
+File './IPC/tmp/clock_1.csv' is generating
+RPL: on '240227_141301' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141301_1192543'
+RPL: result dir '/tmp/rpl_data_240227_141301_1192543/input0_results_240227_141301'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141301_1192543/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031255
+Execution efficiency = 0.140710
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141301_1192543/input0_results_240227_141301
+File './IPC/tmp/clock_1.csv' is generating
+RPL: on '240227_141302' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141302_1192630'
+RPL: result dir '/tmp/rpl_data_240227_141302_1192630/input0_results_240227_141302'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141302_1192630/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22594827
+Execution efficiency = 1.099190
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141302_1192630/input0_results_240227_141302
+File './IPC/tmp/clock_1.csv' is generating
+RPL: on '240227_141303' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141303_1192717'
+RPL: result dir '/tmp/rpl_data_240227_141303_1192717/input0_results_240227_141303'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141303_1192717/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192495722
+Execution efficiency = 0.129106
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141303_1192717/input0_results_240227_141303
+File './IPC/tmp/clock_1.csv' is generating
+RPL: on '240227_141303' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141303_1192804'
+RPL: result dir '/tmp/rpl_data_240227_141303_1192804/input0_results_240227_141303'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141303_1192804/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 267209703
+Execution efficiency = 0.095637
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141303_1192804/input0_results_240227_141303
+File './IPC/tmp/clock_1.csv' is generating
+RPL: on '240227_141304' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141304_1192891'
+RPL: result dir '/tmp/rpl_data_240227_141304_1192891/input0_results_240227_141304'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141304_1192891/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187030945
+Execution efficiency = 0.135411
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141304_1192891/input0_results_240227_141304
+File './IPC/tmp/clock_2.csv' is generating
+RPL: on '240227_141304' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141304_1192978'
+RPL: result dir '/tmp/rpl_data_240227_141304_1192978/input0_results_240227_141304'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141304_1192978/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22595136
+Execution efficiency = 1.111921
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141304_1192978/input0_results_240227_141304
+File './IPC/tmp/clock_2.csv' is generating
+RPL: on '240227_141305' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141305_1193065'
+RPL: result dir '/tmp/rpl_data_240227_141305_1193065/input0_results_240227_141305'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141305_1193065/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192496113
+Execution efficiency = 0.133158
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141305_1193065/input0_results_240227_141305
+File './IPC/tmp/clock_2.csv' is generating
+RPL: on '240227_141305' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141305_1193152'
+RPL: result dir '/tmp/rpl_data_240227_141305_1193152/input0_results_240227_141305'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141305_1193152/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187030390
+Execution efficiency = 0.125344
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141305_1193152/input0_results_240227_141305
+File './IPC/tmp/clock_2.csv' is generating
+RPL: on '240227_141306' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141306_1193239'
+RPL: result dir '/tmp/rpl_data_240227_141306_1193239/input0_results_240227_141306'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141306_1193239/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 112241578
+Execution efficiency = 0.210813
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141306_1193239/input0_results_240227_141306
+File './IPC/tmp/clock_2.csv' is generating
+RPL: on '240227_141306' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141306_1193326'
+RPL: result dir '/tmp/rpl_data_240227_141306_1193326/input0_results_240227_141306'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141306_1193326/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22652218
+Execution efficiency = 1.133946
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141306_1193326/input0_results_240227_141306
+File './IPC/tmp/clock_2.csv' is generating
+RPL: on '240227_141307' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141307_1193413'
+RPL: result dir '/tmp/rpl_data_240227_141307_1193413/input0_results_240227_141307'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141307_1193413/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192495551
+Execution efficiency = 0.121727
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141307_1193413/input0_results_240227_141307
+File './IPC/tmp/clock_2.csv' is generating
+RPL: on '240227_141307' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141307_1193500'
+RPL: result dir '/tmp/rpl_data_240227_141307_1193500/input0_results_240227_141307'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141307_1193500/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031176
+Execution efficiency = 0.139031
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141307_1193500/input0_results_240227_141307
+File './IPC/tmp/clock_2.csv' is generating
+RPL: on '240227_141308' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141308_1193587'
+RPL: result dir '/tmp/rpl_data_240227_141308_1193587/input0_results_240227_141308'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141308_1193587/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22577752
+Execution efficiency = 1.217978
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141308_1193587/input0_results_240227_141308
+File './IPC/tmp/clock_2.csv' is generating
+RPL: on '240227_141309' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141309_1193674'
+RPL: result dir '/tmp/rpl_data_240227_141309_1193674/input0_results_240227_141309'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141309_1193674/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 24419344
+Execution efficiency = 0.997439
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141309_1193674/input0_results_240227_141309
+File './IPC/tmp/clock_2.csv' is generating
+RPL: on '240227_141309' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141309_1193761'
+RPL: result dir '/tmp/rpl_data_240227_141309_1193761/input0_results_240227_141309'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141309_1193761/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 267210326
+Execution efficiency = 0.097709
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141309_1193761/input0_results_240227_141309
+File './IPC/tmp/clock_3.csv' is generating
+RPL: on '240227_141310' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141310_1193848'
+RPL: result dir '/tmp/rpl_data_240227_141310_1193848/input0_results_240227_141310'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141310_1193848/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031438
+Execution efficiency = 0.144662
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141310_1193848/input0_results_240227_141310
+File './IPC/tmp/clock_3.csv' is generating
+RPL: on '240227_141310' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141310_1193935'
+RPL: result dir '/tmp/rpl_data_240227_141310_1193935/input0_results_240227_141310'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141310_1193935/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22596070
+Execution efficiency = 1.183923
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141310_1193935/input0_results_240227_141310
+File './IPC/tmp/clock_3.csv' is generating
+RPL: on '240227_141311' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141311_1194022'
+RPL: result dir '/tmp/rpl_data_240227_141311_1194022/input0_results_240227_141311'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141311_1194022/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192497042
+Execution efficiency = 0.141380
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141311_1194022/input0_results_240227_141311
+File './IPC/tmp/clock_3.csv' is generating
+RPL: on '240227_141311' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141311_1194109'
+RPL: result dir '/tmp/rpl_data_240227_141311_1194109/input0_results_240227_141311'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141311_1194109/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 267210451
+Execution efficiency = 0.096755
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141311_1194109/input0_results_240227_141311
+File './IPC/tmp/clock_3.csv' is generating
+RPL: on '240227_141312' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141312_1194196'
+RPL: result dir '/tmp/rpl_data_240227_141312_1194196/input0_results_240227_141312'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141312_1194196/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031228
+Execution efficiency = 0.139966
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141312_1194196/input0_results_240227_141312
+File './IPC/tmp/clock_3.csv' is generating
+RPL: on '240227_141312' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141312_1194283'
+RPL: result dir '/tmp/rpl_data_240227_141312_1194283/input0_results_240227_141312'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141312_1194283/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22596525
+Execution efficiency = 1.218807
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141312_1194283/input0_results_240227_141312
+File './IPC/tmp/clock_3.csv' is generating
+RPL: on '240227_141313' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141313_1194370'
+RPL: result dir '/tmp/rpl_data_240227_141313_1194370/input0_results_240227_141313'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141313_1194370/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192496775
+Execution efficiency = 0.133756
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141313_1194370/input0_results_240227_141313
+File './IPC/tmp/clock_3.csv' is generating
+RPL: on '240227_141313' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141313_1194457'
+RPL: result dir '/tmp/rpl_data_240227_141313_1194457/input0_results_240227_141313'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141313_1194457/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031444
+Execution efficiency = 0.144414
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141313_1194457/input0_results_240227_141313
+File './IPC/tmp/clock_3.csv' is generating
+RPL: on '240227_141314' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141314_1194544'
+RPL: result dir '/tmp/rpl_data_240227_141314_1194544/input0_results_240227_141314'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141314_1194544/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 112242998
+Execution efficiency = 0.249929
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141314_1194544/input0_results_240227_141314
+File './IPC/tmp/clock_3.csv' is generating
+RPL: on '240227_141314' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141314_1194631'
+RPL: result dir '/tmp/rpl_data_240227_141314_1194631/input0_results_240227_141314'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141314_1194631/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22653342
+Execution efficiency = 1.210929
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141314_1194631/input0_results_240227_141314
+File './IPC/tmp/clock_4.csv' is generating
+RPL: on '240227_141315' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141315_1194718'
+RPL: result dir '/tmp/rpl_data_240227_141315_1194718/input0_results_240227_141315'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141315_1194718/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192497362
+Execution efficiency = 0.141417
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141315_1194718/input0_results_240227_141315
+File './IPC/tmp/clock_4.csv' is generating
+RPL: on '240227_141316' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141316_1194805'
+RPL: result dir '/tmp/rpl_data_240227_141316_1194805/input0_results_240227_141316'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141316_1194805/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031236
+Execution efficiency = 0.139600
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141316_1194805/input0_results_240227_141316
+File './IPC/tmp/clock_4.csv' is generating
+RPL: on '240227_141316' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141316_1194892'
+RPL: result dir '/tmp/rpl_data_240227_141316_1194892/input0_results_240227_141316'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141316_1194892/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22577451
+Execution efficiency = 1.090415
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141316_1194892/input0_results_240227_141316
+File './IPC/tmp/clock_4.csv' is generating
+RPL: on '240227_141317' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141317_1194979'
+RPL: result dir '/tmp/rpl_data_240227_141317_1194979/input0_results_240227_141317'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141317_1194979/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 24420303
+Execution efficiency = 1.079397
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141317_1194979/input0_results_240227_141317
+File './IPC/tmp/clock_4.csv' is generating
+RPL: on '240227_141317' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141317_1195066'
+RPL: result dir '/tmp/rpl_data_240227_141317_1195066/input0_results_240227_141317'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141317_1195066/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 267211076
+Execution efficiency = 0.099625
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141317_1195066/input0_results_240227_141317
+File './IPC/tmp/clock_4.csv' is generating
+RPL: on '240227_141318' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141318_1195153'
+RPL: result dir '/tmp/rpl_data_240227_141318_1195153/input0_results_240227_141318'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141318_1195153/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187032064
+Execution efficiency = 0.153366
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141318_1195153/input0_results_240227_141318
+File './IPC/tmp/clock_4.csv' is generating
+RPL: on '240227_141318' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141318_1195240'
+RPL: result dir '/tmp/rpl_data_240227_141318_1195240/input0_results_240227_141318'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141318_1195240/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22596884
+Execution efficiency = 1.224027
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141318_1195240/input0_results_240227_141318
+File './IPC/tmp/clock_4.csv' is generating
+RPL: on '240227_141319' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141319_1195327'
+RPL: result dir '/tmp/rpl_data_240227_141319_1195327/input0_results_240227_141319'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141319_1195327/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192497422
+Execution efficiency = 0.136014
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141319_1195327/input0_results_240227_141319
+File './IPC/tmp/clock_4.csv' is generating
+RPL: on '240227_141319' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141319_1195414'
+RPL: result dir '/tmp/rpl_data_240227_141319_1195414/input0_results_240227_141319'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141319_1195414/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 267211177
+Execution efficiency = 0.098050
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141319_1195414/input0_results_240227_141319
+File './IPC/tmp/clock_4.csv' is generating
+RPL: on '240227_141320' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141320_1195501'
+RPL: result dir '/tmp/rpl_data_240227_141320_1195501/input0_results_240227_141320'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141320_1195501/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031637
+Execution efficiency = 0.146401
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141320_1195501/input0_results_240227_141320
+File './IPC/tmp/clock_5.csv' is generating
+RPL: on '240227_141320' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141320_1195588'
+RPL: result dir '/tmp/rpl_data_240227_141320_1195588/input0_results_240227_141320'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141320_1195588/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22596576
+Execution efficiency = 1.155396
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141320_1195588/input0_results_240227_141320
+File './IPC/tmp/clock_5.csv' is generating
+RPL: on '240227_141321' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141321_1195675'
+RPL: result dir '/tmp/rpl_data_240227_141321_1195675/input0_results_240227_141321'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141321_1195675/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192497699
+Execution efficiency = 0.138666
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141321_1195675/input0_results_240227_141321
+File './IPC/tmp/clock_5.csv' is generating
+RPL: on '240227_141322' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141322_1195762'
+RPL: result dir '/tmp/rpl_data_240227_141322_1195762/input0_results_240227_141322'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141322_1195762/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031155
+Execution efficiency = 0.137652
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141322_1195762/input0_results_240227_141322
+File './IPC/tmp/clock_5.csv' is generating
+RPL: on '240227_141322' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141322_1195849'
+RPL: result dir '/tmp/rpl_data_240227_141322_1195849/input0_results_240227_141322'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141322_1195849/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 112242533
+Execution efficiency = 0.235355
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141322_1195849/input0_results_240227_141322
+File './IPC/tmp/clock_5.csv' is generating
+RPL: on '240227_141323' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141323_1195936'
+RPL: result dir '/tmp/rpl_data_240227_141323_1195936/input0_results_240227_141323'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141323_1195936/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22653457
+Execution efficiency = 1.147428
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141323_1195936/input0_results_240227_141323
+File './IPC/tmp/clock_5.csv' is generating
+RPL: on '240227_141323' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141323_1196023'
+RPL: result dir '/tmp/rpl_data_240227_141323_1196023/input0_results_240227_141323'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141323_1196023/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192498000
+Execution efficiency = 0.140405
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141323_1196023/input0_results_240227_141323
+File './IPC/tmp/clock_5.csv' is generating
+RPL: on '240227_141324' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141324_1196110'
+RPL: result dir '/tmp/rpl_data_240227_141324_1196110/input0_results_240227_141324'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141324_1196110/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031291
+Execution efficiency = 0.140227
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141324_1196110/input0_results_240227_141324
+File './IPC/tmp/clock_5.csv' is generating
+RPL: on '240227_141324' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141324_1196197'
+RPL: result dir '/tmp/rpl_data_240227_141324_1196197/input0_results_240227_141324'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141324_1196197/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22578451
+Execution efficiency = 1.145021
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141324_1196197/input0_results_240227_141324
+File './IPC/tmp/clock_5.csv' is generating
+RPL: on '240227_141325' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141325_1196284'
+RPL: result dir '/tmp/rpl_data_240227_141325_1196284/input0_results_240227_141325'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141325_1196284/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 24419991
+Execution efficiency = 1.023751
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141325_1196284/input0_results_240227_141325
+File './IPC/tmp/clock_5.csv' is generating
+RPL: on '240227_141325' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141325_1196371'
+RPL: result dir '/tmp/rpl_data_240227_141325_1196371/input0_results_240227_141325'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141325_1196371/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 267211225
+Execution efficiency = 0.092772
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141325_1196371/input0_results_240227_141325
+File './IPC/tmp/clock_6.csv' is generating
+RPL: on '240227_141326' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141326_1196458'
+RPL: result dir '/tmp/rpl_data_240227_141326_1196458/input0_results_240227_141326'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141326_1196458/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187030926
+Execution efficiency = 0.133255
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141326_1196458/input0_results_240227_141326
+File './IPC/tmp/clock_6.csv' is generating
+RPL: on '240227_141326' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141326_1196545'
+RPL: result dir '/tmp/rpl_data_240227_141326_1196545/input0_results_240227_141326'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141326_1196545/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22596466
+Execution efficiency = 1.082329
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141326_1196545/input0_results_240227_141326
+File './IPC/tmp/clock_6.csv' is generating
+RPL: on '240227_141327' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141327_1196632'
+RPL: result dir '/tmp/rpl_data_240227_141327_1196632/input0_results_240227_141327'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141327_1196632/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192497017
+Execution efficiency = 0.119372
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141327_1196632/input0_results_240227_141327
+File './IPC/tmp/clock_6.csv' is generating
+RPL: on '240227_141328' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141328_1196719'
+RPL: result dir '/tmp/rpl_data_240227_141328_1196719/input0_results_240227_141328'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141328_1196719/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 267211892
+Execution efficiency = 0.100271
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141328_1196719/input0_results_240227_141328
+File './IPC/tmp/clock_6.csv' is generating
+RPL: on '240227_141328' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141328_1196806'
+RPL: result dir '/tmp/rpl_data_240227_141328_1196806/input0_results_240227_141328'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141328_1196806/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187030567
+Execution efficiency = 0.126138
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141328_1196806/input0_results_240227_141328
+File './IPC/tmp/clock_6.csv' is generating
+RPL: on '240227_141329' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141329_1196893'
+RPL: result dir '/tmp/rpl_data_240227_141329_1196893/input0_results_240227_141329'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141329_1196893/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22596735
+Execution efficiency = 1.097433
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141329_1196893/input0_results_240227_141329
+File './IPC/tmp/clock_6.csv' is generating
+RPL: on '240227_141329' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141329_1196980'
+RPL: result dir '/tmp/rpl_data_240227_141329_1196980/input0_results_240227_141329'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141329_1196980/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192497615
+Execution efficiency = 0.127725
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141329_1196980/input0_results_240227_141329
+File './IPC/tmp/clock_6.csv' is generating
+RPL: on '240227_141330' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141330_1197067'
+RPL: result dir '/tmp/rpl_data_240227_141330_1197067/input0_results_240227_141330'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141330_1197067/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187030843
+Execution efficiency = 0.132021
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141330_1197067/input0_results_240227_141330
+File './IPC/tmp/clock_6.csv' is generating
+RPL: on '240227_141330' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141330_1197154'
+RPL: result dir '/tmp/rpl_data_240227_141330_1197154/input0_results_240227_141330'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141330_1197154/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 112242815
+Execution efficiency = 0.240671
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141330_1197154/input0_results_240227_141330
+File './IPC/tmp/clock_6.csv' is generating
+RPL: on '240227_141331' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141331_1197241'
+RPL: result dir '/tmp/rpl_data_240227_141331_1197241/input0_results_240227_141331'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141331_1197241/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22653900
+Execution efficiency = 1.128883
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141331_1197241/input0_results_240227_141331
+File './IPC/tmp/clock_7.csv' is generating
+RPL: on '240227_141331' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141331_1197328'
+RPL: result dir '/tmp/rpl_data_240227_141331_1197328/input0_results_240227_141331'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141331_1197328/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192498630
+Execution efficiency = 0.140838
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141331_1197328/input0_results_240227_141331
+File './IPC/tmp/clock_7.csv' is generating
+RPL: on '240227_141332' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141332_1197415'
+RPL: result dir '/tmp/rpl_data_240227_141332_1197415/input0_results_240227_141332'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141332_1197415/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031250
+Execution efficiency = 0.138755
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141332_1197415/input0_results_240227_141332
+File './IPC/tmp/clock_7.csv' is generating
+RPL: on '240227_141332' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141332_1197502'
+RPL: result dir '/tmp/rpl_data_240227_141332_1197502/input0_results_240227_141332'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141332_1197502/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22579385
+Execution efficiency = 1.199625
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141332_1197502/input0_results_240227_141332
+File './IPC/tmp/clock_7.csv' is generating
+RPL: on '240227_141333' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141333_1197589'
+RPL: result dir '/tmp/rpl_data_240227_141333_1197589/input0_results_240227_141333'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141333_1197589/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 24420576
+Execution efficiency = 1.060827
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141333_1197589/input0_results_240227_141333
+File './IPC/tmp/clock_7.csv' is generating
+RPL: on '240227_141334' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141334_1197676'
+RPL: result dir '/tmp/rpl_data_240227_141334_1197676/input0_results_240227_141334'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141334_1197676/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 267212055
+Execution efficiency = 0.096243
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141334_1197676/input0_results_240227_141334
+File './IPC/tmp/clock_7.csv' is generating
+RPL: on '240227_141334' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141334_1197763'
+RPL: result dir '/tmp/rpl_data_240227_141334_1197763/input0_results_240227_141334'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141334_1197763/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031268
+Execution efficiency = 0.138828
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141334_1197763/input0_results_240227_141334
+File './IPC/tmp/clock_7.csv' is generating
+RPL: on '240227_141335' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141335_1197850'
+RPL: result dir '/tmp/rpl_data_240227_141335_1197850/input0_results_240227_141335'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141335_1197850/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22597408
+Execution efficiency = 1.130324
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141335_1197850/input0_results_240227_141335
+File './IPC/tmp/clock_7.csv' is generating
+RPL: on '240227_141335' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141335_1197937'
+RPL: result dir '/tmp/rpl_data_240227_141335_1197937/input0_results_240227_141335'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141335_1197937/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192498415
+Execution efficiency = 0.132741
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141335_1197937/input0_results_240227_141335
+File './IPC/tmp/clock_7.csv' is generating
+RPL: on '240227_141336' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141336_1198024'
+RPL: result dir '/tmp/rpl_data_240227_141336_1198024/input0_results_240227_141336'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141336_1198024/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 267212443
+Execution efficiency = 0.098763
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141336_1198024/input0_results_240227_141336
+File './IPC/tmp/clock_7.csv' is generating
+RPL: on '240227_141336' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141336_1198111'
+RPL: result dir '/tmp/rpl_data_240227_141336_1198111/input0_results_240227_141336'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141336_1198111/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187030871
+Execution efficiency = 0.132166
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141336_1198111/input0_results_240227_141336
+File './IPC/tmp/clock_8.csv' is generating
+RPL: on '240227_141337' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141337_1198198'
+RPL: result dir '/tmp/rpl_data_240227_141337_1198198/input0_results_240227_141337'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141337_1198198/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22597378
+Execution efficiency = 1.113474
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141337_1198198/input0_results_240227_141337
+File './IPC/tmp/clock_8.csv' is generating
+RPL: on '240227_141337' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141337_1198285'
+RPL: result dir '/tmp/rpl_data_240227_141337_1198285/input0_results_240227_141337'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141337_1198285/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192498105
+Execution efficiency = 0.124741
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141337_1198285/input0_results_240227_141337
+File './IPC/tmp/clock_8.csv' is generating
+RPL: on '240227_141338' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141338_1198372'
+RPL: result dir '/tmp/rpl_data_240227_141338_1198372/input0_results_240227_141338'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141338_1198372/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031473
+Execution efficiency = 0.140609
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141338_1198372/input0_results_240227_141338
+File './IPC/tmp/clock_8.csv' is generating
+RPL: on '240227_141338' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141338_1198459'
+RPL: result dir '/tmp/rpl_data_240227_141338_1198459/input0_results_240227_141338'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141338_1198459/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 112242176
+Execution efficiency = 0.220548
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141338_1198459/input0_results_240227_141338
+File './IPC/tmp/clock_8.csv' is generating
+RPL: on '240227_141339' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141339_1198546'
+RPL: result dir '/tmp/rpl_data_240227_141339_1198546/input0_results_240227_141339'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141339_1198546/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22653992
+Execution efficiency = 1.073524
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141339_1198546/input0_results_240227_141339
+File './IPC/tmp/clock_8.csv' is generating
+RPL: on '240227_141340' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141340_1198633'
+RPL: result dir '/tmp/rpl_data_240227_141340_1198633/input0_results_240227_141340'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141340_1198633/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192499451
+Execution efficiency = 0.144167
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141340_1198633/input0_results_240227_141340
+File './IPC/tmp/clock_8.csv' is generating
+RPL: on '240227_141340' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141340_1198720'
+RPL: result dir '/tmp/rpl_data_240227_141340_1198720/input0_results_240227_141340'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141340_1198720/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031080
+Execution efficiency = 0.134724
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141340_1198720/input0_results_240227_141340
+File './IPC/tmp/clock_8.csv' is generating
+RPL: on '240227_141341' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141341_1198807'
+RPL: result dir '/tmp/rpl_data_240227_141341_1198807/input0_results_240227_141341'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141341_1198807/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22579367
+Execution efficiency = 1.124407
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141341_1198807/input0_results_240227_141341
+File './IPC/tmp/clock_8.csv' is generating
+RPL: on '240227_141341' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141341_1198894'
+RPL: result dir '/tmp/rpl_data_240227_141341_1198894/input0_results_240227_141341'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141341_1198894/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 24420056
+Execution efficiency = 0.953741
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141341_1198894/input0_results_240227_141341
+File './IPC/tmp/clock_8.csv' is generating
+RPL: on '240227_141342' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141342_1198981'
+RPL: result dir '/tmp/rpl_data_240227_141342_1198981/input0_results_240227_141342'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141342_1198981/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 267212383
+Execution efficiency = 0.093353
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141342_1198981/input0_results_240227_141342
+File './IPC/tmp/clock_9.csv' is generating
+RPL: on '240227_141342' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141342_1199068'
+RPL: result dir '/tmp/rpl_data_240227_141342_1199068/input0_results_240227_141342'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141342_1199068/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031150
+Execution efficiency = 0.135714
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141342_1199068/input0_results_240227_141342
+File './IPC/tmp/clock_9.csv' is generating
+RPL: on '240227_141343' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141343_1199155'
+RPL: result dir '/tmp/rpl_data_240227_141343_1199155/input0_results_240227_141343'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141343_1199155/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22597512
+Execution efficiency = 1.070525
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141343_1199155/input0_results_240227_141343
+File './IPC/tmp/clock_9.csv' is generating
+RPL: on '240227_141343' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141343_1199242'
+RPL: result dir '/tmp/rpl_data_240227_141343_1199242/input0_results_240227_141343'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141343_1199242/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192498933
+Execution efficiency = 0.129208
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141343_1199242/input0_results_240227_141343
+File './IPC/tmp/clock_9.csv' is generating
+RPL: on '240227_141344' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141344_1199329'
+RPL: result dir '/tmp/rpl_data_240227_141344_1199329/input0_results_240227_141344'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141344_1199329/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 267212375
+Execution efficiency = 0.090572
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141344_1199329/input0_results_240227_141344
+File './IPC/tmp/clock_9.csv' is generating
+RPL: on '240227_141344' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141344_1199416'
+RPL: result dir '/tmp/rpl_data_240227_141344_1199416/input0_results_240227_141344'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141344_1199416/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187030795
+Execution efficiency = 0.129346
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141344_1199416/input0_results_240227_141344
+File './IPC/tmp/clock_9.csv' is generating
+RPL: on '240227_141345' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141345_1199503'
+RPL: result dir '/tmp/rpl_data_240227_141345_1199503/input0_results_240227_141345'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141345_1199503/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 22597587
+Execution efficiency = 1.059724
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141345_1199503/input0_results_240227_141345
+File './IPC/tmp/clock_9.csv' is generating
+RPL: on '240227_141345' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141345_1199590'
+RPL: result dir '/tmp/rpl_data_240227_141345_1199590/input0_results_240227_141345'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141345_1199590/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 192498789
+Execution efficiency = 0.126193
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141345_1199590/input0_results_240227_141345
+File './IPC/tmp/clock_9.csv' is generating
+RPL: on '240227_141346' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141346_1199677'
+RPL: result dir '/tmp/rpl_data_240227_141346_1199677/input0_results_240227_141346'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141346_1199677/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 187031342
+Execution efficiency = 0.139113
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141346_1199677/input0_results_240227_141346
+File './IPC/tmp/clock_9.csv' is generating
+RPL: on '240227_141347' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/clock/clock_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_141347_1199764'
+RPL: result dir '/tmp/rpl_data_240227_141347_1199764/input0_results_240227_141347'
+CUDA Clock sample
+ROCProfiler: input from "/tmp/rpl_data_240227_141347_1199764/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Total clocks = 112243013
+Execution efficiency = 0.240400
+
+ROCPRofiler: 1 contexts collected, output directory /tmp/rpl_data_240227_141347_1199764/input0_results_240227_141347
+File './IPC/tmp/clock_9.csv' is generating
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/clock_0.csv ./bin/clock/clock_21
+0 : clock_21
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/clock_1.csv ./bin/clock/clock_10
+1 : clock_10
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/clock_2.csv ./bin/clock/clock_01
+2 : clock_01
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/clock_3.csv ./bin/clock/clock_02
+3 : clock_02
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/clock_4.csv ./bin/clock/clock_20
+4 : clock_20
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/clock_5.csv ./bin/clock/clock_22
+5 : clock_22
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/clock_6.csv ./bin/clock/clock_test
+6 : clock_test
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/clock_7.csv ./bin/clock/clock_12
+7 : clock_12
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/clock_8.csv ./bin/clock/clock_00
+8 : clock_00
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/clock_9.csv ./bin/clock/clock_11
+9 : clock_11
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+

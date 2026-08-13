@@ -1,0 +1,64 @@
+
+
+------------------------------ kernel_name: _Z13mergeSortPassPK15HIP_vector_typeIfLj4EEPS0_PKiiii ------------------------------
+read_input: ./system/group/hybridsort_hip/_Z13mergeSortPassPK15HIP_vector_typeIfLj4EEPS0_PKiiii.txt
+baseline_profiling #####
+baseline_time: 15.883000
+------------------- mode: VOLATILE ------------------
+offline_profiling #######
+%22_%32: -0.138513
+%44: -0.434427
+%49_%52: -0.503683
+%63_%65: -30.164327
+%72: -3.550966
+%153: 4.885727
+%22: -0.579236
+%32: 0.226657
+%49: 0.188881
+%52: 0.018888
+%63: -23.572373
+%65: -19.870302
+algorithm2 #####
+combi_g of %22_%32: 0.214065
+score of %22: -0.472203
+score of %32: 0.333690
+combi_g of %44: 0.000000
+score of %44: -0.434427
+combi_g of %49_%52: -0.711452
+score of %49: -0.166845
+score of %52: -0.336838
+combi_g of %63_%65: 13.278348
+combi_g of %72: 0.000000
+score of %72: -3.550966
+combi_g of %153: 0.000000
+score of %153: 4.885727
+mode is VOLATILE
+policy is %153, total score is 4.885727
+------------------- mode: VOLATILE ------------------
+------------------- answer------------------
+ VOLATILE 
+%153, store_bypass is 0:
+ baseline_time:15.883000 , time:15.573000, real improve:1.951772, speedup: 1.019906 
+
+
+------------------------------ kernel_name: _Z12bucketprefixPjS_ ------------------------------
+read_input: ./system/group/hybridsort_hip/_Z12bucketprefixPjS_.txt
+
+
+------------------------------ kernel_name: _Z12bucketprefixPjS_i ------------------------------
+read_input: ./system/group/hybridsort_hip/_Z12bucketprefixPjS_i.txt
+baseline_profiling #####
+baseline_time: 1.689000
+------------------- mode: VOLATILE ------------------
+offline_profiling #######
+%23: 35.287152
+algorithm2 #####
+combi_g of %23: 0.000000
+score of %23: 35.287152
+mode is VOLATILE
+policy is %23, total score is 35.287152
+------------------- mode: VOLATILE ------------------
+------------------- answer------------------
+ VOLATILE 
+%23, store_bypass is 0:
+ baseline_time:1.689000 , time:1.097000, real improve:35.050326, speedup: 1.539654 

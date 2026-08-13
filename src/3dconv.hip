@@ -15,20 +15,21 @@
 #include <stdlib.h>
 #include <stdarg.h>
 #include <string.h>
+#include <chrono>
 #include <hip/hip_runtime.h>
-#include <example_utils.hpp>
+#include "../include/example_utils.hpp"
 
 #define POLYBENCH_TIME 1
 
-#include "3dconv.h"
-#include "polybench.h"
-#include "polybenchUtilFuncts.h"
+#include "../include/3dconv/3dconv.h"
+#include "../include/polybench.h"
+#include "../include/polybenchUtilFuncts.h"
 
 //define the error threshold for the results "not matching"
 #define PERCENT_DIFF_ERROR_THRESHOLD 0.5
 
 #define GPU_DEVICE 0
-
+float eventMs =1.0f;
 
 void conv3D(int ni, int nj, int nk, DATA_TYPE POLYBENCH_3D(A, NI, NJ, NK, ni, nj, nk), DATA_TYPE POLYBENCH_3D(B, NI, NJ, NK, ni, nj, nk))
 {
@@ -149,8 +150,16 @@ void convolution3DCuda(int ni, int nj, int nk, DATA_TYPE POLYBENCH_3D(A, NI, NJ,
 	dim3 block(DIM_THREAD_BLOCK_X, DIM_THREAD_BLOCK_Y);
 	dim3 grid((size_t)(ceil( ((float)NK) / ((float)block.x) )), (size_t)(ceil( ((float)NJ) / ((float)block.y) )));
 	
+	printf("_PB_NI: %d\n", _PB_NI);
 	/* Start timer. */
   	polybench_start_instruments;
+	// auto kstart = std::chrono::steady_clock::now();
+
+	hipEvent_t start, stop;
+	hipEventCreate(&start);
+	hipEventCreate(&stop);
+	// float eventMs =1.0f;
+	hipEventRecord(start, NULL);
 
 	int i;
 	for (i = 1; i < _PB_NI - 1; ++i) // 0
@@ -158,10 +167,18 @@ void convolution3DCuda(int ni, int nj, int nk, DATA_TYPE POLYBENCH_3D(A, NI, NJ,
 		convolution3D_kernel<<< grid, block >>>(ni, nj, nk, A_gpu, B_gpu, i);
 	}
 
-	HIP_CHECK(hipDeviceSynchronize());
+	hipEventRecord(stop, NULL);
+	hipEventSynchronize(stop);
+	hipEventElapsedTime(&eventMs, start, stop);
+	printf("kernel time (hipEventElapsedTime)=%6.3fms\n", eventMs);
+	
+	// HIP_CHECK(hipDeviceSynchronize());
 	// printf("GPU Time in seconds:\n");
+	// auto kend = std::chrono::steady_clock::now();
+	// auto ktime = std::chrono::duration_cast<std::chrono::milliseconds>(kend - kstart).count();
+  	// std::cout << "chrono:" << ktime << " ms" << std::endl;
   	polybench_stop_instruments;
- 	polybench_print_instruments;
+ 	// polybench_print_instruments;
 	
 	HIP_CHECK(hipMemcpy(B_outputFromGpu, B_gpu, sizeof(DATA_TYPE) * NI * NJ * NK, hipMemcpyDeviceToHost));
 	
@@ -229,7 +246,9 @@ int main(int argc, char *argv[])
 	POLYBENCH_FREE_ARRAY(B);
 	POLYBENCH_FREE_ARRAY(B_outputFromGpu);
 
-    	return 0;
+	printf("%6.3f ms\n", eventMs);
+    
+	return 0;
 }
 
-#include <polybench.c>
+#include "../include/polybench.c"

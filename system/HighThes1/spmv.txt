@@ -1,0 +1,8 @@
+
+
+------------------------------ kernel_name: _Z12bucketprefixPjS_i ------------------------------
+baseline_profiling #####
+
+
+------------------------------ kernel_name: _Z8spmv_jdsPfPKfPKiS3_S1_S3_i ------------------------------
+baseline_profiling #####

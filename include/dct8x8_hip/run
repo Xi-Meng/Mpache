@@ -1,0 +1,1 @@
+./bin/dct8x8_hip/dct8x8_hip_cache 16384 1300 100 && ./bin/dct8x8_hip/dct8x8_hip_bypass 16384 1300 100

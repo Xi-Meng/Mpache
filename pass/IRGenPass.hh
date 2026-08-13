@@ -14,12 +14,14 @@ struct IRGenPass : public SubPass {
     if (F.isDefinitionExact() && F.getCallingConv() == llvm::CallingConv::AMDGPU_KERNEL) {
       load_inst_count = 0;
       store_inst_count = 0;
-      if (auto cm_proj_path = getenv("CM_PROJ_PATH")) {
-        path = (std::string(cm_proj_path) + "/tmp/IR/" + F.getName() + ".ll").str();
-      } else {
-        path = (F.getName() + ".ll").str();
-        llvm::outs() << "Warn env CM_PROJ_PATH not set!\n";
-      }
+      path = ("/workspace/Inst-level-cache-management/tmp/IR/" + F.getName() + ".ll").str();
+      // if (auto cm_proj_path = getenv("CM_PROJ_PATH")) {
+      //   path = (std::string(cm_proj_path) + "/tmp/IR/" + F.getName() + ".ll").str();
+      // } 
+      // else {
+      //   path = (F.getName() + ".ll").str();
+      //   llvm::outs() << "Warn env CM_PROJ_PATH not set!\n";
+      // }
       llvm::outs() << "IR: " << path << "\n";
       llvm::raw_fd_ostream ir_buffer = llvm::raw_fd_ostream(path, EC);
       if (getenv("PASS_VIEW_CFG"))

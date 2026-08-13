@@ -1,0 +1,67 @@
+
+
+------------------------------ kernel_name: _Z13DCT8x8_kernelPfPKfjjj ------------------------------
+baseline_profiling #####
+baseline_time: 40.132400
+read_input: ./system/group/dct8x8_hip/_Z13DCT8x8_kernelPfPKfjjj.txt
+offline_profiling -----------
+%34_%37_%42_%47_%52_%57_%62_%67, mode: 0, baseline: 40.132400, time: 39.943000, offp: 0.471938, speedup: 1.004742
+%34_%37_%42_%47_%52_%57_%62_%67, mode: 1, baseline: 40.132400, time: 36.825000, offp: 8.241222, speedup: 1.089814
+%34, mode: 0, baseline: 40.132400, time: 39.889000, offp: 0.606493, speedup: 1.006102
+%34, mode: 1, baseline: 40.132400, time: 38.951000, offp: 2.943756, speedup: 1.030330
+%37, mode: 0, baseline: 40.132400, time: 39.919000, offp: 0.531740, speedup: 1.005346
+%37, mode: 1, baseline: 40.132400, time: 38.887000, offp: 3.103228, speedup: 1.032026
+%42, mode: 0, baseline: 40.132400, time: 39.943000, offp: 0.471938, speedup: 1.004742
+%42, mode: 1, baseline: 40.132400, time: 38.555000, offp: 3.930490, speedup: 1.040913
+%47, mode: 0, baseline: 40.132400, time: 40.455000, offp: -0.803839, speedup: 0.992026
+%47, mode: 1, baseline: 40.132400, time: 38.803000, offp: 3.312536, speedup: 1.034260
+%52, mode: 0, baseline: 40.132400, time: 39.676000, offp: 1.137236, speedup: 1.011503
+%52, mode: 1, baseline: 40.132400, time: 38.450000, offp: 4.192124, speedup: 1.043756
+%57, mode: 0, baseline: 40.132400, time: 39.941000, offp: 0.476921, speedup: 1.004792
+%57, mode: 1, baseline: 40.132400, time: 38.636000, offp: 3.728658, speedup: 1.038731
+%62, mode: 0, baseline: 40.132400, time: 39.699000, offp: 1.079925, speedup: 1.010917
+%62, mode: 1, baseline: 40.132400, time: 38.402000, offp: 4.311728, speedup: 1.045060
+%67, mode: 0, baseline: 40.132400, time: 39.926000, offp: 0.514298, speedup: 1.005170
+%67, mode: 1, baseline: 40.132400, time: 38.841000, offp: 3.217849, speedup: 1.033248
+HighThes1: 1.000000 -----------
+store_group, mode: 0, baseline_time:40.132400, store_time:40.293000, offp: -0.400175, speedup: 0.996014
+store_group, mode: 1, baseline_time:40.132400, store_time:38.141000, offp: 4.962076, speedup: 1.052212
+HighThes1:1.000000, 37_42_47_52_57_62_67, mode: 1_1_1_1_1_1_1,
+ baseline_time:40.132400, design_time:35.778000, offp: 10.850086, speedup: 1.121706
+------
+HighThes1: 1.100000 -----------
+store_group, mode: 0, baseline_time:40.132400, store_time:39.696000, offp: 1.087401, speedup: 1.010994
+store_group, mode: 1, baseline_time:40.132400, store_time:38.131000, offp: 4.986993, speedup: 1.052487
+HighThes1:1.100000, 37_42_47_52_57_62_67, mode: 1_1_1_1_1_1_1,
+ baseline_time:40.132400, design_time:35.797000, offp: 10.802743, speedup: 1.121111
+------
+HighThes1: 1.200000 -----------
+store_group, mode: 0, baseline_time:40.132400, store_time:39.898000, offp: 0.584067, speedup: 1.005875
+store_group, mode: 1, baseline_time:40.132400, store_time:38.172000, offp: 4.884831, speedup: 1.051357
+HighThes1:1.200000, 37_42_47_52_57_62_67, mode: 1_1_1_1_1_1_1,
+ baseline_time:40.132400, design_time:36.039000, offp: 10.199739, speedup: 1.113583
+------
+HighThes1: 1.300000 -----------
+store_group, mode: 0, baseline_time:40.132400, store_time:39.893000, offp: 0.596526, speedup: 1.006001
+store_group, mode: 1, baseline_time:40.132400, store_time:38.981000, offp: 2.869004, speedup: 1.029537
+HighThes1:1.300000, 37_42_47_52_57_62_67, mode: 1_1_1_1_1_1_1,
+ baseline_time:40.132400, design_time:35.757000, offp: 10.902413, speedup: 1.122365
+------
+HighThes1: 1.400000 -----------
+store_group, mode: 0, baseline_time:40.132400, store_time:39.575000, offp: 1.388903, speedup: 1.014085
+store_group, mode: 1, baseline_time:40.132400, store_time:38.099000, offp: 5.066729, speedup: 1.053371
+HighThes1:1.400000, 37_42_47_52_57_62_67, mode: 1_1_1_1_1_1_1,
+ baseline_time:40.132400, design_time:36.037000, offp: 10.204722, speedup: 1.113644
+------
+HighThes1: 1.500000 -----------
+store_group, mode: 0, baseline_time:40.132400, store_time:39.920000, offp: 0.529248, speedup: 1.005321
+store_group, mode: 1, baseline_time:40.132400, store_time:38.099000, offp: 5.066729, speedup: 1.053371
+HighThes1:1.500000, 37_42_47_52_57_62_67, mode: 1_1_1_1_1_1_1,
+ baseline_time:40.132400, design_time:35.978000, offp: 10.351736, speedup: 1.115471
+------
+HighThes1: 1.600000 -----------
+store_group, mode: 0, baseline_time:40.132400, store_time:39.657000, offp: 1.184579, speedup: 1.011988
+store_group, mode: 1, baseline_time:40.132400, store_time:38.393000, offp: 4.334154, speedup: 1.045305
+HighThes1:1.600000, 37_42_47_52_57_62_67, mode: 1_1_1_1_1_1_1,
+ baseline_time:40.132400, design_time:36.693000, offp: 8.570133, speedup: 1.093734
+------

@@ -1,0 +1,88 @@
+
+
+------------------------------ kernel_name: _Z12bucketprefixPjS_i ------------------------------
+baseline_profiling #####
+baseline_time: 1.751800
+read_input: ./system/group/hybridsort_hip/_Z12bucketprefixPjS_i.txt
+offline_profiling -----------
+%23, mode: 0, baseline: 1.751800, time: 1.762000, offp: -0.582258, speedup: 0.994211
+%23, mode: 1, baseline: 1.751800, time: 1.070000, offp: 38.919968, speedup: 1.637196
+weight: 0.000000 -----------
+weight:0.000000, 23, mode: 1,
+ baseline_time:1.751800, design_time:1.595000, offp: 8.950793, speedup: 1.098307
+------
+weight: 0.100000 -----------
+weight:0.100000, 23, mode: 1,
+ baseline_time:1.751800, design_time:1.120000, offp: 36.065761, speedup: 1.564107
+------
+weight: 0.200000 -----------
+weight:0.200000, 23, mode: 1,
+ baseline_time:1.751800, design_time:1.069000, offp: 38.977052, speedup: 1.638728
+------
+weight: 0.300000 -----------
+weight:0.300000, 23, mode: 1,
+ baseline_time:1.751800, design_time:1.068000, offp: 39.034136, speedup: 1.640262
+------
+weight: 0.400000 -----------
+weight:0.400000, 23, mode: 1,
+ baseline_time:1.751800, design_time:1.599000, offp: 8.722457, speedup: 1.095560
+------
+weight: 0.500000 -----------
+weight:0.500000, 23, mode: 1,
+ baseline_time:1.751800, design_time:1.550000, offp: 11.519580, speedup: 1.130194
+------
+
+
+------------------------------ kernel_name: _Z13mergeSortPassPK15HIP_vector_typeIfLj4EEPS0_PKiiii ------------------------------
+baseline_profiling #####
+baseline_time: 15.830400
+read_input: ./system/group/hybridsort_hip/_Z13mergeSortPassPK15HIP_vector_typeIfLj4EEPS0_PKiiii.txt
+offline_profiling -----------
+%22_%32, mode: 0, baseline: 15.830400, time: 15.797000, offp: 0.210986, speedup: 1.002114
+%22_%32, mode: 1, baseline: 15.830400, time: 15.909000, offp: -0.496513, speedup: 0.995059
+%44, mode: 0, baseline: 15.830400, time: 15.864000, offp: -0.212250, speedup: 0.997882
+%44, mode: 1, baseline: 15.830400, time: 15.915000, offp: -0.534415, speedup: 0.994684
+%49_%52, mode: 0, baseline: 15.830400, time: 15.881000, offp: -0.319638, speedup: 0.996814
+%49_%52, mode: 1, baseline: 15.830400, time: 15.897000, offp: -0.420710, speedup: 0.995811
+%63_%65, mode: 0, baseline: 15.830400, time: 15.894000, offp: -0.401759, speedup: 0.995998
+%63_%65, mode: 1, baseline: 15.830400, time: 20.742000, offp: -31.026380, speedup: 0.763205
+%72, mode: 0, baseline: 15.830400, time: 16.320000, offp: -3.092784, speedup: 0.970000
+%72, mode: 1, baseline: 15.830400, time: 16.663000, offp: -5.259501, speedup: 0.950033
+%153, mode: 0, baseline: 15.830400, time: 15.229000, offp: 3.799020, speedup: 1.039490
+%153, mode: 1, baseline: 15.830400, time: 15.364000, offp: 2.946230, speedup: 1.030357
+%22, mode: 0, baseline: 15.830400, time: 15.967000, offp: -0.862897, speedup: 0.991445
+%22, mode: 1, baseline: 15.830400, time: 15.998000, offp: -1.058722, speedup: 0.989524
+%32, mode: 0, baseline: 15.830400, time: 15.888000, offp: -0.363857, speedup: 0.996375
+%32, mode: 1, baseline: 15.830400, time: 15.742000, offp: 0.558419, speedup: 1.005616
+%49, mode: 0, baseline: 15.830400, time: 15.832000, offp: -0.010107, speedup: 0.999899
+%49, mode: 1, baseline: 15.830400, time: 16.018000, offp: -1.185062, speedup: 0.988288
+%52, mode: 0, baseline: 15.830400, time: 15.878000, offp: -0.300687, speedup: 0.997002
+%52, mode: 1, baseline: 15.830400, time: 15.904000, offp: -0.464928, speedup: 0.995372
+%63, mode: 0, baseline: 15.830400, time: 16.078000, offp: -1.564079, speedup: 0.984600
+%63, mode: 1, baseline: 15.830400, time: 19.734000, offp: -24.658884, speedup: 0.802189
+%65, mode: 0, baseline: 15.830400, time: 15.812000, offp: 0.116232, speedup: 1.001164
+%65, mode: 1, baseline: 15.830400, time: 19.293000, offp: -21.873105, speedup: 0.820526
+weight: 0.000000 -----------
+weight:0.000000, 153, mode: 0,
+ baseline_time:15.830400, design_time:15.107000, offp: 4.569689, speedup: 1.047885
+------
+weight: 0.100000 -----------
+weight:0.100000, 153, mode: 0,
+ baseline_time:15.830400, design_time:15.162000, offp: 4.222256, speedup: 1.044084
+------
+weight: 0.200000 -----------
+weight:0.200000, 153, mode: 0,
+ baseline_time:15.830400, design_time:15.223000, offp: 3.836921, speedup: 1.039900
+------
+weight: 0.300000 -----------
+weight:0.300000, 153, mode: 0,
+ baseline_time:15.830400, design_time:15.030000, offp: 5.056095, speedup: 1.053253
+------
+weight: 0.400000 -----------
+weight:0.400000, 153, mode: 0,
+ baseline_time:15.830400, design_time:15.172000, offp: 4.159086, speedup: 1.043396
+------
+weight: 0.500000 -----------
+weight:0.500000, 153, mode: 0,
+ baseline_time:15.830400, design_time:15.241000, offp: 3.723216, speedup: 1.038672
+------

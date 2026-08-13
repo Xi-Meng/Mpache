@@ -1,0 +1,1 @@
+/opt/rocm-5.7.0/llvm/bin/clang++ -fPIC -O3 -DNDEBUG  -Wl,-rpath-link,  -Wl,--gc-sections -shared  -o ../lib/hipPass.so CMakeFiles/hipPass.dir/hipPass.cc.o  -Wl,-rpath,"\$ORIGIN/../lib:/opt/rocm/llvm/lib" 

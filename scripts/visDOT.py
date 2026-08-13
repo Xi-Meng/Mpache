@@ -1,11 +1,13 @@
 #! /usr/bin/python3
 import pydot
-import common
+# import common
 
 def vis_dot(path):
+  print(path)
   graphs = pydot.graph_from_dot_file(path)
   graphs[0].write_svg(f"{'/'.join(path.split('/')[:-1])}/{path.split('/')[-1].split('.')[0]}.svg")
 
 if __name__ == "__main__" :
-  assert common.args.path
-  vis_dot(common.args.path)
+  # assert common.args.path
+  # vis_dot(common.args.path)
+  vis_dot("/workspace/Inst-level-cache-management/tmp/CFG/_Z6conv1dIdEvPKT_PS0_ii_LS.dot")

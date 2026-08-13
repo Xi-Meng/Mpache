@@ -1,4 +1,6 @@
-# Adding a Pass in LLVM
+# PASS for setting glc slc and dlc
+
+## Adding a Pass in LLVM
 
 To add a new pass in LLVM we can references following docs:
 - https://llvm.org/docs/WritingAnLLVMPass.html
@@ -6,18 +8,6 @@ To add a new pass in LLVM we can references following docs:
 - https://llvm.org/docs/WritingAnLLVMNewPMPass.html
 
 For convenient, we don't want to rebuild LLVM when adding a new pass. We can register pass as a plugin in Clang using `-fpass-plugin=/path-to-pass.so`.
-
-# CFG : PASS for generating control flow graph
-
-In this pass, the CFG of each function (in the format of `.dot`) will be generated in `tmp/CFG/xxx` which will be print during the compilation. The control flow graph will characterize the dependency relationship of each instructions speicially for `LOAD` and `STORE` instructions.
-
-# DFG : PASS for generating data flow graph
-
-> reference [llvm_DFGPass](https://github.com/bin2415/llvm_DFGPass)
-
-In this pass, the DFG of each function (in the format of `.dot`) will be generated in `tmp/DFG/xxx` which will be print during the compilation. The data flow graph will characterize the dependency relationship of each variable speicially for `LOAD` and `STORE` instructions.
-
-# INJECT: PASS for setting glc slc and dlc
 
 ## Setting glc slc and dlc througth Pass
 
@@ -52,3 +42,7 @@ In the pass, we print IR to `tmp/IR/xxx.ll` where the name of file is print to s
 [100%] Linking HIP executable /guoty/Inst-level-cache-management/bin/INJECT_floyd_warshall
 [100%] Built target INJECT_floyd_warshall
 ```
+
+## CFG 
+
+To enable generation of CFG during the pass, set env through `export PASS_VIEW_CFG=1`.

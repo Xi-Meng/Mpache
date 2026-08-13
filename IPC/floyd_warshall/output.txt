@@ -1,0 +1,4672 @@
+nohup: ignoring input
+RPL: on '240212_074133' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074133_3077185'
+RPL: result dir '/tmp/rpl_data_240212_074133_3077185/input0_results_240212_074133'
+ROCProfiler: input from "/tmp/rpl_data_240212_074133_3077185/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+170.251 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074133_3077185/input0_results_240212_074133
+File './IPC/tmp/floyd_warshall_0.csv' is generating
+RPL: on '240212_074134' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074134_3077272'
+RPL: result dir '/tmp/rpl_data_240212_074134_3077272/input0_results_240212_074134'
+ROCProfiler: input from "/tmp/rpl_data_240212_074134_3077272/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+170.443 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074134_3077272/input0_results_240212_074134
+File './IPC/tmp/floyd_warshall_0.csv' is generating
+RPL: on '240212_074134' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074134_3077359'
+RPL: result dir '/tmp/rpl_data_240212_074134_3077359/input0_results_240212_074134'
+ROCProfiler: input from "/tmp/rpl_data_240212_074134_3077359/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+172.848 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074134_3077359/input0_results_240212_074134
+File './IPC/tmp/floyd_warshall_0.csv' is generating
+RPL: on '240212_074135' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074135_3077446'
+RPL: result dir '/tmp/rpl_data_240212_074135_3077446/input0_results_240212_074135'
+ROCProfiler: input from "/tmp/rpl_data_240212_074135_3077446/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+168.608 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074135_3077446/input0_results_240212_074135
+File './IPC/tmp/floyd_warshall_0.csv' is generating
+RPL: on '240212_074136' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074136_3077533'
+RPL: result dir '/tmp/rpl_data_240212_074136_3077533/input0_results_240212_074136'
+ROCProfiler: input from "/tmp/rpl_data_240212_074136_3077533/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+170.543 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074136_3077533/input0_results_240212_074136
+File './IPC/tmp/floyd_warshall_0.csv' is generating
+RPL: on '240212_074136' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074136_3077620'
+RPL: result dir '/tmp/rpl_data_240212_074136_3077620/input0_results_240212_074136'
+ROCProfiler: input from "/tmp/rpl_data_240212_074136_3077620/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+168.571 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074136_3077620/input0_results_240212_074136
+File './IPC/tmp/floyd_warshall_0.csv' is generating
+RPL: on '240212_074137' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074137_3077707'
+RPL: result dir '/tmp/rpl_data_240212_074137_3077707/input0_results_240212_074137'
+ROCProfiler: input from "/tmp/rpl_data_240212_074137_3077707/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+171.083 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074137_3077707/input0_results_240212_074137
+File './IPC/tmp/floyd_warshall_0.csv' is generating
+RPL: on '240212_074138' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074138_3077794'
+RPL: result dir '/tmp/rpl_data_240212_074138_3077794/input0_results_240212_074138'
+ROCProfiler: input from "/tmp/rpl_data_240212_074138_3077794/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+172.467 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074138_3077794/input0_results_240212_074138
+File './IPC/tmp/floyd_warshall_0.csv' is generating
+RPL: on '240212_074139' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074139_3077881'
+RPL: result dir '/tmp/rpl_data_240212_074139_3077881/input0_results_240212_074139'
+ROCProfiler: input from "/tmp/rpl_data_240212_074139_3077881/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+171.064 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074139_3077881/input0_results_240212_074139
+File './IPC/tmp/floyd_warshall_0.csv' is generating
+RPL: on '240212_074140' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074140_3077968'
+RPL: result dir '/tmp/rpl_data_240212_074140_3077968/input0_results_240212_074140'
+ROCProfiler: input from "/tmp/rpl_data_240212_074140_3077968/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+170.992 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074140_3077968/input0_results_240212_074140
+File './IPC/tmp/floyd_warshall_0.csv' is generating
+RPL: on '240212_074140' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074140_3078055'
+RPL: result dir '/tmp/rpl_data_240212_074140_3078055/input0_results_240212_074140'
+ROCProfiler: input from "/tmp/rpl_data_240212_074140_3078055/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.208 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074140_3078055/input0_results_240212_074140
+File './IPC/tmp/floyd_warshall_1.csv' is generating
+RPL: on '240212_074141' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074141_3078142'
+RPL: result dir '/tmp/rpl_data_240212_074141_3078142/input0_results_240212_074141'
+ROCProfiler: input from "/tmp/rpl_data_240212_074141_3078142/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+192.771 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074141_3078142/input0_results_240212_074141
+File './IPC/tmp/floyd_warshall_1.csv' is generating
+RPL: on '240212_074142' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074142_3078229'
+RPL: result dir '/tmp/rpl_data_240212_074142_3078229/input0_results_240212_074142'
+ROCProfiler: input from "/tmp/rpl_data_240212_074142_3078229/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+182.269 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074142_3078229/input0_results_240212_074142
+File './IPC/tmp/floyd_warshall_1.csv' is generating
+RPL: on '240212_074143' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074143_3078316'
+RPL: result dir '/tmp/rpl_data_240212_074143_3078316/input0_results_240212_074143'
+ROCProfiler: input from "/tmp/rpl_data_240212_074143_3078316/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.958 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074143_3078316/input0_results_240212_074143
+File './IPC/tmp/floyd_warshall_1.csv' is generating
+RPL: on '240212_074143' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074143_3078403'
+RPL: result dir '/tmp/rpl_data_240212_074143_3078403/input0_results_240212_074143'
+ROCProfiler: input from "/tmp/rpl_data_240212_074143_3078403/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+184.543 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074143_3078403/input0_results_240212_074143
+File './IPC/tmp/floyd_warshall_1.csv' is generating
+RPL: on '240212_074144' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074144_3078490'
+RPL: result dir '/tmp/rpl_data_240212_074144_3078490/input0_results_240212_074144'
+ROCProfiler: input from "/tmp/rpl_data_240212_074144_3078490/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+180.511 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074144_3078490/input0_results_240212_074144
+File './IPC/tmp/floyd_warshall_1.csv' is generating
+RPL: on '240212_074145' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074145_3078577'
+RPL: result dir '/tmp/rpl_data_240212_074145_3078577/input0_results_240212_074145'
+ROCProfiler: input from "/tmp/rpl_data_240212_074145_3078577/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.956 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074145_3078577/input0_results_240212_074145
+File './IPC/tmp/floyd_warshall_1.csv' is generating
+RPL: on '240212_074146' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074146_3078664'
+RPL: result dir '/tmp/rpl_data_240212_074146_3078664/input0_results_240212_074146'
+ROCProfiler: input from "/tmp/rpl_data_240212_074146_3078664/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+180.821 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074146_3078664/input0_results_240212_074146
+File './IPC/tmp/floyd_warshall_1.csv' is generating
+RPL: on '240212_074146' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074146_3078751'
+RPL: result dir '/tmp/rpl_data_240212_074146_3078751/input0_results_240212_074146'
+ROCProfiler: input from "/tmp/rpl_data_240212_074146_3078751/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+184.457 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074146_3078751/input0_results_240212_074146
+File './IPC/tmp/floyd_warshall_1.csv' is generating
+RPL: on '240212_074147' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074147_3078838'
+RPL: result dir '/tmp/rpl_data_240212_074147_3078838/input0_results_240212_074147'
+ROCProfiler: input from "/tmp/rpl_data_240212_074147_3078838/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+183.028 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074147_3078838/input0_results_240212_074147
+File './IPC/tmp/floyd_warshall_1.csv' is generating
+RPL: on '240212_074148' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074148_3078925'
+RPL: result dir '/tmp/rpl_data_240212_074148_3078925/input0_results_240212_074148'
+ROCProfiler: input from "/tmp/rpl_data_240212_074148_3078925/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.05 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074148_3078925/input0_results_240212_074148
+File './IPC/tmp/floyd_warshall_2.csv' is generating
+RPL: on '240212_074149' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074149_3079012'
+RPL: result dir '/tmp/rpl_data_240212_074149_3079012/input0_results_240212_074149'
+ROCProfiler: input from "/tmp/rpl_data_240212_074149_3079012/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+183.482 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074149_3079012/input0_results_240212_074149
+File './IPC/tmp/floyd_warshall_2.csv' is generating
+RPL: on '240212_074149' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074149_3079099'
+RPL: result dir '/tmp/rpl_data_240212_074149_3079099/input0_results_240212_074149'
+ROCProfiler: input from "/tmp/rpl_data_240212_074149_3079099/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+174.116 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074149_3079099/input0_results_240212_074149
+File './IPC/tmp/floyd_warshall_2.csv' is generating
+RPL: on '240212_074150' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074150_3079186'
+RPL: result dir '/tmp/rpl_data_240212_074150_3079186/input0_results_240212_074150'
+ROCProfiler: input from "/tmp/rpl_data_240212_074150_3079186/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+179.644 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074150_3079186/input0_results_240212_074150
+File './IPC/tmp/floyd_warshall_2.csv' is generating
+RPL: on '240212_074151' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074151_3079273'
+RPL: result dir '/tmp/rpl_data_240212_074151_3079273/input0_results_240212_074151'
+ROCProfiler: input from "/tmp/rpl_data_240212_074151_3079273/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+173.169 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074151_3079273/input0_results_240212_074151
+File './IPC/tmp/floyd_warshall_2.csv' is generating
+RPL: on '240212_074152' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074152_3079360'
+RPL: result dir '/tmp/rpl_data_240212_074152_3079360/input0_results_240212_074152'
+ROCProfiler: input from "/tmp/rpl_data_240212_074152_3079360/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.294 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074152_3079360/input0_results_240212_074152
+File './IPC/tmp/floyd_warshall_2.csv' is generating
+RPL: on '240212_074152' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074152_3079447'
+RPL: result dir '/tmp/rpl_data_240212_074152_3079447/input0_results_240212_074152'
+ROCProfiler: input from "/tmp/rpl_data_240212_074152_3079447/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.518 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074152_3079447/input0_results_240212_074152
+File './IPC/tmp/floyd_warshall_2.csv' is generating
+RPL: on '240212_074153' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074153_3079538'
+RPL: result dir '/tmp/rpl_data_240212_074153_3079538/input0_results_240212_074153'
+ROCProfiler: input from "/tmp/rpl_data_240212_074153_3079538/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+174.544 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074153_3079538/input0_results_240212_074153
+File './IPC/tmp/floyd_warshall_2.csv' is generating
+RPL: on '240212_074154' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074154_3079625'
+RPL: result dir '/tmp/rpl_data_240212_074154_3079625/input0_results_240212_074154'
+ROCProfiler: input from "/tmp/rpl_data_240212_074154_3079625/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+185.092 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074154_3079625/input0_results_240212_074154
+File './IPC/tmp/floyd_warshall_2.csv' is generating
+RPL: on '240212_074155' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074155_3079712'
+RPL: result dir '/tmp/rpl_data_240212_074155_3079712/input0_results_240212_074155'
+ROCProfiler: input from "/tmp/rpl_data_240212_074155_3079712/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.112 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074155_3079712/input0_results_240212_074155
+File './IPC/tmp/floyd_warshall_2.csv' is generating
+RPL: on '240212_074155' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074155_3079799'
+RPL: result dir '/tmp/rpl_data_240212_074155_3079799/input0_results_240212_074155'
+ROCProfiler: input from "/tmp/rpl_data_240212_074155_3079799/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.543 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074155_3079799/input0_results_240212_074155
+File './IPC/tmp/floyd_warshall_3.csv' is generating
+RPL: on '240212_074156' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074156_3079886'
+RPL: result dir '/tmp/rpl_data_240212_074156_3079886/input0_results_240212_074156'
+ROCProfiler: input from "/tmp/rpl_data_240212_074156_3079886/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+183.608 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074156_3079886/input0_results_240212_074156
+File './IPC/tmp/floyd_warshall_3.csv' is generating
+RPL: on '240212_074157' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074157_3079973'
+RPL: result dir '/tmp/rpl_data_240212_074157_3079973/input0_results_240212_074157'
+ROCProfiler: input from "/tmp/rpl_data_240212_074157_3079973/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+227.894 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074157_3079973/input0_results_240212_074157
+File './IPC/tmp/floyd_warshall_3.csv' is generating
+RPL: on '240212_074158' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074158_3080060'
+RPL: result dir '/tmp/rpl_data_240212_074158_3080060/input0_results_240212_074158'
+ROCProfiler: input from "/tmp/rpl_data_240212_074158_3080060/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+240.376 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074158_3080060/input0_results_240212_074158
+File './IPC/tmp/floyd_warshall_3.csv' is generating
+RPL: on '240212_074159' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074159_3080147'
+RPL: result dir '/tmp/rpl_data_240212_074159_3080147/input0_results_240212_074159'
+ROCProfiler: input from "/tmp/rpl_data_240212_074159_3080147/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+172.91 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074159_3080147/input0_results_240212_074159
+File './IPC/tmp/floyd_warshall_3.csv' is generating
+RPL: on '240212_074200' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074200_3080234'
+RPL: result dir '/tmp/rpl_data_240212_074200_3080234/input0_results_240212_074200'
+ROCProfiler: input from "/tmp/rpl_data_240212_074200_3080234/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.191 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074200_3080234/input0_results_240212_074200
+File './IPC/tmp/floyd_warshall_3.csv' is generating
+RPL: on '240212_074200' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074200_3080321'
+RPL: result dir '/tmp/rpl_data_240212_074200_3080321/input0_results_240212_074200'
+ROCProfiler: input from "/tmp/rpl_data_240212_074200_3080321/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+350.1 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074200_3080321/input0_results_240212_074200
+File './IPC/tmp/floyd_warshall_3.csv' is generating
+RPL: on '240212_074201' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074201_3080408'
+RPL: result dir '/tmp/rpl_data_240212_074201_3080408/input0_results_240212_074201'
+ROCProfiler: input from "/tmp/rpl_data_240212_074201_3080408/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+303.527 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074201_3080408/input0_results_240212_074201
+File './IPC/tmp/floyd_warshall_3.csv' is generating
+RPL: on '240212_074202' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074202_3080495'
+RPL: result dir '/tmp/rpl_data_240212_074202_3080495/input0_results_240212_074202'
+ROCProfiler: input from "/tmp/rpl_data_240212_074202_3080495/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+173.4 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074202_3080495/input0_results_240212_074202
+File './IPC/tmp/floyd_warshall_3.csv' is generating
+RPL: on '240212_074203' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074203_3080582'
+RPL: result dir '/tmp/rpl_data_240212_074203_3080582/input0_results_240212_074203'
+ROCProfiler: input from "/tmp/rpl_data_240212_074203_3080582/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+206.574 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074203_3080582/input0_results_240212_074203
+File './IPC/tmp/floyd_warshall_3.csv' is generating
+RPL: on '240212_074204' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074204_3080669'
+RPL: result dir '/tmp/rpl_data_240212_074204_3080669/input0_results_240212_074204'
+ROCProfiler: input from "/tmp/rpl_data_240212_074204_3080669/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+173.467 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074204_3080669/input0_results_240212_074204
+File './IPC/tmp/floyd_warshall_4.csv' is generating
+RPL: on '240212_074205' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074205_3080756'
+RPL: result dir '/tmp/rpl_data_240212_074205_3080756/input0_results_240212_074205'
+ROCProfiler: input from "/tmp/rpl_data_240212_074205_3080756/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+169.628 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074205_3080756/input0_results_240212_074205
+File './IPC/tmp/floyd_warshall_4.csv' is generating
+RPL: on '240212_074206' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074206_3080843'
+RPL: result dir '/tmp/rpl_data_240212_074206_3080843/input0_results_240212_074206'
+ROCProfiler: input from "/tmp/rpl_data_240212_074206_3080843/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+195.585 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074206_3080843/input0_results_240212_074206
+File './IPC/tmp/floyd_warshall_4.csv' is generating
+RPL: on '240212_074206' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074206_3080930'
+RPL: result dir '/tmp/rpl_data_240212_074206_3080930/input0_results_240212_074206'
+ROCProfiler: input from "/tmp/rpl_data_240212_074206_3080930/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+171.486 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074206_3080930/input0_results_240212_074206
+File './IPC/tmp/floyd_warshall_4.csv' is generating
+RPL: on '240212_074207' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074207_3081017'
+RPL: result dir '/tmp/rpl_data_240212_074207_3081017/input0_results_240212_074207'
+ROCProfiler: input from "/tmp/rpl_data_240212_074207_3081017/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+173.817 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074207_3081017/input0_results_240212_074207
+File './IPC/tmp/floyd_warshall_4.csv' is generating
+RPL: on '240212_074208' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074208_3081104'
+RPL: result dir '/tmp/rpl_data_240212_074208_3081104/input0_results_240212_074208'
+ROCProfiler: input from "/tmp/rpl_data_240212_074208_3081104/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+173.48 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074208_3081104/input0_results_240212_074208
+File './IPC/tmp/floyd_warshall_4.csv' is generating
+RPL: on '240212_074209' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074209_3081191'
+RPL: result dir '/tmp/rpl_data_240212_074209_3081191/input0_results_240212_074209'
+ROCProfiler: input from "/tmp/rpl_data_240212_074209_3081191/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+170.443 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074209_3081191/input0_results_240212_074209
+File './IPC/tmp/floyd_warshall_4.csv' is generating
+RPL: on '240212_074209' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074209_3081278'
+RPL: result dir '/tmp/rpl_data_240212_074209_3081278/input0_results_240212_074209'
+ROCProfiler: input from "/tmp/rpl_data_240212_074209_3081278/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+170.031 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074209_3081278/input0_results_240212_074209
+File './IPC/tmp/floyd_warshall_4.csv' is generating
+RPL: on '240212_074210' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074210_3081365'
+RPL: result dir '/tmp/rpl_data_240212_074210_3081365/input0_results_240212_074210'
+ROCProfiler: input from "/tmp/rpl_data_240212_074210_3081365/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.067 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074210_3081365/input0_results_240212_074210
+File './IPC/tmp/floyd_warshall_4.csv' is generating
+RPL: on '240212_074211' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074211_3081452'
+RPL: result dir '/tmp/rpl_data_240212_074211_3081452/input0_results_240212_074211'
+ROCProfiler: input from "/tmp/rpl_data_240212_074211_3081452/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.117 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074211_3081452/input0_results_240212_074211
+File './IPC/tmp/floyd_warshall_4.csv' is generating
+RPL: on '240212_074212' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074212_3081539'
+RPL: result dir '/tmp/rpl_data_240212_074212_3081539/input0_results_240212_074212'
+ROCProfiler: input from "/tmp/rpl_data_240212_074212_3081539/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+174.819 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074212_3081539/input0_results_240212_074212
+File './IPC/tmp/floyd_warshall_5.csv' is generating
+RPL: on '240212_074212' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074212_3081626'
+RPL: result dir '/tmp/rpl_data_240212_074212_3081626/input0_results_240212_074212'
+ROCProfiler: input from "/tmp/rpl_data_240212_074212_3081626/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.891 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074212_3081626/input0_results_240212_074212
+File './IPC/tmp/floyd_warshall_5.csv' is generating
+RPL: on '240212_074213' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074213_3081713'
+RPL: result dir '/tmp/rpl_data_240212_074213_3081713/input0_results_240212_074213'
+ROCProfiler: input from "/tmp/rpl_data_240212_074213_3081713/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+180.118 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074213_3081713/input0_results_240212_074213
+File './IPC/tmp/floyd_warshall_5.csv' is generating
+RPL: on '240212_074214' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074214_3081800'
+RPL: result dir '/tmp/rpl_data_240212_074214_3081800/input0_results_240212_074214'
+ROCProfiler: input from "/tmp/rpl_data_240212_074214_3081800/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+179.209 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074214_3081800/input0_results_240212_074214
+File './IPC/tmp/floyd_warshall_5.csv' is generating
+RPL: on '240212_074215' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074215_3081887'
+RPL: result dir '/tmp/rpl_data_240212_074215_3081887/input0_results_240212_074215'
+ROCProfiler: input from "/tmp/rpl_data_240212_074215_3081887/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.09 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074215_3081887/input0_results_240212_074215
+File './IPC/tmp/floyd_warshall_5.csv' is generating
+RPL: on '240212_074215' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074215_3081974'
+RPL: result dir '/tmp/rpl_data_240212_074215_3081974/input0_results_240212_074215'
+ROCProfiler: input from "/tmp/rpl_data_240212_074215_3081974/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.455 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074215_3081974/input0_results_240212_074215
+File './IPC/tmp/floyd_warshall_5.csv' is generating
+RPL: on '240212_074216' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074216_3082061'
+RPL: result dir '/tmp/rpl_data_240212_074216_3082061/input0_results_240212_074216'
+ROCProfiler: input from "/tmp/rpl_data_240212_074216_3082061/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.957 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074216_3082061/input0_results_240212_074216
+File './IPC/tmp/floyd_warshall_5.csv' is generating
+RPL: on '240212_074217' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074217_3082148'
+RPL: result dir '/tmp/rpl_data_240212_074217_3082148/input0_results_240212_074217'
+ROCProfiler: input from "/tmp/rpl_data_240212_074217_3082148/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.325 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074217_3082148/input0_results_240212_074217
+File './IPC/tmp/floyd_warshall_5.csv' is generating
+RPL: on '240212_074218' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074218_3082235'
+RPL: result dir '/tmp/rpl_data_240212_074218_3082235/input0_results_240212_074218'
+ROCProfiler: input from "/tmp/rpl_data_240212_074218_3082235/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.811 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074218_3082235/input0_results_240212_074218
+File './IPC/tmp/floyd_warshall_5.csv' is generating
+RPL: on '240212_074219' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074219_3082322'
+RPL: result dir '/tmp/rpl_data_240212_074219_3082322/input0_results_240212_074219'
+ROCProfiler: input from "/tmp/rpl_data_240212_074219_3082322/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+174.765 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074219_3082322/input0_results_240212_074219
+File './IPC/tmp/floyd_warshall_5.csv' is generating
+RPL: on '240212_074219' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074219_3082409'
+RPL: result dir '/tmp/rpl_data_240212_074219_3082409/input0_results_240212_074219'
+ROCProfiler: input from "/tmp/rpl_data_240212_074219_3082409/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.468 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074219_3082409/input0_results_240212_074219
+File './IPC/tmp/floyd_warshall_6.csv' is generating
+RPL: on '240212_074220' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074220_3082496'
+RPL: result dir '/tmp/rpl_data_240212_074220_3082496/input0_results_240212_074220'
+ROCProfiler: input from "/tmp/rpl_data_240212_074220_3082496/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+185.142 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074220_3082496/input0_results_240212_074220
+File './IPC/tmp/floyd_warshall_6.csv' is generating
+RPL: on '240212_074221' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074221_3082583'
+RPL: result dir '/tmp/rpl_data_240212_074221_3082583/input0_results_240212_074221'
+ROCProfiler: input from "/tmp/rpl_data_240212_074221_3082583/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+174.7 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074221_3082583/input0_results_240212_074221
+File './IPC/tmp/floyd_warshall_6.csv' is generating
+RPL: on '240212_074222' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074222_3082670'
+RPL: result dir '/tmp/rpl_data_240212_074222_3082670/input0_results_240212_074222'
+ROCProfiler: input from "/tmp/rpl_data_240212_074222_3082670/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+179.271 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074222_3082670/input0_results_240212_074222
+File './IPC/tmp/floyd_warshall_6.csv' is generating
+RPL: on '240212_074222' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074222_3082757'
+RPL: result dir '/tmp/rpl_data_240212_074222_3082757/input0_results_240212_074222'
+ROCProfiler: input from "/tmp/rpl_data_240212_074222_3082757/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+182.339 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074222_3082757/input0_results_240212_074222
+File './IPC/tmp/floyd_warshall_6.csv' is generating
+RPL: on '240212_074223' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074223_3082844'
+RPL: result dir '/tmp/rpl_data_240212_074223_3082844/input0_results_240212_074223'
+ROCProfiler: input from "/tmp/rpl_data_240212_074223_3082844/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.459 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074223_3082844/input0_results_240212_074223
+File './IPC/tmp/floyd_warshall_6.csv' is generating
+RPL: on '240212_074224' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074224_3082931'
+RPL: result dir '/tmp/rpl_data_240212_074224_3082931/input0_results_240212_074224'
+ROCProfiler: input from "/tmp/rpl_data_240212_074224_3082931/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+181.116 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074224_3082931/input0_results_240212_074224
+File './IPC/tmp/floyd_warshall_6.csv' is generating
+RPL: on '240212_074225' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074225_3083018'
+RPL: result dir '/tmp/rpl_data_240212_074225_3083018/input0_results_240212_074225'
+ROCProfiler: input from "/tmp/rpl_data_240212_074225_3083018/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+179.25 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074225_3083018/input0_results_240212_074225
+File './IPC/tmp/floyd_warshall_6.csv' is generating
+RPL: on '240212_074225' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074225_3083105'
+RPL: result dir '/tmp/rpl_data_240212_074225_3083105/input0_results_240212_074225'
+ROCProfiler: input from "/tmp/rpl_data_240212_074225_3083105/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+184.289 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074225_3083105/input0_results_240212_074225
+File './IPC/tmp/floyd_warshall_6.csv' is generating
+RPL: on '240212_074226' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074226_3083192'
+RPL: result dir '/tmp/rpl_data_240212_074226_3083192/input0_results_240212_074226'
+ROCProfiler: input from "/tmp/rpl_data_240212_074226_3083192/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.547 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074226_3083192/input0_results_240212_074226
+File './IPC/tmp/floyd_warshall_6.csv' is generating
+RPL: on '240212_074227' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074227_3083279'
+RPL: result dir '/tmp/rpl_data_240212_074227_3083279/input0_results_240212_074227'
+ROCProfiler: input from "/tmp/rpl_data_240212_074227_3083279/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.085 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074227_3083279/input0_results_240212_074227
+File './IPC/tmp/floyd_warshall_7.csv' is generating
+RPL: on '240212_074228' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074228_3083366'
+RPL: result dir '/tmp/rpl_data_240212_074228_3083366/input0_results_240212_074228'
+ROCProfiler: input from "/tmp/rpl_data_240212_074228_3083366/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.999 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074228_3083366/input0_results_240212_074228
+File './IPC/tmp/floyd_warshall_7.csv' is generating
+RPL: on '240212_074228' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074228_3083453'
+RPL: result dir '/tmp/rpl_data_240212_074228_3083453/input0_results_240212_074228'
+ROCProfiler: input from "/tmp/rpl_data_240212_074228_3083453/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+179.066 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074228_3083453/input0_results_240212_074228
+File './IPC/tmp/floyd_warshall_7.csv' is generating
+RPL: on '240212_074229' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074229_3083540'
+RPL: result dir '/tmp/rpl_data_240212_074229_3083540/input0_results_240212_074229'
+ROCProfiler: input from "/tmp/rpl_data_240212_074229_3083540/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.505 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074229_3083540/input0_results_240212_074229
+File './IPC/tmp/floyd_warshall_7.csv' is generating
+RPL: on '240212_074230' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074230_3083627'
+RPL: result dir '/tmp/rpl_data_240212_074230_3083627/input0_results_240212_074230'
+ROCProfiler: input from "/tmp/rpl_data_240212_074230_3083627/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+180.064 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074230_3083627/input0_results_240212_074230
+File './IPC/tmp/floyd_warshall_7.csv' is generating
+RPL: on '240212_074231' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074231_3083714'
+RPL: result dir '/tmp/rpl_data_240212_074231_3083714/input0_results_240212_074231'
+ROCProfiler: input from "/tmp/rpl_data_240212_074231_3083714/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.221 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074231_3083714/input0_results_240212_074231
+File './IPC/tmp/floyd_warshall_7.csv' is generating
+RPL: on '240212_074231' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074231_3083801'
+RPL: result dir '/tmp/rpl_data_240212_074231_3083801/input0_results_240212_074231'
+ROCProfiler: input from "/tmp/rpl_data_240212_074231_3083801/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.697 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074231_3083801/input0_results_240212_074231
+File './IPC/tmp/floyd_warshall_7.csv' is generating
+RPL: on '240212_074232' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074232_3083888'
+RPL: result dir '/tmp/rpl_data_240212_074232_3083888/input0_results_240212_074232'
+ROCProfiler: input from "/tmp/rpl_data_240212_074232_3083888/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.835 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074232_3083888/input0_results_240212_074232
+File './IPC/tmp/floyd_warshall_7.csv' is generating
+RPL: on '240212_074233' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074233_3083975'
+RPL: result dir '/tmp/rpl_data_240212_074233_3083975/input0_results_240212_074233'
+ROCProfiler: input from "/tmp/rpl_data_240212_074233_3083975/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+180.97 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074233_3083975/input0_results_240212_074233
+File './IPC/tmp/floyd_warshall_7.csv' is generating
+RPL: on '240212_074234' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074234_3084062'
+RPL: result dir '/tmp/rpl_data_240212_074234_3084062/input0_results_240212_074234'
+ROCProfiler: input from "/tmp/rpl_data_240212_074234_3084062/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.063 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074234_3084062/input0_results_240212_074234
+File './IPC/tmp/floyd_warshall_7.csv' is generating
+RPL: on '240212_074234' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074234_3084149'
+RPL: result dir '/tmp/rpl_data_240212_074234_3084149/input0_results_240212_074234'
+ROCProfiler: input from "/tmp/rpl_data_240212_074234_3084149/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+179.65 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074234_3084149/input0_results_240212_074234
+File './IPC/tmp/floyd_warshall_8.csv' is generating
+RPL: on '240212_074235' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074235_3084236'
+RPL: result dir '/tmp/rpl_data_240212_074235_3084236/input0_results_240212_074235'
+ROCProfiler: input from "/tmp/rpl_data_240212_074235_3084236/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+172.359 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074235_3084236/input0_results_240212_074235
+File './IPC/tmp/floyd_warshall_8.csv' is generating
+RPL: on '240212_074236' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074236_3084323'
+RPL: result dir '/tmp/rpl_data_240212_074236_3084323/input0_results_240212_074236'
+ROCProfiler: input from "/tmp/rpl_data_240212_074236_3084323/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+172.671 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074236_3084323/input0_results_240212_074236
+File './IPC/tmp/floyd_warshall_8.csv' is generating
+RPL: on '240212_074237' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074237_3084410'
+RPL: result dir '/tmp/rpl_data_240212_074237_3084410/input0_results_240212_074237'
+ROCProfiler: input from "/tmp/rpl_data_240212_074237_3084410/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+170.405 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074237_3084410/input0_results_240212_074237
+File './IPC/tmp/floyd_warshall_8.csv' is generating
+RPL: on '240212_074237' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074237_3084497'
+RPL: result dir '/tmp/rpl_data_240212_074237_3084497/input0_results_240212_074237'
+ROCProfiler: input from "/tmp/rpl_data_240212_074237_3084497/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+165.652 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074237_3084497/input0_results_240212_074237
+File './IPC/tmp/floyd_warshall_8.csv' is generating
+RPL: on '240212_074238' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074238_3084584'
+RPL: result dir '/tmp/rpl_data_240212_074238_3084584/input0_results_240212_074238'
+ROCProfiler: input from "/tmp/rpl_data_240212_074238_3084584/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+169.545 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074238_3084584/input0_results_240212_074238
+File './IPC/tmp/floyd_warshall_8.csv' is generating
+RPL: on '240212_074239' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074239_3084671'
+RPL: result dir '/tmp/rpl_data_240212_074239_3084671/input0_results_240212_074239'
+ROCProfiler: input from "/tmp/rpl_data_240212_074239_3084671/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+172.475 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074239_3084671/input0_results_240212_074239
+File './IPC/tmp/floyd_warshall_8.csv' is generating
+RPL: on '240212_074240' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074240_3084758'
+RPL: result dir '/tmp/rpl_data_240212_074240_3084758/input0_results_240212_074240'
+ROCProfiler: input from "/tmp/rpl_data_240212_074240_3084758/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.446 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074240_3084758/input0_results_240212_074240
+File './IPC/tmp/floyd_warshall_8.csv' is generating
+RPL: on '240212_074240' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074240_3084845'
+RPL: result dir '/tmp/rpl_data_240212_074240_3084845/input0_results_240212_074240'
+ROCProfiler: input from "/tmp/rpl_data_240212_074240_3084845/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.363 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074240_3084845/input0_results_240212_074240
+File './IPC/tmp/floyd_warshall_8.csv' is generating
+RPL: on '240212_074241' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074241_3084932'
+RPL: result dir '/tmp/rpl_data_240212_074241_3084932/input0_results_240212_074241'
+ROCProfiler: input from "/tmp/rpl_data_240212_074241_3084932/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+171.637 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074241_3084932/input0_results_240212_074241
+File './IPC/tmp/floyd_warshall_8.csv' is generating
+RPL: on '240212_074242' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074242_3085019'
+RPL: result dir '/tmp/rpl_data_240212_074242_3085019/input0_results_240212_074242'
+ROCProfiler: input from "/tmp/rpl_data_240212_074242_3085019/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+169.145 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074242_3085019/input0_results_240212_074242
+File './IPC/tmp/floyd_warshall_9.csv' is generating
+RPL: on '240212_074243' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074243_3085106'
+RPL: result dir '/tmp/rpl_data_240212_074243_3085106/input0_results_240212_074243'
+ROCProfiler: input from "/tmp/rpl_data_240212_074243_3085106/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+170.32 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074243_3085106/input0_results_240212_074243
+File './IPC/tmp/floyd_warshall_9.csv' is generating
+RPL: on '240212_074243' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074243_3085193'
+RPL: result dir '/tmp/rpl_data_240212_074243_3085193/input0_results_240212_074243'
+ROCProfiler: input from "/tmp/rpl_data_240212_074243_3085193/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+172.377 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074243_3085193/input0_results_240212_074243
+File './IPC/tmp/floyd_warshall_9.csv' is generating
+RPL: on '240212_074244' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074244_3085280'
+RPL: result dir '/tmp/rpl_data_240212_074244_3085280/input0_results_240212_074244'
+ROCProfiler: input from "/tmp/rpl_data_240212_074244_3085280/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+168.493 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074244_3085280/input0_results_240212_074244
+File './IPC/tmp/floyd_warshall_9.csv' is generating
+RPL: on '240212_074245' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074245_3085367'
+RPL: result dir '/tmp/rpl_data_240212_074245_3085367/input0_results_240212_074245'
+ROCProfiler: input from "/tmp/rpl_data_240212_074245_3085367/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+168.893 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074245_3085367/input0_results_240212_074245
+File './IPC/tmp/floyd_warshall_9.csv' is generating
+RPL: on '240212_074246' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074246_3085454'
+RPL: result dir '/tmp/rpl_data_240212_074246_3085454/input0_results_240212_074246'
+ROCProfiler: input from "/tmp/rpl_data_240212_074246_3085454/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+170.743 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074246_3085454/input0_results_240212_074246
+File './IPC/tmp/floyd_warshall_9.csv' is generating
+RPL: on '240212_074246' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074246_3085541'
+RPL: result dir '/tmp/rpl_data_240212_074246_3085541/input0_results_240212_074246'
+ROCProfiler: input from "/tmp/rpl_data_240212_074246_3085541/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+169.153 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074246_3085541/input0_results_240212_074246
+File './IPC/tmp/floyd_warshall_9.csv' is generating
+RPL: on '240212_074247' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074247_3085628'
+RPL: result dir '/tmp/rpl_data_240212_074247_3085628/input0_results_240212_074247'
+ROCProfiler: input from "/tmp/rpl_data_240212_074247_3085628/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+170.507 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074247_3085628/input0_results_240212_074247
+File './IPC/tmp/floyd_warshall_9.csv' is generating
+RPL: on '240212_074248' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074248_3085715'
+RPL: result dir '/tmp/rpl_data_240212_074248_3085715/input0_results_240212_074248'
+ROCProfiler: input from "/tmp/rpl_data_240212_074248_3085715/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+171.101 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074248_3085715/input0_results_240212_074248
+File './IPC/tmp/floyd_warshall_9.csv' is generating
+RPL: on '240212_074249' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074249_3085802'
+RPL: result dir '/tmp/rpl_data_240212_074249_3085802/input0_results_240212_074249'
+ROCProfiler: input from "/tmp/rpl_data_240212_074249_3085802/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+166.95 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074249_3085802/input0_results_240212_074249
+File './IPC/tmp/floyd_warshall_9.csv' is generating
+RPL: on '240212_074249' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074249_3085889'
+RPL: result dir '/tmp/rpl_data_240212_074249_3085889/input0_results_240212_074249'
+ROCProfiler: input from "/tmp/rpl_data_240212_074249_3085889/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+181.215 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074249_3085889/input0_results_240212_074249
+File './IPC/tmp/floyd_warshall_10.csv' is generating
+RPL: on '240212_074250' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074250_3085976'
+RPL: result dir '/tmp/rpl_data_240212_074250_3085976/input0_results_240212_074250'
+ROCProfiler: input from "/tmp/rpl_data_240212_074250_3085976/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.303 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074250_3085976/input0_results_240212_074250
+File './IPC/tmp/floyd_warshall_10.csv' is generating
+RPL: on '240212_074251' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074251_3086063'
+RPL: result dir '/tmp/rpl_data_240212_074251_3086063/input0_results_240212_074251'
+ROCProfiler: input from "/tmp/rpl_data_240212_074251_3086063/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+180.541 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074251_3086063/input0_results_240212_074251
+File './IPC/tmp/floyd_warshall_10.csv' is generating
+RPL: on '240212_074252' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074252_3086150'
+RPL: result dir '/tmp/rpl_data_240212_074252_3086150/input0_results_240212_074252'
+ROCProfiler: input from "/tmp/rpl_data_240212_074252_3086150/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+186.235 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074252_3086150/input0_results_240212_074252
+File './IPC/tmp/floyd_warshall_10.csv' is generating
+RPL: on '240212_074252' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074252_3086237'
+RPL: result dir '/tmp/rpl_data_240212_074252_3086237/input0_results_240212_074252'
+ROCProfiler: input from "/tmp/rpl_data_240212_074252_3086237/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+187.549 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074252_3086237/input0_results_240212_074252
+File './IPC/tmp/floyd_warshall_10.csv' is generating
+RPL: on '240212_074253' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074253_3086324'
+RPL: result dir '/tmp/rpl_data_240212_074253_3086324/input0_results_240212_074253'
+ROCProfiler: input from "/tmp/rpl_data_240212_074253_3086324/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+182.56 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074253_3086324/input0_results_240212_074253
+File './IPC/tmp/floyd_warshall_10.csv' is generating
+RPL: on '240212_074254' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074254_3086411'
+RPL: result dir '/tmp/rpl_data_240212_074254_3086411/input0_results_240212_074254'
+ROCProfiler: input from "/tmp/rpl_data_240212_074254_3086411/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+181.949 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074254_3086411/input0_results_240212_074254
+File './IPC/tmp/floyd_warshall_10.csv' is generating
+RPL: on '240212_074255' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074255_3086498'
+RPL: result dir '/tmp/rpl_data_240212_074255_3086498/input0_results_240212_074255'
+ROCProfiler: input from "/tmp/rpl_data_240212_074255_3086498/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+179.899 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074255_3086498/input0_results_240212_074255
+File './IPC/tmp/floyd_warshall_10.csv' is generating
+RPL: on '240212_074256' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074256_3086585'
+RPL: result dir '/tmp/rpl_data_240212_074256_3086585/input0_results_240212_074256'
+ROCProfiler: input from "/tmp/rpl_data_240212_074256_3086585/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+182.433 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074256_3086585/input0_results_240212_074256
+File './IPC/tmp/floyd_warshall_10.csv' is generating
+RPL: on '240212_074256' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074256_3086672'
+RPL: result dir '/tmp/rpl_data_240212_074256_3086672/input0_results_240212_074256'
+ROCProfiler: input from "/tmp/rpl_data_240212_074256_3086672/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+181.884 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074256_3086672/input0_results_240212_074256
+File './IPC/tmp/floyd_warshall_10.csv' is generating
+RPL: on '240212_074257' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074257_3086759'
+RPL: result dir '/tmp/rpl_data_240212_074257_3086759/input0_results_240212_074257'
+ROCProfiler: input from "/tmp/rpl_data_240212_074257_3086759/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.154 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074257_3086759/input0_results_240212_074257
+File './IPC/tmp/floyd_warshall_11.csv' is generating
+RPL: on '240212_074258' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074258_3086846'
+RPL: result dir '/tmp/rpl_data_240212_074258_3086846/input0_results_240212_074258'
+ROCProfiler: input from "/tmp/rpl_data_240212_074258_3086846/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.904 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074258_3086846/input0_results_240212_074258
+File './IPC/tmp/floyd_warshall_11.csv' is generating
+RPL: on '240212_074259' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074259_3086933'
+RPL: result dir '/tmp/rpl_data_240212_074259_3086933/input0_results_240212_074259'
+ROCProfiler: input from "/tmp/rpl_data_240212_074259_3086933/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+182.967 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074259_3086933/input0_results_240212_074259
+File './IPC/tmp/floyd_warshall_11.csv' is generating
+RPL: on '240212_074259' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074259_3087020'
+RPL: result dir '/tmp/rpl_data_240212_074259_3087020/input0_results_240212_074259'
+ROCProfiler: input from "/tmp/rpl_data_240212_074259_3087020/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+179.693 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074259_3087020/input0_results_240212_074259
+File './IPC/tmp/floyd_warshall_11.csv' is generating
+RPL: on '240212_074300' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074300_3087107'
+RPL: result dir '/tmp/rpl_data_240212_074300_3087107/input0_results_240212_074300'
+ROCProfiler: input from "/tmp/rpl_data_240212_074300_3087107/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.122 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074300_3087107/input0_results_240212_074300
+File './IPC/tmp/floyd_warshall_11.csv' is generating
+RPL: on '240212_074301' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074301_3087194'
+RPL: result dir '/tmp/rpl_data_240212_074301_3087194/input0_results_240212_074301'
+ROCProfiler: input from "/tmp/rpl_data_240212_074301_3087194/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+182.685 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074301_3087194/input0_results_240212_074301
+File './IPC/tmp/floyd_warshall_11.csv' is generating
+RPL: on '240212_074302' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074302_3087281'
+RPL: result dir '/tmp/rpl_data_240212_074302_3087281/input0_results_240212_074302'
+ROCProfiler: input from "/tmp/rpl_data_240212_074302_3087281/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+180.114 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074302_3087281/input0_results_240212_074302
+File './IPC/tmp/floyd_warshall_11.csv' is generating
+RPL: on '240212_074302' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074302_3087368'
+RPL: result dir '/tmp/rpl_data_240212_074302_3087368/input0_results_240212_074302'
+ROCProfiler: input from "/tmp/rpl_data_240212_074302_3087368/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+179.218 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074302_3087368/input0_results_240212_074302
+File './IPC/tmp/floyd_warshall_11.csv' is generating
+RPL: on '240212_074303' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074303_3087455'
+RPL: result dir '/tmp/rpl_data_240212_074303_3087455/input0_results_240212_074303'
+ROCProfiler: input from "/tmp/rpl_data_240212_074303_3087455/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+186.908 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074303_3087455/input0_results_240212_074303
+File './IPC/tmp/floyd_warshall_11.csv' is generating
+RPL: on '240212_074304' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074304_3087542'
+RPL: result dir '/tmp/rpl_data_240212_074304_3087542/input0_results_240212_074304'
+ROCProfiler: input from "/tmp/rpl_data_240212_074304_3087542/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+181.322 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074304_3087542/input0_results_240212_074304
+File './IPC/tmp/floyd_warshall_11.csv' is generating
+RPL: on '240212_074305' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074305_3087629'
+RPL: result dir '/tmp/rpl_data_240212_074305_3087629/input0_results_240212_074305'
+ROCProfiler: input from "/tmp/rpl_data_240212_074305_3087629/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+184.379 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074305_3087629/input0_results_240212_074305
+File './IPC/tmp/floyd_warshall_12.csv' is generating
+RPL: on '240212_074305' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074305_3087716'
+RPL: result dir '/tmp/rpl_data_240212_074305_3087716/input0_results_240212_074305'
+ROCProfiler: input from "/tmp/rpl_data_240212_074305_3087716/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+181.709 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074305_3087716/input0_results_240212_074305
+File './IPC/tmp/floyd_warshall_12.csv' is generating
+RPL: on '240212_074306' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074306_3087803'
+RPL: result dir '/tmp/rpl_data_240212_074306_3087803/input0_results_240212_074306'
+ROCProfiler: input from "/tmp/rpl_data_240212_074306_3087803/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.677 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074306_3087803/input0_results_240212_074306
+File './IPC/tmp/floyd_warshall_12.csv' is generating
+RPL: on '240212_074307' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074307_3087890'
+RPL: result dir '/tmp/rpl_data_240212_074307_3087890/input0_results_240212_074307'
+ROCProfiler: input from "/tmp/rpl_data_240212_074307_3087890/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+180.059 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074307_3087890/input0_results_240212_074307
+File './IPC/tmp/floyd_warshall_12.csv' is generating
+RPL: on '240212_074308' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074308_3087977'
+RPL: result dir '/tmp/rpl_data_240212_074308_3087977/input0_results_240212_074308'
+ROCProfiler: input from "/tmp/rpl_data_240212_074308_3087977/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+182.917 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074308_3087977/input0_results_240212_074308
+File './IPC/tmp/floyd_warshall_12.csv' is generating
+RPL: on '240212_074308' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074308_3088064'
+RPL: result dir '/tmp/rpl_data_240212_074308_3088064/input0_results_240212_074308'
+ROCProfiler: input from "/tmp/rpl_data_240212_074308_3088064/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+184.229 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074308_3088064/input0_results_240212_074308
+File './IPC/tmp/floyd_warshall_12.csv' is generating
+RPL: on '240212_074309' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074309_3088151'
+RPL: result dir '/tmp/rpl_data_240212_074309_3088151/input0_results_240212_074309'
+ROCProfiler: input from "/tmp/rpl_data_240212_074309_3088151/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+181.904 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074309_3088151/input0_results_240212_074309
+File './IPC/tmp/floyd_warshall_12.csv' is generating
+RPL: on '240212_074310' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074310_3088238'
+RPL: result dir '/tmp/rpl_data_240212_074310_3088238/input0_results_240212_074310'
+ROCProfiler: input from "/tmp/rpl_data_240212_074310_3088238/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+182.525 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074310_3088238/input0_results_240212_074310
+File './IPC/tmp/floyd_warshall_12.csv' is generating
+RPL: on '240212_074311' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074311_3088325'
+RPL: result dir '/tmp/rpl_data_240212_074311_3088325/input0_results_240212_074311'
+ROCProfiler: input from "/tmp/rpl_data_240212_074311_3088325/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+183.944 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074311_3088325/input0_results_240212_074311
+File './IPC/tmp/floyd_warshall_12.csv' is generating
+RPL: on '240212_074311' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074311_3088412'
+RPL: result dir '/tmp/rpl_data_240212_074311_3088412/input0_results_240212_074311'
+ROCProfiler: input from "/tmp/rpl_data_240212_074311_3088412/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+180.998 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074311_3088412/input0_results_240212_074311
+File './IPC/tmp/floyd_warshall_12.csv' is generating
+RPL: on '240212_074312' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074312_3088499'
+RPL: result dir '/tmp/rpl_data_240212_074312_3088499/input0_results_240212_074312'
+ROCProfiler: input from "/tmp/rpl_data_240212_074312_3088499/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.979 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074312_3088499/input0_results_240212_074312
+File './IPC/tmp/floyd_warshall_13.csv' is generating
+RPL: on '240212_074313' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074313_3088586'
+RPL: result dir '/tmp/rpl_data_240212_074313_3088586/input0_results_240212_074313'
+ROCProfiler: input from "/tmp/rpl_data_240212_074313_3088586/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+182.112 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074313_3088586/input0_results_240212_074313
+File './IPC/tmp/floyd_warshall_13.csv' is generating
+RPL: on '240212_074314' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074314_3088673'
+RPL: result dir '/tmp/rpl_data_240212_074314_3088673/input0_results_240212_074314'
+ROCProfiler: input from "/tmp/rpl_data_240212_074314_3088673/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+179.938 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074314_3088673/input0_results_240212_074314
+File './IPC/tmp/floyd_warshall_13.csv' is generating
+RPL: on '240212_074315' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074315_3088760'
+RPL: result dir '/tmp/rpl_data_240212_074315_3088760/input0_results_240212_074315'
+ROCProfiler: input from "/tmp/rpl_data_240212_074315_3088760/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+179.85 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074315_3088760/input0_results_240212_074315
+File './IPC/tmp/floyd_warshall_13.csv' is generating
+RPL: on '240212_074315' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074315_3088847'
+RPL: result dir '/tmp/rpl_data_240212_074315_3088847/input0_results_240212_074315'
+ROCProfiler: input from "/tmp/rpl_data_240212_074315_3088847/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+182.615 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074315_3088847/input0_results_240212_074315
+File './IPC/tmp/floyd_warshall_13.csv' is generating
+RPL: on '240212_074316' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074316_3088934'
+RPL: result dir '/tmp/rpl_data_240212_074316_3088934/input0_results_240212_074316'
+ROCProfiler: input from "/tmp/rpl_data_240212_074316_3088934/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+186.207 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074316_3088934/input0_results_240212_074316
+File './IPC/tmp/floyd_warshall_13.csv' is generating
+RPL: on '240212_074317' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074317_3089021'
+RPL: result dir '/tmp/rpl_data_240212_074317_3089021/input0_results_240212_074317'
+ROCProfiler: input from "/tmp/rpl_data_240212_074317_3089021/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+190.519 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074317_3089021/input0_results_240212_074317
+File './IPC/tmp/floyd_warshall_13.csv' is generating
+RPL: on '240212_074318' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074318_3089108'
+RPL: result dir '/tmp/rpl_data_240212_074318_3089108/input0_results_240212_074318'
+ROCProfiler: input from "/tmp/rpl_data_240212_074318_3089108/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+182.087 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074318_3089108/input0_results_240212_074318
+File './IPC/tmp/floyd_warshall_13.csv' is generating
+RPL: on '240212_074318' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074318_3089195'
+RPL: result dir '/tmp/rpl_data_240212_074318_3089195/input0_results_240212_074318'
+ROCProfiler: input from "/tmp/rpl_data_240212_074318_3089195/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+183.109 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074318_3089195/input0_results_240212_074318
+File './IPC/tmp/floyd_warshall_13.csv' is generating
+RPL: on '240212_074319' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074319_3089282'
+RPL: result dir '/tmp/rpl_data_240212_074319_3089282/input0_results_240212_074319'
+ROCProfiler: input from "/tmp/rpl_data_240212_074319_3089282/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+182.789 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074319_3089282/input0_results_240212_074319
+File './IPC/tmp/floyd_warshall_13.csv' is generating
+RPL: on '240212_074320' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074320_3089369'
+RPL: result dir '/tmp/rpl_data_240212_074320_3089369/input0_results_240212_074320'
+ROCProfiler: input from "/tmp/rpl_data_240212_074320_3089369/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+179.266 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074320_3089369/input0_results_240212_074320
+File './IPC/tmp/floyd_warshall_14.csv' is generating
+RPL: on '240212_074321' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074321_3089456'
+RPL: result dir '/tmp/rpl_data_240212_074321_3089456/input0_results_240212_074321'
+ROCProfiler: input from "/tmp/rpl_data_240212_074321_3089456/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+172.874 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074321_3089456/input0_results_240212_074321
+File './IPC/tmp/floyd_warshall_14.csv' is generating
+RPL: on '240212_074321' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074321_3089543'
+RPL: result dir '/tmp/rpl_data_240212_074321_3089543/input0_results_240212_074321'
+ROCProfiler: input from "/tmp/rpl_data_240212_074321_3089543/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+169.201 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074321_3089543/input0_results_240212_074321
+File './IPC/tmp/floyd_warshall_14.csv' is generating
+RPL: on '240212_074322' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074322_3089630'
+RPL: result dir '/tmp/rpl_data_240212_074322_3089630/input0_results_240212_074322'
+ROCProfiler: input from "/tmp/rpl_data_240212_074322_3089630/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+170.01 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074322_3089630/input0_results_240212_074322
+File './IPC/tmp/floyd_warshall_14.csv' is generating
+RPL: on '240212_074323' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074323_3089717'
+RPL: result dir '/tmp/rpl_data_240212_074323_3089717/input0_results_240212_074323'
+ROCProfiler: input from "/tmp/rpl_data_240212_074323_3089717/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+169.111 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074323_3089717/input0_results_240212_074323
+File './IPC/tmp/floyd_warshall_14.csv' is generating
+RPL: on '240212_074324' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074324_3089804'
+RPL: result dir '/tmp/rpl_data_240212_074324_3089804/input0_results_240212_074324'
+ROCProfiler: input from "/tmp/rpl_data_240212_074324_3089804/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+170.9 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074324_3089804/input0_results_240212_074324
+File './IPC/tmp/floyd_warshall_14.csv' is generating
+RPL: on '240212_074324' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074324_3089891'
+RPL: result dir '/tmp/rpl_data_240212_074324_3089891/input0_results_240212_074324'
+ROCProfiler: input from "/tmp/rpl_data_240212_074324_3089891/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+179.015 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074324_3089891/input0_results_240212_074324
+File './IPC/tmp/floyd_warshall_14.csv' is generating
+RPL: on '240212_074325' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074325_3089978'
+RPL: result dir '/tmp/rpl_data_240212_074325_3089978/input0_results_240212_074325'
+ROCProfiler: input from "/tmp/rpl_data_240212_074325_3089978/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+170.863 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074325_3089978/input0_results_240212_074325
+File './IPC/tmp/floyd_warshall_14.csv' is generating
+RPL: on '240212_074326' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074326_3090065'
+RPL: result dir '/tmp/rpl_data_240212_074326_3090065/input0_results_240212_074326'
+ROCProfiler: input from "/tmp/rpl_data_240212_074326_3090065/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+171.187 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074326_3090065/input0_results_240212_074326
+File './IPC/tmp/floyd_warshall_14.csv' is generating
+RPL: on '240212_074327' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074327_3090152'
+RPL: result dir '/tmp/rpl_data_240212_074327_3090152/input0_results_240212_074327'
+ROCProfiler: input from "/tmp/rpl_data_240212_074327_3090152/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+172.239 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074327_3090152/input0_results_240212_074327
+File './IPC/tmp/floyd_warshall_14.csv' is generating
+RPL: on '240212_074327' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074327_3090239'
+RPL: result dir '/tmp/rpl_data_240212_074327_3090239/input0_results_240212_074327'
+ROCProfiler: input from "/tmp/rpl_data_240212_074327_3090239/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+171.343 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074327_3090239/input0_results_240212_074327
+File './IPC/tmp/floyd_warshall_15.csv' is generating
+RPL: on '240212_074328' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074328_3090326'
+RPL: result dir '/tmp/rpl_data_240212_074328_3090326/input0_results_240212_074328'
+ROCProfiler: input from "/tmp/rpl_data_240212_074328_3090326/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+164.839 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074328_3090326/input0_results_240212_074328
+File './IPC/tmp/floyd_warshall_15.csv' is generating
+RPL: on '240212_074329' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074329_3090413'
+RPL: result dir '/tmp/rpl_data_240212_074329_3090413/input0_results_240212_074329'
+ROCProfiler: input from "/tmp/rpl_data_240212_074329_3090413/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+167.841 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074329_3090413/input0_results_240212_074329
+File './IPC/tmp/floyd_warshall_15.csv' is generating
+RPL: on '240212_074330' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074330_3090500'
+RPL: result dir '/tmp/rpl_data_240212_074330_3090500/input0_results_240212_074330'
+ROCProfiler: input from "/tmp/rpl_data_240212_074330_3090500/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+168.925 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074330_3090500/input0_results_240212_074330
+File './IPC/tmp/floyd_warshall_15.csv' is generating
+RPL: on '240212_074330' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074330_3090587'
+RPL: result dir '/tmp/rpl_data_240212_074330_3090587/input0_results_240212_074330'
+ROCProfiler: input from "/tmp/rpl_data_240212_074330_3090587/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+169.026 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074330_3090587/input0_results_240212_074330
+File './IPC/tmp/floyd_warshall_15.csv' is generating
+RPL: on '240212_074331' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074331_3090674'
+RPL: result dir '/tmp/rpl_data_240212_074331_3090674/input0_results_240212_074331'
+ROCProfiler: input from "/tmp/rpl_data_240212_074331_3090674/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.912 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074331_3090674/input0_results_240212_074331
+File './IPC/tmp/floyd_warshall_15.csv' is generating
+RPL: on '240212_074332' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074332_3090761'
+RPL: result dir '/tmp/rpl_data_240212_074332_3090761/input0_results_240212_074332'
+ROCProfiler: input from "/tmp/rpl_data_240212_074332_3090761/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+172.434 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074332_3090761/input0_results_240212_074332
+File './IPC/tmp/floyd_warshall_15.csv' is generating
+RPL: on '240212_074333' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074333_3090848'
+RPL: result dir '/tmp/rpl_data_240212_074333_3090848/input0_results_240212_074333'
+ROCProfiler: input from "/tmp/rpl_data_240212_074333_3090848/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+170.604 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074333_3090848/input0_results_240212_074333
+File './IPC/tmp/floyd_warshall_15.csv' is generating
+RPL: on '240212_074333' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074333_3090935'
+RPL: result dir '/tmp/rpl_data_240212_074333_3090935/input0_results_240212_074333'
+ROCProfiler: input from "/tmp/rpl_data_240212_074333_3090935/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+168.7 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074333_3090935/input0_results_240212_074333
+File './IPC/tmp/floyd_warshall_15.csv' is generating
+RPL: on '240212_074334' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074334_3091022'
+RPL: result dir '/tmp/rpl_data_240212_074334_3091022/input0_results_240212_074334'
+ROCProfiler: input from "/tmp/rpl_data_240212_074334_3091022/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+170.351 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074334_3091022/input0_results_240212_074334
+File './IPC/tmp/floyd_warshall_15.csv' is generating
+RPL: on '240212_074335' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074335_3091109'
+RPL: result dir '/tmp/rpl_data_240212_074335_3091109/input0_results_240212_074335'
+ROCProfiler: input from "/tmp/rpl_data_240212_074335_3091109/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+184.193 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074335_3091109/input0_results_240212_074335
+File './IPC/tmp/floyd_warshall_16.csv' is generating
+RPL: on '240212_074336' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074336_3091196'
+RPL: result dir '/tmp/rpl_data_240212_074336_3091196/input0_results_240212_074336'
+ROCProfiler: input from "/tmp/rpl_data_240212_074336_3091196/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+180.728 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074336_3091196/input0_results_240212_074336
+File './IPC/tmp/floyd_warshall_16.csv' is generating
+RPL: on '240212_074336' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074336_3091283'
+RPL: result dir '/tmp/rpl_data_240212_074336_3091283/input0_results_240212_074336'
+ROCProfiler: input from "/tmp/rpl_data_240212_074336_3091283/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.881 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074336_3091283/input0_results_240212_074336
+File './IPC/tmp/floyd_warshall_16.csv' is generating
+RPL: on '240212_074337' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074337_3091370'
+RPL: result dir '/tmp/rpl_data_240212_074337_3091370/input0_results_240212_074337'
+ROCProfiler: input from "/tmp/rpl_data_240212_074337_3091370/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.503 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074337_3091370/input0_results_240212_074337
+File './IPC/tmp/floyd_warshall_16.csv' is generating
+RPL: on '240212_074338' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074338_3091457'
+RPL: result dir '/tmp/rpl_data_240212_074338_3091457/input0_results_240212_074338'
+ROCProfiler: input from "/tmp/rpl_data_240212_074338_3091457/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+181.959 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074338_3091457/input0_results_240212_074338
+File './IPC/tmp/floyd_warshall_16.csv' is generating
+RPL: on '240212_074339' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074339_3091544'
+RPL: result dir '/tmp/rpl_data_240212_074339_3091544/input0_results_240212_074339'
+ROCProfiler: input from "/tmp/rpl_data_240212_074339_3091544/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+185.242 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074339_3091544/input0_results_240212_074339
+File './IPC/tmp/floyd_warshall_16.csv' is generating
+RPL: on '240212_074339' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074339_3091631'
+RPL: result dir '/tmp/rpl_data_240212_074339_3091631/input0_results_240212_074339'
+ROCProfiler: input from "/tmp/rpl_data_240212_074339_3091631/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.43 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074339_3091631/input0_results_240212_074339
+File './IPC/tmp/floyd_warshall_16.csv' is generating
+RPL: on '240212_074340' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074340_3091718'
+RPL: result dir '/tmp/rpl_data_240212_074340_3091718/input0_results_240212_074340'
+ROCProfiler: input from "/tmp/rpl_data_240212_074340_3091718/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.894 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074340_3091718/input0_results_240212_074340
+File './IPC/tmp/floyd_warshall_16.csv' is generating
+RPL: on '240212_074341' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074341_3091805'
+RPL: result dir '/tmp/rpl_data_240212_074341_3091805/input0_results_240212_074341'
+ROCProfiler: input from "/tmp/rpl_data_240212_074341_3091805/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.002 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074341_3091805/input0_results_240212_074341
+File './IPC/tmp/floyd_warshall_16.csv' is generating
+RPL: on '240212_074342' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074342_3091892'
+RPL: result dir '/tmp/rpl_data_240212_074342_3091892/input0_results_240212_074342'
+ROCProfiler: input from "/tmp/rpl_data_240212_074342_3091892/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.037 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074342_3091892/input0_results_240212_074342
+File './IPC/tmp/floyd_warshall_16.csv' is generating
+RPL: on '240212_074342' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074342_3091979'
+RPL: result dir '/tmp/rpl_data_240212_074342_3091979/input0_results_240212_074342'
+ROCProfiler: input from "/tmp/rpl_data_240212_074342_3091979/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+182.211 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074342_3091979/input0_results_240212_074342
+File './IPC/tmp/floyd_warshall_17.csv' is generating
+RPL: on '240212_074343' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074343_3092066'
+RPL: result dir '/tmp/rpl_data_240212_074343_3092066/input0_results_240212_074343'
+ROCProfiler: input from "/tmp/rpl_data_240212_074343_3092066/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.17 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074343_3092066/input0_results_240212_074343
+File './IPC/tmp/floyd_warshall_17.csv' is generating
+RPL: on '240212_074344' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074344_3092153'
+RPL: result dir '/tmp/rpl_data_240212_074344_3092153/input0_results_240212_074344'
+ROCProfiler: input from "/tmp/rpl_data_240212_074344_3092153/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+173.379 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074344_3092153/input0_results_240212_074344
+File './IPC/tmp/floyd_warshall_17.csv' is generating
+RPL: on '240212_074345' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074345_3092240'
+RPL: result dir '/tmp/rpl_data_240212_074345_3092240/input0_results_240212_074345'
+ROCProfiler: input from "/tmp/rpl_data_240212_074345_3092240/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.18 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074345_3092240/input0_results_240212_074345
+File './IPC/tmp/floyd_warshall_17.csv' is generating
+RPL: on '240212_074345' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074345_3092327'
+RPL: result dir '/tmp/rpl_data_240212_074345_3092327/input0_results_240212_074345'
+ROCProfiler: input from "/tmp/rpl_data_240212_074345_3092327/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.054 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074345_3092327/input0_results_240212_074345
+File './IPC/tmp/floyd_warshall_17.csv' is generating
+RPL: on '240212_074346' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074346_3092414'
+RPL: result dir '/tmp/rpl_data_240212_074346_3092414/input0_results_240212_074346'
+ROCProfiler: input from "/tmp/rpl_data_240212_074346_3092414/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.051 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074346_3092414/input0_results_240212_074346
+File './IPC/tmp/floyd_warshall_17.csv' is generating
+RPL: on '240212_074347' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074347_3092501'
+RPL: result dir '/tmp/rpl_data_240212_074347_3092501/input0_results_240212_074347'
+ROCProfiler: input from "/tmp/rpl_data_240212_074347_3092501/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+185.002 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074347_3092501/input0_results_240212_074347
+File './IPC/tmp/floyd_warshall_17.csv' is generating
+RPL: on '240212_074348' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074348_3092588'
+RPL: result dir '/tmp/rpl_data_240212_074348_3092588/input0_results_240212_074348'
+ROCProfiler: input from "/tmp/rpl_data_240212_074348_3092588/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+174.208 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074348_3092588/input0_results_240212_074348
+File './IPC/tmp/floyd_warshall_17.csv' is generating
+RPL: on '240212_074348' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074348_3092675'
+RPL: result dir '/tmp/rpl_data_240212_074348_3092675/input0_results_240212_074348'
+ROCProfiler: input from "/tmp/rpl_data_240212_074348_3092675/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.949 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074348_3092675/input0_results_240212_074348
+File './IPC/tmp/floyd_warshall_17.csv' is generating
+RPL: on '240212_074349' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074349_3092762'
+RPL: result dir '/tmp/rpl_data_240212_074349_3092762/input0_results_240212_074349'
+ROCProfiler: input from "/tmp/rpl_data_240212_074349_3092762/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+171.449 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074349_3092762/input0_results_240212_074349
+File './IPC/tmp/floyd_warshall_17.csv' is generating
+RPL: on '240212_074350' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074350_3092849'
+RPL: result dir '/tmp/rpl_data_240212_074350_3092849/input0_results_240212_074350'
+ROCProfiler: input from "/tmp/rpl_data_240212_074350_3092849/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+166.27 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074350_3092849/input0_results_240212_074350
+File './IPC/tmp/floyd_warshall_18.csv' is generating
+RPL: on '240212_074351' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074351_3092936'
+RPL: result dir '/tmp/rpl_data_240212_074351_3092936/input0_results_240212_074351'
+ROCProfiler: input from "/tmp/rpl_data_240212_074351_3092936/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+170.063 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074351_3092936/input0_results_240212_074351
+File './IPC/tmp/floyd_warshall_18.csv' is generating
+RPL: on '240212_074351' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074351_3093023'
+RPL: result dir '/tmp/rpl_data_240212_074351_3093023/input0_results_240212_074351'
+ROCProfiler: input from "/tmp/rpl_data_240212_074351_3093023/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+171.314 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074351_3093023/input0_results_240212_074351
+File './IPC/tmp/floyd_warshall_18.csv' is generating
+RPL: on '240212_074352' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074352_3093110'
+RPL: result dir '/tmp/rpl_data_240212_074352_3093110/input0_results_240212_074352'
+ROCProfiler: input from "/tmp/rpl_data_240212_074352_3093110/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+168.483 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074352_3093110/input0_results_240212_074352
+File './IPC/tmp/floyd_warshall_18.csv' is generating
+RPL: on '240212_074353' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074353_3093197'
+RPL: result dir '/tmp/rpl_data_240212_074353_3093197/input0_results_240212_074353'
+ROCProfiler: input from "/tmp/rpl_data_240212_074353_3093197/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+171.571 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074353_3093197/input0_results_240212_074353
+File './IPC/tmp/floyd_warshall_18.csv' is generating
+RPL: on '240212_074354' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074354_3093284'
+RPL: result dir '/tmp/rpl_data_240212_074354_3093284/input0_results_240212_074354'
+ROCProfiler: input from "/tmp/rpl_data_240212_074354_3093284/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+168.04 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074354_3093284/input0_results_240212_074354
+File './IPC/tmp/floyd_warshall_18.csv' is generating
+RPL: on '240212_074354' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074354_3093371'
+RPL: result dir '/tmp/rpl_data_240212_074354_3093371/input0_results_240212_074354'
+ROCProfiler: input from "/tmp/rpl_data_240212_074354_3093371/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+173.147 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074354_3093371/input0_results_240212_074354
+File './IPC/tmp/floyd_warshall_18.csv' is generating
+RPL: on '240212_074355' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074355_3093458'
+RPL: result dir '/tmp/rpl_data_240212_074355_3093458/input0_results_240212_074355'
+ROCProfiler: input from "/tmp/rpl_data_240212_074355_3093458/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+168.984 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074355_3093458/input0_results_240212_074355
+File './IPC/tmp/floyd_warshall_18.csv' is generating
+RPL: on '240212_074356' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074356_3093545'
+RPL: result dir '/tmp/rpl_data_240212_074356_3093545/input0_results_240212_074356'
+ROCProfiler: input from "/tmp/rpl_data_240212_074356_3093545/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+169.855 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074356_3093545/input0_results_240212_074356
+File './IPC/tmp/floyd_warshall_18.csv' is generating
+RPL: on '240212_074357' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074357_3093632'
+RPL: result dir '/tmp/rpl_data_240212_074357_3093632/input0_results_240212_074357'
+ROCProfiler: input from "/tmp/rpl_data_240212_074357_3093632/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+171.748 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074357_3093632/input0_results_240212_074357
+File './IPC/tmp/floyd_warshall_18.csv' is generating
+RPL: on '240212_074357' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074357_3093719'
+RPL: result dir '/tmp/rpl_data_240212_074357_3093719/input0_results_240212_074357'
+ROCProfiler: input from "/tmp/rpl_data_240212_074357_3093719/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+179.753 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074357_3093719/input0_results_240212_074357
+File './IPC/tmp/floyd_warshall_19.csv' is generating
+RPL: on '240212_074358' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074358_3093806'
+RPL: result dir '/tmp/rpl_data_240212_074358_3093806/input0_results_240212_074358'
+ROCProfiler: input from "/tmp/rpl_data_240212_074358_3093806/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+187.531 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074358_3093806/input0_results_240212_074358
+File './IPC/tmp/floyd_warshall_19.csv' is generating
+RPL: on '240212_074359' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074359_3093893'
+RPL: result dir '/tmp/rpl_data_240212_074359_3093893/input0_results_240212_074359'
+ROCProfiler: input from "/tmp/rpl_data_240212_074359_3093893/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+179.119 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074359_3093893/input0_results_240212_074359
+File './IPC/tmp/floyd_warshall_19.csv' is generating
+RPL: on '240212_074400' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074400_3093980'
+RPL: result dir '/tmp/rpl_data_240212_074400_3093980/input0_results_240212_074400'
+ROCProfiler: input from "/tmp/rpl_data_240212_074400_3093980/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.054 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074400_3093980/input0_results_240212_074400
+File './IPC/tmp/floyd_warshall_19.csv' is generating
+RPL: on '240212_074400' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074400_3094067'
+RPL: result dir '/tmp/rpl_data_240212_074400_3094067/input0_results_240212_074400'
+ROCProfiler: input from "/tmp/rpl_data_240212_074400_3094067/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.141 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074400_3094067/input0_results_240212_074400
+File './IPC/tmp/floyd_warshall_19.csv' is generating
+RPL: on '240212_074401' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074401_3094154'
+RPL: result dir '/tmp/rpl_data_240212_074401_3094154/input0_results_240212_074401'
+ROCProfiler: input from "/tmp/rpl_data_240212_074401_3094154/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.301 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074401_3094154/input0_results_240212_074401
+File './IPC/tmp/floyd_warshall_19.csv' is generating
+RPL: on '240212_074402' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074402_3094241'
+RPL: result dir '/tmp/rpl_data_240212_074402_3094241/input0_results_240212_074402'
+ROCProfiler: input from "/tmp/rpl_data_240212_074402_3094241/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+189.107 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074402_3094241/input0_results_240212_074402
+File './IPC/tmp/floyd_warshall_19.csv' is generating
+RPL: on '240212_074403' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074403_3094328'
+RPL: result dir '/tmp/rpl_data_240212_074403_3094328/input0_results_240212_074403'
+ROCProfiler: input from "/tmp/rpl_data_240212_074403_3094328/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+174.469 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074403_3094328/input0_results_240212_074403
+File './IPC/tmp/floyd_warshall_19.csv' is generating
+RPL: on '240212_074403' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074403_3094415'
+RPL: result dir '/tmp/rpl_data_240212_074403_3094415/input0_results_240212_074403'
+ROCProfiler: input from "/tmp/rpl_data_240212_074403_3094415/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.751 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074403_3094415/input0_results_240212_074403
+File './IPC/tmp/floyd_warshall_19.csv' is generating
+RPL: on '240212_074404' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074404_3094502'
+RPL: result dir '/tmp/rpl_data_240212_074404_3094502/input0_results_240212_074404'
+ROCProfiler: input from "/tmp/rpl_data_240212_074404_3094502/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+187.571 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074404_3094502/input0_results_240212_074404
+File './IPC/tmp/floyd_warshall_19.csv' is generating
+RPL: on '240212_074405' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074405_3094589'
+RPL: result dir '/tmp/rpl_data_240212_074405_3094589/input0_results_240212_074405'
+ROCProfiler: input from "/tmp/rpl_data_240212_074405_3094589/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+184.094 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074405_3094589/input0_results_240212_074405
+File './IPC/tmp/floyd_warshall_20.csv' is generating
+RPL: on '240212_074406' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074406_3094676'
+RPL: result dir '/tmp/rpl_data_240212_074406_3094676/input0_results_240212_074406'
+ROCProfiler: input from "/tmp/rpl_data_240212_074406_3094676/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.346 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074406_3094676/input0_results_240212_074406
+File './IPC/tmp/floyd_warshall_20.csv' is generating
+RPL: on '240212_074407' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074407_3094763'
+RPL: result dir '/tmp/rpl_data_240212_074407_3094763/input0_results_240212_074407'
+ROCProfiler: input from "/tmp/rpl_data_240212_074407_3094763/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.053 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074407_3094763/input0_results_240212_074407
+File './IPC/tmp/floyd_warshall_20.csv' is generating
+RPL: on '240212_074407' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074407_3094850'
+RPL: result dir '/tmp/rpl_data_240212_074407_3094850/input0_results_240212_074407'
+ROCProfiler: input from "/tmp/rpl_data_240212_074407_3094850/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+174.289 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074407_3094850/input0_results_240212_074407
+File './IPC/tmp/floyd_warshall_20.csv' is generating
+RPL: on '240212_074408' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074408_3094937'
+RPL: result dir '/tmp/rpl_data_240212_074408_3094937/input0_results_240212_074408'
+ROCProfiler: input from "/tmp/rpl_data_240212_074408_3094937/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.087 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074408_3094937/input0_results_240212_074408
+File './IPC/tmp/floyd_warshall_20.csv' is generating
+RPL: on '240212_074409' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074409_3095024'
+RPL: result dir '/tmp/rpl_data_240212_074409_3095024/input0_results_240212_074409'
+ROCProfiler: input from "/tmp/rpl_data_240212_074409_3095024/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.643 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074409_3095024/input0_results_240212_074409
+File './IPC/tmp/floyd_warshall_20.csv' is generating
+RPL: on '240212_074410' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074410_3095111'
+RPL: result dir '/tmp/rpl_data_240212_074410_3095111/input0_results_240212_074410'
+ROCProfiler: input from "/tmp/rpl_data_240212_074410_3095111/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.213 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074410_3095111/input0_results_240212_074410
+File './IPC/tmp/floyd_warshall_20.csv' is generating
+RPL: on '240212_074410' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074410_3095198'
+RPL: result dir '/tmp/rpl_data_240212_074410_3095198/input0_results_240212_074410'
+ROCProfiler: input from "/tmp/rpl_data_240212_074410_3095198/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.41 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074410_3095198/input0_results_240212_074410
+File './IPC/tmp/floyd_warshall_20.csv' is generating
+RPL: on '240212_074411' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074411_3095285'
+RPL: result dir '/tmp/rpl_data_240212_074411_3095285/input0_results_240212_074411'
+ROCProfiler: input from "/tmp/rpl_data_240212_074411_3095285/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.793 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074411_3095285/input0_results_240212_074411
+File './IPC/tmp/floyd_warshall_20.csv' is generating
+RPL: on '240212_074412' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074412_3095372'
+RPL: result dir '/tmp/rpl_data_240212_074412_3095372/input0_results_240212_074412'
+ROCProfiler: input from "/tmp/rpl_data_240212_074412_3095372/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.491 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074412_3095372/input0_results_240212_074412
+File './IPC/tmp/floyd_warshall_20.csv' is generating
+RPL: on '240212_074413' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074413_3095459'
+RPL: result dir '/tmp/rpl_data_240212_074413_3095459/input0_results_240212_074413'
+ROCProfiler: input from "/tmp/rpl_data_240212_074413_3095459/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+174.069 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074413_3095459/input0_results_240212_074413
+File './IPC/tmp/floyd_warshall_21.csv' is generating
+RPL: on '240212_074413' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074413_3095546'
+RPL: result dir '/tmp/rpl_data_240212_074413_3095546/input0_results_240212_074413'
+ROCProfiler: input from "/tmp/rpl_data_240212_074413_3095546/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+180.494 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074413_3095546/input0_results_240212_074413
+File './IPC/tmp/floyd_warshall_21.csv' is generating
+RPL: on '240212_074414' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074414_3095633'
+RPL: result dir '/tmp/rpl_data_240212_074414_3095633/input0_results_240212_074414'
+ROCProfiler: input from "/tmp/rpl_data_240212_074414_3095633/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.384 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074414_3095633/input0_results_240212_074414
+File './IPC/tmp/floyd_warshall_21.csv' is generating
+RPL: on '240212_074415' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074415_3095720'
+RPL: result dir '/tmp/rpl_data_240212_074415_3095720/input0_results_240212_074415'
+ROCProfiler: input from "/tmp/rpl_data_240212_074415_3095720/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+171.119 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074415_3095720/input0_results_240212_074415
+File './IPC/tmp/floyd_warshall_21.csv' is generating
+RPL: on '240212_074416' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074416_3095807'
+RPL: result dir '/tmp/rpl_data_240212_074416_3095807/input0_results_240212_074416'
+ROCProfiler: input from "/tmp/rpl_data_240212_074416_3095807/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.666 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074416_3095807/input0_results_240212_074416
+File './IPC/tmp/floyd_warshall_21.csv' is generating
+RPL: on '240212_074416' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074416_3095894'
+RPL: result dir '/tmp/rpl_data_240212_074416_3095894/input0_results_240212_074416'
+ROCProfiler: input from "/tmp/rpl_data_240212_074416_3095894/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.483 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074416_3095894/input0_results_240212_074416
+File './IPC/tmp/floyd_warshall_21.csv' is generating
+RPL: on '240212_074417' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074417_3095981'
+RPL: result dir '/tmp/rpl_data_240212_074417_3095981/input0_results_240212_074417'
+ROCProfiler: input from "/tmp/rpl_data_240212_074417_3095981/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.159 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074417_3095981/input0_results_240212_074417
+File './IPC/tmp/floyd_warshall_21.csv' is generating
+RPL: on '240212_074418' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074418_3096068'
+RPL: result dir '/tmp/rpl_data_240212_074418_3096068/input0_results_240212_074418'
+ROCProfiler: input from "/tmp/rpl_data_240212_074418_3096068/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+173.49 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074418_3096068/input0_results_240212_074418
+File './IPC/tmp/floyd_warshall_21.csv' is generating
+RPL: on '240212_074419' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074419_3096155'
+RPL: result dir '/tmp/rpl_data_240212_074419_3096155/input0_results_240212_074419'
+ROCProfiler: input from "/tmp/rpl_data_240212_074419_3096155/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.375 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074419_3096155/input0_results_240212_074419
+File './IPC/tmp/floyd_warshall_21.csv' is generating
+RPL: on '240212_074419' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074419_3096242'
+RPL: result dir '/tmp/rpl_data_240212_074419_3096242/input0_results_240212_074419'
+ROCProfiler: input from "/tmp/rpl_data_240212_074419_3096242/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.477 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074419_3096242/input0_results_240212_074419
+File './IPC/tmp/floyd_warshall_21.csv' is generating
+RPL: on '240212_074420' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074420_3096329'
+RPL: result dir '/tmp/rpl_data_240212_074420_3096329/input0_results_240212_074420'
+ROCProfiler: input from "/tmp/rpl_data_240212_074420_3096329/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.089 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074420_3096329/input0_results_240212_074420
+File './IPC/tmp/floyd_warshall_22.csv' is generating
+RPL: on '240212_074421' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074421_3096416'
+RPL: result dir '/tmp/rpl_data_240212_074421_3096416/input0_results_240212_074421'
+ROCProfiler: input from "/tmp/rpl_data_240212_074421_3096416/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+184.97 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074421_3096416/input0_results_240212_074421
+File './IPC/tmp/floyd_warshall_22.csv' is generating
+RPL: on '240212_074422' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074422_3096503'
+RPL: result dir '/tmp/rpl_data_240212_074422_3096503/input0_results_240212_074422'
+ROCProfiler: input from "/tmp/rpl_data_240212_074422_3096503/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+174.16 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074422_3096503/input0_results_240212_074422
+File './IPC/tmp/floyd_warshall_22.csv' is generating
+RPL: on '240212_074422' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074422_3096590'
+RPL: result dir '/tmp/rpl_data_240212_074422_3096590/input0_results_240212_074422'
+ROCProfiler: input from "/tmp/rpl_data_240212_074422_3096590/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+180.357 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074422_3096590/input0_results_240212_074422
+File './IPC/tmp/floyd_warshall_22.csv' is generating
+RPL: on '240212_074423' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074423_3096677'
+RPL: result dir '/tmp/rpl_data_240212_074423_3096677/input0_results_240212_074423'
+ROCProfiler: input from "/tmp/rpl_data_240212_074423_3096677/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+171.579 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074423_3096677/input0_results_240212_074423
+File './IPC/tmp/floyd_warshall_22.csv' is generating
+RPL: on '240212_074424' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074424_3096764'
+RPL: result dir '/tmp/rpl_data_240212_074424_3096764/input0_results_240212_074424'
+ROCProfiler: input from "/tmp/rpl_data_240212_074424_3096764/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+174.84 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074424_3096764/input0_results_240212_074424
+File './IPC/tmp/floyd_warshall_22.csv' is generating
+RPL: on '240212_074425' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074425_3096851'
+RPL: result dir '/tmp/rpl_data_240212_074425_3096851/input0_results_240212_074425'
+ROCProfiler: input from "/tmp/rpl_data_240212_074425_3096851/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+182.484 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074425_3096851/input0_results_240212_074425
+File './IPC/tmp/floyd_warshall_22.csv' is generating
+RPL: on '240212_074425' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074425_3096938'
+RPL: result dir '/tmp/rpl_data_240212_074425_3096938/input0_results_240212_074425'
+ROCProfiler: input from "/tmp/rpl_data_240212_074425_3096938/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.704 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074425_3096938/input0_results_240212_074425
+File './IPC/tmp/floyd_warshall_22.csv' is generating
+RPL: on '240212_074426' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074426_3097025'
+RPL: result dir '/tmp/rpl_data_240212_074426_3097025/input0_results_240212_074426'
+ROCProfiler: input from "/tmp/rpl_data_240212_074426_3097025/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.383 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074426_3097025/input0_results_240212_074426
+File './IPC/tmp/floyd_warshall_22.csv' is generating
+RPL: on '240212_074427' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074427_3097112'
+RPL: result dir '/tmp/rpl_data_240212_074427_3097112/input0_results_240212_074427'
+ROCProfiler: input from "/tmp/rpl_data_240212_074427_3097112/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.689 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074427_3097112/input0_results_240212_074427
+File './IPC/tmp/floyd_warshall_22.csv' is generating
+RPL: on '240212_074428' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074428_3097199'
+RPL: result dir '/tmp/rpl_data_240212_074428_3097199/input0_results_240212_074428'
+ROCProfiler: input from "/tmp/rpl_data_240212_074428_3097199/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.676 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074428_3097199/input0_results_240212_074428
+File './IPC/tmp/floyd_warshall_23.csv' is generating
+RPL: on '240212_074428' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074428_3097286'
+RPL: result dir '/tmp/rpl_data_240212_074428_3097286/input0_results_240212_074428'
+ROCProfiler: input from "/tmp/rpl_data_240212_074428_3097286/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+173.511 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074428_3097286/input0_results_240212_074428
+File './IPC/tmp/floyd_warshall_23.csv' is generating
+RPL: on '240212_074429' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074429_3097373'
+RPL: result dir '/tmp/rpl_data_240212_074429_3097373/input0_results_240212_074429'
+ROCProfiler: input from "/tmp/rpl_data_240212_074429_3097373/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+180.228 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074429_3097373/input0_results_240212_074429
+File './IPC/tmp/floyd_warshall_23.csv' is generating
+RPL: on '240212_074430' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074430_3097460'
+RPL: result dir '/tmp/rpl_data_240212_074430_3097460/input0_results_240212_074430'
+ROCProfiler: input from "/tmp/rpl_data_240212_074430_3097460/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+174.122 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074430_3097460/input0_results_240212_074430
+File './IPC/tmp/floyd_warshall_23.csv' is generating
+RPL: on '240212_074431' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074431_3097547'
+RPL: result dir '/tmp/rpl_data_240212_074431_3097547/input0_results_240212_074431'
+ROCProfiler: input from "/tmp/rpl_data_240212_074431_3097547/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+169.935 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074431_3097547/input0_results_240212_074431
+File './IPC/tmp/floyd_warshall_23.csv' is generating
+RPL: on '240212_074431' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074431_3097634'
+RPL: result dir '/tmp/rpl_data_240212_074431_3097634/input0_results_240212_074431'
+ROCProfiler: input from "/tmp/rpl_data_240212_074431_3097634/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+169.521 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074431_3097634/input0_results_240212_074431
+File './IPC/tmp/floyd_warshall_23.csv' is generating
+RPL: on '240212_074432' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074432_3097721'
+RPL: result dir '/tmp/rpl_data_240212_074432_3097721/input0_results_240212_074432'
+ROCProfiler: input from "/tmp/rpl_data_240212_074432_3097721/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+168.782 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074432_3097721/input0_results_240212_074432
+File './IPC/tmp/floyd_warshall_23.csv' is generating
+RPL: on '240212_074433' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074433_3097808'
+RPL: result dir '/tmp/rpl_data_240212_074433_3097808/input0_results_240212_074433'
+ROCProfiler: input from "/tmp/rpl_data_240212_074433_3097808/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+174.948 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074433_3097808/input0_results_240212_074433
+File './IPC/tmp/floyd_warshall_23.csv' is generating
+RPL: on '240212_074434' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074434_3097895'
+RPL: result dir '/tmp/rpl_data_240212_074434_3097895/input0_results_240212_074434'
+ROCProfiler: input from "/tmp/rpl_data_240212_074434_3097895/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+169.937 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074434_3097895/input0_results_240212_074434
+File './IPC/tmp/floyd_warshall_23.csv' is generating
+RPL: on '240212_074434' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074434_3097982'
+RPL: result dir '/tmp/rpl_data_240212_074434_3097982/input0_results_240212_074434'
+ROCProfiler: input from "/tmp/rpl_data_240212_074434_3097982/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+172.917 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074434_3097982/input0_results_240212_074434
+File './IPC/tmp/floyd_warshall_23.csv' is generating
+RPL: on '240212_074435' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074435_3098069'
+RPL: result dir '/tmp/rpl_data_240212_074435_3098069/input0_results_240212_074435'
+ROCProfiler: input from "/tmp/rpl_data_240212_074435_3098069/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+183.151 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074435_3098069/input0_results_240212_074435
+File './IPC/tmp/floyd_warshall_24.csv' is generating
+RPL: on '240212_074436' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074436_3098156'
+RPL: result dir '/tmp/rpl_data_240212_074436_3098156/input0_results_240212_074436'
+ROCProfiler: input from "/tmp/rpl_data_240212_074436_3098156/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.857 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074436_3098156/input0_results_240212_074436
+File './IPC/tmp/floyd_warshall_24.csv' is generating
+RPL: on '240212_074437' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074437_3098243'
+RPL: result dir '/tmp/rpl_data_240212_074437_3098243/input0_results_240212_074437'
+ROCProfiler: input from "/tmp/rpl_data_240212_074437_3098243/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+183.895 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074437_3098243/input0_results_240212_074437
+File './IPC/tmp/floyd_warshall_24.csv' is generating
+RPL: on '240212_074437' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074437_3098330'
+RPL: result dir '/tmp/rpl_data_240212_074437_3098330/input0_results_240212_074437'
+ROCProfiler: input from "/tmp/rpl_data_240212_074437_3098330/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+180.95 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074437_3098330/input0_results_240212_074437
+File './IPC/tmp/floyd_warshall_24.csv' is generating
+RPL: on '240212_074438' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074438_3098417'
+RPL: result dir '/tmp/rpl_data_240212_074438_3098417/input0_results_240212_074438'
+ROCProfiler: input from "/tmp/rpl_data_240212_074438_3098417/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+179.723 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074438_3098417/input0_results_240212_074438
+File './IPC/tmp/floyd_warshall_24.csv' is generating
+RPL: on '240212_074439' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074439_3098504'
+RPL: result dir '/tmp/rpl_data_240212_074439_3098504/input0_results_240212_074439'
+ROCProfiler: input from "/tmp/rpl_data_240212_074439_3098504/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+181.958 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074439_3098504/input0_results_240212_074439
+File './IPC/tmp/floyd_warshall_24.csv' is generating
+RPL: on '240212_074440' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074440_3098591'
+RPL: result dir '/tmp/rpl_data_240212_074440_3098591/input0_results_240212_074440'
+ROCProfiler: input from "/tmp/rpl_data_240212_074440_3098591/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+189.157 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074440_3098591/input0_results_240212_074440
+File './IPC/tmp/floyd_warshall_24.csv' is generating
+RPL: on '240212_074440' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074440_3098678'
+RPL: result dir '/tmp/rpl_data_240212_074440_3098678/input0_results_240212_074440'
+ROCProfiler: input from "/tmp/rpl_data_240212_074440_3098678/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+184.841 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074440_3098678/input0_results_240212_074440
+File './IPC/tmp/floyd_warshall_24.csv' is generating
+RPL: on '240212_074441' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074441_3098765'
+RPL: result dir '/tmp/rpl_data_240212_074441_3098765/input0_results_240212_074441'
+ROCProfiler: input from "/tmp/rpl_data_240212_074441_3098765/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+183.495 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074441_3098765/input0_results_240212_074441
+File './IPC/tmp/floyd_warshall_24.csv' is generating
+RPL: on '240212_074442' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074442_3098852'
+RPL: result dir '/tmp/rpl_data_240212_074442_3098852/input0_results_240212_074442'
+ROCProfiler: input from "/tmp/rpl_data_240212_074442_3098852/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+180.641 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074442_3098852/input0_results_240212_074442
+File './IPC/tmp/floyd_warshall_24.csv' is generating
+RPL: on '240212_074443' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074443_3098939'
+RPL: result dir '/tmp/rpl_data_240212_074443_3098939/input0_results_240212_074443'
+ROCProfiler: input from "/tmp/rpl_data_240212_074443_3098939/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.259 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074443_3098939/input0_results_240212_074443
+File './IPC/tmp/floyd_warshall_25.csv' is generating
+RPL: on '240212_074443' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074443_3099026'
+RPL: result dir '/tmp/rpl_data_240212_074443_3099026/input0_results_240212_074443'
+ROCProfiler: input from "/tmp/rpl_data_240212_074443_3099026/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+173.241 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074443_3099026/input0_results_240212_074443
+File './IPC/tmp/floyd_warshall_25.csv' is generating
+RPL: on '240212_074444' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074444_3099113'
+RPL: result dir '/tmp/rpl_data_240212_074444_3099113/input0_results_240212_074444'
+ROCProfiler: input from "/tmp/rpl_data_240212_074444_3099113/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.625 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074444_3099113/input0_results_240212_074444
+File './IPC/tmp/floyd_warshall_25.csv' is generating
+RPL: on '240212_074445' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074445_3099200'
+RPL: result dir '/tmp/rpl_data_240212_074445_3099200/input0_results_240212_074445'
+ROCProfiler: input from "/tmp/rpl_data_240212_074445_3099200/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+174.4 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074445_3099200/input0_results_240212_074445
+File './IPC/tmp/floyd_warshall_25.csv' is generating
+RPL: on '240212_074446' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074446_3099287'
+RPL: result dir '/tmp/rpl_data_240212_074446_3099287/input0_results_240212_074446'
+ROCProfiler: input from "/tmp/rpl_data_240212_074446_3099287/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.81 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074446_3099287/input0_results_240212_074446
+File './IPC/tmp/floyd_warshall_25.csv' is generating
+RPL: on '240212_074446' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074446_3099374'
+RPL: result dir '/tmp/rpl_data_240212_074446_3099374/input0_results_240212_074446'
+ROCProfiler: input from "/tmp/rpl_data_240212_074446_3099374/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+186.092 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074446_3099374/input0_results_240212_074446
+File './IPC/tmp/floyd_warshall_25.csv' is generating
+RPL: on '240212_074447' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074447_3099461'
+RPL: result dir '/tmp/rpl_data_240212_074447_3099461/input0_results_240212_074447'
+ROCProfiler: input from "/tmp/rpl_data_240212_074447_3099461/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.295 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074447_3099461/input0_results_240212_074447
+File './IPC/tmp/floyd_warshall_25.csv' is generating
+RPL: on '240212_074448' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074448_3099548'
+RPL: result dir '/tmp/rpl_data_240212_074448_3099548/input0_results_240212_074448'
+ROCProfiler: input from "/tmp/rpl_data_240212_074448_3099548/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+180.254 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074448_3099548/input0_results_240212_074448
+File './IPC/tmp/floyd_warshall_25.csv' is generating
+RPL: on '240212_074449' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074449_3099635'
+RPL: result dir '/tmp/rpl_data_240212_074449_3099635/input0_results_240212_074449'
+ROCProfiler: input from "/tmp/rpl_data_240212_074449_3099635/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+173.433 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074449_3099635/input0_results_240212_074449
+File './IPC/tmp/floyd_warshall_25.csv' is generating
+RPL: on '240212_074450' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074450_3099722'
+RPL: result dir '/tmp/rpl_data_240212_074450_3099722/input0_results_240212_074450'
+ROCProfiler: input from "/tmp/rpl_data_240212_074450_3099722/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.678 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074450_3099722/input0_results_240212_074450
+File './IPC/tmp/floyd_warshall_25.csv' is generating
+RPL: on '240212_074450' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074450_3099809'
+RPL: result dir '/tmp/rpl_data_240212_074450_3099809/input0_results_240212_074450'
+ROCProfiler: input from "/tmp/rpl_data_240212_074450_3099809/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.678 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074450_3099809/input0_results_240212_074450
+File './IPC/tmp/floyd_warshall_26.csv' is generating
+RPL: on '240212_074451' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074451_3099896'
+RPL: result dir '/tmp/rpl_data_240212_074451_3099896/input0_results_240212_074451'
+ROCProfiler: input from "/tmp/rpl_data_240212_074451_3099896/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.83 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074451_3099896/input0_results_240212_074451
+File './IPC/tmp/floyd_warshall_26.csv' is generating
+RPL: on '240212_074452' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074452_3099983'
+RPL: result dir '/tmp/rpl_data_240212_074452_3099983/input0_results_240212_074452'
+ROCProfiler: input from "/tmp/rpl_data_240212_074452_3099983/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.447 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074452_3099983/input0_results_240212_074452
+File './IPC/tmp/floyd_warshall_26.csv' is generating
+RPL: on '240212_074453' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074453_3100070'
+RPL: result dir '/tmp/rpl_data_240212_074453_3100070/input0_results_240212_074453'
+ROCProfiler: input from "/tmp/rpl_data_240212_074453_3100070/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.119 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074453_3100070/input0_results_240212_074453
+File './IPC/tmp/floyd_warshall_26.csv' is generating
+RPL: on '240212_074453' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074453_3100157'
+RPL: result dir '/tmp/rpl_data_240212_074453_3100157/input0_results_240212_074453'
+ROCProfiler: input from "/tmp/rpl_data_240212_074453_3100157/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+173.793 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074453_3100157/input0_results_240212_074453
+File './IPC/tmp/floyd_warshall_26.csv' is generating
+RPL: on '240212_074454' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074454_3100244'
+RPL: result dir '/tmp/rpl_data_240212_074454_3100244/input0_results_240212_074454'
+ROCProfiler: input from "/tmp/rpl_data_240212_074454_3100244/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+175.883 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074454_3100244/input0_results_240212_074454
+File './IPC/tmp/floyd_warshall_26.csv' is generating
+RPL: on '240212_074455' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074455_3100331'
+RPL: result dir '/tmp/rpl_data_240212_074455_3100331/input0_results_240212_074455'
+ROCProfiler: input from "/tmp/rpl_data_240212_074455_3100331/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+176.595 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074455_3100331/input0_results_240212_074455
+File './IPC/tmp/floyd_warshall_26.csv' is generating
+RPL: on '240212_074456' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074456_3100418'
+RPL: result dir '/tmp/rpl_data_240212_074456_3100418/input0_results_240212_074456'
+ROCProfiler: input from "/tmp/rpl_data_240212_074456_3100418/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.509 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074456_3100418/input0_results_240212_074456
+File './IPC/tmp/floyd_warshall_26.csv' is generating
+RPL: on '240212_074456' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074456_3100505'
+RPL: result dir '/tmp/rpl_data_240212_074456_3100505/input0_results_240212_074456'
+ROCProfiler: input from "/tmp/rpl_data_240212_074456_3100505/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+177.145 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074456_3100505/input0_results_240212_074456
+File './IPC/tmp/floyd_warshall_26.csv' is generating
+RPL: on '240212_074457' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/floyd_warshall/floyd_warshall_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_074457_3100592'
+RPL: result dir '/tmp/rpl_data_240212_074457_3100592/input0_results_240212_074457'
+ROCProfiler: input from "/tmp/rpl_data_240212_074457_3100592/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+178.384 ms
+
+ROCPRofiler: 512 contexts collected, output directory /tmp/rpl_data_240212_074457_3100592/input0_results_240212_074457
+File './IPC/tmp/floyd_warshall_26.csv' is generating
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_0.csv ./bin/floyd_warshall/floyd_warshall_110
+0 : floyd_warshall_110
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_1.csv ./bin/floyd_warshall/floyd_warshall_221
+1 : floyd_warshall_221
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_2.csv ./bin/floyd_warshall/floyd_warshall_111
+2 : floyd_warshall_111
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_3.csv ./bin/floyd_warshall/floyd_warshall_101
+3 : floyd_warshall_101
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_4.csv ./bin/floyd_warshall/floyd_warshall_120
+4 : floyd_warshall_120
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_5.csv ./bin/floyd_warshall/floyd_warshall_012
+5 : floyd_warshall_012
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_6.csv ./bin/floyd_warshall/floyd_warshall_112
+6 : floyd_warshall_112
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_7.csv ./bin/floyd_warshall/floyd_warshall_201
+7 : floyd_warshall_201
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_8.csv ./bin/floyd_warshall/floyd_warshall_010
+8 : floyd_warshall_010
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_9.csv ./bin/floyd_warshall/floyd_warshall_200
+9 : floyd_warshall_200
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_10.csv ./bin/floyd_warshall/floyd_warshall_022
+10 : floyd_warshall_022
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_11.csv ./bin/floyd_warshall/floyd_warshall_122
+11 : floyd_warshall_122
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_12.csv ./bin/floyd_warshall/floyd_warshall_021
+12 : floyd_warshall_021
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_13.csv ./bin/floyd_warshall/floyd_warshall_121
+13 : floyd_warshall_121
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_14.csv ./bin/floyd_warshall/floyd_warshall_100
+14 : floyd_warshall_100
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_15.csv ./bin/floyd_warshall/floyd_warshall_000
+15 : floyd_warshall_000
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_16.csv ./bin/floyd_warshall/floyd_warshall_102
+16 : floyd_warshall_102
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_17.csv ./bin/floyd_warshall/floyd_warshall_011
+17 : floyd_warshall_011
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_18.csv ./bin/floyd_warshall/floyd_warshall_210
+18 : floyd_warshall_210
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_19.csv ./bin/floyd_warshall/floyd_warshall_212
+19 : floyd_warshall_212
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_20.csv ./bin/floyd_warshall/floyd_warshall_001
+20 : floyd_warshall_001
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_21.csv ./bin/floyd_warshall/floyd_warshall_002
+21 : floyd_warshall_002
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_22.csv ./bin/floyd_warshall/floyd_warshall_220
+22 : floyd_warshall_220
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_23.csv ./bin/floyd_warshall/floyd_warshall_020
+23 : floyd_warshall_020
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_24.csv ./bin/floyd_warshall/floyd_warshall_222
+24 : floyd_warshall_222
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_25.csv ./bin/floyd_warshall/floyd_warshall_211
+25 : floyd_warshall_211
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/floyd_warshall_26.csv ./bin/floyd_warshall/floyd_warshall_202
+26 : floyd_warshall_202
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+

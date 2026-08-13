@@ -1,0 +1,1558 @@
+nohup: ignoring input
+RPL: on '240212_081839' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081839_3143452'
+RPL: result dir '/tmp/rpl_data_240212_081839_3143452/input0_results_240212_081839'
+ROCProfiler: input from "/tmp/rpl_data_240212_081839_3143452/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.248123 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081839_3143452/input0_results_240212_081839
+File './IPC/tmp/3mm_0.csv' is generating
+RPL: on '240212_081840' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081840_3143539'
+RPL: result dir '/tmp/rpl_data_240212_081840_3143539/input0_results_240212_081840'
+ROCProfiler: input from "/tmp/rpl_data_240212_081840_3143539/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.888992 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081840_3143539/input0_results_240212_081840
+File './IPC/tmp/3mm_0.csv' is generating
+RPL: on '240212_081840' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081840_3143626'
+RPL: result dir '/tmp/rpl_data_240212_081840_3143626/input0_results_240212_081840'
+ROCProfiler: input from "/tmp/rpl_data_240212_081840_3143626/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.104834 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081840_3143626/input0_results_240212_081840
+File './IPC/tmp/3mm_0.csv' is generating
+RPL: on '240212_081841' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081841_3143713'
+RPL: result dir '/tmp/rpl_data_240212_081841_3143713/input0_results_240212_081841'
+ROCProfiler: input from "/tmp/rpl_data_240212_081841_3143713/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.227858 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081841_3143713/input0_results_240212_081841
+File './IPC/tmp/3mm_0.csv' is generating
+RPL: on '240212_081841' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081841_3143800'
+RPL: result dir '/tmp/rpl_data_240212_081841_3143800/input0_results_240212_081841'
+ROCProfiler: input from "/tmp/rpl_data_240212_081841_3143800/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.398088 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081841_3143800/input0_results_240212_081841
+File './IPC/tmp/3mm_0.csv' is generating
+RPL: on '240212_081842' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081842_3143887'
+RPL: result dir '/tmp/rpl_data_240212_081842_3143887/input0_results_240212_081842'
+ROCProfiler: input from "/tmp/rpl_data_240212_081842_3143887/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.028063 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081842_3143887/input0_results_240212_081842
+File './IPC/tmp/3mm_0.csv' is generating
+RPL: on '240212_081842' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081842_3143974'
+RPL: result dir '/tmp/rpl_data_240212_081842_3143974/input0_results_240212_081842'
+ROCProfiler: input from "/tmp/rpl_data_240212_081842_3143974/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.763823 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081842_3143974/input0_results_240212_081842
+File './IPC/tmp/3mm_0.csv' is generating
+RPL: on '240212_081843' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081843_3144061'
+RPL: result dir '/tmp/rpl_data_240212_081843_3144061/input0_results_240212_081843'
+ROCProfiler: input from "/tmp/rpl_data_240212_081843_3144061/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.921013 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081843_3144061/input0_results_240212_081843
+File './IPC/tmp/3mm_0.csv' is generating
+RPL: on '240212_081843' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081843_3144148'
+RPL: result dir '/tmp/rpl_data_240212_081843_3144148/input0_results_240212_081843'
+ROCProfiler: input from "/tmp/rpl_data_240212_081843_3144148/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+25.141001 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081843_3144148/input0_results_240212_081843
+File './IPC/tmp/3mm_0.csv' is generating
+RPL: on '240212_081844' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_21"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081844_3144235'
+RPL: result dir '/tmp/rpl_data_240212_081844_3144235/input0_results_240212_081844'
+ROCProfiler: input from "/tmp/rpl_data_240212_081844_3144235/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.371862 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081844_3144235/input0_results_240212_081844
+File './IPC/tmp/3mm_0.csv' is generating
+RPL: on '240212_081844' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081844_3144322'
+RPL: result dir '/tmp/rpl_data_240212_081844_3144322/input0_results_240212_081844'
+ROCProfiler: input from "/tmp/rpl_data_240212_081844_3144322/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.394035 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081844_3144322/input0_results_240212_081844
+File './IPC/tmp/3mm_1.csv' is generating
+RPL: on '240212_081845' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081845_3144409'
+RPL: result dir '/tmp/rpl_data_240212_081845_3144409/input0_results_240212_081845'
+ROCProfiler: input from "/tmp/rpl_data_240212_081845_3144409/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.104118 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081845_3144409/input0_results_240212_081845
+File './IPC/tmp/3mm_1.csv' is generating
+RPL: on '240212_081845' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081845_3144496'
+RPL: result dir '/tmp/rpl_data_240212_081845_3144496/input0_results_240212_081845'
+ROCProfiler: input from "/tmp/rpl_data_240212_081845_3144496/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.595976 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081845_3144496/input0_results_240212_081845
+File './IPC/tmp/3mm_1.csv' is generating
+RPL: on '240212_081846' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081846_3144583'
+RPL: result dir '/tmp/rpl_data_240212_081846_3144583/input0_results_240212_081846'
+ROCProfiler: input from "/tmp/rpl_data_240212_081846_3144583/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.491072 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081846_3144583/input0_results_240212_081846
+File './IPC/tmp/3mm_1.csv' is generating
+RPL: on '240212_081847' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081847_3144670'
+RPL: result dir '/tmp/rpl_data_240212_081847_3144670/input0_results_240212_081847'
+ROCProfiler: input from "/tmp/rpl_data_240212_081847_3144670/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.824142 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081847_3144670/input0_results_240212_081847
+File './IPC/tmp/3mm_1.csv' is generating
+RPL: on '240212_081847' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081847_3144757'
+RPL: result dir '/tmp/rpl_data_240212_081847_3144757/input0_results_240212_081847'
+ROCProfiler: input from "/tmp/rpl_data_240212_081847_3144757/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.133921 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081847_3144757/input0_results_240212_081847
+File './IPC/tmp/3mm_1.csv' is generating
+RPL: on '240212_081848' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081848_3144844'
+RPL: result dir '/tmp/rpl_data_240212_081848_3144844/input0_results_240212_081848'
+ROCProfiler: input from "/tmp/rpl_data_240212_081848_3144844/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.774147 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081848_3144844/input0_results_240212_081848
+File './IPC/tmp/3mm_1.csv' is generating
+RPL: on '240212_081848' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081848_3144931'
+RPL: result dir '/tmp/rpl_data_240212_081848_3144931/input0_results_240212_081848'
+ROCProfiler: input from "/tmp/rpl_data_240212_081848_3144931/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.492098 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081848_3144931/input0_results_240212_081848
+File './IPC/tmp/3mm_1.csv' is generating
+RPL: on '240212_081849' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081849_3145018'
+RPL: result dir '/tmp/rpl_data_240212_081849_3145018/input0_results_240212_081849'
+ROCProfiler: input from "/tmp/rpl_data_240212_081849_3145018/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.067879 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081849_3145018/input0_results_240212_081849
+File './IPC/tmp/3mm_1.csv' is generating
+RPL: on '240212_081849' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_10"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081849_3145105'
+RPL: result dir '/tmp/rpl_data_240212_081849_3145105/input0_results_240212_081849'
+ROCProfiler: input from "/tmp/rpl_data_240212_081849_3145105/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.531841 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081849_3145105/input0_results_240212_081849
+File './IPC/tmp/3mm_1.csv' is generating
+RPL: on '240212_081850' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081850_3145192'
+RPL: result dir '/tmp/rpl_data_240212_081850_3145192/input0_results_240212_081850'
+ROCProfiler: input from "/tmp/rpl_data_240212_081850_3145192/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.267912 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081850_3145192/input0_results_240212_081850
+File './IPC/tmp/3mm_2.csv' is generating
+RPL: on '240212_081850' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081850_3145279'
+RPL: result dir '/tmp/rpl_data_240212_081850_3145279/input0_results_240212_081850'
+ROCProfiler: input from "/tmp/rpl_data_240212_081850_3145279/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.147987 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081850_3145279/input0_results_240212_081850
+File './IPC/tmp/3mm_2.csv' is generating
+RPL: on '240212_081851' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081851_3145366'
+RPL: result dir '/tmp/rpl_data_240212_081851_3145366/input0_results_240212_081851'
+ROCProfiler: input from "/tmp/rpl_data_240212_081851_3145366/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.358988 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081851_3145366/input0_results_240212_081851
+File './IPC/tmp/3mm_2.csv' is generating
+RPL: on '240212_081851' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081851_3145453'
+RPL: result dir '/tmp/rpl_data_240212_081851_3145453/input0_results_240212_081851'
+ROCProfiler: input from "/tmp/rpl_data_240212_081851_3145453/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.508953 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081851_3145453/input0_results_240212_081851
+File './IPC/tmp/3mm_2.csv' is generating
+RPL: on '240212_081852' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081852_3145540'
+RPL: result dir '/tmp/rpl_data_240212_081852_3145540/input0_results_240212_081852'
+ROCProfiler: input from "/tmp/rpl_data_240212_081852_3145540/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.123907 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081852_3145540/input0_results_240212_081852
+File './IPC/tmp/3mm_2.csv' is generating
+RPL: on '240212_081852' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081852_3145627'
+RPL: result dir '/tmp/rpl_data_240212_081852_3145627/input0_results_240212_081852'
+ROCProfiler: input from "/tmp/rpl_data_240212_081852_3145627/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.330139 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081852_3145627/input0_results_240212_081852
+File './IPC/tmp/3mm_2.csv' is generating
+RPL: on '240212_081853' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081853_3145714'
+RPL: result dir '/tmp/rpl_data_240212_081853_3145714/input0_results_240212_081853'
+ROCProfiler: input from "/tmp/rpl_data_240212_081853_3145714/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.291039 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081853_3145714/input0_results_240212_081853
+File './IPC/tmp/3mm_2.csv' is generating
+RPL: on '240212_081853' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081853_3145801'
+RPL: result dir '/tmp/rpl_data_240212_081853_3145801/input0_results_240212_081853'
+ROCProfiler: input from "/tmp/rpl_data_240212_081853_3145801/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.109125 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081853_3145801/input0_results_240212_081853
+File './IPC/tmp/3mm_2.csv' is generating
+RPL: on '240212_081854' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081854_3145888'
+RPL: result dir '/tmp/rpl_data_240212_081854_3145888/input0_results_240212_081854'
+ROCProfiler: input from "/tmp/rpl_data_240212_081854_3145888/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.468184 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081854_3145888/input0_results_240212_081854
+File './IPC/tmp/3mm_2.csv' is generating
+RPL: on '240212_081854' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_22"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081854_3145975'
+RPL: result dir '/tmp/rpl_data_240212_081854_3145975/input0_results_240212_081854'
+ROCProfiler: input from "/tmp/rpl_data_240212_081854_3145975/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+25.040865 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081854_3145975/input0_results_240212_081854
+File './IPC/tmp/3mm_2.csv' is generating
+RPL: on '240212_081855' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081855_3146062'
+RPL: result dir '/tmp/rpl_data_240212_081855_3146062/input0_results_240212_081855'
+ROCProfiler: input from "/tmp/rpl_data_240212_081855_3146062/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.564981 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081855_3146062/input0_results_240212_081855
+File './IPC/tmp/3mm_3.csv' is generating
+RPL: on '240212_081855' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081855_3146149'
+RPL: result dir '/tmp/rpl_data_240212_081855_3146149/input0_results_240212_081855'
+ROCProfiler: input from "/tmp/rpl_data_240212_081855_3146149/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.933887 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081855_3146149/input0_results_240212_081855
+File './IPC/tmp/3mm_3.csv' is generating
+RPL: on '240212_081856' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081856_3146236'
+RPL: result dir '/tmp/rpl_data_240212_081856_3146236/input0_results_240212_081856'
+ROCProfiler: input from "/tmp/rpl_data_240212_081856_3146236/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.182081 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081856_3146236/input0_results_240212_081856
+File './IPC/tmp/3mm_3.csv' is generating
+RPL: on '240212_081856' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081856_3146323'
+RPL: result dir '/tmp/rpl_data_240212_081856_3146323/input0_results_240212_081856'
+ROCProfiler: input from "/tmp/rpl_data_240212_081856_3146323/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.566961 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081856_3146323/input0_results_240212_081856
+File './IPC/tmp/3mm_3.csv' is generating
+RPL: on '240212_081857' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081857_3146410'
+RPL: result dir '/tmp/rpl_data_240212_081857_3146410/input0_results_240212_081857'
+ROCProfiler: input from "/tmp/rpl_data_240212_081857_3146410/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.492979 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081857_3146410/input0_results_240212_081857
+File './IPC/tmp/3mm_3.csv' is generating
+RPL: on '240212_081857' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081857_3146497'
+RPL: result dir '/tmp/rpl_data_240212_081857_3146497/input0_results_240212_081857'
+ROCProfiler: input from "/tmp/rpl_data_240212_081857_3146497/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.084091 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081857_3146497/input0_results_240212_081857
+File './IPC/tmp/3mm_3.csv' is generating
+RPL: on '240212_081858' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081858_3146584'
+RPL: result dir '/tmp/rpl_data_240212_081858_3146584/input0_results_240212_081858'
+ROCProfiler: input from "/tmp/rpl_data_240212_081858_3146584/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.957968 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081858_3146584/input0_results_240212_081858
+File './IPC/tmp/3mm_3.csv' is generating
+RPL: on '240212_081859' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081859_3146671'
+RPL: result dir '/tmp/rpl_data_240212_081859_3146671/input0_results_240212_081859'
+ROCProfiler: input from "/tmp/rpl_data_240212_081859_3146671/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.312019 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081859_3146671/input0_results_240212_081859
+File './IPC/tmp/3mm_3.csv' is generating
+RPL: on '240212_081859' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081859_3146758'
+RPL: result dir '/tmp/rpl_data_240212_081859_3146758/input0_results_240212_081859'
+ROCProfiler: input from "/tmp/rpl_data_240212_081859_3146758/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.487019 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081859_3146758/input0_results_240212_081859
+File './IPC/tmp/3mm_3.csv' is generating
+RPL: on '240212_081900' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_01"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081900_3146845'
+RPL: result dir '/tmp/rpl_data_240212_081900_3146845/input0_results_240212_081900'
+ROCProfiler: input from "/tmp/rpl_data_240212_081900_3146845/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.705959 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081900_3146845/input0_results_240212_081900
+File './IPC/tmp/3mm_3.csv' is generating
+RPL: on '240212_081900' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081900_3146932'
+RPL: result dir '/tmp/rpl_data_240212_081900_3146932/input0_results_240212_081900'
+ROCProfiler: input from "/tmp/rpl_data_240212_081900_3146932/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.592949 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081900_3146932/input0_results_240212_081900
+File './IPC/tmp/3mm_4.csv' is generating
+RPL: on '240212_081901' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081901_3147019'
+RPL: result dir '/tmp/rpl_data_240212_081901_3147019/input0_results_240212_081901'
+ROCProfiler: input from "/tmp/rpl_data_240212_081901_3147019/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.341106 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081901_3147019/input0_results_240212_081901
+File './IPC/tmp/3mm_4.csv' is generating
+RPL: on '240212_081901' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081901_3147106'
+RPL: result dir '/tmp/rpl_data_240212_081901_3147106/input0_results_240212_081901'
+ROCProfiler: input from "/tmp/rpl_data_240212_081901_3147106/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.212837 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081901_3147106/input0_results_240212_081901
+File './IPC/tmp/3mm_4.csv' is generating
+RPL: on '240212_081902' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081902_3147193'
+RPL: result dir '/tmp/rpl_data_240212_081902_3147193/input0_results_240212_081902'
+ROCProfiler: input from "/tmp/rpl_data_240212_081902_3147193/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.813963 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081902_3147193/input0_results_240212_081902
+File './IPC/tmp/3mm_4.csv' is generating
+RPL: on '240212_081902' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081902_3147280'
+RPL: result dir '/tmp/rpl_data_240212_081902_3147280/input0_results_240212_081902'
+ROCProfiler: input from "/tmp/rpl_data_240212_081902_3147280/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.836779 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081902_3147280/input0_results_240212_081902
+File './IPC/tmp/3mm_4.csv' is generating
+RPL: on '240212_081903' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081903_3147367'
+RPL: result dir '/tmp/rpl_data_240212_081903_3147367/input0_results_240212_081903'
+ROCProfiler: input from "/tmp/rpl_data_240212_081903_3147367/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.202108 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081903_3147367/input0_results_240212_081903
+File './IPC/tmp/3mm_4.csv' is generating
+RPL: on '240212_081903' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081903_3147454'
+RPL: result dir '/tmp/rpl_data_240212_081903_3147454/input0_results_240212_081903'
+ROCProfiler: input from "/tmp/rpl_data_240212_081903_3147454/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.418116 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081903_3147454/input0_results_240212_081903
+File './IPC/tmp/3mm_4.csv' is generating
+RPL: on '240212_081904' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081904_3147541'
+RPL: result dir '/tmp/rpl_data_240212_081904_3147541/input0_results_240212_081904'
+ROCProfiler: input from "/tmp/rpl_data_240212_081904_3147541/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.559809 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081904_3147541/input0_results_240212_081904
+File './IPC/tmp/3mm_4.csv' is generating
+RPL: on '240212_081904' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081904_3147628'
+RPL: result dir '/tmp/rpl_data_240212_081904_3147628/input0_results_240212_081904'
+ROCProfiler: input from "/tmp/rpl_data_240212_081904_3147628/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.182081 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081904_3147628/input0_results_240212_081904
+File './IPC/tmp/3mm_4.csv' is generating
+RPL: on '240212_081905' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_02"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081905_3147715'
+RPL: result dir '/tmp/rpl_data_240212_081905_3147715/input0_results_240212_081905'
+ROCProfiler: input from "/tmp/rpl_data_240212_081905_3147715/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.113178 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081905_3147715/input0_results_240212_081905
+File './IPC/tmp/3mm_4.csv' is generating
+RPL: on '240212_081905' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081905_3147802'
+RPL: result dir '/tmp/rpl_data_240212_081905_3147802/input0_results_240212_081905'
+ROCProfiler: input from "/tmp/rpl_data_240212_081905_3147802/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.199009 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081905_3147802/input0_results_240212_081905
+File './IPC/tmp/3mm_5.csv' is generating
+RPL: on '240212_081906' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081906_3147889'
+RPL: result dir '/tmp/rpl_data_240212_081906_3147889/input0_results_240212_081906'
+ROCProfiler: input from "/tmp/rpl_data_240212_081906_3147889/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.150133 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081906_3147889/input0_results_240212_081906
+File './IPC/tmp/3mm_5.csv' is generating
+RPL: on '240212_081906' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081906_3147976'
+RPL: result dir '/tmp/rpl_data_240212_081906_3147976/input0_results_240212_081906'
+ROCProfiler: input from "/tmp/rpl_data_240212_081906_3147976/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.625063 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081906_3147976/input0_results_240212_081906
+File './IPC/tmp/3mm_5.csv' is generating
+RPL: on '240212_081907' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081907_3148063'
+RPL: result dir '/tmp/rpl_data_240212_081907_3148063/input0_results_240212_081907'
+ROCProfiler: input from "/tmp/rpl_data_240212_081907_3148063/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.581909 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081907_3148063/input0_results_240212_081907
+File './IPC/tmp/3mm_5.csv' is generating
+RPL: on '240212_081907' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081907_3148150'
+RPL: result dir '/tmp/rpl_data_240212_081907_3148150/input0_results_240212_081907'
+ROCProfiler: input from "/tmp/rpl_data_240212_081907_3148150/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.941040 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081907_3148150/input0_results_240212_081907
+File './IPC/tmp/3mm_5.csv' is generating
+RPL: on '240212_081908' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081908_3148237'
+RPL: result dir '/tmp/rpl_data_240212_081908_3148237/input0_results_240212_081908'
+ROCProfiler: input from "/tmp/rpl_data_240212_081908_3148237/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.662018 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081908_3148237/input0_results_240212_081908
+File './IPC/tmp/3mm_5.csv' is generating
+RPL: on '240212_081908' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081908_3148324'
+RPL: result dir '/tmp/rpl_data_240212_081908_3148324/input0_results_240212_081908'
+ROCProfiler: input from "/tmp/rpl_data_240212_081908_3148324/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+25.290012 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081908_3148324/input0_results_240212_081908
+File './IPC/tmp/3mm_5.csv' is generating
+RPL: on '240212_081909' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081909_3148411'
+RPL: result dir '/tmp/rpl_data_240212_081909_3148411/input0_results_240212_081909'
+ROCProfiler: input from "/tmp/rpl_data_240212_081909_3148411/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.056911 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081909_3148411/input0_results_240212_081909
+File './IPC/tmp/3mm_5.csv' is generating
+RPL: on '240212_081909' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081909_3148498'
+RPL: result dir '/tmp/rpl_data_240212_081909_3148498/input0_results_240212_081909'
+ROCProfiler: input from "/tmp/rpl_data_240212_081909_3148498/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.054050 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081909_3148498/input0_results_240212_081909
+File './IPC/tmp/3mm_5.csv' is generating
+RPL: on '240212_081910' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_11"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081910_3148585'
+RPL: result dir '/tmp/rpl_data_240212_081910_3148585/input0_results_240212_081910'
+ROCProfiler: input from "/tmp/rpl_data_240212_081910_3148585/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.384975 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081910_3148585/input0_results_240212_081910
+File './IPC/tmp/3mm_5.csv' is generating
+RPL: on '240212_081910' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081910_3148672'
+RPL: result dir '/tmp/rpl_data_240212_081910_3148672/input0_results_240212_081910'
+ROCProfiler: input from "/tmp/rpl_data_240212_081910_3148672/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.810863 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081910_3148672/input0_results_240212_081910
+File './IPC/tmp/3mm_6.csv' is generating
+RPL: on '240212_081911' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081911_3148759'
+RPL: result dir '/tmp/rpl_data_240212_081911_3148759/input0_results_240212_081911'
+ROCProfiler: input from "/tmp/rpl_data_240212_081911_3148759/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.141073 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081911_3148759/input0_results_240212_081911
+File './IPC/tmp/3mm_6.csv' is generating
+RPL: on '240212_081911' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081911_3148846'
+RPL: result dir '/tmp/rpl_data_240212_081911_3148846/input0_results_240212_081911'
+ROCProfiler: input from "/tmp/rpl_data_240212_081911_3148846/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.353027 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081911_3148846/input0_results_240212_081911
+File './IPC/tmp/3mm_6.csv' is generating
+RPL: on '240212_081912' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081912_3148933'
+RPL: result dir '/tmp/rpl_data_240212_081912_3148933/input0_results_240212_081912'
+ROCProfiler: input from "/tmp/rpl_data_240212_081912_3148933/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.813963 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081912_3148933/input0_results_240212_081912
+File './IPC/tmp/3mm_6.csv' is generating
+RPL: on '240212_081913' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081913_3149020'
+RPL: result dir '/tmp/rpl_data_240212_081913_3149020/input0_results_240212_081913'
+ROCProfiler: input from "/tmp/rpl_data_240212_081913_3149020/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.064064 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081913_3149020/input0_results_240212_081913
+File './IPC/tmp/3mm_6.csv' is generating
+RPL: on '240212_081913' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081913_3149107'
+RPL: result dir '/tmp/rpl_data_240212_081913_3149107/input0_results_240212_081913'
+ROCProfiler: input from "/tmp/rpl_data_240212_081913_3149107/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.422169 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081913_3149107/input0_results_240212_081913
+File './IPC/tmp/3mm_6.csv' is generating
+RPL: on '240212_081914' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081914_3149194'
+RPL: result dir '/tmp/rpl_data_240212_081914_3149194/input0_results_240212_081914'
+ROCProfiler: input from "/tmp/rpl_data_240212_081914_3149194/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.885965 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081914_3149194/input0_results_240212_081914
+File './IPC/tmp/3mm_6.csv' is generating
+RPL: on '240212_081914' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081914_3149281'
+RPL: result dir '/tmp/rpl_data_240212_081914_3149281/input0_results_240212_081914'
+ROCProfiler: input from "/tmp/rpl_data_240212_081914_3149281/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.763895 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081914_3149281/input0_results_240212_081914
+File './IPC/tmp/3mm_6.csv' is generating
+RPL: on '240212_081915' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081915_3149368'
+RPL: result dir '/tmp/rpl_data_240212_081915_3149368/input0_results_240212_081915'
+ROCProfiler: input from "/tmp/rpl_data_240212_081915_3149368/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.610043 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081915_3149368/input0_results_240212_081915
+File './IPC/tmp/3mm_6.csv' is generating
+RPL: on '240212_081915' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_00"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081915_3149455'
+RPL: result dir '/tmp/rpl_data_240212_081915_3149455/input0_results_240212_081915'
+ROCProfiler: input from "/tmp/rpl_data_240212_081915_3149455/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.625063 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081915_3149455/input0_results_240212_081915
+File './IPC/tmp/3mm_6.csv' is generating
+RPL: on '240212_081916' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081916_3149542'
+RPL: result dir '/tmp/rpl_data_240212_081916_3149542/input0_results_240212_081916'
+ROCProfiler: input from "/tmp/rpl_data_240212_081916_3149542/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.470091 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081916_3149542/input0_results_240212_081916
+File './IPC/tmp/3mm_7.csv' is generating
+RPL: on '240212_081916' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081916_3149629'
+RPL: result dir '/tmp/rpl_data_240212_081916_3149629/input0_results_240212_081916'
+ROCProfiler: input from "/tmp/rpl_data_240212_081916_3149629/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.300098 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081916_3149629/input0_results_240212_081916
+File './IPC/tmp/3mm_7.csv' is generating
+RPL: on '240212_081917' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081917_3149716'
+RPL: result dir '/tmp/rpl_data_240212_081917_3149716/input0_results_240212_081917'
+ROCProfiler: input from "/tmp/rpl_data_240212_081917_3149716/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.616003 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081917_3149716/input0_results_240212_081917
+File './IPC/tmp/3mm_7.csv' is generating
+RPL: on '240212_081917' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081917_3149803'
+RPL: result dir '/tmp/rpl_data_240212_081917_3149803/input0_results_240212_081917'
+ROCProfiler: input from "/tmp/rpl_data_240212_081917_3149803/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.344921 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081917_3149803/input0_results_240212_081917
+File './IPC/tmp/3mm_7.csv' is generating
+RPL: on '240212_081918' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081918_3149890'
+RPL: result dir '/tmp/rpl_data_240212_081918_3149890/input0_results_240212_081918'
+ROCProfiler: input from "/tmp/rpl_data_240212_081918_3149890/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.554014 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081918_3149890/input0_results_240212_081918
+File './IPC/tmp/3mm_7.csv' is generating
+RPL: on '240212_081918' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081918_3149977'
+RPL: result dir '/tmp/rpl_data_240212_081918_3149977/input0_results_240212_081918'
+ROCProfiler: input from "/tmp/rpl_data_240212_081918_3149977/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.087906 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081918_3149977/input0_results_240212_081918
+File './IPC/tmp/3mm_7.csv' is generating
+RPL: on '240212_081919' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081919_3150064'
+RPL: result dir '/tmp/rpl_data_240212_081919_3150064/input0_results_240212_081919'
+ROCProfiler: input from "/tmp/rpl_data_240212_081919_3150064/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.390936 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081919_3150064/input0_results_240212_081919
+File './IPC/tmp/3mm_7.csv' is generating
+RPL: on '240212_081919' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081919_3150151'
+RPL: result dir '/tmp/rpl_data_240212_081919_3150151/input0_results_240212_081919'
+ROCProfiler: input from "/tmp/rpl_data_240212_081919_3150151/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.550915 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081919_3150151/input0_results_240212_081919
+File './IPC/tmp/3mm_7.csv' is generating
+RPL: on '240212_081920' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081920_3150238'
+RPL: result dir '/tmp/rpl_data_240212_081920_3150238/input0_results_240212_081920'
+ROCProfiler: input from "/tmp/rpl_data_240212_081920_3150238/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.214029 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081920_3150238/input0_results_240212_081920
+File './IPC/tmp/3mm_7.csv' is generating
+RPL: on '240212_081920' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_12"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081920_3150325'
+RPL: result dir '/tmp/rpl_data_240212_081920_3150325/input0_results_240212_081920'
+ROCProfiler: input from "/tmp/rpl_data_240212_081920_3150325/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.850918 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081920_3150325/input0_results_240212_081920
+File './IPC/tmp/3mm_7.csv' is generating
+RPL: on '240212_081921' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081921_3150412'
+RPL: result dir '/tmp/rpl_data_240212_081921_3150412/input0_results_240212_081921'
+ROCProfiler: input from "/tmp/rpl_data_240212_081921_3150412/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.586035 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081921_3150412/input0_results_240212_081921
+File './IPC/tmp/3mm_8.csv' is generating
+RPL: on '240212_081921' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081921_3150499'
+RPL: result dir '/tmp/rpl_data_240212_081921_3150499/input0_results_240212_081921'
+ROCProfiler: input from "/tmp/rpl_data_240212_081921_3150499/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.253130 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081921_3150499/input0_results_240212_081921
+File './IPC/tmp/3mm_8.csv' is generating
+RPL: on '240212_081922' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081922_3150586'
+RPL: result dir '/tmp/rpl_data_240212_081922_3150586/input0_results_240212_081922'
+ROCProfiler: input from "/tmp/rpl_data_240212_081922_3150586/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.281979 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081922_3150586/input0_results_240212_081922
+File './IPC/tmp/3mm_8.csv' is generating
+RPL: on '240212_081922' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081922_3150673'
+RPL: result dir '/tmp/rpl_data_240212_081922_3150673/input0_results_240212_081922'
+ROCProfiler: input from "/tmp/rpl_data_240212_081922_3150673/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.056911 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081922_3150673/input0_results_240212_081922
+File './IPC/tmp/3mm_8.csv' is generating
+RPL: on '240212_081923' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081923_3150760'
+RPL: result dir '/tmp/rpl_data_240212_081923_3150760/input0_results_240212_081923'
+ROCProfiler: input from "/tmp/rpl_data_240212_081923_3150760/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.519039 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081923_3150760/input0_results_240212_081923
+File './IPC/tmp/3mm_8.csv' is generating
+RPL: on '240212_081923' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081923_3150847'
+RPL: result dir '/tmp/rpl_data_240212_081923_3150847/input0_results_240212_081923'
+ROCProfiler: input from "/tmp/rpl_data_240212_081923_3150847/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.878813 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081923_3150847/input0_results_240212_081923
+File './IPC/tmp/3mm_8.csv' is generating
+RPL: on '240212_081924' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081924_3150934'
+RPL: result dir '/tmp/rpl_data_240212_081924_3150934/input0_results_240212_081924'
+ROCProfiler: input from "/tmp/rpl_data_240212_081924_3150934/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.122000 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081924_3150934/input0_results_240212_081924
+File './IPC/tmp/3mm_8.csv' is generating
+RPL: on '240212_081924' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081924_3151021'
+RPL: result dir '/tmp/rpl_data_240212_081924_3151021/input0_results_240212_081924'
+ROCProfiler: input from "/tmp/rpl_data_240212_081924_3151021/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.188042 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081924_3151021/input0_results_240212_081924
+File './IPC/tmp/3mm_8.csv' is generating
+RPL: on '240212_081925' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081925_3151108'
+RPL: result dir '/tmp/rpl_data_240212_081925_3151108/input0_results_240212_081925'
+ROCProfiler: input from "/tmp/rpl_data_240212_081925_3151108/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+24.446011 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081925_3151108/input0_results_240212_081925
+File './IPC/tmp/3mm_8.csv' is generating
+RPL: on '240212_081926' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/3mm/3mm_20"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240212_081926_3151195'
+RPL: result dir '/tmp/rpl_data_240212_081926_3151195/input0_results_240212_081926'
+ROCProfiler: input from "/tmp/rpl_data_240212_081926_3151195/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+23.905039 ms
+
+ROCPRofiler: 3 contexts collected, output directory /tmp/rpl_data_240212_081926_3151195/input0_results_240212_081926
+File './IPC/tmp/3mm_8.csv' is generating
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/3mm_0.csv ./bin/3mm/3mm_21
+0 : 3mm_21
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/3mm_1.csv ./bin/3mm/3mm_10
+1 : 3mm_10
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/3mm_2.csv ./bin/3mm/3mm_22
+2 : 3mm_22
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/3mm_3.csv ./bin/3mm/3mm_01
+3 : 3mm_01
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/3mm_4.csv ./bin/3mm/3mm_02
+4 : 3mm_02
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/3mm_5.csv ./bin/3mm/3mm_11
+5 : 3mm_11
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/3mm_6.csv ./bin/3mm/3mm_00
+6 : 3mm_00
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/3mm_7.csv ./bin/3mm/3mm_12
+7 : 3mm_12
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/3mm_8.csv ./bin/3mm/3mm_20
+8 : 3mm_20
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+

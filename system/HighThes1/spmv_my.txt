@@ -1,0 +1,479 @@
+
+
+------------------------------ kernel_name: _Z8spmv_jdsPfPKfPKiS3_S1_S3_i ------------------------------
+baseline_profiling #####
+baseline_time: 4.341800
+read_input: ./system/group/spmv_my/_Z8spmv_jdsPfPKfPKiS3_S1_S3_i.txt
+offline_profiling -----------
+%31, mode: 0, baseline: 4.341800, time: 4.338000, offp: 0.087521, speedup: 1.000876
+%31, mode: 1, baseline: 4.341800, time: 4.366000, offp: -0.557373, speedup: 0.994457
+%28, mode: 0, baseline: 4.341800, time: 4.409000, offp: -1.547745, speedup: 0.984758
+%28, mode: 1, baseline: 4.341800, time: 4.289000, offp: 1.216085, speedup: 1.012311
+%26, mode: 0, baseline: 4.341800, time: 4.298000, offp: 1.008798, speedup: 1.010191
+%26, mode: 1, baseline: 4.341800, time: 4.583000, offp: -5.555300, speedup: 0.947371
+%38, mode: 0, baseline: 4.341800, time: 4.314000, offp: 0.640287, speedup: 1.006444
+%38, mode: 1, baseline: 4.341800, time: 4.314000, offp: 0.640287, speedup: 1.006444
+%50, mode: 0, baseline: 4.341800, time: 4.311000, offp: 0.709383, speedup: 1.007145
+%50, mode: 1, baseline: 4.341800, time: 4.345000, offp: -0.073702, speedup: 0.999264
+%47, mode: 0, baseline: 4.341800, time: 4.341000, offp: 0.018426, speedup: 1.000184
+%47, mode: 1, baseline: 4.341800, time: 4.374000, offp: -0.741628, speedup: 0.992638
+%74, mode: 0, baseline: 4.341800, time: 3.124000, offp: 28.048275, speedup: 1.389821
+%74, mode: 1, baseline: 4.341800, time: 4.431000, offp: -2.054447, speedup: 0.979869
+%66, mode: 0, baseline: 4.341800, time: 6.048000, offp: -39.297066, speedup: 0.717890
+%66, mode: 1, baseline: 4.341800, time: 6.918000, offp: -59.334838, speedup: 0.627609
+%61, mode: 0, baseline: 4.341800, time: 3.010000, offp: 30.673914, speedup: 1.442458
+%61, mode: 1, baseline: 4.341800, time: 6.127000, offp: -41.116588, speedup: 0.708634
+%84, mode: 0, baseline: 4.341800, time: 4.364000, offp: -0.511309, speedup: 0.994913
+%84, mode: 1, baseline: 4.341800, time: 4.440000, offp: -2.261735, speedup: 0.977883
+HighThes1: 1.000000 -----------
+algorithm2 -----------
+%31, mode: 0, combi_g: 0.000000
+%31, mode: 1, combi_g: 0.000000
+score of %31, mode is 0: 0.087521
+score of %31, mode is 1: -0.557373
+%28, mode: 0, combi_g: 0.000000
+%28, mode: 1, combi_g: 0.000000
+score of %28, mode is 0: -1.547745
+score of %28, mode is 1: 1.216085
+%28, mode: 1, score: 1.216085 is chose----
+%26, mode: 0, combi_g: 0.000000
+%26, mode: 1, combi_g: 0.000000
+score of %26, mode is 0: 1.008798
+%26, mode: 0, score: 1.008798 is chose----
+score of %26, mode is 1: -5.555300
+%38, mode: 0, combi_g: 0.000000
+%38, mode: 1, combi_g: 0.000000
+score of %38, mode is 0: 0.640287
+score of %38, mode is 1: 0.640287
+%50, mode: 0, combi_g: 0.000000
+%50, mode: 1, combi_g: 0.000000
+score of %50, mode is 0: 0.709383
+score of %50, mode is 1: -0.073702
+%47, mode: 0, combi_g: 0.000000
+%47, mode: 1, combi_g: 0.000000
+score of %47, mode is 0: 0.018426
+score of %47, mode is 1: -0.741628
+%74, mode: 0, combi_g: 0.000000
+%74, mode: 1, combi_g: 0.000000
+score of %74, mode is 0: 28.048275
+%74, mode: 0, score: 28.048275 is chose----
+score of %74, mode is 1: -2.054447
+%66, mode: 0, combi_g: 0.000000
+%66, mode: 1, combi_g: 0.000000
+score of %66, mode is 0: -39.297066
+score of %66, mode is 1: -59.334838
+%61, mode: 0, combi_g: 0.000000
+%61, mode: 1, combi_g: 0.000000
+score of %61, mode is 0: 30.673914
+%61, mode: 0, score: 30.673914 is chose----
+score of %61, mode is 1: -41.116588
+%84, mode: 0, combi_g: 0.000000
+%84, mode: 1, combi_g: 0.000000
+score of %84, mode is 0: -0.511309
+score of %84, mode is 1: -2.261735
+store bypass policy -----------
+store_group, mode: 0, baseline_time:4.341800, store_time:4.435000, offp: -2.146575, speedup: 0.978985
+store_group, mode: 1, baseline_time:4.341800, store_time:4.457000, offp: -2.653277, speedup: 0.974153
+storebypass: false, storemode: 0
+------
+HighThes1:1.000000, 28_26_74_61, mode: 1_0_0_0,
+ baseline_time:4.341800, design_time:3.060000, offp: 29.522318, speedup: 1.418889
+------
+HighThes1: 1.100000 -----------
+algorithm2 -----------
+%31, mode: 0, combi_g: 0.000000
+%31, mode: 1, combi_g: 0.000000
+score of %31, mode is 0: 0.087521
+score of %31, mode is 1: -0.557373
+%28, mode: 0, combi_g: 0.000000
+%28, mode: 1, combi_g: 0.000000
+score of %28, mode is 0: -1.547745
+score of %28, mode is 1: 1.216085
+%28, mode: 1, score: 1.216085 is chose----
+%26, mode: 0, combi_g: 0.000000
+%26, mode: 1, combi_g: 0.000000
+score of %26, mode is 0: 1.008798
+%26, mode: 0, score: 1.008798 is chose----
+score of %26, mode is 1: -5.555300
+%38, mode: 0, combi_g: 0.000000
+%38, mode: 1, combi_g: 0.000000
+score of %38, mode is 0: 0.640287
+score of %38, mode is 1: 0.640287
+%50, mode: 0, combi_g: 0.000000
+%50, mode: 1, combi_g: 0.000000
+score of %50, mode is 0: 0.709383
+score of %50, mode is 1: -0.073702
+%47, mode: 0, combi_g: 0.000000
+%47, mode: 1, combi_g: 0.000000
+score of %47, mode is 0: 0.018426
+score of %47, mode is 1: -0.741628
+%74, mode: 0, combi_g: 0.000000
+%74, mode: 1, combi_g: 0.000000
+score of %74, mode is 0: 28.048275
+%74, mode: 0, score: 28.048275 is chose----
+score of %74, mode is 1: -2.054447
+%66, mode: 0, combi_g: 0.000000
+%66, mode: 1, combi_g: 0.000000
+score of %66, mode is 0: -39.297066
+score of %66, mode is 1: -59.334838
+%61, mode: 0, combi_g: 0.000000
+%61, mode: 1, combi_g: 0.000000
+score of %61, mode is 0: 30.673914
+%61, mode: 0, score: 30.673914 is chose----
+score of %61, mode is 1: -41.116588
+%84, mode: 0, combi_g: 0.000000
+%84, mode: 1, combi_g: 0.000000
+score of %84, mode is 0: -0.511309
+score of %84, mode is 1: -2.261735
+store bypass policy -----------
+store_group, mode: 0, baseline_time:4.341800, store_time:4.390000, offp: -1.110139, speedup: 0.989021
+store_group, mode: 1, baseline_time:4.341800, store_time:4.196000, offp: 3.358054, speedup: 1.034747
+storebypass: true, storemode: 1
+------
+HighThes1:1.100000, 28_26_74_61, mode: 1_0_0_0,
+ baseline_time:4.341800, design_time:3.064000, offp: 29.430190, speedup: 1.417037
+------
+HighThes1: 1.200000 -----------
+algorithm2 -----------
+%31, mode: 0, combi_g: 0.000000
+%31, mode: 1, combi_g: 0.000000
+score of %31, mode is 0: 0.087521
+score of %31, mode is 1: -0.557373
+%28, mode: 0, combi_g: 0.000000
+%28, mode: 1, combi_g: 0.000000
+score of %28, mode is 0: -1.547745
+score of %28, mode is 1: 1.216085
+%28, mode: 1, score: 1.216085 is chose----
+%26, mode: 0, combi_g: 0.000000
+%26, mode: 1, combi_g: 0.000000
+score of %26, mode is 0: 1.008798
+%26, mode: 0, score: 1.008798 is chose----
+score of %26, mode is 1: -5.555300
+%38, mode: 0, combi_g: 0.000000
+%38, mode: 1, combi_g: 0.000000
+score of %38, mode is 0: 0.640287
+score of %38, mode is 1: 0.640287
+%50, mode: 0, combi_g: 0.000000
+%50, mode: 1, combi_g: 0.000000
+score of %50, mode is 0: 0.709383
+score of %50, mode is 1: -0.073702
+%47, mode: 0, combi_g: 0.000000
+%47, mode: 1, combi_g: 0.000000
+score of %47, mode is 0: 0.018426
+score of %47, mode is 1: -0.741628
+%74, mode: 0, combi_g: 0.000000
+%74, mode: 1, combi_g: 0.000000
+score of %74, mode is 0: 28.048275
+%74, mode: 0, score: 28.048275 is chose----
+score of %74, mode is 1: -2.054447
+%66, mode: 0, combi_g: 0.000000
+%66, mode: 1, combi_g: 0.000000
+score of %66, mode is 0: -39.297066
+score of %66, mode is 1: -59.334838
+%61, mode: 0, combi_g: 0.000000
+%61, mode: 1, combi_g: 0.000000
+score of %61, mode is 0: 30.673914
+%61, mode: 0, score: 30.673914 is chose----
+score of %61, mode is 1: -41.116588
+%84, mode: 0, combi_g: 0.000000
+%84, mode: 1, combi_g: 0.000000
+score of %84, mode is 0: -0.511309
+score of %84, mode is 1: -2.261735
+store bypass policy -----------
+store_group, mode: 0, baseline_time:4.341800, store_time:4.394000, offp: -1.202266, speedup: 0.988120
+store_group, mode: 1, baseline_time:4.341800, store_time:4.376000, offp: -0.787692, speedup: 0.992185
+storebypass: false, storemode: 0
+------
+HighThes1:1.200000, 28_26_74_61, mode: 1_0_0_0,
+ baseline_time:4.341800, design_time:3.074000, offp: 29.199871, speedup: 1.412427
+------
+HighThes1: 1.300000 -----------
+algorithm2 -----------
+%31, mode: 0, combi_g: 0.000000
+%31, mode: 1, combi_g: 0.000000
+score of %31, mode is 0: 0.087521
+score of %31, mode is 1: -0.557373
+%28, mode: 0, combi_g: 0.000000
+%28, mode: 1, combi_g: 0.000000
+score of %28, mode is 0: -1.547745
+score of %28, mode is 1: 1.216085
+%28, mode: 1, score: 1.216085 is chose----
+%26, mode: 0, combi_g: 0.000000
+%26, mode: 1, combi_g: 0.000000
+score of %26, mode is 0: 1.008798
+%26, mode: 0, score: 1.008798 is chose----
+score of %26, mode is 1: -5.555300
+%38, mode: 0, combi_g: 0.000000
+%38, mode: 1, combi_g: 0.000000
+score of %38, mode is 0: 0.640287
+score of %38, mode is 1: 0.640287
+%50, mode: 0, combi_g: 0.000000
+%50, mode: 1, combi_g: 0.000000
+score of %50, mode is 0: 0.709383
+score of %50, mode is 1: -0.073702
+%47, mode: 0, combi_g: 0.000000
+%47, mode: 1, combi_g: 0.000000
+score of %47, mode is 0: 0.018426
+score of %47, mode is 1: -0.741628
+%74, mode: 0, combi_g: 0.000000
+%74, mode: 1, combi_g: 0.000000
+score of %74, mode is 0: 28.048275
+%74, mode: 0, score: 28.048275 is chose----
+score of %74, mode is 1: -2.054447
+%66, mode: 0, combi_g: 0.000000
+%66, mode: 1, combi_g: 0.000000
+score of %66, mode is 0: -39.297066
+score of %66, mode is 1: -59.334838
+%61, mode: 0, combi_g: 0.000000
+%61, mode: 1, combi_g: 0.000000
+score of %61, mode is 0: 30.673914
+%61, mode: 0, score: 30.673914 is chose----
+score of %61, mode is 1: -41.116588
+%84, mode: 0, combi_g: 0.000000
+%84, mode: 1, combi_g: 0.000000
+score of %84, mode is 0: -0.511309
+score of %84, mode is 1: -2.261735
+store bypass policy -----------
+store_group, mode: 0, baseline_time:4.341800, store_time:4.424000, offp: -1.893224, speedup: 0.981420
+store_group, mode: 1, baseline_time:4.341800, store_time:4.341000, offp: 0.018426, speedup: 1.000184
+storebypass: false, storemode: 0
+------
+HighThes1:1.300000, 28_26_74_61, mode: 1_0_0_0,
+ baseline_time:4.341800, design_time:3.068000, offp: 29.338063, speedup: 1.415189
+------
+HighThes1: 1.400000 -----------
+algorithm2 -----------
+%31, mode: 0, combi_g: 0.000000
+%31, mode: 1, combi_g: 0.000000
+score of %31, mode is 0: 0.087521
+score of %31, mode is 1: -0.557373
+%28, mode: 0, combi_g: 0.000000
+%28, mode: 1, combi_g: 0.000000
+score of %28, mode is 0: -1.547745
+score of %28, mode is 1: 1.216085
+%28, mode: 1, score: 1.216085 is chose----
+%26, mode: 0, combi_g: 0.000000
+%26, mode: 1, combi_g: 0.000000
+score of %26, mode is 0: 1.008798
+%26, mode: 0, score: 1.008798 is chose----
+score of %26, mode is 1: -5.555300
+%38, mode: 0, combi_g: 0.000000
+%38, mode: 1, combi_g: 0.000000
+score of %38, mode is 0: 0.640287
+score of %38, mode is 1: 0.640287
+%50, mode: 0, combi_g: 0.000000
+%50, mode: 1, combi_g: 0.000000
+score of %50, mode is 0: 0.709383
+score of %50, mode is 1: -0.073702
+%47, mode: 0, combi_g: 0.000000
+%47, mode: 1, combi_g: 0.000000
+score of %47, mode is 0: 0.018426
+score of %47, mode is 1: -0.741628
+%74, mode: 0, combi_g: 0.000000
+%74, mode: 1, combi_g: 0.000000
+score of %74, mode is 0: 28.048275
+%74, mode: 0, score: 28.048275 is chose----
+score of %74, mode is 1: -2.054447
+%66, mode: 0, combi_g: 0.000000
+%66, mode: 1, combi_g: 0.000000
+score of %66, mode is 0: -39.297066
+score of %66, mode is 1: -59.334838
+%61, mode: 0, combi_g: 0.000000
+%61, mode: 1, combi_g: 0.000000
+score of %61, mode is 0: 30.673914
+%61, mode: 0, score: 30.673914 is chose----
+score of %61, mode is 1: -41.116588
+%84, mode: 0, combi_g: 0.000000
+%84, mode: 1, combi_g: 0.000000
+score of %84, mode is 0: -0.511309
+score of %84, mode is 1: -2.261735
+store bypass policy -----------
+store_group, mode: 0, baseline_time:4.341800, store_time:4.495000, offp: -3.528490, speedup: 0.965918
+store_group, mode: 1, baseline_time:4.341800, store_time:4.460000, offp: -2.722373, speedup: 0.973498
+storebypass: false, storemode: 0
+------
+HighThes1:1.400000, 28_26_74_61, mode: 1_0_0_0,
+ baseline_time:4.341800, design_time:3.056000, offp: 29.614446, speedup: 1.420746
+------
+HighThes1: 1.500000 -----------
+algorithm2 -----------
+%31, mode: 0, combi_g: 0.000000
+%31, mode: 1, combi_g: 0.000000
+score of %31, mode is 0: 0.087521
+score of %31, mode is 1: -0.557373
+%28, mode: 0, combi_g: 0.000000
+%28, mode: 1, combi_g: 0.000000
+score of %28, mode is 0: -1.547745
+score of %28, mode is 1: 1.216085
+%28, mode: 1, score: 1.216085 is chose----
+%26, mode: 0, combi_g: 0.000000
+%26, mode: 1, combi_g: 0.000000
+score of %26, mode is 0: 1.008798
+%26, mode: 0, score: 1.008798 is chose----
+score of %26, mode is 1: -5.555300
+%38, mode: 0, combi_g: 0.000000
+%38, mode: 1, combi_g: 0.000000
+score of %38, mode is 0: 0.640287
+score of %38, mode is 1: 0.640287
+%50, mode: 0, combi_g: 0.000000
+%50, mode: 1, combi_g: 0.000000
+score of %50, mode is 0: 0.709383
+score of %50, mode is 1: -0.073702
+%47, mode: 0, combi_g: 0.000000
+%47, mode: 1, combi_g: 0.000000
+score of %47, mode is 0: 0.018426
+score of %47, mode is 1: -0.741628
+%74, mode: 0, combi_g: 0.000000
+%74, mode: 1, combi_g: 0.000000
+score of %74, mode is 0: 28.048275
+%74, mode: 0, score: 28.048275 is chose----
+score of %74, mode is 1: -2.054447
+%66, mode: 0, combi_g: 0.000000
+%66, mode: 1, combi_g: 0.000000
+score of %66, mode is 0: -39.297066
+score of %66, mode is 1: -59.334838
+%61, mode: 0, combi_g: 0.000000
+%61, mode: 1, combi_g: 0.000000
+score of %61, mode is 0: 30.673914
+%61, mode: 0, score: 30.673914 is chose----
+score of %61, mode is 1: -41.116588
+%84, mode: 0, combi_g: 0.000000
+%84, mode: 1, combi_g: 0.000000
+score of %84, mode is 0: -0.511309
+score of %84, mode is 1: -2.261735
+store bypass policy -----------
+store_group, mode: 0, baseline_time:4.341800, store_time:4.512000, offp: -3.920033, speedup: 0.962278
+store_group, mode: 1, baseline_time:4.341800, store_time:4.334000, offp: 0.179649, speedup: 1.001800
+storebypass: true, storemode: 1
+------
+HighThes1:1.500000, 28_26_74_61, mode: 1_0_0_0,
+ baseline_time:4.341800, design_time:3.061000, offp: 29.499286, speedup: 1.418425
+------
+HighThes1: 1.600000 -----------
+algorithm2 -----------
+%31, mode: 0, combi_g: 0.000000
+%31, mode: 1, combi_g: 0.000000
+score of %31, mode is 0: 0.087521
+score of %31, mode is 1: -0.557373
+%28, mode: 0, combi_g: 0.000000
+%28, mode: 1, combi_g: 0.000000
+score of %28, mode is 0: -1.547745
+score of %28, mode is 1: 1.216085
+%28, mode: 1, score: 1.216085 is chose----
+%26, mode: 0, combi_g: 0.000000
+%26, mode: 1, combi_g: 0.000000
+score of %26, mode is 0: 1.008798
+%26, mode: 0, score: 1.008798 is chose----
+score of %26, mode is 1: -5.555300
+%38, mode: 0, combi_g: 0.000000
+%38, mode: 1, combi_g: 0.000000
+score of %38, mode is 0: 0.640287
+score of %38, mode is 1: 0.640287
+%50, mode: 0, combi_g: 0.000000
+%50, mode: 1, combi_g: 0.000000
+score of %50, mode is 0: 0.709383
+score of %50, mode is 1: -0.073702
+%47, mode: 0, combi_g: 0.000000
+%47, mode: 1, combi_g: 0.000000
+score of %47, mode is 0: 0.018426
+score of %47, mode is 1: -0.741628
+%74, mode: 0, combi_g: 0.000000
+%74, mode: 1, combi_g: 0.000000
+score of %74, mode is 0: 28.048275
+%74, mode: 0, score: 28.048275 is chose----
+score of %74, mode is 1: -2.054447
+%66, mode: 0, combi_g: 0.000000
+%66, mode: 1, combi_g: 0.000000
+score of %66, mode is 0: -39.297066
+score of %66, mode is 1: -59.334838
+%61, mode: 0, combi_g: 0.000000
+%61, mode: 1, combi_g: 0.000000
+score of %61, mode is 0: 30.673914
+%61, mode: 0, score: 30.673914 is chose----
+score of %61, mode is 1: -41.116588
+%84, mode: 0, combi_g: 0.000000
+%84, mode: 1, combi_g: 0.000000
+score of %84, mode is 0: -0.511309
+score of %84, mode is 1: -2.261735
+store bypass policy -----------
+store_group, mode: 0, baseline_time:4.341800, store_time:4.309000, offp: 0.755447, speedup: 1.007612
+store_group, mode: 1, baseline_time:4.341800, store_time:4.327000, offp: 0.340872, speedup: 1.003420
+storebypass: true, storemode: 0
+------
+HighThes1:1.600000, 28_26_74_61, mode: 1_0_0_0,
+ baseline_time:4.341800, design_time:3.100000, offp: 28.601041, speedup: 1.400581
+------
+
+
+
+
+------------------------------ kernel_name: _Z8spmv_jdsPfPKfPKiS3_S1_S3_i ------------------------------
+baseline_profiling #####
+baseline_time: 4.417800
+read_input: ./system/group/spmv_my/_Z8spmv_jdsPfPKfPKiS3_S1_S3_i.txt
+offline_profiling -----------
+%31, mode: 0, baseline: 4.417800, time: 4.354000, offp: 1.444158, speedup: 1.014653
+%31, mode: 1, baseline: 4.417800, time: 4.393000, offp: 0.561365, speedup: 1.005645
+%28, mode: 0, baseline: 4.417800, time: 4.337000, offp: 1.828965, speedup: 1.018630
+%28, mode: 1, baseline: 4.417800, time: 4.390000, offp: 0.629272, speedup: 1.006333
+%26, mode: 0, baseline: 4.417800, time: 4.444000, offp: -0.593055, speedup: 0.994104
+%26, mode: 1, baseline: 4.417800, time: 4.389000, offp: 0.651908, speedup: 1.006562
+%38, mode: 0, baseline: 4.417800, time: 4.174000, offp: 5.518584, speedup: 1.058409
+%38, mode: 1, baseline: 4.417800, time: 4.480000, offp: -1.407941, speedup: 0.986116
+%50, mode: 0, baseline: 4.417800, time: 4.549000, offp: -2.969804, speedup: 0.971158
+%50, mode: 1, baseline: 4.417800, time: 4.498000, offp: -1.815383, speedup: 0.982170
+%47, mode: 0, baseline: 4.417800, time: 4.420000, offp: -0.049799, speedup: 0.999502
+%47, mode: 1, baseline: 4.417800, time: 4.468000, offp: -1.136312, speedup: 0.988765
+%74, mode: 0, baseline: 4.417800, time: 3.141000, offp: 28.901263, speedup: 1.406495
+%74, mode: 1, baseline: 4.417800, time: 4.426000, offp: -0.185613, speedup: 0.998147
+%66, mode: 0, baseline: 4.417800, time: 6.053000, offp: -37.013898, speedup: 0.729853
+%66, mode: 1, baseline: 4.417800, time: 6.878000, offp: -55.688352, speedup: 0.642309
+%61, mode: 0, baseline: 4.417800, time: 3.019000, offp: 31.662819, speedup: 1.463332
+%61, mode: 1, baseline: 4.417800, time: 6.126000, offp: -38.666304, speedup: 0.721156
+%84, mode: 0, baseline: 4.417800, time: 4.395000, offp: 0.516094, speedup: 1.005188
+%84, mode: 1, baseline: 4.417800, time: 4.415000, offp: 0.063380, speedup: 1.000634
+HighThes1: 1.600000 -----------
+HighThes1:1.600000, 31_28_38_74_61, mode: 0_0_0_0_0,
+ baseline_time:4.417800, design_time:3.127000, offp: 29.218163, speedup: 1.412792
+------
+HighThes1: 1.700000 -----------
+HighThes1:1.700000, 31_28_38_74_61, mode: 0_0_0_0_0,
+ baseline_time:4.417800, design_time:3.097000, offp: 29.897234, speedup: 1.426477
+------
+HighThes1: 1.800000 -----------
+HighThes1:1.800000, 31_28_38_74_61, mode: 0_0_0_0_0,
+ baseline_time:4.417800, design_time:3.072000, offp: 30.463126, speedup: 1.438086
+------
+HighThes1: 1.900000 -----------
+HighThes1:1.900000, 31_28_38_74_61, mode: 0_0_0_0_0,
+ baseline_time:4.417800, design_time:3.117000, offp: 29.444520, speedup: 1.417324
+------
+HighThes1: 2.000000 -----------
+HighThes1:2.000000, 31_28_38_74_61, mode: 0_0_0_0_0,
+ baseline_time:4.417800, design_time:3.086000, offp: 30.146227, speedup: 1.431562
+------
+HighThes1: 2.100000 -----------
+HighThes1:2.100000, 31_28_38_74_61, mode: 0_0_0_0_0,
+ baseline_time:4.417800, design_time:3.095000, offp: 29.942505, speedup: 1.427399
+------
+HighThes1: 2.200000 -----------
+HighThes1:2.200000, 31_28_38_74_61, mode: 0_0_0_0_0,
+ baseline_time:4.417800, design_time:3.074000, offp: 30.417855, speedup: 1.437150
+------
+HighThes1: 2.300000 -----------
+HighThes1:2.300000, 31_28_38_74_61, mode: 0_0_0_0_0,
+ baseline_time:4.417800, design_time:3.072000, offp: 30.463126, speedup: 1.438086
+------
+HighThes1: 2.400000 -----------
+HighThes1:2.400000, 31_28_38_74_61, mode: 0_0_0_0_0,
+ baseline_time:4.417800, design_time:3.079000, offp: 30.304677, speedup: 1.434816
+------
+HighThes1: 2.500000 -----------
+HighThes1:2.500000, 31_28_38_74_61, mode: 0_0_0_0_0,
+ baseline_time:4.417800, design_time:3.082000, offp: 30.236769, speedup: 1.433420
+------
+HighThes1: 2.600000 -----------
+HighThes1:2.600000, 31_28_38_74_61, mode: 0_0_0_0_0,
+ baseline_time:4.417800, design_time:3.109000, offp: 29.625606, speedup: 1.420971
+------
+HighThes1: 2.700000 -----------

@@ -1,0 +1,64 @@
+
+
+------------------------------ kernel_name: _Z14IDCT8x8_kernelPfPKfjjj ------------------------------
+baseline_profiling #####
+baseline_time: 38.090200
+read_input: ./system/group/dct8x8_hip_inverse/_Z14IDCT8x8_kernelPfPKfjjj.txt
+
+
+------------------------------ kernel_name: _Z14IDCT8x8_kernelPfPKfjjj ------------------------------
+baseline_profiling #####
+baseline_time: 38.107600
+read_input: ./system/group/dct8x8_hip_inverse/_Z14IDCT8x8_kernelPfPKfjjj.txt
+offline_profiling -----------
+%34_%37_%42_%47_%52_%57_%62_%67, mode: 0, baseline: 38.107600, time: 38.345000, offp: -0.622973, speedup: 0.993809
+%34_%37_%42_%47_%52_%57_%62_%67, mode: 1, baseline: 38.107600, time: 35.095000, offp: 7.905510, speedup: 1.085841
+%34, mode: 0, baseline: 38.107600, time: 38.091000, offp: 0.043561, speedup: 1.000436
+%34, mode: 1, baseline: 38.107600, time: 37.347000, offp: 1.995927, speedup: 1.020366
+%37, mode: 0, baseline: 38.107600, time: 38.077000, offp: 0.080299, speedup: 1.000804
+%37, mode: 1, baseline: 38.107600, time: 37.027000, offp: 2.835655, speedup: 1.029184
+%42, mode: 0, baseline: 38.107600, time: 38.094000, offp: 0.035688, speedup: 1.000357
+%42, mode: 1, baseline: 38.107600, time: 36.711000, offp: 3.664886, speedup: 1.038043
+%47, mode: 0, baseline: 38.107600, time: 38.094000, offp: 0.035688, speedup: 1.000357
+%47, mode: 1, baseline: 38.107600, time: 36.876000, offp: 3.231901, speedup: 1.033398
+%52, mode: 0, baseline: 38.107600, time: 38.055000, offp: 0.138030, speedup: 1.001382
+%52, mode: 1, baseline: 38.107600, time: 36.913000, offp: 3.134808, speedup: 1.032363
+%57, mode: 0, baseline: 38.107600, time: 38.070000, offp: 0.098668, speedup: 1.000988
+%57, mode: 1, baseline: 38.107600, time: 37.140000, offp: 2.539126, speedup: 1.026053
+%62, mode: 0, baseline: 38.107600, time: 38.093000, offp: 0.038313, speedup: 1.000383
+%62, mode: 1, baseline: 38.107600, time: 37.181000, offp: 2.431536, speedup: 1.024921
+%67, mode: 0, baseline: 38.107600, time: 38.083000, offp: 0.064554, speedup: 1.000646
+%67, mode: 1, baseline: 38.107600, time: 37.507000, offp: 1.576064, speedup: 1.016013
+algorithm2 -----------
+%34_%37_%42_%47_%52_%57_%62_%67, mode: 0, combi_g: -1.157774
+%34_%37_%42_%47_%52_%57_%62_%67, mode: 1, combi_g: -13.504393
+score of %34, mode is 0: -0.072217
+score of %34, mode is 1: 0.645488
+score of %37, mode is 0: -0.035478
+score of %37, mode is 1: 1.485216
+%37, mode: 1, score: 1.485216 is chose----
+score of %42, mode is 0: -0.080089
+score of %42, mode is 1: 2.314446
+%42, mode: 1, score: 2.314446 is chose----
+score of %47, mode is 0: -0.080089
+score of %47, mode is 1: 1.881462
+%47, mode: 1, score: 1.881462 is chose----
+score of %52, mode is 0: 0.022253
+score of %52, mode is 1: 1.784368
+%52, mode: 1, score: 1.784368 is chose----
+score of %57, mode is 0: -0.017109
+score of %57, mode is 1: 1.188687
+%57, mode: 1, score: 1.188687 is chose----
+score of %62, mode is 0: -0.077465
+score of %62, mode is 1: 1.081097
+%62, mode: 1, score: 1.081097 is chose----
+score of %67, mode is 0: -0.051223
+score of %67, mode is 1: 0.225624
+store bypass policy -----------
+store_group, mode: 0, baseline_time:38.107600, store_time:38.331000, offp: -0.586235, speedup: 0.994172
+store_group, mode: 1, baseline_time:38.107600, store_time:36.586000, offp: 3.992904, speedup: 1.041590
+storebypass: true, storemode: 1
+------
+37_42_47_52_57_62, mode: 1_1_1_1_1_1,
+ baseline_time:38.107600, design_time:34.481000, offp: 9.516737, speedup: 1.105177
+------

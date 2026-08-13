@@ -1,0 +1,4845 @@
+nohup: ignoring input
+RPL: on '240227_135414' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135414_1161107'
+RPL: result dir '/tmp/rpl_data_240227_135414_1161107/input0_results_240227_135414'
+ROCProfiler: input from "/tmp/rpl_data_240227_135414_1161107/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00295451 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135414_1161107/input0_results_240227_135414
+File './IPC/tmp/bsearch_0.csv' is generating
+RPL: on '240227_135415' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135415_1161194'
+RPL: result dir '/tmp/rpl_data_240227_135415_1161194/input0_results_240227_135415'
+ROCProfiler: input from "/tmp/rpl_data_240227_135415_1161194/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00287238 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135415_1161194/input0_results_240227_135415
+File './IPC/tmp/bsearch_0.csv' is generating
+RPL: on '240227_135416' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135416_1161281'
+RPL: result dir '/tmp/rpl_data_240227_135416_1161281/input0_results_240227_135416'
+ROCProfiler: input from "/tmp/rpl_data_240227_135416_1161281/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00287236 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135416_1161281/input0_results_240227_135416
+File './IPC/tmp/bsearch_0.csv' is generating
+RPL: on '240227_135416' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135416_1161368'
+RPL: result dir '/tmp/rpl_data_240227_135416_1161368/input0_results_240227_135416'
+ROCProfiler: input from "/tmp/rpl_data_240227_135416_1161368/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029877 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135416_1161368/input0_results_240227_135416
+File './IPC/tmp/bsearch_0.csv' is generating
+RPL: on '240227_135417' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135417_1161455'
+RPL: result dir '/tmp/rpl_data_240227_135417_1161455/input0_results_240227_135417'
+ROCProfiler: input from "/tmp/rpl_data_240227_135417_1161455/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029026 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135417_1161455/input0_results_240227_135417
+File './IPC/tmp/bsearch_0.csv' is generating
+RPL: on '240227_135417' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135417_1161542'
+RPL: result dir '/tmp/rpl_data_240227_135417_1161542/input0_results_240227_135417'
+ROCProfiler: input from "/tmp/rpl_data_240227_135417_1161542/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296912 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135417_1161542/input0_results_240227_135417
+File './IPC/tmp/bsearch_0.csv' is generating
+RPL: on '240227_135418' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135418_1161629'
+RPL: result dir '/tmp/rpl_data_240227_135418_1161629/input0_results_240227_135418'
+ROCProfiler: input from "/tmp/rpl_data_240227_135418_1161629/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297149 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135418_1161629/input0_results_240227_135418
+File './IPC/tmp/bsearch_0.csv' is generating
+RPL: on '240227_135418' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135418_1161716'
+RPL: result dir '/tmp/rpl_data_240227_135418_1161716/input0_results_240227_135418'
+ROCProfiler: input from "/tmp/rpl_data_240227_135418_1161716/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00290232 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135418_1161716/input0_results_240227_135418
+File './IPC/tmp/bsearch_0.csv' is generating
+RPL: on '240227_135419' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135419_1161803'
+RPL: result dir '/tmp/rpl_data_240227_135419_1161803/input0_results_240227_135419'
+ROCProfiler: input from "/tmp/rpl_data_240227_135419_1161803/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296003 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135419_1161803/input0_results_240227_135419
+File './IPC/tmp/bsearch_0.csv' is generating
+RPL: on '240227_135419' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_220"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135419_1161890'
+RPL: result dir '/tmp/rpl_data_240227_135419_1161890/input0_results_240227_135419'
+ROCProfiler: input from "/tmp/rpl_data_240227_135419_1161890/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00298459 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135419_1161890/input0_results_240227_135419
+File './IPC/tmp/bsearch_0.csv' is generating
+RPL: on '240227_135420' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135420_1161977'
+RPL: result dir '/tmp/rpl_data_240227_135420_1161977/input0_results_240227_135420'
+ROCProfiler: input from "/tmp/rpl_data_240227_135420_1161977/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029763 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135420_1161977/input0_results_240227_135420
+File './IPC/tmp/bsearch_1.csv' is generating
+RPL: on '240227_135421' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135421_1162064'
+RPL: result dir '/tmp/rpl_data_240227_135421_1162064/input0_results_240227_135421'
+ROCProfiler: input from "/tmp/rpl_data_240227_135421_1162064/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297583 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135421_1162064/input0_results_240227_135421
+File './IPC/tmp/bsearch_1.csv' is generating
+RPL: on '240227_135421' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135421_1162151'
+RPL: result dir '/tmp/rpl_data_240227_135421_1162151/input0_results_240227_135421'
+ROCProfiler: input from "/tmp/rpl_data_240227_135421_1162151/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00290096 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135421_1162151/input0_results_240227_135421
+File './IPC/tmp/bsearch_1.csv' is generating
+RPL: on '240227_135422' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135422_1162238'
+RPL: result dir '/tmp/rpl_data_240227_135422_1162238/input0_results_240227_135422'
+ROCProfiler: input from "/tmp/rpl_data_240227_135422_1162238/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029066 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135422_1162238/input0_results_240227_135422
+File './IPC/tmp/bsearch_1.csv' is generating
+RPL: on '240227_135422' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135422_1162325'
+RPL: result dir '/tmp/rpl_data_240227_135422_1162325/input0_results_240227_135422'
+ROCProfiler: input from "/tmp/rpl_data_240227_135422_1162325/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00289139 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135422_1162325/input0_results_240227_135422
+File './IPC/tmp/bsearch_1.csv' is generating
+RPL: on '240227_135423' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135423_1162412'
+RPL: result dir '/tmp/rpl_data_240227_135423_1162412/input0_results_240227_135423'
+ROCProfiler: input from "/tmp/rpl_data_240227_135423_1162412/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00291556 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135423_1162412/input0_results_240227_135423
+File './IPC/tmp/bsearch_1.csv' is generating
+RPL: on '240227_135423' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135423_1162499'
+RPL: result dir '/tmp/rpl_data_240227_135423_1162499/input0_results_240227_135423'
+ROCProfiler: input from "/tmp/rpl_data_240227_135423_1162499/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294216 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135423_1162499/input0_results_240227_135423
+File './IPC/tmp/bsearch_1.csv' is generating
+RPL: on '240227_135424' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135424_1162586'
+RPL: result dir '/tmp/rpl_data_240227_135424_1162586/input0_results_240227_135424'
+ROCProfiler: input from "/tmp/rpl_data_240227_135424_1162586/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00292451 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135424_1162586/input0_results_240227_135424
+File './IPC/tmp/bsearch_1.csv' is generating
+RPL: on '240227_135425' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135425_1162673'
+RPL: result dir '/tmp/rpl_data_240227_135425_1162673/input0_results_240227_135425'
+ROCProfiler: input from "/tmp/rpl_data_240227_135425_1162673/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297011 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135425_1162673/input0_results_240227_135425
+File './IPC/tmp/bsearch_1.csv' is generating
+RPL: on '240227_135425' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_test"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135425_1162760'
+RPL: result dir '/tmp/rpl_data_240227_135425_1162760/input0_results_240227_135425'
+ROCProfiler: input from "/tmp/rpl_data_240227_135425_1162760/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00300315 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135425_1162760/input0_results_240227_135425
+File './IPC/tmp/bsearch_1.csv' is generating
+RPL: on '240227_135426' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135426_1162847'
+RPL: result dir '/tmp/rpl_data_240227_135426_1162847/input0_results_240227_135426'
+ROCProfiler: input from "/tmp/rpl_data_240227_135426_1162847/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00292028 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135426_1162847/input0_results_240227_135426
+File './IPC/tmp/bsearch_2.csv' is generating
+RPL: on '240227_135426' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135426_1162934'
+RPL: result dir '/tmp/rpl_data_240227_135426_1162934/input0_results_240227_135426'
+ROCProfiler: input from "/tmp/rpl_data_240227_135426_1162934/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00299471 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135426_1162934/input0_results_240227_135426
+File './IPC/tmp/bsearch_2.csv' is generating
+RPL: on '240227_135427' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135427_1163021'
+RPL: result dir '/tmp/rpl_data_240227_135427_1163021/input0_results_240227_135427'
+ROCProfiler: input from "/tmp/rpl_data_240227_135427_1163021/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00312451 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135427_1163021/input0_results_240227_135427
+File './IPC/tmp/bsearch_2.csv' is generating
+RPL: on '240227_135428' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135428_1163108'
+RPL: result dir '/tmp/rpl_data_240227_135428_1163108/input0_results_240227_135428'
+ROCProfiler: input from "/tmp/rpl_data_240227_135428_1163108/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00293585 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135428_1163108/input0_results_240227_135428
+File './IPC/tmp/bsearch_2.csv' is generating
+RPL: on '240227_135428' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135428_1163195'
+RPL: result dir '/tmp/rpl_data_240227_135428_1163195/input0_results_240227_135428'
+ROCProfiler: input from "/tmp/rpl_data_240227_135428_1163195/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0028993 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135428_1163195/input0_results_240227_135428
+File './IPC/tmp/bsearch_2.csv' is generating
+RPL: on '240227_135429' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135429_1163282'
+RPL: result dir '/tmp/rpl_data_240227_135429_1163282/input0_results_240227_135429'
+ROCProfiler: input from "/tmp/rpl_data_240227_135429_1163282/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029836 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135429_1163282/input0_results_240227_135429
+File './IPC/tmp/bsearch_2.csv' is generating
+RPL: on '240227_135429' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135429_1163369'
+RPL: result dir '/tmp/rpl_data_240227_135429_1163369/input0_results_240227_135429'
+ROCProfiler: input from "/tmp/rpl_data_240227_135429_1163369/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297952 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135429_1163369/input0_results_240227_135429
+File './IPC/tmp/bsearch_2.csv' is generating
+RPL: on '240227_135430' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135430_1163456'
+RPL: result dir '/tmp/rpl_data_240227_135430_1163456/input0_results_240227_135430'
+ROCProfiler: input from "/tmp/rpl_data_240227_135430_1163456/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0030027 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135430_1163456/input0_results_240227_135430
+File './IPC/tmp/bsearch_2.csv' is generating
+RPL: on '240227_135430' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135430_1163543'
+RPL: result dir '/tmp/rpl_data_240227_135430_1163543/input0_results_240227_135430'
+ROCProfiler: input from "/tmp/rpl_data_240227_135430_1163543/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297394 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135430_1163543/input0_results_240227_135430
+File './IPC/tmp/bsearch_2.csv' is generating
+RPL: on '240227_135431' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_020"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135431_1163630'
+RPL: result dir '/tmp/rpl_data_240227_135431_1163630/input0_results_240227_135431'
+ROCProfiler: input from "/tmp/rpl_data_240227_135431_1163630/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00305504 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135431_1163630/input0_results_240227_135431
+File './IPC/tmp/bsearch_2.csv' is generating
+RPL: on '240227_135432' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135432_1163717'
+RPL: result dir '/tmp/rpl_data_240227_135432_1163717/input0_results_240227_135432'
+ROCProfiler: input from "/tmp/rpl_data_240227_135432_1163717/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00292031 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135432_1163717/input0_results_240227_135432
+File './IPC/tmp/bsearch_3.csv' is generating
+RPL: on '240227_135432' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135432_1163804'
+RPL: result dir '/tmp/rpl_data_240227_135432_1163804/input0_results_240227_135432'
+ROCProfiler: input from "/tmp/rpl_data_240227_135432_1163804/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294895 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135432_1163804/input0_results_240227_135432
+File './IPC/tmp/bsearch_3.csv' is generating
+RPL: on '240227_135433' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135433_1163891'
+RPL: result dir '/tmp/rpl_data_240227_135433_1163891/input0_results_240227_135433'
+ROCProfiler: input from "/tmp/rpl_data_240227_135433_1163891/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00298559 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135433_1163891/input0_results_240227_135433
+File './IPC/tmp/bsearch_3.csv' is generating
+RPL: on '240227_135433' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135433_1163978'
+RPL: result dir '/tmp/rpl_data_240227_135433_1163978/input0_results_240227_135433'
+ROCProfiler: input from "/tmp/rpl_data_240227_135433_1163978/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296684 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135433_1163978/input0_results_240227_135433
+File './IPC/tmp/bsearch_3.csv' is generating
+RPL: on '240227_135434' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135434_1164065'
+RPL: result dir '/tmp/rpl_data_240227_135434_1164065/input0_results_240227_135434'
+ROCProfiler: input from "/tmp/rpl_data_240227_135434_1164065/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00292075 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135434_1164065/input0_results_240227_135434
+File './IPC/tmp/bsearch_3.csv' is generating
+RPL: on '240227_135434' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135434_1164152'
+RPL: result dir '/tmp/rpl_data_240227_135434_1164152/input0_results_240227_135434'
+ROCProfiler: input from "/tmp/rpl_data_240227_135434_1164152/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00309352 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135434_1164152/input0_results_240227_135434
+File './IPC/tmp/bsearch_3.csv' is generating
+RPL: on '240227_135435' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135435_1164239'
+RPL: result dir '/tmp/rpl_data_240227_135435_1164239/input0_results_240227_135435'
+ROCProfiler: input from "/tmp/rpl_data_240227_135435_1164239/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00314892 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135435_1164239/input0_results_240227_135435
+File './IPC/tmp/bsearch_3.csv' is generating
+RPL: on '240227_135436' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135436_1164326'
+RPL: result dir '/tmp/rpl_data_240227_135436_1164326/input0_results_240227_135436'
+ROCProfiler: input from "/tmp/rpl_data_240227_135436_1164326/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00293119 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135436_1164326/input0_results_240227_135436
+File './IPC/tmp/bsearch_3.csv' is generating
+RPL: on '240227_135436' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135436_1164413'
+RPL: result dir '/tmp/rpl_data_240227_135436_1164413/input0_results_240227_135436'
+ROCProfiler: input from "/tmp/rpl_data_240227_135436_1164413/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00295494 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135436_1164413/input0_results_240227_135436
+File './IPC/tmp/bsearch_3.csv' is generating
+RPL: on '240227_135437' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_200"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135437_1164500'
+RPL: result dir '/tmp/rpl_data_240227_135437_1164500/input0_results_240227_135437'
+ROCProfiler: input from "/tmp/rpl_data_240227_135437_1164500/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00301304 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135437_1164500/input0_results_240227_135437
+File './IPC/tmp/bsearch_3.csv' is generating
+RPL: on '240227_135437' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135437_1164587'
+RPL: result dir '/tmp/rpl_data_240227_135437_1164587/input0_results_240227_135437'
+ROCProfiler: input from "/tmp/rpl_data_240227_135437_1164587/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00299474 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135437_1164587/input0_results_240227_135437
+File './IPC/tmp/bsearch_4.csv' is generating
+RPL: on '240227_135438' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135438_1164674'
+RPL: result dir '/tmp/rpl_data_240227_135438_1164674/input0_results_240227_135438'
+ROCProfiler: input from "/tmp/rpl_data_240227_135438_1164674/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297011 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135438_1164674/input0_results_240227_135438
+File './IPC/tmp/bsearch_4.csv' is generating
+RPL: on '240227_135438' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135438_1164761'
+RPL: result dir '/tmp/rpl_data_240227_135438_1164761/input0_results_240227_135438'
+ROCProfiler: input from "/tmp/rpl_data_240227_135438_1164761/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296694 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135438_1164761/input0_results_240227_135438
+File './IPC/tmp/bsearch_4.csv' is generating
+RPL: on '240227_135439' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135439_1164848'
+RPL: result dir '/tmp/rpl_data_240227_135439_1164848/input0_results_240227_135439'
+ROCProfiler: input from "/tmp/rpl_data_240227_135439_1164848/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00292463 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135439_1164848/input0_results_240227_135439
+File './IPC/tmp/bsearch_4.csv' is generating
+RPL: on '240227_135440' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135440_1164935'
+RPL: result dir '/tmp/rpl_data_240227_135440_1164935/input0_results_240227_135440'
+ROCProfiler: input from "/tmp/rpl_data_240227_135440_1164935/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00295903 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135440_1164935/input0_results_240227_135440
+File './IPC/tmp/bsearch_4.csv' is generating
+RPL: on '240227_135440' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135440_1165022'
+RPL: result dir '/tmp/rpl_data_240227_135440_1165022/input0_results_240227_135440'
+ROCProfiler: input from "/tmp/rpl_data_240227_135440_1165022/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294168 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135440_1165022/input0_results_240227_135440
+File './IPC/tmp/bsearch_4.csv' is generating
+RPL: on '240227_135441' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135441_1165109'
+RPL: result dir '/tmp/rpl_data_240227_135441_1165109/input0_results_240227_135441'
+ROCProfiler: input from "/tmp/rpl_data_240227_135441_1165109/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294437 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135441_1165109/input0_results_240227_135441
+File './IPC/tmp/bsearch_4.csv' is generating
+RPL: on '240227_135441' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135441_1165196'
+RPL: result dir '/tmp/rpl_data_240227_135441_1165196/input0_results_240227_135441'
+ROCProfiler: input from "/tmp/rpl_data_240227_135441_1165196/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00298791 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135441_1165196/input0_results_240227_135441
+File './IPC/tmp/bsearch_4.csv' is generating
+RPL: on '240227_135442' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135442_1165283'
+RPL: result dir '/tmp/rpl_data_240227_135442_1165283/input0_results_240227_135442'
+ROCProfiler: input from "/tmp/rpl_data_240227_135442_1165283/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00298998 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135442_1165283/input0_results_240227_135442
+File './IPC/tmp/bsearch_4.csv' is generating
+RPL: on '240227_135443' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_112"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135443_1165370'
+RPL: result dir '/tmp/rpl_data_240227_135443_1165370/input0_results_240227_135443'
+ROCProfiler: input from "/tmp/rpl_data_240227_135443_1165370/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00299122 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135443_1165370/input0_results_240227_135443
+File './IPC/tmp/bsearch_4.csv' is generating
+RPL: on '240227_135443' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135443_1165457'
+RPL: result dir '/tmp/rpl_data_240227_135443_1165457/input0_results_240227_135443'
+ROCProfiler: input from "/tmp/rpl_data_240227_135443_1165457/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00314131 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135443_1165457/input0_results_240227_135443
+File './IPC/tmp/bsearch_5.csv' is generating
+RPL: on '240227_135444' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135444_1165544'
+RPL: result dir '/tmp/rpl_data_240227_135444_1165544/input0_results_240227_135444'
+ROCProfiler: input from "/tmp/rpl_data_240227_135444_1165544/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00310927 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135444_1165544/input0_results_240227_135444
+File './IPC/tmp/bsearch_5.csv' is generating
+RPL: on '240227_135444' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135444_1165631'
+RPL: result dir '/tmp/rpl_data_240227_135444_1165631/input0_results_240227_135444'
+ROCProfiler: input from "/tmp/rpl_data_240227_135444_1165631/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00316633 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135444_1165631/input0_results_240227_135444
+File './IPC/tmp/bsearch_5.csv' is generating
+RPL: on '240227_135445' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135445_1165718'
+RPL: result dir '/tmp/rpl_data_240227_135445_1165718/input0_results_240227_135445'
+ROCProfiler: input from "/tmp/rpl_data_240227_135445_1165718/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00313724 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135445_1165718/input0_results_240227_135445
+File './IPC/tmp/bsearch_5.csv' is generating
+RPL: on '240227_135445' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135445_1165805'
+RPL: result dir '/tmp/rpl_data_240227_135445_1165805/input0_results_240227_135445'
+ROCProfiler: input from "/tmp/rpl_data_240227_135445_1165805/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00309297 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135445_1165805/input0_results_240227_135445
+File './IPC/tmp/bsearch_5.csv' is generating
+RPL: on '240227_135446' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135446_1165892'
+RPL: result dir '/tmp/rpl_data_240227_135446_1165892/input0_results_240227_135446'
+ROCProfiler: input from "/tmp/rpl_data_240227_135446_1165892/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00308912 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135446_1165892/input0_results_240227_135446
+File './IPC/tmp/bsearch_5.csv' is generating
+RPL: on '240227_135447' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135447_1165979'
+RPL: result dir '/tmp/rpl_data_240227_135447_1165979/input0_results_240227_135447'
+ROCProfiler: input from "/tmp/rpl_data_240227_135447_1165979/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0031107 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135447_1165979/input0_results_240227_135447
+File './IPC/tmp/bsearch_5.csv' is generating
+RPL: on '240227_135447' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135447_1166066'
+RPL: result dir '/tmp/rpl_data_240227_135447_1166066/input0_results_240227_135447'
+ROCProfiler: input from "/tmp/rpl_data_240227_135447_1166066/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00314055 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135447_1166066/input0_results_240227_135447
+File './IPC/tmp/bsearch_5.csv' is generating
+RPL: on '240227_135448' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135448_1166153'
+RPL: result dir '/tmp/rpl_data_240227_135448_1166153/input0_results_240227_135448'
+ROCProfiler: input from "/tmp/rpl_data_240227_135448_1166153/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00309622 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135448_1166153/input0_results_240227_135448
+File './IPC/tmp/bsearch_5.csv' is generating
+RPL: on '240227_135448' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_111"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135448_1166240'
+RPL: result dir '/tmp/rpl_data_240227_135448_1166240/input0_results_240227_135448'
+ROCProfiler: input from "/tmp/rpl_data_240227_135448_1166240/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00316965 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135448_1166240/input0_results_240227_135448
+File './IPC/tmp/bsearch_5.csv' is generating
+RPL: on '240227_135449' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135449_1166327'
+RPL: result dir '/tmp/rpl_data_240227_135449_1166327/input0_results_240227_135449'
+ROCProfiler: input from "/tmp/rpl_data_240227_135449_1166327/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00291846 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135449_1166327/input0_results_240227_135449
+File './IPC/tmp/bsearch_6.csv' is generating
+RPL: on '240227_135449' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135449_1166414'
+RPL: result dir '/tmp/rpl_data_240227_135449_1166414/input0_results_240227_135449'
+ROCProfiler: input from "/tmp/rpl_data_240227_135449_1166414/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296425 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135449_1166414/input0_results_240227_135449
+File './IPC/tmp/bsearch_6.csv' is generating
+RPL: on '240227_135450' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135450_1166501'
+RPL: result dir '/tmp/rpl_data_240227_135450_1166501/input0_results_240227_135450'
+ROCProfiler: input from "/tmp/rpl_data_240227_135450_1166501/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00288919 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135450_1166501/input0_results_240227_135450
+File './IPC/tmp/bsearch_6.csv' is generating
+RPL: on '240227_135451' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135451_1166588'
+RPL: result dir '/tmp/rpl_data_240227_135451_1166588/input0_results_240227_135451'
+ROCProfiler: input from "/tmp/rpl_data_240227_135451_1166588/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00291822 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135451_1166588/input0_results_240227_135451
+File './IPC/tmp/bsearch_6.csv' is generating
+RPL: on '240227_135451' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135451_1166675'
+RPL: result dir '/tmp/rpl_data_240227_135451_1166675/input0_results_240227_135451'
+ROCProfiler: input from "/tmp/rpl_data_240227_135451_1166675/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294495 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135451_1166675/input0_results_240227_135451
+File './IPC/tmp/bsearch_6.csv' is generating
+RPL: on '240227_135452' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135452_1166762'
+RPL: result dir '/tmp/rpl_data_240227_135452_1166762/input0_results_240227_135452'
+ROCProfiler: input from "/tmp/rpl_data_240227_135452_1166762/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00291389 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135452_1166762/input0_results_240227_135452
+File './IPC/tmp/bsearch_6.csv' is generating
+RPL: on '240227_135452' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135452_1166849'
+RPL: result dir '/tmp/rpl_data_240227_135452_1166849/input0_results_240227_135452'
+ROCProfiler: input from "/tmp/rpl_data_240227_135452_1166849/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00299234 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135452_1166849/input0_results_240227_135452
+File './IPC/tmp/bsearch_6.csv' is generating
+RPL: on '240227_135453' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135453_1166936'
+RPL: result dir '/tmp/rpl_data_240227_135453_1166936/input0_results_240227_135453'
+ROCProfiler: input from "/tmp/rpl_data_240227_135453_1166936/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00299556 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135453_1166936/input0_results_240227_135453
+File './IPC/tmp/bsearch_6.csv' is generating
+RPL: on '240227_135454' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135454_1167023'
+RPL: result dir '/tmp/rpl_data_240227_135454_1167023/input0_results_240227_135454'
+ROCProfiler: input from "/tmp/rpl_data_240227_135454_1167023/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00292299 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135454_1167023/input0_results_240227_135454
+File './IPC/tmp/bsearch_6.csv' is generating
+RPL: on '240227_135454' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_100"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135454_1167110'
+RPL: result dir '/tmp/rpl_data_240227_135454_1167110/input0_results_240227_135454'
+ROCProfiler: input from "/tmp/rpl_data_240227_135454_1167110/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294428 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135454_1167110/input0_results_240227_135454
+File './IPC/tmp/bsearch_6.csv' is generating
+RPL: on '240227_135455' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135455_1167197'
+RPL: result dir '/tmp/rpl_data_240227_135455_1167197/input0_results_240227_135455'
+ROCProfiler: input from "/tmp/rpl_data_240227_135455_1167197/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00298989 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135455_1167197/input0_results_240227_135455
+File './IPC/tmp/bsearch_7.csv' is generating
+RPL: on '240227_135455' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135455_1167284'
+RPL: result dir '/tmp/rpl_data_240227_135455_1167284/input0_results_240227_135455'
+ROCProfiler: input from "/tmp/rpl_data_240227_135455_1167284/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296723 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135455_1167284/input0_results_240227_135455
+File './IPC/tmp/bsearch_7.csv' is generating
+RPL: on '240227_135456' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135456_1167371'
+RPL: result dir '/tmp/rpl_data_240227_135456_1167371/input0_results_240227_135456'
+ROCProfiler: input from "/tmp/rpl_data_240227_135456_1167371/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00299113 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135456_1167371/input0_results_240227_135456
+File './IPC/tmp/bsearch_7.csv' is generating
+RPL: on '240227_135456' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135456_1167458'
+RPL: result dir '/tmp/rpl_data_240227_135456_1167458/input0_results_240227_135456'
+ROCProfiler: input from "/tmp/rpl_data_240227_135456_1167458/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029568 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135456_1167458/input0_results_240227_135456
+File './IPC/tmp/bsearch_7.csv' is generating
+RPL: on '240227_135457' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135457_1167545'
+RPL: result dir '/tmp/rpl_data_240227_135457_1167545/input0_results_240227_135457'
+ROCProfiler: input from "/tmp/rpl_data_240227_135457_1167545/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00291647 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135457_1167545/input0_results_240227_135457
+File './IPC/tmp/bsearch_7.csv' is generating
+RPL: on '240227_135458' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135458_1167632'
+RPL: result dir '/tmp/rpl_data_240227_135458_1167632/input0_results_240227_135458'
+ROCProfiler: input from "/tmp/rpl_data_240227_135458_1167632/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294068 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135458_1167632/input0_results_240227_135458
+File './IPC/tmp/bsearch_7.csv' is generating
+RPL: on '240227_135458' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135458_1167719'
+RPL: result dir '/tmp/rpl_data_240227_135458_1167719/input0_results_240227_135458'
+ROCProfiler: input from "/tmp/rpl_data_240227_135458_1167719/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294754 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135458_1167719/input0_results_240227_135458
+File './IPC/tmp/bsearch_7.csv' is generating
+RPL: on '240227_135459' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135459_1167806'
+RPL: result dir '/tmp/rpl_data_240227_135459_1167806/input0_results_240227_135459'
+ROCProfiler: input from "/tmp/rpl_data_240227_135459_1167806/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0030085 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135459_1167806/input0_results_240227_135459
+File './IPC/tmp/bsearch_7.csv' is generating
+RPL: on '240227_135459' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135459_1167893'
+RPL: result dir '/tmp/rpl_data_240227_135459_1167893/input0_results_240227_135459'
+ROCProfiler: input from "/tmp/rpl_data_240227_135459_1167893/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00301492 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135459_1167893/input0_results_240227_135459
+File './IPC/tmp/bsearch_7.csv' is generating
+RPL: on '240227_135500' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_202"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135500_1167980'
+RPL: result dir '/tmp/rpl_data_240227_135500_1167980/input0_results_240227_135500'
+ROCProfiler: input from "/tmp/rpl_data_240227_135500_1167980/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029885 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135500_1167980/input0_results_240227_135500
+File './IPC/tmp/bsearch_7.csv' is generating
+RPL: on '240227_135501' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135501_1168067'
+RPL: result dir '/tmp/rpl_data_240227_135501_1168067/input0_results_240227_135501'
+ROCProfiler: input from "/tmp/rpl_data_240227_135501_1168067/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00293264 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135501_1168067/input0_results_240227_135501
+File './IPC/tmp/bsearch_8.csv' is generating
+RPL: on '240227_135501' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135501_1168154'
+RPL: result dir '/tmp/rpl_data_240227_135501_1168154/input0_results_240227_135501'
+ROCProfiler: input from "/tmp/rpl_data_240227_135501_1168154/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00300001 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135501_1168154/input0_results_240227_135501
+File './IPC/tmp/bsearch_8.csv' is generating
+RPL: on '240227_135502' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135502_1168241'
+RPL: result dir '/tmp/rpl_data_240227_135502_1168241/input0_results_240227_135502'
+ROCProfiler: input from "/tmp/rpl_data_240227_135502_1168241/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00295685 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135502_1168241/input0_results_240227_135502
+File './IPC/tmp/bsearch_8.csv' is generating
+RPL: on '240227_135502' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135502_1168328'
+RPL: result dir '/tmp/rpl_data_240227_135502_1168328/input0_results_240227_135502'
+ROCProfiler: input from "/tmp/rpl_data_240227_135502_1168328/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00302298 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135502_1168328/input0_results_240227_135502
+File './IPC/tmp/bsearch_8.csv' is generating
+RPL: on '240227_135503' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135503_1168415'
+RPL: result dir '/tmp/rpl_data_240227_135503_1168415/input0_results_240227_135503'
+ROCProfiler: input from "/tmp/rpl_data_240227_135503_1168415/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029475 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135503_1168415/input0_results_240227_135503
+File './IPC/tmp/bsearch_8.csv' is generating
+RPL: on '240227_135503' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135503_1168502'
+RPL: result dir '/tmp/rpl_data_240227_135503_1168502/input0_results_240227_135503'
+ROCProfiler: input from "/tmp/rpl_data_240227_135503_1168502/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00303311 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135503_1168502/input0_results_240227_135503
+File './IPC/tmp/bsearch_8.csv' is generating
+RPL: on '240227_135504' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135504_1168589'
+RPL: result dir '/tmp/rpl_data_240227_135504_1168589/input0_results_240227_135504'
+ROCProfiler: input from "/tmp/rpl_data_240227_135504_1168589/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029398 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135504_1168589/input0_results_240227_135504
+File './IPC/tmp/bsearch_8.csv' is generating
+RPL: on '240227_135505' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135505_1168676'
+RPL: result dir '/tmp/rpl_data_240227_135505_1168676/input0_results_240227_135505'
+ROCProfiler: input from "/tmp/rpl_data_240227_135505_1168676/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00300642 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135505_1168676/input0_results_240227_135505
+File './IPC/tmp/bsearch_8.csv' is generating
+RPL: on '240227_135505' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135505_1168763'
+RPL: result dir '/tmp/rpl_data_240227_135505_1168763/input0_results_240227_135505'
+ROCProfiler: input from "/tmp/rpl_data_240227_135505_1168763/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00298304 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135505_1168763/input0_results_240227_135505
+File './IPC/tmp/bsearch_8.csv' is generating
+RPL: on '240227_135506' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_222"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135506_1168850'
+RPL: result dir '/tmp/rpl_data_240227_135506_1168850/input0_results_240227_135506'
+ROCProfiler: input from "/tmp/rpl_data_240227_135506_1168850/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297977 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135506_1168850/input0_results_240227_135506
+File './IPC/tmp/bsearch_8.csv' is generating
+RPL: on '240227_135506' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135506_1168937'
+RPL: result dir '/tmp/rpl_data_240227_135506_1168937/input0_results_240227_135506'
+ROCProfiler: input from "/tmp/rpl_data_240227_135506_1168937/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00314117 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135506_1168937/input0_results_240227_135506
+File './IPC/tmp/bsearch_9.csv' is generating
+RPL: on '240227_135507' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135507_1169024'
+RPL: result dir '/tmp/rpl_data_240227_135507_1169024/input0_results_240227_135507'
+ROCProfiler: input from "/tmp/rpl_data_240227_135507_1169024/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00312539 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135507_1169024/input0_results_240227_135507
+File './IPC/tmp/bsearch_9.csv' is generating
+RPL: on '240227_135507' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135507_1169111'
+RPL: result dir '/tmp/rpl_data_240227_135507_1169111/input0_results_240227_135507'
+ROCProfiler: input from "/tmp/rpl_data_240227_135507_1169111/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00312759 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135507_1169111/input0_results_240227_135507
+File './IPC/tmp/bsearch_9.csv' is generating
+RPL: on '240227_135508' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135508_1169198'
+RPL: result dir '/tmp/rpl_data_240227_135508_1169198/input0_results_240227_135508'
+ROCProfiler: input from "/tmp/rpl_data_240227_135508_1169198/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00315721 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135508_1169198/input0_results_240227_135508
+File './IPC/tmp/bsearch_9.csv' is generating
+RPL: on '240227_135509' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135509_1169285'
+RPL: result dir '/tmp/rpl_data_240227_135509_1169285/input0_results_240227_135509'
+ROCProfiler: input from "/tmp/rpl_data_240227_135509_1169285/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0031657 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135509_1169285/input0_results_240227_135509
+File './IPC/tmp/bsearch_9.csv' is generating
+RPL: on '240227_135509' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135509_1169372'
+RPL: result dir '/tmp/rpl_data_240227_135509_1169372/input0_results_240227_135509'
+ROCProfiler: input from "/tmp/rpl_data_240227_135509_1169372/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00309432 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135509_1169372/input0_results_240227_135509
+File './IPC/tmp/bsearch_9.csv' is generating
+RPL: on '240227_135510' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135510_1169459'
+RPL: result dir '/tmp/rpl_data_240227_135510_1169459/input0_results_240227_135510'
+ROCProfiler: input from "/tmp/rpl_data_240227_135510_1169459/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00317753 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135510_1169459/input0_results_240227_135510
+File './IPC/tmp/bsearch_9.csv' is generating
+RPL: on '240227_135510' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135510_1169546'
+RPL: result dir '/tmp/rpl_data_240227_135510_1169546/input0_results_240227_135510'
+ROCProfiler: input from "/tmp/rpl_data_240227_135510_1169546/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00315143 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135510_1169546/input0_results_240227_135510
+File './IPC/tmp/bsearch_9.csv' is generating
+RPL: on '240227_135511' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135511_1169633'
+RPL: result dir '/tmp/rpl_data_240227_135511_1169633/input0_results_240227_135511'
+ROCProfiler: input from "/tmp/rpl_data_240227_135511_1169633/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00315053 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135511_1169633/input0_results_240227_135511
+File './IPC/tmp/bsearch_9.csv' is generating
+RPL: on '240227_135511' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_121"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135511_1169720'
+RPL: result dir '/tmp/rpl_data_240227_135511_1169720/input0_results_240227_135511'
+ROCProfiler: input from "/tmp/rpl_data_240227_135511_1169720/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00309471 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135511_1169720/input0_results_240227_135511
+File './IPC/tmp/bsearch_9.csv' is generating
+RPL: on '240227_135512' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135512_1169807'
+RPL: result dir '/tmp/rpl_data_240227_135512_1169807/input0_results_240227_135512'
+ROCProfiler: input from "/tmp/rpl_data_240227_135512_1169807/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00300524 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135512_1169807/input0_results_240227_135512
+File './IPC/tmp/bsearch_10.csv' is generating
+RPL: on '240227_135513' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135513_1169894'
+RPL: result dir '/tmp/rpl_data_240227_135513_1169894/input0_results_240227_135513'
+ROCProfiler: input from "/tmp/rpl_data_240227_135513_1169894/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297571 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135513_1169894/input0_results_240227_135513
+File './IPC/tmp/bsearch_10.csv' is generating
+RPL: on '240227_135513' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135513_1169981'
+RPL: result dir '/tmp/rpl_data_240227_135513_1169981/input0_results_240227_135513'
+ROCProfiler: input from "/tmp/rpl_data_240227_135513_1169981/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00298792 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135513_1169981/input0_results_240227_135513
+File './IPC/tmp/bsearch_10.csv' is generating
+RPL: on '240227_135514' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135514_1170068'
+RPL: result dir '/tmp/rpl_data_240227_135514_1170068/input0_results_240227_135514'
+ROCProfiler: input from "/tmp/rpl_data_240227_135514_1170068/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00295837 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135514_1170068/input0_results_240227_135514
+File './IPC/tmp/bsearch_10.csv' is generating
+RPL: on '240227_135514' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135514_1170155'
+RPL: result dir '/tmp/rpl_data_240227_135514_1170155/input0_results_240227_135514'
+ROCProfiler: input from "/tmp/rpl_data_240227_135514_1170155/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297631 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135514_1170155/input0_results_240227_135514
+File './IPC/tmp/bsearch_10.csv' is generating
+RPL: on '240227_135515' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135515_1170242'
+RPL: result dir '/tmp/rpl_data_240227_135515_1170242/input0_results_240227_135515'
+ROCProfiler: input from "/tmp/rpl_data_240227_135515_1170242/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296564 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135515_1170242/input0_results_240227_135515
+File './IPC/tmp/bsearch_10.csv' is generating
+RPL: on '240227_135516' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135516_1170329'
+RPL: result dir '/tmp/rpl_data_240227_135516_1170329/input0_results_240227_135516'
+ROCProfiler: input from "/tmp/rpl_data_240227_135516_1170329/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00295827 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135516_1170329/input0_results_240227_135516
+File './IPC/tmp/bsearch_10.csv' is generating
+RPL: on '240227_135516' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135516_1170416'
+RPL: result dir '/tmp/rpl_data_240227_135516_1170416/input0_results_240227_135516'
+ROCProfiler: input from "/tmp/rpl_data_240227_135516_1170416/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0030078 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135516_1170416/input0_results_240227_135516
+File './IPC/tmp/bsearch_10.csv' is generating
+RPL: on '240227_135517' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135517_1170503'
+RPL: result dir '/tmp/rpl_data_240227_135517_1170503/input0_results_240227_135517'
+ROCProfiler: input from "/tmp/rpl_data_240227_135517_1170503/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00300175 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135517_1170503/input0_results_240227_135517
+File './IPC/tmp/bsearch_10.csv' is generating
+RPL: on '240227_135517' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_102"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135517_1170590'
+RPL: result dir '/tmp/rpl_data_240227_135517_1170590/input0_results_240227_135517'
+ROCProfiler: input from "/tmp/rpl_data_240227_135517_1170590/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00299337 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135517_1170590/input0_results_240227_135517
+File './IPC/tmp/bsearch_10.csv' is generating
+RPL: on '240227_135518' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135518_1170677'
+RPL: result dir '/tmp/rpl_data_240227_135518_1170677/input0_results_240227_135518'
+ROCProfiler: input from "/tmp/rpl_data_240227_135518_1170677/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00298147 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135518_1170677/input0_results_240227_135518
+File './IPC/tmp/bsearch_11.csv' is generating
+RPL: on '240227_135518' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135518_1170764'
+RPL: result dir '/tmp/rpl_data_240227_135518_1170764/input0_results_240227_135518'
+ROCProfiler: input from "/tmp/rpl_data_240227_135518_1170764/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297182 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135518_1170764/input0_results_240227_135518
+File './IPC/tmp/bsearch_11.csv' is generating
+RPL: on '240227_135519' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135519_1170851'
+RPL: result dir '/tmp/rpl_data_240227_135519_1170851/input0_results_240227_135519'
+ROCProfiler: input from "/tmp/rpl_data_240227_135519_1170851/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029007 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135519_1170851/input0_results_240227_135519
+File './IPC/tmp/bsearch_11.csv' is generating
+RPL: on '240227_135520' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135520_1170938'
+RPL: result dir '/tmp/rpl_data_240227_135520_1170938/input0_results_240227_135520'
+ROCProfiler: input from "/tmp/rpl_data_240227_135520_1170938/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297534 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135520_1170938/input0_results_240227_135520
+File './IPC/tmp/bsearch_11.csv' is generating
+RPL: on '240227_135520' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135520_1171025'
+RPL: result dir '/tmp/rpl_data_240227_135520_1171025/input0_results_240227_135520'
+ROCProfiler: input from "/tmp/rpl_data_240227_135520_1171025/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00290566 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135520_1171025/input0_results_240227_135520
+File './IPC/tmp/bsearch_11.csv' is generating
+RPL: on '240227_135521' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135521_1171112'
+RPL: result dir '/tmp/rpl_data_240227_135521_1171112/input0_results_240227_135521'
+ROCProfiler: input from "/tmp/rpl_data_240227_135521_1171112/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297854 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135521_1171112/input0_results_240227_135521
+File './IPC/tmp/bsearch_11.csv' is generating
+RPL: on '240227_135521' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135521_1171199'
+RPL: result dir '/tmp/rpl_data_240227_135521_1171199/input0_results_240227_135521'
+ROCProfiler: input from "/tmp/rpl_data_240227_135521_1171199/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00292495 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135521_1171199/input0_results_240227_135521
+File './IPC/tmp/bsearch_11.csv' is generating
+RPL: on '240227_135522' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135522_1171286'
+RPL: result dir '/tmp/rpl_data_240227_135522_1171286/input0_results_240227_135522'
+ROCProfiler: input from "/tmp/rpl_data_240227_135522_1171286/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029342 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135522_1171286/input0_results_240227_135522
+File './IPC/tmp/bsearch_11.csv' is generating
+RPL: on '240227_135522' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135522_1171373'
+RPL: result dir '/tmp/rpl_data_240227_135522_1171373/input0_results_240227_135522'
+ROCProfiler: input from "/tmp/rpl_data_240227_135522_1171373/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294999 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135522_1171373/input0_results_240227_135522
+File './IPC/tmp/bsearch_11.csv' is generating
+RPL: on '240227_135523' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_000"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135523_1171460'
+RPL: result dir '/tmp/rpl_data_240227_135523_1171460/input0_results_240227_135523'
+ROCProfiler: input from "/tmp/rpl_data_240227_135523_1171460/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00291534 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135523_1171460/input0_results_240227_135523
+File './IPC/tmp/bsearch_11.csv' is generating
+RPL: on '240227_135524' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135524_1171547'
+RPL: result dir '/tmp/rpl_data_240227_135524_1171547/input0_results_240227_135524'
+ROCProfiler: input from "/tmp/rpl_data_240227_135524_1171547/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00316117 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135524_1171547/input0_results_240227_135524
+File './IPC/tmp/bsearch_12.csv' is generating
+RPL: on '240227_135524' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135524_1171634'
+RPL: result dir '/tmp/rpl_data_240227_135524_1171634/input0_results_240227_135524'
+ROCProfiler: input from "/tmp/rpl_data_240227_135524_1171634/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00309432 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135524_1171634/input0_results_240227_135524
+File './IPC/tmp/bsearch_12.csv' is generating
+RPL: on '240227_135525' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135525_1171721'
+RPL: result dir '/tmp/rpl_data_240227_135525_1171721/input0_results_240227_135525'
+ROCProfiler: input from "/tmp/rpl_data_240227_135525_1171721/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00321666 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135525_1171721/input0_results_240227_135525
+File './IPC/tmp/bsearch_12.csv' is generating
+RPL: on '240227_135525' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135525_1171808'
+RPL: result dir '/tmp/rpl_data_240227_135525_1171808/input0_results_240227_135525'
+ROCProfiler: input from "/tmp/rpl_data_240227_135525_1171808/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00317051 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135525_1171808/input0_results_240227_135525
+File './IPC/tmp/bsearch_12.csv' is generating
+RPL: on '240227_135526' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135526_1171895'
+RPL: result dir '/tmp/rpl_data_240227_135526_1171895/input0_results_240227_135526'
+ROCProfiler: input from "/tmp/rpl_data_240227_135526_1171895/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00317661 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135526_1171895/input0_results_240227_135526
+File './IPC/tmp/bsearch_12.csv' is generating
+RPL: on '240227_135526' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135526_1171982'
+RPL: result dir '/tmp/rpl_data_240227_135526_1171982/input0_results_240227_135526'
+ROCProfiler: input from "/tmp/rpl_data_240227_135526_1171982/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0031471 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135526_1171982/input0_results_240227_135526
+File './IPC/tmp/bsearch_12.csv' is generating
+RPL: on '240227_135527' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135527_1172069'
+RPL: result dir '/tmp/rpl_data_240227_135527_1172069/input0_results_240227_135527'
+ROCProfiler: input from "/tmp/rpl_data_240227_135527_1172069/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00314849 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135527_1172069/input0_results_240227_135527
+File './IPC/tmp/bsearch_12.csv' is generating
+RPL: on '240227_135528' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135528_1172156'
+RPL: result dir '/tmp/rpl_data_240227_135528_1172156/input0_results_240227_135528'
+ROCProfiler: input from "/tmp/rpl_data_240227_135528_1172156/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00316567 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135528_1172156/input0_results_240227_135528
+File './IPC/tmp/bsearch_12.csv' is generating
+RPL: on '240227_135528' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135528_1172243'
+RPL: result dir '/tmp/rpl_data_240227_135528_1172243/input0_results_240227_135528'
+ROCProfiler: input from "/tmp/rpl_data_240227_135528_1172243/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00313814 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135528_1172243/input0_results_240227_135528
+File './IPC/tmp/bsearch_12.csv' is generating
+RPL: on '240227_135529' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_011"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135529_1172330'
+RPL: result dir '/tmp/rpl_data_240227_135529_1172330/input0_results_240227_135529'
+ROCProfiler: input from "/tmp/rpl_data_240227_135529_1172330/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00317991 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135529_1172330/input0_results_240227_135529
+File './IPC/tmp/bsearch_12.csv' is generating
+RPL: on '240227_135529' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135529_1172417'
+RPL: result dir '/tmp/rpl_data_240227_135529_1172417/input0_results_240227_135529'
+ROCProfiler: input from "/tmp/rpl_data_240227_135529_1172417/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00293149 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135529_1172417/input0_results_240227_135529
+File './IPC/tmp/bsearch_13.csv' is generating
+RPL: on '240227_135530' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135530_1172504'
+RPL: result dir '/tmp/rpl_data_240227_135530_1172504/input0_results_240227_135530'
+ROCProfiler: input from "/tmp/rpl_data_240227_135530_1172504/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00293534 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135530_1172504/input0_results_240227_135530
+File './IPC/tmp/bsearch_13.csv' is generating
+RPL: on '240227_135531' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135531_1172591'
+RPL: result dir '/tmp/rpl_data_240227_135531_1172591/input0_results_240227_135531'
+ROCProfiler: input from "/tmp/rpl_data_240227_135531_1172591/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00291685 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135531_1172591/input0_results_240227_135531
+File './IPC/tmp/bsearch_13.csv' is generating
+RPL: on '240227_135531' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135531_1172678'
+RPL: result dir '/tmp/rpl_data_240227_135531_1172678/input0_results_240227_135531'
+ROCProfiler: input from "/tmp/rpl_data_240227_135531_1172678/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029405 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135531_1172678/input0_results_240227_135531
+File './IPC/tmp/bsearch_13.csv' is generating
+RPL: on '240227_135532' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135532_1172765'
+RPL: result dir '/tmp/rpl_data_240227_135532_1172765/input0_results_240227_135532'
+ROCProfiler: input from "/tmp/rpl_data_240227_135532_1172765/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296728 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135532_1172765/input0_results_240227_135532
+File './IPC/tmp/bsearch_13.csv' is generating
+RPL: on '240227_135532' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135532_1172852'
+RPL: result dir '/tmp/rpl_data_240227_135532_1172852/input0_results_240227_135532'
+ROCProfiler: input from "/tmp/rpl_data_240227_135532_1172852/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00293824 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135532_1172852/input0_results_240227_135532
+File './IPC/tmp/bsearch_13.csv' is generating
+RPL: on '240227_135533' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135533_1172939'
+RPL: result dir '/tmp/rpl_data_240227_135533_1172939/input0_results_240227_135533'
+ROCProfiler: input from "/tmp/rpl_data_240227_135533_1172939/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00291229 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135533_1172939/input0_results_240227_135533
+File './IPC/tmp/bsearch_13.csv' is generating
+RPL: on '240227_135533' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135533_1173026'
+RPL: result dir '/tmp/rpl_data_240227_135533_1173026/input0_results_240227_135533'
+ROCProfiler: input from "/tmp/rpl_data_240227_135533_1173026/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029237 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135533_1173026/input0_results_240227_135533
+File './IPC/tmp/bsearch_13.csv' is generating
+RPL: on '240227_135534' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135534_1173113'
+RPL: result dir '/tmp/rpl_data_240227_135534_1173113/input0_results_240227_135534'
+ROCProfiler: input from "/tmp/rpl_data_240227_135534_1173113/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00301826 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135534_1173113/input0_results_240227_135534
+File './IPC/tmp/bsearch_13.csv' is generating
+RPL: on '240227_135535' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_110"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135535_1173200'
+RPL: result dir '/tmp/rpl_data_240227_135535_1173200/input0_results_240227_135535'
+ROCProfiler: input from "/tmp/rpl_data_240227_135535_1173200/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00289832 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135535_1173200/input0_results_240227_135535
+File './IPC/tmp/bsearch_13.csv' is generating
+RPL: on '240227_135535' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135535_1173287'
+RPL: result dir '/tmp/rpl_data_240227_135535_1173287/input0_results_240227_135535'
+ROCProfiler: input from "/tmp/rpl_data_240227_135535_1173287/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00301354 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135535_1173287/input0_results_240227_135535
+File './IPC/tmp/bsearch_14.csv' is generating
+RPL: on '240227_135536' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135536_1173374'
+RPL: result dir '/tmp/rpl_data_240227_135536_1173374/input0_results_240227_135536'
+ROCProfiler: input from "/tmp/rpl_data_240227_135536_1173374/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00291929 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135536_1173374/input0_results_240227_135536
+File './IPC/tmp/bsearch_14.csv' is generating
+RPL: on '240227_135536' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135536_1173461'
+RPL: result dir '/tmp/rpl_data_240227_135536_1173461/input0_results_240227_135536'
+ROCProfiler: input from "/tmp/rpl_data_240227_135536_1173461/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00302596 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135536_1173461/input0_results_240227_135536
+File './IPC/tmp/bsearch_14.csv' is generating
+RPL: on '240227_135537' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135537_1173548'
+RPL: result dir '/tmp/rpl_data_240227_135537_1173548/input0_results_240227_135537'
+ROCProfiler: input from "/tmp/rpl_data_240227_135537_1173548/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296823 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135537_1173548/input0_results_240227_135537
+File './IPC/tmp/bsearch_14.csv' is generating
+RPL: on '240227_135537' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135537_1173635'
+RPL: result dir '/tmp/rpl_data_240227_135537_1173635/input0_results_240227_135537'
+ROCProfiler: input from "/tmp/rpl_data_240227_135537_1173635/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296768 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135537_1173635/input0_results_240227_135537
+File './IPC/tmp/bsearch_14.csv' is generating
+RPL: on '240227_135538' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135538_1173722'
+RPL: result dir '/tmp/rpl_data_240227_135538_1173722/input0_results_240227_135538'
+ROCProfiler: input from "/tmp/rpl_data_240227_135538_1173722/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00293001 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135538_1173722/input0_results_240227_135538
+File './IPC/tmp/bsearch_14.csv' is generating
+RPL: on '240227_135539' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135539_1173809'
+RPL: result dir '/tmp/rpl_data_240227_135539_1173809/input0_results_240227_135539'
+ROCProfiler: input from "/tmp/rpl_data_240227_135539_1173809/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296592 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135539_1173809/input0_results_240227_135539
+File './IPC/tmp/bsearch_14.csv' is generating
+RPL: on '240227_135539' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135539_1173896'
+RPL: result dir '/tmp/rpl_data_240227_135539_1173896/input0_results_240227_135539'
+ROCProfiler: input from "/tmp/rpl_data_240227_135539_1173896/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029477 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135539_1173896/input0_results_240227_135539
+File './IPC/tmp/bsearch_14.csv' is generating
+RPL: on '240227_135540' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135540_1173983'
+RPL: result dir '/tmp/rpl_data_240227_135540_1173983/input0_results_240227_135540'
+ROCProfiler: input from "/tmp/rpl_data_240227_135540_1173983/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00290972 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135540_1173983/input0_results_240227_135540
+File './IPC/tmp/bsearch_14.csv' is generating
+RPL: on '240227_135540' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_120"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135540_1174070'
+RPL: result dir '/tmp/rpl_data_240227_135540_1174070/input0_results_240227_135540'
+ROCProfiler: input from "/tmp/rpl_data_240227_135540_1174070/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294096 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135540_1174070/input0_results_240227_135540
+File './IPC/tmp/bsearch_14.csv' is generating
+RPL: on '240227_135541' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135541_1174157'
+RPL: result dir '/tmp/rpl_data_240227_135541_1174157/input0_results_240227_135541'
+ROCProfiler: input from "/tmp/rpl_data_240227_135541_1174157/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00317877 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135541_1174157/input0_results_240227_135541
+File './IPC/tmp/bsearch_15.csv' is generating
+RPL: on '240227_135542' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135542_1174244'
+RPL: result dir '/tmp/rpl_data_240227_135542_1174244/input0_results_240227_135542'
+ROCProfiler: input from "/tmp/rpl_data_240227_135542_1174244/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00315359 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135542_1174244/input0_results_240227_135542
+File './IPC/tmp/bsearch_15.csv' is generating
+RPL: on '240227_135542' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135542_1174331'
+RPL: result dir '/tmp/rpl_data_240227_135542_1174331/input0_results_240227_135542'
+ROCProfiler: input from "/tmp/rpl_data_240227_135542_1174331/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00321689 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135542_1174331/input0_results_240227_135542
+File './IPC/tmp/bsearch_15.csv' is generating
+RPL: on '240227_135543' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135543_1174418'
+RPL: result dir '/tmp/rpl_data_240227_135543_1174418/input0_results_240227_135543'
+ROCProfiler: input from "/tmp/rpl_data_240227_135543_1174418/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00316088 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135543_1174418/input0_results_240227_135543
+File './IPC/tmp/bsearch_15.csv' is generating
+RPL: on '240227_135543' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135543_1174505'
+RPL: result dir '/tmp/rpl_data_240227_135543_1174505/input0_results_240227_135543'
+ROCProfiler: input from "/tmp/rpl_data_240227_135543_1174505/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00311856 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135543_1174505/input0_results_240227_135543
+File './IPC/tmp/bsearch_15.csv' is generating
+RPL: on '240227_135544' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135544_1174592'
+RPL: result dir '/tmp/rpl_data_240227_135544_1174592/input0_results_240227_135544'
+ROCProfiler: input from "/tmp/rpl_data_240227_135544_1174592/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0031744 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135544_1174592/input0_results_240227_135544
+File './IPC/tmp/bsearch_15.csv' is generating
+RPL: on '240227_135544' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135544_1174679'
+RPL: result dir '/tmp/rpl_data_240227_135544_1174679/input0_results_240227_135544'
+ROCProfiler: input from "/tmp/rpl_data_240227_135544_1174679/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00316953 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135544_1174679/input0_results_240227_135544
+File './IPC/tmp/bsearch_15.csv' is generating
+RPL: on '240227_135545' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135545_1174766'
+RPL: result dir '/tmp/rpl_data_240227_135545_1174766/input0_results_240227_135545'
+ROCProfiler: input from "/tmp/rpl_data_240227_135545_1174766/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00311501 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135545_1174766/input0_results_240227_135545
+File './IPC/tmp/bsearch_15.csv' is generating
+RPL: on '240227_135546' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135546_1174853'
+RPL: result dir '/tmp/rpl_data_240227_135546_1174853/input0_results_240227_135546'
+ROCProfiler: input from "/tmp/rpl_data_240227_135546_1174853/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00320148 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135546_1174853/input0_results_240227_135546
+File './IPC/tmp/bsearch_15.csv' is generating
+RPL: on '240227_135546' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_001"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135546_1174940'
+RPL: result dir '/tmp/rpl_data_240227_135546_1174940/input0_results_240227_135546'
+ROCProfiler: input from "/tmp/rpl_data_240227_135546_1174940/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00313691 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135546_1174940/input0_results_240227_135546
+File './IPC/tmp/bsearch_15.csv' is generating
+RPL: on '240227_135547' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135547_1175027'
+RPL: result dir '/tmp/rpl_data_240227_135547_1175027/input0_results_240227_135547'
+ROCProfiler: input from "/tmp/rpl_data_240227_135547_1175027/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296238 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135547_1175027/input0_results_240227_135547
+File './IPC/tmp/bsearch_16.csv' is generating
+RPL: on '240227_135547' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135547_1175114'
+RPL: result dir '/tmp/rpl_data_240227_135547_1175114/input0_results_240227_135547'
+ROCProfiler: input from "/tmp/rpl_data_240227_135547_1175114/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00292956 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135547_1175114/input0_results_240227_135547
+File './IPC/tmp/bsearch_16.csv' is generating
+RPL: on '240227_135548' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135548_1175201'
+RPL: result dir '/tmp/rpl_data_240227_135548_1175201/input0_results_240227_135548'
+ROCProfiler: input from "/tmp/rpl_data_240227_135548_1175201/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297994 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135548_1175201/input0_results_240227_135548
+File './IPC/tmp/bsearch_16.csv' is generating
+RPL: on '240227_135548' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135548_1175288'
+RPL: result dir '/tmp/rpl_data_240227_135548_1175288/input0_results_240227_135548'
+ROCProfiler: input from "/tmp/rpl_data_240227_135548_1175288/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296533 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135548_1175288/input0_results_240227_135548
+File './IPC/tmp/bsearch_16.csv' is generating
+RPL: on '240227_135549' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135549_1175375'
+RPL: result dir '/tmp/rpl_data_240227_135549_1175375/input0_results_240227_135549'
+ROCProfiler: input from "/tmp/rpl_data_240227_135549_1175375/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296128 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135549_1175375/input0_results_240227_135549
+File './IPC/tmp/bsearch_16.csv' is generating
+RPL: on '240227_135550' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135550_1175462'
+RPL: result dir '/tmp/rpl_data_240227_135550_1175462/input0_results_240227_135550'
+ROCProfiler: input from "/tmp/rpl_data_240227_135550_1175462/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294629 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135550_1175462/input0_results_240227_135550
+File './IPC/tmp/bsearch_16.csv' is generating
+RPL: on '240227_135550' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135550_1175549'
+RPL: result dir '/tmp/rpl_data_240227_135550_1175549/input0_results_240227_135550'
+ROCProfiler: input from "/tmp/rpl_data_240227_135550_1175549/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00292393 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135550_1175549/input0_results_240227_135550
+File './IPC/tmp/bsearch_16.csv' is generating
+RPL: on '240227_135551' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135551_1175636'
+RPL: result dir '/tmp/rpl_data_240227_135551_1175636/input0_results_240227_135551'
+ROCProfiler: input from "/tmp/rpl_data_240227_135551_1175636/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294381 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135551_1175636/input0_results_240227_135551
+File './IPC/tmp/bsearch_16.csv' is generating
+RPL: on '240227_135551' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135551_1175723'
+RPL: result dir '/tmp/rpl_data_240227_135551_1175723/input0_results_240227_135551'
+ROCProfiler: input from "/tmp/rpl_data_240227_135551_1175723/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029139 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135551_1175723/input0_results_240227_135551
+File './IPC/tmp/bsearch_16.csv' is generating
+RPL: on '240227_135552' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_210"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135552_1175810'
+RPL: result dir '/tmp/rpl_data_240227_135552_1175810/input0_results_240227_135552'
+ROCProfiler: input from "/tmp/rpl_data_240227_135552_1175810/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00291893 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135552_1175810/input0_results_240227_135552
+File './IPC/tmp/bsearch_16.csv' is generating
+RPL: on '240227_135553' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135553_1175897'
+RPL: result dir '/tmp/rpl_data_240227_135553_1175897/input0_results_240227_135553'
+ROCProfiler: input from "/tmp/rpl_data_240227_135553_1175897/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00316735 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135553_1175897/input0_results_240227_135553
+File './IPC/tmp/bsearch_17.csv' is generating
+RPL: on '240227_135553' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135553_1175984'
+RPL: result dir '/tmp/rpl_data_240227_135553_1175984/input0_results_240227_135553'
+ROCProfiler: input from "/tmp/rpl_data_240227_135553_1175984/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00315041 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135553_1175984/input0_results_240227_135553
+File './IPC/tmp/bsearch_17.csv' is generating
+RPL: on '240227_135554' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135554_1176071'
+RPL: result dir '/tmp/rpl_data_240227_135554_1176071/input0_results_240227_135554'
+ROCProfiler: input from "/tmp/rpl_data_240227_135554_1176071/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00309987 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135554_1176071/input0_results_240227_135554
+File './IPC/tmp/bsearch_17.csv' is generating
+RPL: on '240227_135554' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135554_1176158'
+RPL: result dir '/tmp/rpl_data_240227_135554_1176158/input0_results_240227_135554'
+ROCProfiler: input from "/tmp/rpl_data_240227_135554_1176158/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00314055 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135554_1176158/input0_results_240227_135554
+File './IPC/tmp/bsearch_17.csv' is generating
+RPL: on '240227_135555' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135555_1176245'
+RPL: result dir '/tmp/rpl_data_240227_135555_1176245/input0_results_240227_135555'
+ROCProfiler: input from "/tmp/rpl_data_240227_135555_1176245/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00315963 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135555_1176245/input0_results_240227_135555
+File './IPC/tmp/bsearch_17.csv' is generating
+RPL: on '240227_135555' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135555_1176332'
+RPL: result dir '/tmp/rpl_data_240227_135555_1176332/input0_results_240227_135555'
+ROCProfiler: input from "/tmp/rpl_data_240227_135555_1176332/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00315356 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135555_1176332/input0_results_240227_135555
+File './IPC/tmp/bsearch_17.csv' is generating
+RPL: on '240227_135556' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135556_1176419'
+RPL: result dir '/tmp/rpl_data_240227_135556_1176419/input0_results_240227_135556'
+ROCProfiler: input from "/tmp/rpl_data_240227_135556_1176419/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00315428 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135556_1176419/input0_results_240227_135556
+File './IPC/tmp/bsearch_17.csv' is generating
+RPL: on '240227_135557' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135557_1176506'
+RPL: result dir '/tmp/rpl_data_240227_135557_1176506/input0_results_240227_135557'
+ROCProfiler: input from "/tmp/rpl_data_240227_135557_1176506/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00317391 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135557_1176506/input0_results_240227_135557
+File './IPC/tmp/bsearch_17.csv' is generating
+RPL: on '240227_135557' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135557_1176593'
+RPL: result dir '/tmp/rpl_data_240227_135557_1176593/input0_results_240227_135557'
+ROCProfiler: input from "/tmp/rpl_data_240227_135557_1176593/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00312104 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135557_1176593/input0_results_240227_135557
+File './IPC/tmp/bsearch_17.csv' is generating
+RPL: on '240227_135558' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_021"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135558_1176680'
+RPL: result dir '/tmp/rpl_data_240227_135558_1176680/input0_results_240227_135558'
+ROCProfiler: input from "/tmp/rpl_data_240227_135558_1176680/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00317399 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135558_1176680/input0_results_240227_135558
+File './IPC/tmp/bsearch_17.csv' is generating
+RPL: on '240227_135558' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135558_1176767'
+RPL: result dir '/tmp/rpl_data_240227_135558_1176767/input0_results_240227_135558'
+ROCProfiler: input from "/tmp/rpl_data_240227_135558_1176767/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297699 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135558_1176767/input0_results_240227_135558
+File './IPC/tmp/bsearch_18.csv' is generating
+RPL: on '240227_135559' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135559_1176854'
+RPL: result dir '/tmp/rpl_data_240227_135559_1176854/input0_results_240227_135559'
+ROCProfiler: input from "/tmp/rpl_data_240227_135559_1176854/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00295535 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135559_1176854/input0_results_240227_135559
+File './IPC/tmp/bsearch_18.csv' is generating
+RPL: on '240227_135559' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135559_1176941'
+RPL: result dir '/tmp/rpl_data_240227_135559_1176941/input0_results_240227_135559'
+ROCProfiler: input from "/tmp/rpl_data_240227_135559_1176941/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297428 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135559_1176941/input0_results_240227_135559
+File './IPC/tmp/bsearch_18.csv' is generating
+RPL: on '240227_135600' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135600_1177028'
+RPL: result dir '/tmp/rpl_data_240227_135600_1177028/input0_results_240227_135600'
+ROCProfiler: input from "/tmp/rpl_data_240227_135600_1177028/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00293208 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135600_1177028/input0_results_240227_135600
+File './IPC/tmp/bsearch_18.csv' is generating
+RPL: on '240227_135601' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135601_1177115'
+RPL: result dir '/tmp/rpl_data_240227_135601_1177115/input0_results_240227_135601'
+ROCProfiler: input from "/tmp/rpl_data_240227_135601_1177115/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00299777 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135601_1177115/input0_results_240227_135601
+File './IPC/tmp/bsearch_18.csv' is generating
+RPL: on '240227_135601' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135601_1177202'
+RPL: result dir '/tmp/rpl_data_240227_135601_1177202/input0_results_240227_135601'
+ROCProfiler: input from "/tmp/rpl_data_240227_135601_1177202/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294519 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135601_1177202/input0_results_240227_135601
+File './IPC/tmp/bsearch_18.csv' is generating
+RPL: on '240227_135602' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135602_1177289'
+RPL: result dir '/tmp/rpl_data_240227_135602_1177289/input0_results_240227_135602'
+ROCProfiler: input from "/tmp/rpl_data_240227_135602_1177289/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00292818 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135602_1177289/input0_results_240227_135602
+File './IPC/tmp/bsearch_18.csv' is generating
+RPL: on '240227_135602' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135602_1177376'
+RPL: result dir '/tmp/rpl_data_240227_135602_1177376/input0_results_240227_135602'
+ROCProfiler: input from "/tmp/rpl_data_240227_135602_1177376/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029552 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135602_1177376/input0_results_240227_135602
+File './IPC/tmp/bsearch_18.csv' is generating
+RPL: on '240227_135603' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135603_1177463'
+RPL: result dir '/tmp/rpl_data_240227_135603_1177463/input0_results_240227_135603'
+ROCProfiler: input from "/tmp/rpl_data_240227_135603_1177463/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00298165 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135603_1177463/input0_results_240227_135603
+File './IPC/tmp/bsearch_18.csv' is generating
+RPL: on '240227_135603' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_002"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135603_1177550'
+RPL: result dir '/tmp/rpl_data_240227_135603_1177550/input0_results_240227_135603'
+ROCProfiler: input from "/tmp/rpl_data_240227_135603_1177550/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.003046 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135603_1177550/input0_results_240227_135603
+File './IPC/tmp/bsearch_18.csv' is generating
+RPL: on '240227_135604' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135604_1177637'
+RPL: result dir '/tmp/rpl_data_240227_135604_1177637/input0_results_240227_135604'
+ROCProfiler: input from "/tmp/rpl_data_240227_135604_1177637/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00292702 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135604_1177637/input0_results_240227_135604
+File './IPC/tmp/bsearch_19.csv' is generating
+RPL: on '240227_135605' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135605_1177724'
+RPL: result dir '/tmp/rpl_data_240227_135605_1177724/input0_results_240227_135605'
+ROCProfiler: input from "/tmp/rpl_data_240227_135605_1177724/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00298367 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135605_1177724/input0_results_240227_135605
+File './IPC/tmp/bsearch_19.csv' is generating
+RPL: on '240227_135605' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135605_1177811'
+RPL: result dir '/tmp/rpl_data_240227_135605_1177811/input0_results_240227_135605'
+ROCProfiler: input from "/tmp/rpl_data_240227_135605_1177811/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029676 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135605_1177811/input0_results_240227_135605
+File './IPC/tmp/bsearch_19.csv' is generating
+RPL: on '240227_135606' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135606_1177898'
+RPL: result dir '/tmp/rpl_data_240227_135606_1177898/input0_results_240227_135606'
+ROCProfiler: input from "/tmp/rpl_data_240227_135606_1177898/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00298484 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135606_1177898/input0_results_240227_135606
+File './IPC/tmp/bsearch_19.csv' is generating
+RPL: on '240227_135606' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135606_1177985'
+RPL: result dir '/tmp/rpl_data_240227_135606_1177985/input0_results_240227_135606'
+ROCProfiler: input from "/tmp/rpl_data_240227_135606_1177985/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296299 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135606_1177985/input0_results_240227_135606
+File './IPC/tmp/bsearch_19.csv' is generating
+RPL: on '240227_135607' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135607_1178072'
+RPL: result dir '/tmp/rpl_data_240227_135607_1178072/input0_results_240227_135607'
+ROCProfiler: input from "/tmp/rpl_data_240227_135607_1178072/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00300599 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135607_1178072/input0_results_240227_135607
+File './IPC/tmp/bsearch_19.csv' is generating
+RPL: on '240227_135608' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135608_1178159'
+RPL: result dir '/tmp/rpl_data_240227_135608_1178159/input0_results_240227_135608'
+ROCProfiler: input from "/tmp/rpl_data_240227_135608_1178159/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00298654 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135608_1178159/input0_results_240227_135608
+File './IPC/tmp/bsearch_19.csv' is generating
+RPL: on '240227_135608' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135608_1178246'
+RPL: result dir '/tmp/rpl_data_240227_135608_1178246/input0_results_240227_135608'
+ROCProfiler: input from "/tmp/rpl_data_240227_135608_1178246/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00295731 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135608_1178246/input0_results_240227_135608
+File './IPC/tmp/bsearch_19.csv' is generating
+RPL: on '240227_135609' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135609_1178333'
+RPL: result dir '/tmp/rpl_data_240227_135609_1178333/input0_results_240227_135609'
+ROCProfiler: input from "/tmp/rpl_data_240227_135609_1178333/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00300146 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135609_1178333/input0_results_240227_135609
+File './IPC/tmp/bsearch_19.csv' is generating
+RPL: on '240227_135609' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_212"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135609_1178420'
+RPL: result dir '/tmp/rpl_data_240227_135609_1178420/input0_results_240227_135609'
+ROCProfiler: input from "/tmp/rpl_data_240227_135609_1178420/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00295154 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135609_1178420/input0_results_240227_135609
+File './IPC/tmp/bsearch_19.csv' is generating
+RPL: on '240227_135610' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135610_1178507'
+RPL: result dir '/tmp/rpl_data_240227_135610_1178507/input0_results_240227_135610'
+ROCProfiler: input from "/tmp/rpl_data_240227_135610_1178507/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296758 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135610_1178507/input0_results_240227_135610
+File './IPC/tmp/bsearch_20.csv' is generating
+RPL: on '240227_135610' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135610_1178594'
+RPL: result dir '/tmp/rpl_data_240227_135610_1178594/input0_results_240227_135610'
+ROCProfiler: input from "/tmp/rpl_data_240227_135610_1178594/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00293423 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135610_1178594/input0_results_240227_135610
+File './IPC/tmp/bsearch_20.csv' is generating
+RPL: on '240227_135611' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135611_1178681'
+RPL: result dir '/tmp/rpl_data_240227_135611_1178681/input0_results_240227_135611'
+ROCProfiler: input from "/tmp/rpl_data_240227_135611_1178681/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135611_1178681/input0_results_240227_135611
+File './IPC/tmp/bsearch_20.csv' is generating
+RPL: on '240227_135612' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135612_1178768'
+RPL: result dir '/tmp/rpl_data_240227_135612_1178768/input0_results_240227_135612'
+ROCProfiler: input from "/tmp/rpl_data_240227_135612_1178768/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297533 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135612_1178768/input0_results_240227_135612
+File './IPC/tmp/bsearch_20.csv' is generating
+RPL: on '240227_135612' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135612_1178855'
+RPL: result dir '/tmp/rpl_data_240227_135612_1178855/input0_results_240227_135612'
+ROCProfiler: input from "/tmp/rpl_data_240227_135612_1178855/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00301724 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135612_1178855/input0_results_240227_135612
+File './IPC/tmp/bsearch_20.csv' is generating
+RPL: on '240227_135613' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135613_1178942'
+RPL: result dir '/tmp/rpl_data_240227_135613_1178942/input0_results_240227_135613'
+ROCProfiler: input from "/tmp/rpl_data_240227_135613_1178942/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00299804 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135613_1178942/input0_results_240227_135613
+File './IPC/tmp/bsearch_20.csv' is generating
+RPL: on '240227_135613' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135613_1179029'
+RPL: result dir '/tmp/rpl_data_240227_135613_1179029/input0_results_240227_135613'
+ROCProfiler: input from "/tmp/rpl_data_240227_135613_1179029/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00301504 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135613_1179029/input0_results_240227_135613
+File './IPC/tmp/bsearch_20.csv' is generating
+RPL: on '240227_135614' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135614_1179116'
+RPL: result dir '/tmp/rpl_data_240227_135614_1179116/input0_results_240227_135614'
+ROCProfiler: input from "/tmp/rpl_data_240227_135614_1179116/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297295 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135614_1179116/input0_results_240227_135614
+File './IPC/tmp/bsearch_20.csv' is generating
+RPL: on '240227_135614' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135614_1179203'
+RPL: result dir '/tmp/rpl_data_240227_135614_1179203/input0_results_240227_135614'
+ROCProfiler: input from "/tmp/rpl_data_240227_135614_1179203/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00301016 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135614_1179203/input0_results_240227_135614
+File './IPC/tmp/bsearch_20.csv' is generating
+RPL: on '240227_135615' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_122"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135615_1179290'
+RPL: result dir '/tmp/rpl_data_240227_135615_1179290/input0_results_240227_135615'
+ROCProfiler: input from "/tmp/rpl_data_240227_135615_1179290/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296623 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135615_1179290/input0_results_240227_135615
+File './IPC/tmp/bsearch_20.csv' is generating
+RPL: on '240227_135616' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135616_1179377'
+RPL: result dir '/tmp/rpl_data_240227_135616_1179377/input0_results_240227_135616'
+ROCProfiler: input from "/tmp/rpl_data_240227_135616_1179377/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00299344 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135616_1179377/input0_results_240227_135616
+File './IPC/tmp/bsearch_21.csv' is generating
+RPL: on '240227_135616' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135616_1179464'
+RPL: result dir '/tmp/rpl_data_240227_135616_1179464/input0_results_240227_135616'
+ROCProfiler: input from "/tmp/rpl_data_240227_135616_1179464/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00292021 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135616_1179464/input0_results_240227_135616
+File './IPC/tmp/bsearch_21.csv' is generating
+RPL: on '240227_135617' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135617_1179551'
+RPL: result dir '/tmp/rpl_data_240227_135617_1179551/input0_results_240227_135617'
+ROCProfiler: input from "/tmp/rpl_data_240227_135617_1179551/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294582 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135617_1179551/input0_results_240227_135617
+File './IPC/tmp/bsearch_21.csv' is generating
+RPL: on '240227_135617' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135617_1179638'
+RPL: result dir '/tmp/rpl_data_240227_135617_1179638/input0_results_240227_135617'
+ROCProfiler: input from "/tmp/rpl_data_240227_135617_1179638/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296371 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135617_1179638/input0_results_240227_135617
+File './IPC/tmp/bsearch_21.csv' is generating
+RPL: on '240227_135618' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135618_1179725'
+RPL: result dir '/tmp/rpl_data_240227_135618_1179725/input0_results_240227_135618'
+ROCProfiler: input from "/tmp/rpl_data_240227_135618_1179725/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297125 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135618_1179725/input0_results_240227_135618
+File './IPC/tmp/bsearch_21.csv' is generating
+RPL: on '240227_135618' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135618_1179812'
+RPL: result dir '/tmp/rpl_data_240227_135618_1179812/input0_results_240227_135618'
+ROCProfiler: input from "/tmp/rpl_data_240227_135618_1179812/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00302093 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135618_1179812/input0_results_240227_135618
+File './IPC/tmp/bsearch_21.csv' is generating
+RPL: on '240227_135619' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135619_1179899'
+RPL: result dir '/tmp/rpl_data_240227_135619_1179899/input0_results_240227_135619'
+ROCProfiler: input from "/tmp/rpl_data_240227_135619_1179899/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00301047 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135619_1179899/input0_results_240227_135619
+File './IPC/tmp/bsearch_21.csv' is generating
+RPL: on '240227_135620' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135620_1179986'
+RPL: result dir '/tmp/rpl_data_240227_135620_1179986/input0_results_240227_135620'
+ROCProfiler: input from "/tmp/rpl_data_240227_135620_1179986/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294736 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135620_1179986/input0_results_240227_135620
+File './IPC/tmp/bsearch_21.csv' is generating
+RPL: on '240227_135620' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135620_1180073'
+RPL: result dir '/tmp/rpl_data_240227_135620_1180073/input0_results_240227_135620'
+ROCProfiler: input from "/tmp/rpl_data_240227_135620_1180073/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296392 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135620_1180073/input0_results_240227_135620
+File './IPC/tmp/bsearch_21.csv' is generating
+RPL: on '240227_135621' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_012"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135621_1180160'
+RPL: result dir '/tmp/rpl_data_240227_135621_1180160/input0_results_240227_135621'
+ROCProfiler: input from "/tmp/rpl_data_240227_135621_1180160/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00301979 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135621_1180160/input0_results_240227_135621
+File './IPC/tmp/bsearch_21.csv' is generating
+RPL: on '240227_135621' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135621_1180247'
+RPL: result dir '/tmp/rpl_data_240227_135621_1180247/input0_results_240227_135621'
+ROCProfiler: input from "/tmp/rpl_data_240227_135621_1180247/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00316909 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135621_1180247/input0_results_240227_135621
+File './IPC/tmp/bsearch_22.csv' is generating
+RPL: on '240227_135622' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135622_1180334'
+RPL: result dir '/tmp/rpl_data_240227_135622_1180334/input0_results_240227_135622'
+ROCProfiler: input from "/tmp/rpl_data_240227_135622_1180334/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00306884 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135622_1180334/input0_results_240227_135622
+File './IPC/tmp/bsearch_22.csv' is generating
+RPL: on '240227_135622' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135622_1180421'
+RPL: result dir '/tmp/rpl_data_240227_135622_1180421/input0_results_240227_135622'
+ROCProfiler: input from "/tmp/rpl_data_240227_135622_1180421/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00313574 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135622_1180421/input0_results_240227_135622
+File './IPC/tmp/bsearch_22.csv' is generating
+RPL: on '240227_135623' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135623_1180508'
+RPL: result dir '/tmp/rpl_data_240227_135623_1180508/input0_results_240227_135623'
+ROCProfiler: input from "/tmp/rpl_data_240227_135623_1180508/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00309164 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135623_1180508/input0_results_240227_135623
+File './IPC/tmp/bsearch_22.csv' is generating
+RPL: on '240227_135624' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135624_1180595'
+RPL: result dir '/tmp/rpl_data_240227_135624_1180595/input0_results_240227_135624'
+ROCProfiler: input from "/tmp/rpl_data_240227_135624_1180595/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00314354 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135624_1180595/input0_results_240227_135624
+File './IPC/tmp/bsearch_22.csv' is generating
+RPL: on '240227_135624' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135624_1180682'
+RPL: result dir '/tmp/rpl_data_240227_135624_1180682/input0_results_240227_135624'
+ROCProfiler: input from "/tmp/rpl_data_240227_135624_1180682/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00314338 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135624_1180682/input0_results_240227_135624
+File './IPC/tmp/bsearch_22.csv' is generating
+RPL: on '240227_135625' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135625_1180769'
+RPL: result dir '/tmp/rpl_data_240227_135625_1180769/input0_results_240227_135625'
+ROCProfiler: input from "/tmp/rpl_data_240227_135625_1180769/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.003163 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135625_1180769/input0_results_240227_135625
+File './IPC/tmp/bsearch_22.csv' is generating
+RPL: on '240227_135625' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135625_1180856'
+RPL: result dir '/tmp/rpl_data_240227_135625_1180856/input0_results_240227_135625'
+ROCProfiler: input from "/tmp/rpl_data_240227_135625_1180856/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.003104 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135625_1180856/input0_results_240227_135625
+File './IPC/tmp/bsearch_22.csv' is generating
+RPL: on '240227_135626' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135626_1180943'
+RPL: result dir '/tmp/rpl_data_240227_135626_1180943/input0_results_240227_135626'
+ROCProfiler: input from "/tmp/rpl_data_240227_135626_1180943/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00307897 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135626_1180943/input0_results_240227_135626
+File './IPC/tmp/bsearch_22.csv' is generating
+RPL: on '240227_135627' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_101"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135627_1181030'
+RPL: result dir '/tmp/rpl_data_240227_135627_1181030/input0_results_240227_135627'
+ROCProfiler: input from "/tmp/rpl_data_240227_135627_1181030/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00312688 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135627_1181030/input0_results_240227_135627
+File './IPC/tmp/bsearch_22.csv' is generating
+RPL: on '240227_135627' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135627_1181117'
+RPL: result dir '/tmp/rpl_data_240227_135627_1181117/input0_results_240227_135627'
+ROCProfiler: input from "/tmp/rpl_data_240227_135627_1181117/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00309953 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135627_1181117/input0_results_240227_135627
+File './IPC/tmp/bsearch_23.csv' is generating
+RPL: on '240227_135628' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135628_1181204'
+RPL: result dir '/tmp/rpl_data_240227_135628_1181204/input0_results_240227_135628'
+ROCProfiler: input from "/tmp/rpl_data_240227_135628_1181204/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00318555 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135628_1181204/input0_results_240227_135628
+File './IPC/tmp/bsearch_23.csv' is generating
+RPL: on '240227_135628' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135628_1181291'
+RPL: result dir '/tmp/rpl_data_240227_135628_1181291/input0_results_240227_135628'
+ROCProfiler: input from "/tmp/rpl_data_240227_135628_1181291/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00310445 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135628_1181291/input0_results_240227_135628
+File './IPC/tmp/bsearch_23.csv' is generating
+RPL: on '240227_135629' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135629_1181378'
+RPL: result dir '/tmp/rpl_data_240227_135629_1181378/input0_results_240227_135629'
+ROCProfiler: input from "/tmp/rpl_data_240227_135629_1181378/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00316093 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135629_1181378/input0_results_240227_135629
+File './IPC/tmp/bsearch_23.csv' is generating
+RPL: on '240227_135629' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135629_1181465'
+RPL: result dir '/tmp/rpl_data_240227_135629_1181465/input0_results_240227_135629'
+ROCProfiler: input from "/tmp/rpl_data_240227_135629_1181465/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00312638 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135629_1181465/input0_results_240227_135629
+File './IPC/tmp/bsearch_23.csv' is generating
+RPL: on '240227_135630' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135630_1181552'
+RPL: result dir '/tmp/rpl_data_240227_135630_1181552/input0_results_240227_135630'
+ROCProfiler: input from "/tmp/rpl_data_240227_135630_1181552/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00313731 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135630_1181552/input0_results_240227_135630
+File './IPC/tmp/bsearch_23.csv' is generating
+RPL: on '240227_135631' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135631_1181639'
+RPL: result dir '/tmp/rpl_data_240227_135631_1181639/input0_results_240227_135631'
+ROCProfiler: input from "/tmp/rpl_data_240227_135631_1181639/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00314445 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135631_1181639/input0_results_240227_135631
+File './IPC/tmp/bsearch_23.csv' is generating
+RPL: on '240227_135631' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135631_1181726'
+RPL: result dir '/tmp/rpl_data_240227_135631_1181726/input0_results_240227_135631'
+ROCProfiler: input from "/tmp/rpl_data_240227_135631_1181726/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00310943 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135631_1181726/input0_results_240227_135631
+File './IPC/tmp/bsearch_23.csv' is generating
+RPL: on '240227_135632' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135632_1181813'
+RPL: result dir '/tmp/rpl_data_240227_135632_1181813/input0_results_240227_135632'
+ROCProfiler: input from "/tmp/rpl_data_240227_135632_1181813/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00311229 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135632_1181813/input0_results_240227_135632
+File './IPC/tmp/bsearch_23.csv' is generating
+RPL: on '240227_135632' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_201"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135632_1181900'
+RPL: result dir '/tmp/rpl_data_240227_135632_1181900/input0_results_240227_135632'
+ROCProfiler: input from "/tmp/rpl_data_240227_135632_1181900/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00311418 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135632_1181900/input0_results_240227_135632
+File './IPC/tmp/bsearch_23.csv' is generating
+RPL: on '240227_135633' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135633_1181987'
+RPL: result dir '/tmp/rpl_data_240227_135633_1181987/input0_results_240227_135633'
+ROCProfiler: input from "/tmp/rpl_data_240227_135633_1181987/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00312684 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135633_1181987/input0_results_240227_135633
+File './IPC/tmp/bsearch_24.csv' is generating
+RPL: on '240227_135634' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135634_1182074'
+RPL: result dir '/tmp/rpl_data_240227_135634_1182074/input0_results_240227_135634'
+ROCProfiler: input from "/tmp/rpl_data_240227_135634_1182074/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00311547 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135634_1182074/input0_results_240227_135634
+File './IPC/tmp/bsearch_24.csv' is generating
+RPL: on '240227_135634' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135634_1182161'
+RPL: result dir '/tmp/rpl_data_240227_135634_1182161/input0_results_240227_135634'
+ROCProfiler: input from "/tmp/rpl_data_240227_135634_1182161/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00313237 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135634_1182161/input0_results_240227_135634
+File './IPC/tmp/bsearch_24.csv' is generating
+RPL: on '240227_135635' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135635_1182248'
+RPL: result dir '/tmp/rpl_data_240227_135635_1182248/input0_results_240227_135635'
+ROCProfiler: input from "/tmp/rpl_data_240227_135635_1182248/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00318298 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135635_1182248/input0_results_240227_135635
+File './IPC/tmp/bsearch_24.csv' is generating
+RPL: on '240227_135635' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135635_1182335'
+RPL: result dir '/tmp/rpl_data_240227_135635_1182335/input0_results_240227_135635'
+ROCProfiler: input from "/tmp/rpl_data_240227_135635_1182335/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00311755 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135635_1182335/input0_results_240227_135635
+File './IPC/tmp/bsearch_24.csv' is generating
+RPL: on '240227_135636' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135636_1182422'
+RPL: result dir '/tmp/rpl_data_240227_135636_1182422/input0_results_240227_135636'
+ROCProfiler: input from "/tmp/rpl_data_240227_135636_1182422/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00314197 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135636_1182422/input0_results_240227_135636
+File './IPC/tmp/bsearch_24.csv' is generating
+RPL: on '240227_135636' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135636_1182509'
+RPL: result dir '/tmp/rpl_data_240227_135636_1182509/input0_results_240227_135636'
+ROCProfiler: input from "/tmp/rpl_data_240227_135636_1182509/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00315424 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135636_1182509/input0_results_240227_135636
+File './IPC/tmp/bsearch_24.csv' is generating
+RPL: on '240227_135637' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135637_1182596'
+RPL: result dir '/tmp/rpl_data_240227_135637_1182596/input0_results_240227_135637'
+ROCProfiler: input from "/tmp/rpl_data_240227_135637_1182596/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00313115 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135637_1182596/input0_results_240227_135637
+File './IPC/tmp/bsearch_24.csv' is generating
+RPL: on '240227_135638' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135638_1182683'
+RPL: result dir '/tmp/rpl_data_240227_135638_1182683/input0_results_240227_135638'
+ROCProfiler: input from "/tmp/rpl_data_240227_135638_1182683/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00311924 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135638_1182683/input0_results_240227_135638
+File './IPC/tmp/bsearch_24.csv' is generating
+RPL: on '240227_135638' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_221"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135638_1182770'
+RPL: result dir '/tmp/rpl_data_240227_135638_1182770/input0_results_240227_135638'
+ROCProfiler: input from "/tmp/rpl_data_240227_135638_1182770/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00310036 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135638_1182770/input0_results_240227_135638
+File './IPC/tmp/bsearch_24.csv' is generating
+RPL: on '240227_135639' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135639_1182857'
+RPL: result dir '/tmp/rpl_data_240227_135639_1182857/input0_results_240227_135639'
+ROCProfiler: input from "/tmp/rpl_data_240227_135639_1182857/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294076 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135639_1182857/input0_results_240227_135639
+File './IPC/tmp/bsearch_25.csv' is generating
+RPL: on '240227_135639' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135639_1182944'
+RPL: result dir '/tmp/rpl_data_240227_135639_1182944/input0_results_240227_135639'
+ROCProfiler: input from "/tmp/rpl_data_240227_135639_1182944/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00293392 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135639_1182944/input0_results_240227_135639
+File './IPC/tmp/bsearch_25.csv' is generating
+RPL: on '240227_135640' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135640_1183031'
+RPL: result dir '/tmp/rpl_data_240227_135640_1183031/input0_results_240227_135640'
+ROCProfiler: input from "/tmp/rpl_data_240227_135640_1183031/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029778 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135640_1183031/input0_results_240227_135640
+File './IPC/tmp/bsearch_25.csv' is generating
+RPL: on '240227_135640' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135640_1183118'
+RPL: result dir '/tmp/rpl_data_240227_135640_1183118/input0_results_240227_135640'
+ROCProfiler: input from "/tmp/rpl_data_240227_135640_1183118/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00300139 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135640_1183118/input0_results_240227_135640
+File './IPC/tmp/bsearch_25.csv' is generating
+RPL: on '240227_135641' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135641_1183205'
+RPL: result dir '/tmp/rpl_data_240227_135641_1183205/input0_results_240227_135641'
+ROCProfiler: input from "/tmp/rpl_data_240227_135641_1183205/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297332 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135641_1183205/input0_results_240227_135641
+File './IPC/tmp/bsearch_25.csv' is generating
+RPL: on '240227_135642' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135642_1183292'
+RPL: result dir '/tmp/rpl_data_240227_135642_1183292/input0_results_240227_135642'
+ROCProfiler: input from "/tmp/rpl_data_240227_135642_1183292/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00296315 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135642_1183292/input0_results_240227_135642
+File './IPC/tmp/bsearch_25.csv' is generating
+RPL: on '240227_135642' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135642_1183379'
+RPL: result dir '/tmp/rpl_data_240227_135642_1183379/input0_results_240227_135642'
+ROCProfiler: input from "/tmp/rpl_data_240227_135642_1183379/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00300297 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135642_1183379/input0_results_240227_135642
+File './IPC/tmp/bsearch_25.csv' is generating
+RPL: on '240227_135643' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135643_1183466'
+RPL: result dir '/tmp/rpl_data_240227_135643_1183466/input0_results_240227_135643'
+ROCProfiler: input from "/tmp/rpl_data_240227_135643_1183466/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00298265 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135643_1183466/input0_results_240227_135643
+File './IPC/tmp/bsearch_25.csv' is generating
+RPL: on '240227_135643' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135643_1183553'
+RPL: result dir '/tmp/rpl_data_240227_135643_1183553/input0_results_240227_135643'
+ROCProfiler: input from "/tmp/rpl_data_240227_135643_1183553/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0030141 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135643_1183553/input0_results_240227_135643
+File './IPC/tmp/bsearch_25.csv' is generating
+RPL: on '240227_135644' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_022"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135644_1183640'
+RPL: result dir '/tmp/rpl_data_240227_135644_1183640/input0_results_240227_135644'
+ROCProfiler: input from "/tmp/rpl_data_240227_135644_1183640/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00305315 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135644_1183640/input0_results_240227_135644
+File './IPC/tmp/bsearch_25.csv' is generating
+RPL: on '240227_135644' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135644_1183727'
+RPL: result dir '/tmp/rpl_data_240227_135644_1183727/input0_results_240227_135644'
+ROCProfiler: input from "/tmp/rpl_data_240227_135644_1183727/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00319809 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135644_1183727/input0_results_240227_135644
+File './IPC/tmp/bsearch_26.csv' is generating
+RPL: on '240227_135645' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135645_1183814'
+RPL: result dir '/tmp/rpl_data_240227_135645_1183814/input0_results_240227_135645'
+ROCProfiler: input from "/tmp/rpl_data_240227_135645_1183814/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00315708 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135645_1183814/input0_results_240227_135645
+File './IPC/tmp/bsearch_26.csv' is generating
+RPL: on '240227_135646' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135646_1183901'
+RPL: result dir '/tmp/rpl_data_240227_135646_1183901/input0_results_240227_135646'
+ROCProfiler: input from "/tmp/rpl_data_240227_135646_1183901/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00321086 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135646_1183901/input0_results_240227_135646
+File './IPC/tmp/bsearch_26.csv' is generating
+RPL: on '240227_135646' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135646_1183988'
+RPL: result dir '/tmp/rpl_data_240227_135646_1183988/input0_results_240227_135646'
+ROCProfiler: input from "/tmp/rpl_data_240227_135646_1183988/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00316889 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135646_1183988/input0_results_240227_135646
+File './IPC/tmp/bsearch_26.csv' is generating
+RPL: on '240227_135647' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135647_1184075'
+RPL: result dir '/tmp/rpl_data_240227_135647_1184075/input0_results_240227_135647'
+ROCProfiler: input from "/tmp/rpl_data_240227_135647_1184075/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00321928 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135647_1184075/input0_results_240227_135647
+File './IPC/tmp/bsearch_26.csv' is generating
+RPL: on '240227_135647' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135647_1184162'
+RPL: result dir '/tmp/rpl_data_240227_135647_1184162/input0_results_240227_135647'
+ROCProfiler: input from "/tmp/rpl_data_240227_135647_1184162/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00314338 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135647_1184162/input0_results_240227_135647
+File './IPC/tmp/bsearch_26.csv' is generating
+RPL: on '240227_135648' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135648_1184249'
+RPL: result dir '/tmp/rpl_data_240227_135648_1184249/input0_results_240227_135648'
+ROCProfiler: input from "/tmp/rpl_data_240227_135648_1184249/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00313631 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135648_1184249/input0_results_240227_135648
+File './IPC/tmp/bsearch_26.csv' is generating
+RPL: on '240227_135649' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135649_1184336'
+RPL: result dir '/tmp/rpl_data_240227_135649_1184336/input0_results_240227_135649'
+ROCProfiler: input from "/tmp/rpl_data_240227_135649_1184336/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00318015 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135649_1184336/input0_results_240227_135649
+File './IPC/tmp/bsearch_26.csv' is generating
+RPL: on '240227_135649' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135649_1184423'
+RPL: result dir '/tmp/rpl_data_240227_135649_1184423/input0_results_240227_135649'
+ROCProfiler: input from "/tmp/rpl_data_240227_135649_1184423/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00319269 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135649_1184423/input0_results_240227_135649
+File './IPC/tmp/bsearch_26.csv' is generating
+RPL: on '240227_135650' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_211"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135650_1184510'
+RPL: result dir '/tmp/rpl_data_240227_135650_1184510/input0_results_240227_135650'
+ROCProfiler: input from "/tmp/rpl_data_240227_135650_1184510/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00310528 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135650_1184510/input0_results_240227_135650
+File './IPC/tmp/bsearch_26.csv' is generating
+RPL: on '240227_135650' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135650_1184597'
+RPL: result dir '/tmp/rpl_data_240227_135650_1184597/input0_results_240227_135650'
+ROCProfiler: input from "/tmp/rpl_data_240227_135650_1184597/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294494 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135650_1184597/input0_results_240227_135650
+File './IPC/tmp/bsearch_27.csv' is generating
+RPL: on '240227_135651' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135651_1184684'
+RPL: result dir '/tmp/rpl_data_240227_135651_1184684/input0_results_240227_135651'
+ROCProfiler: input from "/tmp/rpl_data_240227_135651_1184684/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297412 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135651_1184684/input0_results_240227_135651
+File './IPC/tmp/bsearch_27.csv' is generating
+RPL: on '240227_135651' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135651_1184771'
+RPL: result dir '/tmp/rpl_data_240227_135651_1184771/input0_results_240227_135651'
+ROCProfiler: input from "/tmp/rpl_data_240227_135651_1184771/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00293018 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135651_1184771/input0_results_240227_135651
+File './IPC/tmp/bsearch_27.csv' is generating
+RPL: on '240227_135652' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135652_1184858'
+RPL: result dir '/tmp/rpl_data_240227_135652_1184858/input0_results_240227_135652'
+ROCProfiler: input from "/tmp/rpl_data_240227_135652_1184858/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00292051 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135652_1184858/input0_results_240227_135652
+File './IPC/tmp/bsearch_27.csv' is generating
+RPL: on '240227_135653' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135653_1184945'
+RPL: result dir '/tmp/rpl_data_240227_135653_1184945/input0_results_240227_135653'
+ROCProfiler: input from "/tmp/rpl_data_240227_135653_1184945/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00292429 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135653_1184945/input0_results_240227_135653
+File './IPC/tmp/bsearch_27.csv' is generating
+RPL: on '240227_135653' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135653_1185032'
+RPL: result dir '/tmp/rpl_data_240227_135653_1185032/input0_results_240227_135653'
+ROCProfiler: input from "/tmp/rpl_data_240227_135653_1185032/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.0029315 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135653_1185032/input0_results_240227_135653
+File './IPC/tmp/bsearch_27.csv' is generating
+RPL: on '240227_135654' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135654_1185119'
+RPL: result dir '/tmp/rpl_data_240227_135654_1185119/input0_results_240227_135654'
+ROCProfiler: input from "/tmp/rpl_data_240227_135654_1185119/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00294912 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135654_1185119/input0_results_240227_135654
+File './IPC/tmp/bsearch_27.csv' is generating
+RPL: on '240227_135654' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135654_1185206'
+RPL: result dir '/tmp/rpl_data_240227_135654_1185206/input0_results_240227_135654'
+ROCProfiler: input from "/tmp/rpl_data_240227_135654_1185206/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00297607 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135654_1185206/input0_results_240227_135654
+File './IPC/tmp/bsearch_27.csv' is generating
+RPL: on '240227_135655' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135655_1185293'
+RPL: result dir '/tmp/rpl_data_240227_135655_1185293/input0_results_240227_135655'
+ROCProfiler: input from "/tmp/rpl_data_240227_135655_1185293/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00301043 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135655_1185293/input0_results_240227_135655
+File './IPC/tmp/bsearch_27.csv' is generating
+RPL: on '240227_135655' from '/opt/rocm-5.7.0' in '/workspace/Inst-level-cache-management'
+RPL: profiling '"./bin/bsearch/bsearch_010"'
+RPL: input file './IPC/metrics_GRBM_COUNT.txt'
+RPL: output dir '/tmp/rpl_data_240227_135655_1185380'
+RPL: result dir '/tmp/rpl_data_240227_135655_1185380/input0_results_240227_135655'
+ROCProfiler: input from "/tmp/rpl_data_240227_135655_1185380/input0.xml"
+  gpu_index = 
+  kernel = 
+  range = 
+  1 metrics
+    GRBM_COUNT
+Average kernel execution time (bs2) 0.00291926 (s)
+
+ROCPRofiler: 10 contexts collected, output directory /tmp/rpl_data_240227_135655_1185380/input0_results_240227_135655
+File './IPC/tmp/bsearch_27.csv' is generating
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_0.csv ./bin/bsearch/bsearch_220
+0 : bsearch_220
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_1.csv ./bin/bsearch/bsearch_test
+1 : bsearch_test
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_2.csv ./bin/bsearch/bsearch_020
+2 : bsearch_020
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_3.csv ./bin/bsearch/bsearch_200
+3 : bsearch_200
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_4.csv ./bin/bsearch/bsearch_112
+4 : bsearch_112
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_5.csv ./bin/bsearch/bsearch_111
+5 : bsearch_111
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_6.csv ./bin/bsearch/bsearch_100
+6 : bsearch_100
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_7.csv ./bin/bsearch/bsearch_202
+7 : bsearch_202
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_8.csv ./bin/bsearch/bsearch_222
+8 : bsearch_222
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_9.csv ./bin/bsearch/bsearch_121
+9 : bsearch_121
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_10.csv ./bin/bsearch/bsearch_102
+10 : bsearch_102
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_11.csv ./bin/bsearch/bsearch_000
+11 : bsearch_000
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_12.csv ./bin/bsearch/bsearch_011
+12 : bsearch_011
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_13.csv ./bin/bsearch/bsearch_110
+13 : bsearch_110
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_14.csv ./bin/bsearch/bsearch_120
+14 : bsearch_120
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_15.csv ./bin/bsearch/bsearch_001
+15 : bsearch_001
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_16.csv ./bin/bsearch/bsearch_210
+16 : bsearch_210
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_17.csv ./bin/bsearch/bsearch_021
+17 : bsearch_021
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_18.csv ./bin/bsearch/bsearch_002
+18 : bsearch_002
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_19.csv ./bin/bsearch/bsearch_212
+19 : bsearch_212
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_20.csv ./bin/bsearch/bsearch_122
+20 : bsearch_122
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_21.csv ./bin/bsearch/bsearch_012
+21 : bsearch_012
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_22.csv ./bin/bsearch/bsearch_101
+22 : bsearch_101
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_23.csv ./bin/bsearch/bsearch_201
+23 : bsearch_201
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_24.csv ./bin/bsearch/bsearch_221
+24 : bsearch_221
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_25.csv ./bin/bsearch/bsearch_022
+25 : bsearch_022
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_26.csv ./bin/bsearch/bsearch_211
+26 : bsearch_211
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+rocprof -i ./IPC/metrics_GRBM_COUNT.txt -o ./IPC/tmp/bsearch_27.csv ./bin/bsearch/bsearch_010
+27 : bsearch_010
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+
+success
+

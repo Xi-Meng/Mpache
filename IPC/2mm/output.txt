@@ -1,0 +1,607 @@
+nohup: ignoring input
+./bin/2mm/2mm_bypass
+0 : 2mm_bypass
+
+success
+
+10.277987 ms
+success
+
+10.318995 ms
+success
+
+10.376930 ms
+success
+
+10.373831 ms
+success
+
+10.236979 ms
+success
+
+10.412931 ms
+success
+
+10.343075 ms
+success
+
+10.299921 ms
+success
+
+10.354042 ms
+success
+
+10.278940 ms
+success
+
+10.275841 ms
+success
+
+10.408163 ms
+success
+
+10.289907 ms
+success
+
+10.371923 ms
+success
+
+10.421038 ms
+success
+
+10.336161 ms
+success
+
+10.406971 ms
+success
+
+10.290146 ms
+success
+
+10.415077 ms
+success
+
+10.463953 ms
+success
+
+10.360003 ms
+success
+
+10.245085 ms
+success
+
+10.279179 ms
+success
+
+10.276079 ms
+success
+
+10.311127 ms
+success
+
+10.313034 ms
+success
+
+10.345936 ms
+success
+
+10.411024 ms
+success
+
+10.257006 ms
+success
+
+10.292053 ms
+success
+
+10.341167 ms
+success
+
+10.294914 ms
+success
+
+10.298014 ms
+success
+
+10.324955 ms
+success
+
+10.284901 ms
+success
+
+10.407925 ms
+success
+
+10.361910 ms
+success
+
+10.365009 ms
+success
+
+10.394096 ms
+success
+
+10.360003 ms
+success
+
+10.340929 ms
+success
+
+10.319948 ms
+success
+
+10.457993 ms
+success
+
+10.272980 ms
+success
+
+10.254145 ms
+success
+
+10.381937 ms
+success
+
+10.352850 ms
+success
+
+10.344028 ms
+success
+
+10.390997 ms
+success
+
+10.387897 ms
+success
+
+10.366917 ms
+success
+
+10.267019 ms
+success
+
+10.321140 ms
+success
+
+10.331869 ms
+success
+
+10.466099 ms
+success
+
+10.341883 ms
+success
+
+10.330915 ms
+success
+
+10.271072 ms
+success
+
+10.370016 ms
+success
+
+10.326147 ms
+success
+
+10.375023 ms
+success
+
+10.358095 ms
+success
+
+10.292053 ms
+success
+
+10.381937 ms
+success
+
+10.332108 ms
+success
+
+10.301113 ms
+success
+
+10.322809 ms
+success
+
+10.322094 ms
+success
+
+10.291100 ms
+success
+
+10.454893 ms
+success
+
+10.337114 ms
+success
+
+10.281086 ms
+success
+
+10.410070 ms
+success
+
+10.349035 ms
+success
+
+10.545015 ms
+success
+
+10.252953 ms
+success
+
+10.303974 ms
+success
+
+10.289907 ms
+success
+
+10.300159 ms
+success
+
+10.403156 ms
+success
+
+10.334015 ms
+success
+
+10.363817 ms
+success
+
+10.341167 ms
+success
+
+10.397911 ms
+success
+
+10.314941 ms
+success
+
+10.304928 ms
+success
+
+10.281086 ms
+success
+
+10.395050 ms
+success
+
+10.420799 ms
+success
+
+10.329008 ms
+success
+
+10.389090 ms
+success
+
+10.318041 ms
+success
+
+10.399818 ms
+success
+
+10.312080 ms
+success
+
+10.311127 ms
+success
+
+10.334015 ms
+success
+
+10.298014 ms
+success
+
+10.289192 ms
+success
+
+10.307074 ms
+success
+
+10.360956 ms
+./bin/2mm/2mm_cache
+1 : 2mm_cache
+
+success
+
+8.705854 ms
+success
+
+8.696079 ms
+success
+
+8.742094 ms
+success
+
+8.701086 ms
+success
+
+8.733034 ms
+success
+
+8.822918 ms
+success
+
+8.564949 ms
+success
+
+8.739948 ms
+success
+
+8.708000 ms
+success
+
+8.701086 ms
+success
+
+8.695126 ms
+success
+
+8.744955 ms
+success
+
+8.795977 ms
+success
+
+8.712053 ms
+success
+
+8.751154 ms
+success
+
+8.771181 ms
+success
+
+8.735180 ms
+success
+
+8.643150 ms
+success
+
+8.715153 ms
+success
+
+9.081125 ms
+success
+
+8.692980 ms
+success
+
+8.690834 ms
+success
+
+8.672953 ms
+success
+
+8.828163 ms
+success
+
+8.769989 ms
+success
+
+8.671045 ms
+success
+
+8.792162 ms
+success
+
+8.712053 ms
+success
+
+8.774996 ms
+success
+
+8.727074 ms
+success
+
+8.705139 ms
+success
+
+8.781910 ms
+success
+
+8.677959 ms
+success
+
+8.737087 ms
+success
+
+8.741856 ms
+success
+
+8.755922 ms
+success
+
+8.841038 ms
+success
+
+8.628130 ms
+success
+
+8.732796 ms
+success
+
+8.646965 ms
+success
+
+8.761883 ms
+success
+
+8.715153 ms
+success
+
+8.646965 ms
+success
+
+8.738041 ms
+success
+
+8.713007 ms
+success
+
+8.713961 ms
+success
+
+8.646011 ms
+success
+
+8.644104 ms
+success
+
+8.722067 ms
+success
+
+8.818150 ms
+success
+
+8.768082 ms
+success
+
+8.674145 ms
+success
+
+8.682013 ms
+success
+
+8.773088 ms
+success
+
+8.814096 ms
+success
+
+8.718014 ms
+success
+
+8.760929 ms
+success
+
+8.784056 ms
+success
+
+8.634090 ms
+success
+
+8.817196 ms
+success
+
+8.772135 ms
+success
+
+8.701086 ms
+success
+
+8.630037 ms
+success
+
+8.693933 ms
+success
+
+8.668184 ms
+success
+
+9.122849 ms
+success
+
+8.656979 ms
+success
+
+8.860111 ms
+success
+
+8.735895 ms
+success
+
+8.740902 ms
+success
+
+8.746147 ms
+success
+
+8.713961 ms
+success
+
+8.744001 ms
+success
+
+8.805990 ms
+success
+
+8.662939 ms
+success
+
+8.763075 ms
+success
+
+8.749008 ms
+success
+
+8.823872 ms
+success
+
+8.713961 ms
+success
+
+8.731127 ms
+success
+
+8.726120 ms
+success
+
+8.701801 ms
+success
+
+8.766174 ms
+success
+
+8.741856 ms
+success
+
+8.823872 ms
+success
+
+8.666992 ms
+success
+
+8.768797 ms
+success
+
+8.812904 ms
+success
+
+8.707047 ms
+success
+
+8.976936 ms
+success
+
+9.007931 ms
+success
+
+9.010077 ms
+success
+
+8.717060 ms
+success
+
+8.726120 ms
+success
+
+8.746862 ms
+success
+
+8.748055 ms
+success
+
+8.736849 ms
+success
+
+8.748055 ms
+success
+
+8.880138 ms
+success
+
+9.068966 ms

@@ -9,7 +9,7 @@ import common
 
 data = pd.DataFrame(columns=["app","mode","time"])
 
-pattern = "(.*) ms"
+pattern = "(.*) [mu]s"
 prefix_path = f"{common.args.path}/tmp/results"
 pic_path = f"{prefix_path}/benchmark.svg"
 
@@ -20,6 +20,10 @@ if not os.path.exists(prefix_path):
   os.makedirs(prefix_path)
 
 for app in common.apps:
+  if app=="micro_bench_kernel_overhead":  # 暂时先跳过
+    continue
+  if app not in ["sssp", "2mm", "3mm", "simpleSpmv"]:
+    continue
   print(f"benchmarking {app}",end=' ',flush=True)
   commands = [f"{common.args.path}/bin/{app}",f"{common.args.path}/bin/INJECT_{app}"]
   modes = ["baseline","INJECT"]

@@ -178,9 +178,9 @@ __global__ void epi(const unsigned int *dev_data_zeros, const unsigned int *dev_
 
 int main(int argc, char **argv) {
   int i, j, x;
-  int num_pac = 4646;   // #samples
-  int num_snp = 31339;   // #SNPs
-  int iteration = 1; // #kernel run
+  int num_pac = 146 ;   // #samples 4646
+  int num_snp = 31339;   // #SNPs 31339
+  int iteration = 10; // #kernel run
   int block_snp = 64;
 
   srand(100);
@@ -310,17 +310,26 @@ int main(int argc, char **argv) {
 
   // epistasis detection kernel
 
-  auto kstart = myclock::now();
+  // auto kstart = myclock::now();
+  hipEvent_t start,stop;
+	hipEventCreate(&start);
+	hipEventCreate(&stop);
+	float eventMs = 1.0f;
+	hipEventRecord(start,NULL);
 
   for (int i = 0; i < iteration; i++) {
     epi<<<grid, block>>>(d_data_zeros, d_data_ones, d_scores, num_snp, PP_zeros, PP_ones, mask_zeros, mask_ones);
   }
 
-  HIP_CHECK(hipDeviceSynchronize());
-  myduration ktime = myclock::now() - kstart;
-  auto total_ktime = ktime.count();
+  hipEventRecord(stop, NULL);
+	hipEventSynchronize(stop);
+	hipEventElapsedTime(&eventMs,start,stop);
+	printf("kernel time (hipEventElapsedTime)=%6.3fms\n", eventMs);
+  // HIP_CHECK(hipDeviceSynchronize());
+  // myduration ktime = myclock::now() - kstart;
+  // auto total_ktime = ktime.count();
 
-  std::cout << total_ktime * 1000 / iteration << " ms" << std::endl;
+  // std::cout << total_ktime * 1000 / iteration << " ms" << std::endl;
 
   HIP_CHECK(hipMemcpy(scores, d_scores, sizeof(float) * num_snp * num_snp, hipMemcpyDeviceToHost));
 
@@ -347,5 +356,6 @@ int main(int argc, char **argv) {
   mem_free(SNP_Data);
   mem_free(SNP_Data_trans);
   mem_free(Ph_Data);
+  printf("%6.3f ms\n", eventMs);
   return 0;
 }

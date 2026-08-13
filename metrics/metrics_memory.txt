@@ -1,0 +1,1 @@
+pmc : GRBM_COUNT, TCP_TCP_TA_DATA_STALL_CYCLES_sum, L2CacheHit, MemUnitStalled, WriteUnitStalled, LDSBankConflict, MemUnitBusy, TCC_HIT_sum, TCC_MISS_sum

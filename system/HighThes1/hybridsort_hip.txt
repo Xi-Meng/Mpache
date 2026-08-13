@@ -1,0 +1,98 @@
+
+
+------------------------------ kernel_name: _Z13mergeSortPassPK15HIP_vector_typeIfLj4EEPS0_PKiiii ------------------------------
+baseline_profiling #####
+baseline_time: 15.884800
+read_input: ./system/group/hybridsort_hip/_Z13mergeSortPassPK15HIP_vector_typeIfLj4EEPS0_PKiiii.txt
+offline_profiling -----------
+%22_%32, mode: 0, baseline: 15.884800, time: 15.884000, offp: 0.005036, speedup: 1.000050
+%22_%32, mode: 1, baseline: 15.884800, time: 15.866000, offp: 0.118352, speedup: 1.001185
+%44, mode: 0, baseline: 15.884800, time: 15.954000, offp: -0.435637, speedup: 0.995663
+%44, mode: 1, baseline: 15.884800, time: 15.978000, offp: -0.586724, speedup: 0.994167
+%49_%52, mode: 0, baseline: 15.884800, time: 15.840000, offp: 0.282031, speedup: 1.002828
+%49_%52, mode: 1, baseline: 15.884800, time: 16.000000, offp: -0.725222, speedup: 0.992800
+%63_%65, mode: 0, baseline: 15.884800, time: 16.158000, offp: -1.719883, speedup: 0.983092
+%63_%65, mode: 1, baseline: 15.884800, time: 20.799000, offp: -30.936493, speedup: 0.763729
+%72, mode: 0, baseline: 15.884800, time: 16.404000, offp: -3.268533, speedup: 0.968349
+%72, mode: 1, baseline: 15.884800, time: 16.524000, offp: -4.023973, speedup: 0.961317
+%153, mode: 0, baseline: 15.884800, time: 15.203000, offp: 4.292154, speedup: 1.044846
+%153, mode: 1, baseline: 15.884800, time: 15.505000, offp: 2.390965, speedup: 1.024495
+%22, mode: 0, baseline: 15.884800, time: 15.902000, offp: -0.108280, speedup: 0.998918
+%22, mode: 1, baseline: 15.884800, time: 15.843000, offp: 0.263145, speedup: 1.002638
+%32, mode: 0, baseline: 15.884800, time: 15.874000, offp: 0.067990, speedup: 1.000680
+%32, mode: 1, baseline: 15.884800, time: 15.844000, offp: 0.256849, speedup: 1.002575
+%49, mode: 0, baseline: 15.884800, time: 15.905000, offp: -0.127166, speedup: 0.998730
+%49, mode: 1, baseline: 15.884800, time: 15.880000, offp: 0.030218, speedup: 1.000302
+%52, mode: 0, baseline: 15.884800, time: 15.803000, offp: 0.514958, speedup: 1.005176
+%52, mode: 1, baseline: 15.884800, time: 15.869000, offp: 0.099466, speedup: 1.000996
+%63, mode: 0, baseline: 15.884800, time: 15.959000, offp: -0.467113, speedup: 0.995351
+%63, mode: 1, baseline: 15.884800, time: 19.642000, offp: -23.652800, speedup: 0.808716
+%65, mode: 0, baseline: 15.884800, time: 15.978000, offp: -0.586724, speedup: 0.994167
+%65, mode: 1, baseline: 15.884800, time: 19.091000, offp: -20.184075, speedup: 0.832057
+HighThes1: 1.000000 -----------
+HighThes1:1.000000, 153, mode: 0,
+ baseline_time:15.884800, design_time:15.178000, offp: 4.449537, speedup: 1.046567
+------
+HighThes1: 1.100000 -----------
+HighThes1:1.100000, 153, mode: 0,
+ baseline_time:15.884800, design_time:15.210000, offp: 4.248086, speedup: 1.044366
+------
+HighThes1: 1.200000 -----------
+HighThes1:1.200000, 153, mode: 0,
+ baseline_time:15.884800, design_time:15.268000, offp: 3.882957, speedup: 1.040398
+------
+HighThes1: 1.300000 -----------
+HighThes1:1.300000, 153, mode: 0,
+ baseline_time:15.884800, design_time:15.410000, offp: 2.989021, speedup: 1.030811
+------
+HighThes1: 1.400000 -----------
+HighThes1:1.400000, 153, mode: 0,
+ baseline_time:15.884800, design_time:15.222000, offp: 4.172542, speedup: 1.043542
+------
+HighThes1: 1.500000 -----------
+HighThes1:1.500000, 153, mode: 0,
+ baseline_time:15.884800, design_time:15.322000, offp: 3.543010, speedup: 1.036731
+------
+HighThes1: 1.600000 -----------
+HighThes1:1.600000, 153, mode: 0,
+ baseline_time:15.884800, design_time:15.206000, offp: 4.273268, speedup: 1.044640
+------
+
+
+
+
+------------------------------ kernel_name: _Z12bucketprefixPjS_i ------------------------------
+baseline_profiling #####
+baseline_time: 1.786400
+read_input: ./system/group/hybridsort_hip/_Z12bucketprefixPjS_i.txt
+offline_profiling -----------
+%23, mode: 0, baseline: 1.786400, time: 1.743000, offp: 2.429467, speedup: 1.024900
+%23, mode: 1, baseline: 1.786400, time: 1.117000, offp: 37.472011, speedup: 1.599284
+HighThes1: 1.000000 -----------
+HighThes1:1.000000, 23, mode: 1,
+ baseline_time:1.786400, design_time:1.618000, offp: 9.426780, speedup: 1.104079
+------
+HighThes1: 1.100000 -----------
+HighThes1:1.100000, 23, mode: 1,
+ baseline_time:1.786400, design_time:1.604000, offp: 10.210479, speedup: 1.113716
+------
+HighThes1: 1.200000 -----------
+HighThes1:1.200000, 23, mode: 1,
+ baseline_time:1.786400, design_time:1.064000, offp: 40.438871, speedup: 1.678947
+------
+HighThes1: 1.300000 -----------
+HighThes1:1.300000, 23, mode: 1,
+ baseline_time:1.786400, design_time:1.051000, offp: 41.166592, speedup: 1.699715
+------
+HighThes1: 1.400000 -----------
+HighThes1:1.400000, 23, mode: 1,
+ baseline_time:1.786400, design_time:1.638000, offp: 8.307210, speedup: 1.090598
+------
+HighThes1: 1.500000 -----------
+HighThes1:1.500000, 23, mode: 1,
+ baseline_time:1.786400, design_time:1.097000, offp: 38.591581, speedup: 1.628441
+------
+HighThes1: 1.600000 -----------
+HighThes1:1.600000, 23, mode: 1,
+ baseline_time:1.786400, design_time:1.563000, offp: 12.505598, speedup: 1.142930
+------

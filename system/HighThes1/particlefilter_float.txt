@@ -1,0 +1,189 @@
+
+
+------------------------------ kernel_name: _Z24normalize_weights_kernelPdiS_S_S_Pi ------------------------------
+baseline_profiling #####
+baseline_time: 23.977000
+read_input: ./system/group/particlefilter_float/_Z24normalize_weights_kernelPdiS_S_S_Pi.txt
+offline_profiling -----------
+%17, mode: 0, baseline: 23.977000, time: 23.976000, offp: 0.004171, speedup: 1.000042
+%17, mode: 1, baseline: 23.977000, time: 21.939000, offp: 8.499812, speedup: 1.092894
+%23, mode: 0, baseline: 23.977000, time: 23.966000, offp: 0.045877, speedup: 1.000459
+%23, mode: 1, baseline: 23.977000, time: 23.650000, offp: 1.363807, speedup: 1.013827
+%29, mode: 0, baseline: 23.977000, time: 23.978000, offp: -0.004171, speedup: 0.999958
+%29, mode: 1, baseline: 23.977000, time: 23.978000, offp: -0.004171, speedup: 0.999958
+%39, mode: 0, baseline: 23.977000, time: 23.971000, offp: 0.025024, speedup: 1.000250
+%39, mode: 1, baseline: 23.977000, time: 68.777000, offp: -186.845727, speedup: 0.348619
+%35, mode: 0, baseline: 23.977000, time: 44.269000, offp: -84.631105, speedup: 0.541621
+%35, mode: 1, baseline: 23.977000, time: 80.500000, offp: -235.738416, speedup: 0.297851
+%47, mode: 0, baseline: 23.977000, time: 23.973000, offp: 0.016683, speedup: 1.000167
+%47, mode: 1, baseline: 23.977000, time: 23.970000, offp: 0.029195, speedup: 1.000292
+%57, mode: 0, baseline: 23.977000, time: 23.981000, offp: -0.016683, speedup: 0.999833
+%57, mode: 1, baseline: 23.977000, time: 23.984000, offp: -0.029195, speedup: 0.999708
+HighThes1: 1.000000 -----------
+algorithm2 -----------
+score of %17, mode is 0: 0.004171
+score of %17, mode is 1: 8.499812
+score of %23, mode is 0: 0.045877
+score of %23, mode is 1: 1.363807
+score of %29, mode is 0: -0.004171
+score of %29, mode is 1: -0.004171
+score of %39, mode is 0: 0.025024
+score of %39, mode is 1: -186.845727
+score of %35, mode is 0: -84.631105
+score of %35, mode is 1: -235.738416
+score of %47, mode is 0: 0.016683
+score of %47, mode is 1: 0.029195
+score of %57, mode is 0: -0.016683
+score of %57, mode is 1: -0.029195
+store bypass policy -----------
+store_group, mode: 0, baseline_time:23.977000, store_time:23.977000, offp: 0.000000, speedup: 1.000000
+store_group, mode: 1, baseline_time:23.977000, store_time:85.360000, offp: -256.007841, speedup: 0.280893
+storebypass: false, storemode: 0
+------
+HighThes1:1.000000, 17_23, mode: 1_1,
+ baseline_time:23.977000, design_time:21.930000, offp: 8.537348, speedup: 1.093342
+------
+HighThes1: 1.100000 -----------
+algorithm2 -----------
+score of %17, mode is 0: 0.004171
+score of %17, mode is 1: 8.499812
+score of %23, mode is 0: 0.045877
+score of %23, mode is 1: 1.363807
+score of %29, mode is 0: -0.004171
+score of %29, mode is 1: -0.004171
+score of %39, mode is 0: 0.025024
+score of %39, mode is 1: -186.845727
+score of %35, mode is 0: -84.631105
+score of %35, mode is 1: -235.738416
+score of %47, mode is 0: 0.016683
+score of %47, mode is 1: 0.029195
+score of %57, mode is 0: -0.016683
+score of %57, mode is 1: -0.029195
+store bypass policy -----------
+store_group, mode: 0, baseline_time:23.977000, store_time:23.987000, offp: -0.041707, speedup: 0.999583
+store_group, mode: 1, baseline_time:23.977000, store_time:85.385000, offp: -256.112107, speedup: 0.280810
+storebypass: false, storemode: 0
+------
+HighThes1:1.100000, 17_23, mode: 1_1,
+ baseline_time:23.977000, design_time:21.927000, offp: 8.549860, speedup: 1.093492
+------
+HighThes1: 1.200000 -----------
+algorithm2 -----------
+score of %17, mode is 0: 0.004171
+score of %17, mode is 1: 8.499812
+score of %23, mode is 0: 0.045877
+score of %23, mode is 1: 1.363807
+score of %29, mode is 0: -0.004171
+score of %29, mode is 1: -0.004171
+score of %39, mode is 0: 0.025024
+score of %39, mode is 1: -186.845727
+score of %35, mode is 0: -84.631105
+score of %35, mode is 1: -235.738416
+score of %47, mode is 0: 0.016683
+score of %47, mode is 1: 0.029195
+score of %57, mode is 0: -0.016683
+score of %57, mode is 1: -0.029195
+store bypass policy -----------
+store_group, mode: 0, baseline_time:23.977000, store_time:23.985000, offp: -0.033365, speedup: 0.999666
+store_group, mode: 1, baseline_time:23.977000, store_time:85.385000, offp: -256.112107, speedup: 0.280810
+storebypass: false, storemode: 0
+------
+HighThes1:1.200000, 17_23, mode: 1_1,
+ baseline_time:23.977000, design_time:21.936000, offp: 8.512324, speedup: 1.093043
+------
+HighThes1: 1.300000 -----------
+algorithm2 -----------
+score of %17, mode is 0: 0.004171
+score of %17, mode is 1: 8.499812
+score of %23, mode is 0: 0.045877
+score of %23, mode is 1: 1.363807
+score of %29, mode is 0: -0.004171
+score of %29, mode is 1: -0.004171
+score of %39, mode is 0: 0.025024
+score of %39, mode is 1: -186.845727
+score of %35, mode is 0: -84.631105
+score of %35, mode is 1: -235.738416
+score of %47, mode is 0: 0.016683
+score of %47, mode is 1: 0.029195
+score of %57, mode is 0: -0.016683
+score of %57, mode is 1: -0.029195
+store bypass policy -----------
+store_group, mode: 0, baseline_time:23.977000, store_time:23.987000, offp: -0.041707, speedup: 0.999583
+store_group, mode: 1, baseline_time:23.977000, store_time:85.394000, offp: -256.149643, speedup: 0.280781
+storebypass: false, storemode: 0
+------
+HighThes1:1.300000, 17_23, mode: 1_1,
+ baseline_time:23.977000, design_time:21.944000, offp: 8.478959, speedup: 1.092645
+------
+HighThes1: 1.400000 -----------
+algorithm2 -----------
+score of %17, mode is 0: 0.004171
+score of %17, mode is 1: 8.499812
+score of %23, mode is 0: 0.045877
+score of %23, mode is 1: 1.363807
+score of %29, mode is 0: -0.004171
+score of %29, mode is 1: -0.004171
+score of %39, mode is 0: 0.025024
+score of %39, mode is 1: -186.845727
+score of %35, mode is 0: -84.631105
+score of %35, mode is 1: -235.738416
+score of %47, mode is 0: 0.016683
+score of %47, mode is 1: 0.029195
+score of %57, mode is 0: -0.016683
+score of %57, mode is 1: -0.029195
+store bypass policy -----------
+store_group, mode: 0, baseline_time:23.977000, store_time:23.985000, offp: -0.033365, speedup: 0.999666
+store_group, mode: 1, baseline_time:23.977000, store_time:85.381000, offp: -256.095425, speedup: 0.280824
+storebypass: false, storemode: 0
+------
+HighThes1:1.400000, 17_23, mode: 1_1,
+ baseline_time:23.977000, design_time:21.944000, offp: 8.478959, speedup: 1.092645
+------
+HighThes1: 1.500000 -----------
+algorithm2 -----------
+score of %17, mode is 0: 0.004171
+score of %17, mode is 1: 8.499812
+score of %23, mode is 0: 0.045877
+score of %23, mode is 1: 1.363807
+score of %29, mode is 0: -0.004171
+score of %29, mode is 1: -0.004171
+score of %39, mode is 0: 0.025024
+score of %39, mode is 1: -186.845727
+score of %35, mode is 0: -84.631105
+score of %35, mode is 1: -235.738416
+score of %47, mode is 0: 0.016683
+score of %47, mode is 1: 0.029195
+score of %57, mode is 0: -0.016683
+score of %57, mode is 1: -0.029195
+store bypass policy -----------
+store_group, mode: 0, baseline_time:23.977000, store_time:23.993000, offp: -0.066731, speedup: 0.999333
+store_group, mode: 1, baseline_time:23.977000, store_time:85.408000, offp: -256.208033, speedup: 0.280735
+storebypass: false, storemode: 0
+------
+HighThes1:1.500000, 17_23, mode: 1_1,
+ baseline_time:23.977000, design_time:21.942000, offp: 8.487300, speedup: 1.092745
+------
+HighThes1: 1.600000 -----------
+algorithm2 -----------
+score of %17, mode is 0: 0.004171
+score of %17, mode is 1: 8.499812
+score of %23, mode is 0: 0.045877
+score of %23, mode is 1: 1.363807
+score of %29, mode is 0: -0.004171
+score of %29, mode is 1: -0.004171
+score of %39, mode is 0: 0.025024
+score of %39, mode is 1: -186.845727
+score of %35, mode is 0: -84.631105
+score of %35, mode is 1: -235.738416
+score of %47, mode is 0: 0.016683
+score of %47, mode is 1: 0.029195
+score of %57, mode is 0: -0.016683
+score of %57, mode is 1: -0.029195
+store bypass policy -----------
+store_group, mode: 0, baseline_time:23.977000, store_time:23.989000, offp: -0.050048, speedup: 0.999500
+store_group, mode: 1, baseline_time:23.977000, store_time:85.393000, offp: -256.145473, speedup: 0.280784
+storebypass: false, storemode: 0
+------
+HighThes1:1.600000, 17_23, mode: 1_1,
+ baseline_time:23.977000, design_time:21.952000, offp: 8.445594, speedup: 1.092247
+------

@@ -1,0 +1,53 @@
+
+
+------------------------------ kernel_name: _Z14IDCT8x8_kernelPfPKfjjj ------------------------------
+baseline_profiling #####
+baseline_time: 38.511400
+read_input: ./system/group/dct8x8_hip_inverse/_Z14IDCT8x8_kernelPfPKfjjj.txt
+offline_profiling -----------
+%34_%37_%42_%47_%52_%57_%62_%67, mode: 0, baseline: 38.511400, time: 38.615000, offp: -0.269011, speedup: 0.997317
+%34_%37_%42_%47_%52_%57_%62_%67, mode: 1, baseline: 38.511400, time: 35.376000, offp: 8.141485, speedup: 1.088631
+%34, mode: 0, baseline: 38.511400, time: 38.409000, offp: 0.265895, speedup: 1.002666
+%34, mode: 1, baseline: 38.511400, time: 37.680000, offp: 2.158841, speedup: 1.022065
+%37, mode: 0, baseline: 38.511400, time: 38.354000, offp: 0.408710, speedup: 1.004104
+%37, mode: 1, baseline: 38.511400, time: 37.487000, offp: 2.659992, speedup: 1.027327
+%42, mode: 0, baseline: 38.511400, time: 38.343000, offp: 0.437273, speedup: 1.004392
+%42, mode: 1, baseline: 38.511400, time: 37.198000, offp: 3.410419, speedup: 1.035308
+%47, mode: 0, baseline: 38.511400, time: 38.382000, offp: 0.336004, speedup: 1.003371
+%47, mode: 1, baseline: 38.511400, time: 37.361000, offp: 2.987167, speedup: 1.030791
+%52, mode: 0, baseline: 38.511400, time: 38.543000, offp: -0.082054, speedup: 0.999180
+%52, mode: 1, baseline: 38.511400, time: 37.319000, offp: 3.096226, speedup: 1.031952
+%57, mode: 0, baseline: 38.511400, time: 38.404000, offp: 0.278878, speedup: 1.002797
+%57, mode: 1, baseline: 38.511400, time: 37.322000, offp: 3.088436, speedup: 1.031869
+%62, mode: 0, baseline: 38.511400, time: 38.342000, offp: 0.439870, speedup: 1.004418
+%62, mode: 1, baseline: 38.511400, time: 37.549000, offp: 2.499000, speedup: 1.025631
+%67, mode: 0, baseline: 38.511400, time: 38.350000, offp: 0.419097, speedup: 1.004209
+%67, mode: 1, baseline: 38.511400, time: 37.849000, offp: 1.720010, speedup: 1.017501
+HighThes1: 1.000000 -----------
+HighThes1:1.000000, 37_42_47_52_57_62, mode: 1_1_1_1_1_1,
+ baseline_time:38.511400, design_time:34.645000, offp: 10.039625, speedup: 1.111601
+------
+HighThes1: 1.100000 -----------
+HighThes1:1.100000, 37_42_47_52_57_62, mode: 1_1_1_1_1_1,
+ baseline_time:38.511400, design_time:34.644000, offp: 10.042221, speedup: 1.111633
+------
+HighThes1: 1.200000 -----------
+HighThes1:1.200000, 37_42_47_52_57_62, mode: 1_1_1_1_1_1,
+ baseline_time:38.511400, design_time:34.632000, offp: 10.073381, speedup: 1.112018
+------
+HighThes1: 1.300000 -----------
+HighThes1:1.300000, 37_42_47_52_57_62, mode: 1_1_1_1_1_1,
+ baseline_time:38.511400, design_time:34.765000, offp: 9.728029, speedup: 1.107764
+------
+HighThes1: 1.400000 -----------
+HighThes1:1.400000, 37_42_47_52_57_62, mode: 1_1_1_1_1_1,
+ baseline_time:38.511400, design_time:34.648000, offp: 10.031835, speedup: 1.111504
+------
+HighThes1: 1.500000 -----------
+HighThes1:1.500000, 37_42_47_52_57_62, mode: 1_1_1_1_1_1,
+ baseline_time:38.511400, design_time:34.677000, offp: 9.956532, speedup: 1.110575
+------
+HighThes1: 1.600000 -----------
+HighThes1:1.600000, 37_42_47_52_57_62, mode: 1_1_1_1_1_1,
+ baseline_time:38.511400, design_time:34.664000, offp: 9.990289, speedup: 1.110991
+------

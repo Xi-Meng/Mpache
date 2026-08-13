@@ -1,0 +1,46 @@
+
+
+------------------------------ kernel_name: _Z8spmv_jdsPfPKfPKiS3_S1_S3_i ------------------------------
+read_input: ./system/group/spmv_my/_Z8spmv_jdsPfPKfPKiS3_S1_S3_i.txt
+baseline_profiling #####
+baseline_time: 4.499000
+------------------- mode: VOLATILE ------------------
+offline_profiling #######
+%31: 4.689931
+%28: 5.912425
+%26: 4.489887
+%38: 4.645477
+%50: 4.889976
+%47: 4.400978
+%74: -1.444766
+%66: -53.034008
+%61: -36.519226
+%84: 4.912203
+algorithm2 #####
+combi_g of %31: 0.000000
+score of %31: 4.689931
+combi_g of %28: 0.000000
+score of %28: 5.912425
+combi_g of %26: 0.000000
+score of %26: 4.489887
+combi_g of %38: 0.000000
+score of %38: 4.645477
+combi_g of %50: 0.000000
+score of %50: 4.889976
+combi_g of %47: 0.000000
+score of %47: 4.400978
+combi_g of %74: 0.000000
+score of %74: -1.444766
+combi_g of %66: 0.000000
+score of %66: -53.034008
+combi_g of %61: 0.000000
+score of %61: -36.519226
+combi_g of %84: 0.000000
+score of %84: 4.912203
+mode is VOLATILE
+policy is %31_%28_%26_%38_%50_%47_%84, total score is 33.940876
+------------------- mode: VOLATILE ------------------
+------------------- answer------------------
+ VOLATILE 
+%31_%28_%26_%38_%50_%47_%84, store_bypass is 0:
+ baseline_time:4.499000 , time:4.356000, real improve:3.178484, speedup: 1.032828 

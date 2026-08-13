@@ -112,8 +112,8 @@ int main(int argc, char *argv[]) {
   // Get number of nodes and iterations from the command line, if provided.
   // const unsigned int nodes = parser.get<unsigned int>("n");
   // const unsigned int iterations = parser.get<unsigned int>("i");
-  const unsigned int nodes = 512;
-  const unsigned int iterations = 1;
+  const unsigned int nodes = 1024;
+  const unsigned int iterations = 10;
 
   // Check values provided.
   if (nodes % block_size) {
@@ -133,6 +133,9 @@ int main(int argc, char *argv[]) {
   // Number of threads in each kernel block and number of blocks in the grid.
   const dim3 block_dim(block_size, block_size);
   const dim3 grid_dim(nodes / block_size, nodes / block_size);
+  
+  printf("grid.x:%d, grid.y:%d, grid.z:%d\n", grid_dim.x, grid_dim.y, grid_dim.z);
+  printf("block.x:%d, block.y:%d, block.z:%d\n", block_dim.x, block_dim.y, block_dim.z);
 
   // Allocate host input adjacency matrix initialized with the increasing sequence 1,2,3,... .
   // Overwrite diagonal values (distance from a node to itself) to 0.
@@ -176,6 +179,7 @@ int main(int argc, char *argv[]) {
   HIP_CHECK(hipHostGetDevicePointer((void **)&d_adjacency_matrix, part_adjacency_matrix, 0 /*flags*/));
   HIP_CHECK(hipHostGetDevicePointer((void **)&d_next_matrix, part_next_matrix, 0 /*flags*/));
 
+  float eventMs = 1.0f;
   // Run iterations times the Floyd-Warshall GPU algorithm.
   for (unsigned int i = 0; i < iterations; ++i) {
     // Copy input data from host to device memory.
@@ -183,10 +187,15 @@ int main(int argc, char *argv[]) {
     HIP_CHECK(hipMemcpy(d_next_matrix, next_matrix.data(), size_bytes, hipMemcpyHostToDevice));
 
     // Create events to measure the execution time of the kernels.
-    hipEvent_t start, stop;
-    HIP_CHECK(hipEventCreate(&start));
-    HIP_CHECK(hipEventCreate(&stop));
-    float kernel_ms{};
+    // hipEvent_t start, stop;
+    // HIP_CHECK(hipEventCreate(&start));
+    // HIP_CHECK(hipEventCreate(&stop));
+    // float kernel_ms{};
+    hipEvent_t start,stop;
+    hipEventCreate(&start);
+    hipEventCreate(&stop);
+    // float eventMs = 1.0f;
+    hipEventRecord(start,NULL);
 
     // Floyd-Warshall GPU algorithm: launch Floyd-Warshall kernel for each node of the graph.
     for (unsigned int k = 0; k < nodes; ++k) {
@@ -196,18 +205,25 @@ int main(int argc, char *argv[]) {
       // Launch Floyd-Warshall kernel on the default stream.
       floyd_warshall_kernel<<<grid_dim, block_dim, 0, hipStreamDefault>>>(part_adjacency_matrix, part_next_matrix,
                                                                           nodes, k);
-
-      // Check if the kernel launch was successful.
-      HIP_CHECK(hipGetLastError());
-
-      // Record the stop event and wait until the kernel execution finishes.
-      HIP_CHECK(hipEventRecord(stop, hipStreamDefault));
-      HIP_CHECK(hipEventSynchronize(stop));
-
-      // Get the execution time of the kernel and add it to the total count.
-      HIP_CHECK(hipEventElapsedTime(&kernel_ms, start, stop));
-      kernel_time += kernel_ms;
     }
+
+    hipEventRecord(stop, NULL);
+    hipEventSynchronize(stop);
+    hipEventElapsedTime(&eventMs,start,stop);
+    // printf("kernel time (hipEventElapsedTime)=%6.3fms\n", eventMs);
+
+
+  // // Check if the kernel launch was successful.
+  //   HIP_CHECK(hipGetLastError());
+
+  //   // Record the stop event and wait until the kernel execution finishes.
+  //   HIP_CHECK(hipEventRecord(stop, hipStreamDefault));
+  //   HIP_CHECK(hipEventSynchronize(stop));
+
+  //   // Get the execution time of the kernel and add it to the total count.
+  //   HIP_CHECK(hipEventElapsedTime(&kernel_ms, start, stop));
+  //   kernel_time += kernel_ms;
+
   }
 
   // Copy results back to host.
@@ -217,13 +233,13 @@ int main(int argc, char *argv[]) {
   // Free device memory.
   HIP_CHECK(hipHostFree(part_adjacency_matrix));
   HIP_CHECK(hipHostFree(part_next_matrix));
-
+  printf("%6.3f ms\n", eventMs);
   // Print the mean time per iteration (in miliseconds) of the algorithm.
-  kernel_time /= iterations;
-  std::cout << kernel_time << " ms" << std::endl;
+  // kernel_time /= iterations;
+  // std::cout << kernel_time << " ms" << std::endl;
 
   // Execute CPU algorithm.
-  floyd_warshall_reference(expected_adjacency_matrix.data(), expected_next_matrix.data(), nodes);
+  // floyd_warshall_reference(expected_adjacency_matrix.data(), expected_next_matrix.data(), nodes);
 
   // Verify results.
   // unsigned int errors = 0;

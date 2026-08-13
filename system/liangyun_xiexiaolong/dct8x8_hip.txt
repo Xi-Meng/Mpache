@@ -1,0 +1,34 @@
+
+
+------------------------------ kernel_name: _Z13DCT8x8_kernelPfPKfjjj ------------------------------
+read_input: ./system/group/dct8x8_hip/_Z13DCT8x8_kernelPfPKfjjj.txt
+baseline_profiling #####
+baseline_time: 40.499000
+------------------- mode: VOLATILE ------------------
+offline_profiling #######
+%34_%37_%42_%47_%52_%57_%62_%67: 9.121213
+%34: 3.318600
+%37: 4.696412
+%42: 4.212450
+%47: 3.921084
+%52: 4.958147
+%57: 5.348280
+%62: 3.876639
+%67: 2.898837
+algorithm2 #####
+combi_g of %34_%37_%42_%47_%52_%57_%62_%67: -24.109237
+score of %34: 0.304946
+score of %37: 1.682758
+score of %42: 1.198795
+score of %47: 0.907430
+score of %52: 1.944492
+score of %57: 2.334626
+score of %62: 0.862984
+score of %67: -0.114818
+mode is VOLATILE
+policy is %37_%42_%47_%52_%57_%62, total score is 8.931085
+------------------- mode: VOLATILE ------------------
+------------------- answer------------------
+ VOLATILE 
+%37_%42_%47_%52_%57_%62, store_bypass is 0:
+ baseline_time:39.7682 , time:36.543000, real improve:9.768142, speedup: 1.088257669 

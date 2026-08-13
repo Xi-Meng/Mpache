@@ -1,0 +1,61 @@
+
+
+------------------------------ kernel_name: performStreamCollide_kernel ------------------------------
+baseline_profiling #####
+baseline_time: 125.587200
+read_input: ./system/group/lbm_main/performStreamCollide_kernel.txt
+offline_profiling -----------
+%12_%16_%20_%24_%28_%32_%36_%40_%44_%48_%52_%56_%60_%64_%68_%72_%76_%80_%84_%88, mode: 0, baseline: 125.587200, time: 133.022000, offp: -5.920030, speedup: 0.944108
+%12_%16_%20_%24_%28_%32_%36_%40_%44_%48_%52_%56_%60_%64_%68_%72_%76_%80_%84_%88, mode: 1, baseline: 125.587200, time: 114.295000, offp: 8.991521, speedup: 1.098799
+%12, mode: 0, baseline: 125.587200, time: 125.461000, offp: 0.100488, speedup: 1.001006
+%12, mode: 1, baseline: 125.587200, time: 125.689000, offp: -0.081059, speedup: 0.999190
+%16, mode: 0, baseline: 125.587200, time: 125.488000, offp: 0.078989, speedup: 1.000791
+%16, mode: 1, baseline: 125.587200, time: 126.154000, offp: -0.451320, speedup: 0.995507
+%20, mode: 0, baseline: 125.587200, time: 125.756000, offp: -0.134409, speedup: 0.998658
+%20, mode: 1, baseline: 125.587200, time: 126.518000, offp: -0.741158, speedup: 0.992643
+%24, mode: 0, baseline: 125.587200, time: 125.648000, offp: -0.048413, speedup: 0.999516
+%24, mode: 1, baseline: 125.587200, time: 127.049000, offp: -1.163972, speedup: 0.988494
+%28, mode: 0, baseline: 125.587200, time: 125.893000, offp: -0.243496, speedup: 0.997571
+%28, mode: 1, baseline: 125.587200, time: 127.157000, offp: -1.249968, speedup: 0.987655
+%32, mode: 0, baseline: 125.587200, time: 125.606000, offp: -0.014970, speedup: 0.999850
+%32, mode: 1, baseline: 125.587200, time: 127.021000, offp: -1.141677, speedup: 0.988712
+%36, mode: 0, baseline: 125.587200, time: 125.532000, offp: 0.043954, speedup: 1.000440
+%36, mode: 1, baseline: 125.587200, time: 126.936000, offp: -1.073995, speedup: 0.989374
+%40, mode: 0, baseline: 125.587200, time: 125.196000, offp: 0.311497, speedup: 1.003125
+%40, mode: 1, baseline: 125.587200, time: 127.675000, offp: -1.662431, speedup: 0.983648
+%44, mode: 0, baseline: 125.587200, time: 125.452000, offp: 0.107654, speedup: 1.001078
+%44, mode: 1, baseline: 125.587200, time: 135.593000, offp: -7.967213, speedup: 0.926207
+%48, mode: 0, baseline: 125.587200, time: 125.684000, offp: -0.077078, speedup: 0.999230
+%48, mode: 1, baseline: 125.587200, time: 126.923000, offp: -1.063643, speedup: 0.989476
+%52, mode: 0, baseline: 125.587200, time: 125.324000, offp: 0.209575, speedup: 1.002100
+%52, mode: 1, baseline: 125.587200, time: 126.630000, offp: -0.830339, speedup: 0.991765
+%56, mode: 0, baseline: 125.587200, time: 126.050000, offp: -0.368509, speedup: 0.996328
+%56, mode: 1, baseline: 125.587200, time: 126.566000, offp: -0.779379, speedup: 0.992266
+%60, mode: 0, baseline: 125.587200, time: 125.834000, offp: -0.196517, speedup: 0.998039
+%60, mode: 1, baseline: 125.587200, time: 126.775000, offp: -0.945797, speedup: 0.990631
+%64, mode: 0, baseline: 125.587200, time: 125.801000, offp: -0.170240, speedup: 0.998300
+%64, mode: 1, baseline: 125.587200, time: 126.497000, offp: -0.724437, speedup: 0.992808
+%68, mode: 0, baseline: 125.587200, time: 125.570000, offp: 0.013696, speedup: 1.000137
+%68, mode: 1, baseline: 125.587200, time: 126.258000, offp: -0.534131, speedup: 0.994687
+%72, mode: 0, baseline: 125.587200, time: 126.049000, offp: -0.367713, speedup: 0.996336
+%72, mode: 1, baseline: 125.587200, time: 126.450000, offp: -0.687013, speedup: 0.993177
+%76, mode: 0, baseline: 125.587200, time: 125.492000, offp: 0.075804, speedup: 1.000759
+%76, mode: 1, baseline: 125.587200, time: 126.532000, offp: -0.752306, speedup: 0.992533
+%80, mode: 0, baseline: 125.587200, time: 125.769000, offp: -0.144760, speedup: 0.998554
+%80, mode: 1, baseline: 125.587200, time: 125.856000, offp: -0.214035, speedup: 0.997864
+%84, mode: 0, baseline: 125.587200, time: 125.683000, offp: -0.076282, speedup: 0.999238
+%84, mode: 1, baseline: 125.587200, time: 125.848000, offp: -0.207664, speedup: 0.997928
+%88, mode: 0, baseline: 125.587200, time: 125.791000, offp: -0.162278, speedup: 0.998380
+%88, mode: 1, baseline: 125.587200, time: 132.550000, offp: -5.544196, speedup: 0.947470
+algorithm2 -----------
+%12_%16_%20_%24_%28_%32_%36_%40_%44_%48_%52_%56_%60_%64_%68_%72_%76_%80_%84_%88, mode: 0, combi_g: -4.857024
+%12_%16_%20_%24_%28_%32_%36_%40_%44_%48_%52_%56_%60_%64_%68_%72_%76_%80_%84_%88, mode: 1, combi_g: 36.807254
+%12_%16_%20_%24_%28_%32_%36_%40_%44_%48_%52_%56_%60_%64_%68_%72_%76_%80_%84_%88, mode is 1: combi: 36.807254 is chose----
+store bypass policy -----------
+store_group, mode: 0, baseline_time:125.587200, store_time:131.242000, offp: -4.502688, speedup: 0.956913
+store_group, mode: 1, baseline_time:125.587200, store_time:118.656000, offp: 5.519034, speedup: 1.058414
+storebypass: true, storemode: 1
+------
+12_16_20_24_28_32_36_40_44_48_52_56_60_64_68_72_76_80_84_88, mode: 1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,
+ baseline_time:125.587200, design_time: 114.295000, offp: 8.991521, speedup: 1.098799
+------
